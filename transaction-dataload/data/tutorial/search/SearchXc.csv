@@ -1,0 +1,3 @@
+SearchXc,,,,
+StoreIdentifier,InterfaceName,ClassName,Properties,Delete
+thebikeshop,/productview/bySearchTerm/post,/commerceue/extension/search/productview/postBySearchTerm,"field:name,shortDescription,x_field5_sm",0

@@ -1,0 +1,4 @@
+CatalogEntry,storeIdentifier=thebikeshopCAS,catalogIdentifier=thebikeshopCAS,,,,,,,,,,,,,
+PartNumber,Type,ParentPartNumber,Sequence,ParentGroupIdentifier,CurrencyCode,ListPrice,Price,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Buyable,Published,Delete
+RedGiftWrap,Product,,1,Apparel,USD,0,0,red gift wrap,Red gift wrap,Red gift wrap for wrapping the product,images/catalog/giftwrapper/200x310/redGiftWrap200x310.jpg,images/catalog/giftwrapper/646x1000/redGiftWrap646x1000.jpg,1,1,0
+RedGiftWrap_SKU,Item,RedGiftWrap,1,Apparel,USD,0,0,red gift wrap,Red gift wrap,Red gift wrap for wrapping the product,images/catalog/giftwrapper/200x310/redGiftWrap200x310.jpg,images/catalog/giftwrapper/646x1000/redGiftWrap646x1000.jpg,1,1,0

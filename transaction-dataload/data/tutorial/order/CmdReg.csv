@@ -1,0 +1,6 @@
+CmdReg
+StoreIdentifier,InterfaceName,ClassName,Properties
+thebikeshop,com.ibm.commerce.orderitems.commands.OrderItemAddCmd,com.ibm.commerce.orderitems.commands.OrderItemAddCmdImpl,"postUEConfigId=1&restTarget=true&postExecute=true&retriable=1"
+thebikeshop,com.ibm.commerce.orderitems.commands.OrderItemUpdateCmd,com.ibm.commerce.orderitems.commands.OrderItemUpdateCmdImpl,"postUEConfigId=1&restTarget=true&postExecute=true&retriable=1"
+
+

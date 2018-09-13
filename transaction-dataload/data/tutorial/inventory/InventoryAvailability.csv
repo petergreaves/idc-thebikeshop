@@ -1,0 +1,3 @@
+DOMInventory,,,,,,,,,,
+PartNumber,OnlineStoreIdentifier,PhysicalStoreIdentifier,InventoryStatus,AvailableQuantity,AvailableQuantityUOM,AvailabilityTime,AvailabilityOffset,LastUpdate,ContextStoreIdentifier,Delete
+RedGiftWrap_SKU,,,AVL,1400,C62,,,,,

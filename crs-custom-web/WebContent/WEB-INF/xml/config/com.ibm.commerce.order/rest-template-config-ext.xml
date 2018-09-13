@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ================================================================= Licensed 
+	Materials - Property of IBM IBM Digital Commerce © Copyright IBM Corp. 2017 
+	US Government Users Restricted Rights - Use, duplication or disclosure restricted 
+	by GSA ADP Schedule Contract with IBM Corp. ================================================================= -->
+
+<_config:rest-action-config
+	xmlns:_config="http://www.ibm.com/xmlns/prod/commerce/foundation/config"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/xmlns/prod/commerce/foundation/config ../../xsd/rest-action-config.xsd ">
+	<resource
+		path="{serverHost}/{contextPath}/store/{storeId}/cart"
+		name="orderlist">
+
+		<method name="addOrderItem" httpMethod="POST" path="">
+			<template>
+        <![CDATA[{
+          "authToken" : "$authToken",
+          "orderId" : "$orderId",
+          "orderItem" : [
+            {
+              "comment" : "$comment",
+              "productId" : "$catEntryId",
+              "partNumber" : "$partNumber",
+              "quantity" : "$quantity",
+              "UOM" : "$UOM",
+              "contractId" : "$contractId",
+              "calculationUsage" : "$calculationUsage",
+              "fulfillmentCenterId" : "$fulfillmentCenterId",
+              "fulfillmentCenterName" : "$fulfillmentCenterName",
+              "xitem_field1" : "$xitem_field1",
+              "xitem_field2" : "$xitem_field2",
+              "orderItemExtendAttribute": [
+                {
+                "attributeName" : "$attributeName",
+                "attributeValue" : "$attributeValue",
+                "attributeType" : "$attributeType"
+                }
+              ]
+            }
+          ],
+          "orderExtendAttribute": [
+            {
+              "attributeName" : "$attributeName_ord",
+              "attributeValue" : "$attributeValue_ord",
+              "attributeType" : "$attributeType_ord"
+            }
+          ],
+          "x_calculationUsage" : "$calculationUsage",
+          "x_calculateOrder" : "$calculateOrder",
+          "x_inventoryValidation" : "$inventoryValidation",
+          "x_remerge" : "$remerge",
+          "x_merge" : "$merge",
+          "x_check" : "$check",
+          "x_allocate" : "$allocate",
+          "x_backorder" : "$backorder",
+          "x_reverse" : "$reverse",
+          "orderDescription" : "$orderDescription",
+          "orderComment" : "$orderComment",
+          "shipAsComplete" : "$shipAsComplete",
+          "x_listId" : "$listId",
+          "x_continue" : "$continue",
+          "x_orderField1" : "$orderField1",
+          "x_orderField2" : "$orderField2",
+          "x_orderField3" : "$orderField3"
+	      }]]>
+			</template>
+		</method>
+
+	</resource>
+</_config:rest-action-config>

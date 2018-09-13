@@ -1,0 +1,3 @@
+UEConfig
+UEConfigId,Description,HttpMethod,Url,RequestHandler,ResponseHandler,Properties,Retriable,Timeout,FilterId
+1,"validate giftwrap Extension",POST,"/custom/order/synch_gift_wrapper","com.ibm.commerce.order.ue.OrderRequestHandler","com.ibm.commerce.order.ue.OrderResponseHandler","Content-Type=application/json",1,6000,

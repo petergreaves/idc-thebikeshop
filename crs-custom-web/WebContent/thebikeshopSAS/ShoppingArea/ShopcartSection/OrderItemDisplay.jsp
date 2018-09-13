@@ -21,55 +21,78 @@
   * that has a quick checkout profile saved with the store.
   *****
 --%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ taglib uri="http://commerce.ibm.com/base" prefix="wcbase" %>
-<%@ taglib uri="http://commerce.ibm.com/foundation" prefix="wcf" %>
-<%@ taglib uri="flow.tld" prefix="flow" %>
-<%@ taglib uri="http://commerce.ibm.com/coremetrics"  prefix="cm" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://commerce.ibm.com/base" prefix="wcbase"%>
+<%@ taglib uri="http://commerce.ibm.com/foundation" prefix="wcf"%>
+<%@ taglib uri="flow.tld" prefix="flow"%>
+<%@ taglib uri="http://commerce.ibm.com/coremetrics" prefix="cm"%>
 <%@ include file="../../Common/EnvironmentSetup.jspf"%>
 <%@ include file="../../Common/nocache.jspf"%>
 <%-- ErrorMessageSetup.jspf is used to retrieve an appropriate error message when there is an error --%>
-<%@ include file="../../include/ErrorMessageSetup.jspf" %>
+<%@ include file="../../include/ErrorMessageSetup.jspf"%>
 
-<c:set var="pageCategory" value="Checkout" scope="request"/>
+<c:set var="pageCategory" value="Checkout" scope="request" />
 <flow:ifEnabled feature="RequisitionList">
 	<wcf:url var="RequisitionListViewURL" value="AjaxLogonForm">
-		<wcf:param name="page" value="createrequisitionlist"/>
-		<wcf:param name="langId" value="${langId}"/>
-		<wcf:param name="storeId" value="${WCParam.storeId}"/>
-		<wcf:param name="catalogId" value="${WCParam.catalogId}"/>
+		<wcf:param name="page" value="createrequisitionlist" />
+		<wcf:param name="langId" value="${langId}" />
+		<wcf:param name="storeId" value="${WCParam.storeId}" />
+		<wcf:param name="catalogId" value="${WCParam.catalogId}" />
 	</wcf:url>
 </flow:ifEnabled>
 
-<c:set var="isBOPISEnabled" value="false"/>
+<c:set var="isBOPISEnabled" value="false" />
 <%-- Check if store locator feature is enabled. --%>
 <flow:ifEnabled feature="BOPIS">
-	<c:set var="isBOPISEnabled" value="true"/>
+	<c:set var="isBOPISEnabled" value="true" />
 </flow:ifEnabled>
 
 <!-- BEGIN OrderItemDisplay.jsp -->
-<html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="${shortLocale}" xml:lang="${shortLocale}">
-	<head>
-		<%@ include file="../../Common/CommonCSSToInclude.jspf"%>
+<html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#"
+	xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="${shortLocale}"
+	xml:lang="${shortLocale}">
 
-		<%-- Tealeaf should be set up before coremetrics inside CommonJSToInclude.jspf --%>
-		<script type="text/javascript" src="${jsAssetsDir}javascript/Tealeaf/tealeafWC.js"></script>
-		<c:if test="${env_Tealeaf eq 'true' && env_inPreview != 'true'}">
-			<script type="text/javascript" src="${jsAssetsDir}javascript/Tealeaf/tealeaf.js"></script>
-		</c:if>
 
-		<%@ include file="../../Common/CommonJSToInclude.jspf"%>
-		<title><fmt:message bundle="${storeText}" key="SHOPPINGCART_TITLE"/></title>
+<head>
 
-		<script type="text/javascript">
+<script type="text/javascript">
+function sendOrderItemAddPost(orderId,orderItemId,quantity,giftwrapCantentryId ) 
+  {
+    var params = [];
+    params.storeId = ${WCParam.storeId};
+    params.catalogId = ${WCParam.catalogId};
+    params.langId = ${WCParam.langId};
+    params.orderId= orderId;
+    params.catEntryId = giftwrapCantentryId;
+    params.quantity = quantity;
+    params.giftwrap = orderItemId;             
+
+    wcService.invoke("AjaxAddOrderItem", params);
+  }
+</script>
+<%@ include file="../../Common/CommonCSSToInclude.jspf"%>
+
+<%-- Tealeaf should be set up before coremetrics inside CommonJSToInclude.jspf --%>
+<script type="text/javascript"
+	src="${jsAssetsDir}javascript/Tealeaf/tealeafWC.js"></script>
+<c:if test="${env_Tealeaf eq 'true' && env_inPreview != 'true'}">
+	<script type="text/javascript"
+		src="${jsAssetsDir}javascript/Tealeaf/tealeaf.js"></script>
+</c:if>
+
+<%@ include file="../../Common/CommonJSToInclude.jspf"%>
+<title><fmt:message bundle="${storeText}"
+		key="SHOPPINGCART_TITLE" /></title>
+
+<script type="text/javascript">
 			$(document).ready(function() {
 				<c:if test="${!empty requestScope.deleteCartCookie && requestScope.deleteCartCookie[0]}">
 					document.cookie = "WC_DeleteCartCookie_${requestScope.storeId}=true;path=/";
 				</c:if>
 			});
 		</script>
-		<script type="text/javascript">
+<script type="text/javascript">
 			$(document).ready(function() {
 				<fmt:message bundle="${storeText}" key="ERR_RESOLVING_SKU" var="ERR_RESOLVING_SKU" />
 				<fmt:message bundle="${storeText}" key="REQUIRED_FIELD_ENTER" var="REQUIRED_FIELD_ENTER"/>
@@ -124,7 +147,7 @@
 			});
 		</script>
 
-		<script type="text/javascript">
+<script type="text/javascript">
 			$(document).ready(shopCartPageLoaded);
 
 			function shopCartPageLoaded() {
@@ -132,105 +155,155 @@
 			}
 		</script>
 
-		<wcf:url var="ShopCartDisplayViewURL" value="ShopCartDisplayView" type="Ajax">
-			<wcf:param name="langId" value="${langId}" />
-			<wcf:param name="storeId" value="${WCParam.storeId}" />
-			<wcf:param name="catalogId" value="${WCParam.catalogId}" />
-			<wcf:param name="shipmentType" value="single" />
-		</wcf:url>
+<wcf:url var="ShopCartDisplayViewURL" value="ShopCartDisplayView"
+	type="Ajax">
+	<wcf:param name="langId" value="${langId}" />
+	<wcf:param name="storeId" value="${WCParam.storeId}" />
+	<wcf:param name="catalogId" value="${WCParam.catalogId}" />
+	<wcf:param name="shipmentType" value="single" />
+</wcf:url>
 
 
-	</head>
+</head>
 
-	<body>
-		<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url="${env_siteWidgetsDir}Common/QuickInfo/QuickInfoPopup.jsp"/>
-		<flow:ifEnabled feature="ApplePay">
-			<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url="${env_siteWidgetsDir}Common/StoreLocatorPopup/StoreLocatorPopup.jsp"/>
-		</flow:ifEnabled>
-		<c:set var="shoppingCartPage" value="true" scope="request"/>
-		<c:set var="hasBreadCrumbTrail" value="true" scope="request"/>
-		<c:set var="useHomeRightSidebar" value="false" scope="request"/>
-		<%@ include file="../../Snippets/ReusableObjects/GiftItemInfoDetailsDisplayExt.jspf" %>
-		<%@ include file="../../Snippets/ReusableObjects/GiftRegistryGiftItemInfoDetailsDisplayExt.jspf" %>
+<body>
+	<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}"
+		url="${env_siteWidgetsDir}Common/QuickInfo/QuickInfoPopup.jsp" />
+	<flow:ifEnabled feature="ApplePay">
+		<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}"
+			url="${env_siteWidgetsDir}Common/StoreLocatorPopup/StoreLocatorPopup.jsp" />
+	</flow:ifEnabled>
+	<c:set var="shoppingCartPage" value="true" scope="request" />
+	<c:set var="hasBreadCrumbTrail" value="true" scope="request" />
+	<c:set var="useHomeRightSidebar" value="false" scope="request" />
+	<%@ include
+		file="../../Snippets/ReusableObjects/GiftItemInfoDetailsDisplayExt.jspf"%>
+	<%@ include
+		file="../../Snippets/ReusableObjects/GiftRegistryGiftItemInfoDetailsDisplayExt.jspf"%>
 
-		<flow:ifEnabled feature="Analytics">
-			<cm:pageview pageType="wcs-cart"/>
-		</flow:ifEnabled>
+	<flow:ifEnabled feature="Analytics">
+		<cm:pageview pageType="wcs-cart" />
+	</flow:ifEnabled>
 
-		<div id="page" class="nonRWDPage">
-			<div id="grayOut"></div>
-			<%-- This file includes the progressBar mark-up and success/error message display markup --%>
-			<%@ include file="../../Common/CommonJSPFToInclude.jspf"%>
-			<!-- Header Widget -->
-			<div class="header_wrapper_position" id="headerWidget">
-				<%out.flush();%>
-				<c:import url = "${env_jspStoreDir}/Widgets/Header/Header.jsp" />
-				<%out.flush();%>
-			</div>
+	<div id="page" class="nonRWDPage">
+		<div id="grayOut"></div>
+		<%-- This file includes the progressBar mark-up and success/error message display markup --%>
+		<%@ include file="../../Common/CommonJSPFToInclude.jspf"%>
+		<!-- Header Widget -->
+		<div class="header_wrapper_position" id="headerWidget">
+			<%
+				out.flush();
+			%>
+			<c:import url="${env_jspStoreDir}/Widgets/Header/Header.jsp" />
+			<%
+				out.flush();
+			%>
+		</div>
 
-			<div class="content_wrapper_position" role="main">
-				<div class="content_wrapper">
-					<div class="content_left_shadow">
-						<div class="content_right_shadow">
-							<div class="main_content">
-								<%out.flush();%>
-								<c:import url="/${sdb.jspStoreDir}/include/BreadCrumbTrailDisplay.jsp">
-									<c:param name="topCategoryPage" value="${requestScope.topCategoryPage}" />
-									<c:param name="categoryPage" value="${requestScope.categoryPage}" />
-									<c:param name="productPage" value="${requestScope.productPage}" />
-									<c:param name="shoppingCartPage" value="${requestScope.shoppingCartPage}" />
-									<c:param name="compareProductPage" value="${requestScope.compareProductPage}" />
-									<c:param name="finalBreadcrumb" value="${requestScope.finalBreadcrumb}" />
-									<c:param name="extensionPageWithBCF" value="${requestScope.extensionPageWithBCF}" />
-									<c:param name="hasBreadCrumbTrail" value="${requestScope.hasBreadCrumbTrail}" />
-									<c:param name="requestURIPath" value="${requestScope.requestURIPath}" />
-									<c:param name="SavedOrderListPage" value="${requestScope.SavedOrderListPage}" />
-									<c:param name="pendingOrderDetailsPage" value="${requestScope.pendingOrderDetailsPage}" />
-									<c:param name="sharedWishList" value="${requestScope.sharedWishList}" />
-									<c:param name="searchPage" value="${requestScope.searchPage}"/>
-								</c:import>
-								<%out.flush();%>
-								<div class="container_content_rightsidebar shop_cart">
-									<div class="left_column">
-										<span id="ShopCartDisplay_ACCE_Label" class="spanacce"><fmt:message bundle="${storeText}" key="ACCE_Region_Shopping_Cart_Content"/></span>
-										<div wcType="RefreshArea" widgetId="ShopCartDisplay" id="ShopCartDisplay" refreshurl="<c:out value="${ShopCartDisplayViewURL}"/>" declareFunction="CommonControllersDeclarationJS.declareShopCartDisplayRefreshArea()" ariaMessage="<fmt:message bundle="${storeText}" key="ACCE_Status_Shopping_Cart_Content_Updated"/>" ariaLiveId="${ariaMessageNode}" role="region" aria-labelledby="ShopCartDisplay_ACCE_Label">
-											<%out.flush();%>
-											<c:import url="/${sdb.jspStoreDir}/ShoppingArea/ShopcartSection/ShopCartDisplay.jsp"/>
-											<%out.flush();%>
+		<div class="content_wrapper_position" role="main">
+			<div class="content_wrapper">
+				<div class="content_left_shadow">
+					<div class="content_right_shadow">
+						<div class="main_content">
+							<%
+								out.flush();
+							%>
+							<c:import
+								url="/${sdb.jspStoreDir}/include/BreadCrumbTrailDisplay.jsp">
+								<c:param name="topCategoryPage"
+									value="${requestScope.topCategoryPage}" />
+								<c:param name="categoryPage"
+									value="${requestScope.categoryPage}" />
+								<c:param name="productPage" value="${requestScope.productPage}" />
+								<c:param name="shoppingCartPage"
+									value="${requestScope.shoppingCartPage}" />
+								<c:param name="compareProductPage"
+									value="${requestScope.compareProductPage}" />
+								<c:param name="finalBreadcrumb"
+									value="${requestScope.finalBreadcrumb}" />
+								<c:param name="extensionPageWithBCF"
+									value="${requestScope.extensionPageWithBCF}" />
+								<c:param name="hasBreadCrumbTrail"
+									value="${requestScope.hasBreadCrumbTrail}" />
+								<c:param name="requestURIPath"
+									value="${requestScope.requestURIPath}" />
+								<c:param name="SavedOrderListPage"
+									value="${requestScope.SavedOrderListPage}" />
+								<c:param name="pendingOrderDetailsPage"
+									value="${requestScope.pendingOrderDetailsPage}" />
+								<c:param name="sharedWishList"
+									value="${requestScope.sharedWishList}" />
+								<c:param name="searchPage" value="${requestScope.searchPage}" />
+							</c:import>
+							<%
+								out.flush();
+							%>
+							<div class="container_content_rightsidebar shop_cart">
+								<div class="left_column">
+									<span id="ShopCartDisplay_ACCE_Label" class="spanacce"><fmt:message
+											bundle="${storeText}" key="ACCE_Region_Shopping_Cart_Content" /></span>
+									<div wcType="RefreshArea" widgetId="ShopCartDisplay"
+										id="ShopCartDisplay"
+										refreshurl="<c:out value="${ShopCartDisplayViewURL}"/>"
+										declareFunction="CommonControllersDeclarationJS.declareShopCartDisplayRefreshArea()"
+										ariaMessage="<fmt:message bundle="${storeText}" key="ACCE_Status_Shopping_Cart_Content_Updated"/>"
+										ariaLiveId="${ariaMessageNode}" role="region"
+										aria-labelledby="ShopCartDisplay_ACCE_Label">
+										<%
+											out.flush();
+										%>
+										<c:import
+											url="/${sdb.jspStoreDir}/ShoppingArea/ShopcartSection/ShopCartDisplay.jsp" />
+										<%
+											out.flush();
+										%>
+									</div>
+									<%-- Include after ShopCartDisplay.jsp. ShopCartDisplay.jsp fetches the order details which can be reused in the GiftsPopup dialog --%>
+									<%@ include
+										file="../../Snippets/Marketing/Promotions/PromotionChoiceOfFreeGiftsPopup.jspf"%>
+									<br />
+									<flow:ifEnabled feature="Analytics">
+										<%-- Begin - Added for Coremetrics Intelligent Offer to Display dynamic recommendations for the most recently viewed product --%>
+										<%-- Coremetrics Aanlytics is a prerequisite to Coremetrics Intelligent Offer --%>
+
+										<div class="item_spacer_5px"></div>
+
+										<div class="widget_product_listing_position">
+											<%
+												out.flush();
+											%>
+											<wcpgl:widgetImport
+												useIBMContextInSeparatedEnv="${isStoreServer}"
+												url="${env_siteWidgetsDir}com.ibm.commerce.store.widgets.IBMProductRecommendations/IBMProductRecommendations.jsp">
+												<wcpgl:param name="emsName" value="ShoppingCart_ProductRec" />
+												<wcpgl:param name="widgetOrientation" value="horizontal" />
+												<wcpgl:param name="catalogId" value="${WCParam.catalogId}" />
+											</wcpgl:widgetImport>
+											<%
+												out.flush();
+											%>
 										</div>
-										<%-- Include after ShopCartDisplay.jsp. ShopCartDisplay.jsp fetches the order details which can be reused in the GiftsPopup dialog --%>
-										<%@ include file="../../Snippets/Marketing/Promotions/PromotionChoiceOfFreeGiftsPopup.jspf" %>
-										<br/>
-										<flow:ifEnabled feature="Analytics">
-											<%-- Begin - Added for Coremetrics Intelligent Offer to Display dynamic recommendations for the most recently viewed product --%>
-											<%-- Coremetrics Aanlytics is a prerequisite to Coremetrics Intelligent Offer --%>
-
-											<div class="item_spacer_5px"></div>
-
-											<div class="widget_product_listing_position">
-												<%out.flush();%>
-												<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url="${env_siteWidgetsDir}com.ibm.commerce.store.widgets.IBMProductRecommendations/IBMProductRecommendations.jsp">
-													<wcpgl:param name="emsName" value="ShoppingCart_ProductRec" />
-													<wcpgl:param name="widgetOrientation" value="horizontal"/>
-													<wcpgl:param name="catalogId" value="${WCParam.catalogId}" />
-												</wcpgl:widgetImport>
-												<%out.flush();%>
-											</div>
 
 										<%-- End - Added for Coremetrics Intelligent Offer --%>
 									</flow:ifEnabled>
-									</div>
-									<div class="right_column">
-										<!-- Vertical Recommendations Widget -->
-										<div class="widget_recommended_position">
-											<% out.flush(); %>
-												<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url="${env_siteWidgetsDir}com.ibm.commerce.store.widgets.CatalogEntryRecommendation/CatalogEntryRecommendation.jsp">
-													<wcpgl:param name="emsName" value="ShoppingCartRight_CatEntries"/>
-													<wcpgl:param name="widgetOrientation" value="vertical"/>
-													<wcpgl:param name="pageSize" value="2"/>
-												</wcpgl:widgetImport>
-											<% out.flush(); %>
-										</div>
+								</div>
+								<div class="right_column">
+									<!-- Vertical Recommendations Widget -->
+									<div class="widget_recommended_position">
+										<%
+											out.flush();
+										%>
+										<wcpgl:widgetImport
+											useIBMContextInSeparatedEnv="${isStoreServer}"
+											url="${env_siteWidgetsDir}com.ibm.commerce.store.widgets.CatalogEntryRecommendation/CatalogEntryRecommendation.jsp">
+											<wcpgl:param name="emsName"
+												value="ShoppingCartRight_CatEntries" />
+											<wcpgl:param name="widgetOrientation" value="vertical" />
+											<wcpgl:param name="pageSize" value="2" />
+										</wcpgl:widgetImport>
+										<%
+											out.flush();
+										%>
 									</div>
 								</div>
 							</div>
@@ -238,6 +311,7 @@
 					</div>
 				</div>
 			</div>
+		</div>
 
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -262,20 +336,26 @@
 		</script>
 
 
-			<!-- Footer Widget -->
-			<div class="footer_wrapper_position">
-				<%out.flush();%>
-				<c:import url = "${env_jspStoreDir}/Widgets/Footer/Footer.jsp" />
-				<%out.flush();%>
-			</div>
+		<!-- Footer Widget -->
+		<div class="footer_wrapper_position">
+			<%
+				out.flush();
+			%>
+			<c:import url="${env_jspStoreDir}/Widgets/Footer/Footer.jsp" />
+			<%
+				out.flush();
+			%>
 		</div>
+	</div>
 
-		<%@ include file="../../Common/JSPFExtToInclude.jspf"%>
-		<%@ include file="../../CustomerService/CSROrderSliderWidget.jspf" %>
+	<%@ include file="../../Common/JSPFExtToInclude.jspf"%>
+	<%@ include file="../../CustomerService/CSROrderSliderWidget.jspf"%>
 
-		<flow:ifEnabled feature="Analytics">
-			<cm:cart orderJSON="${order}" extraparms="null, ${cookie.analyticsFacetAttributes.value}" returnAsJSON="true" />
-		</flow:ifEnabled>
-	</body>
+	<flow:ifEnabled feature="Analytics">
+		<cm:cart orderJSON="${order}"
+			extraparms="null, ${cookie.analyticsFacetAttributes.value}"
+			returnAsJSON="true" />
+	</flow:ifEnabled>
+</body>
 </html>
 <!-- END OrderItemDisplay.jsp -->
