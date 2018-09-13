@@ -1,0 +1,4 @@
+Page
+PageGroup,PageAdminName,Deletable,AdminEditable,UrlConfigurable,Delete
+Content,SampleHelpPage,FALSE,FALSE,TRUE,
+Content,SampleHomePage,FALSE,FALSE,FALSE,

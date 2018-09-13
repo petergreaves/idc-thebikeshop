@@ -1,0 +1,54 @@
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_styles"
+	language_id="&es_ES;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/womenLandingPage/styles.css&quot; type=&quot;text/css&quot;/&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/styles.css&quot; /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_video"
+	language_id="&es_ES;"
+	longmktgtext="&lt;div id=&quot;searchLandSlot4&quot;&gt;
+   &lt;div id=&quot;videoContainer&quot; tabindex=&quot;0&quot; title=&quot;Summer by Design video. Watch video for the promo code to get 40% off designer hats and sunglasses.&quot;&gt;
+      &lt;img id=&quot;videoFrame&quot; alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/TVScreen.png&quot;&gt;   
+      &lt;video id=&quot;videoScreen&quot; title=&quot;Vídeo publicitario de sombreros para mujer, el código de promoción es SUN725&quot; style=&quot;height:83%; width:96%;&quot; width=&quot;96%&quot; height=&quot;83%&quot; poster=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/poster.jpg&quot; controls&gt;
+         &lt;source id=&quot;videoScreen_mp4&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/acc_usl.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+         &lt;source id=&quot;videoScreen_ogg&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/acc_usl.ogg&quot; type=&quot;video/ogg&quot; /&gt;
+         &lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/player_r.swf&quot; width=&quot;96%&quot; height=&quot;84%&quot; id=&quot;videoScreen_flash&quot; align=&quot;middle&quot; wmode=&quot;transparent&quot;&gt;
+            &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
+			&lt;param name=&quot;movie&quot; value=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/player_r.swf&quot; /&gt;
+            &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
+            &lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;
+         &lt;/object&gt;
+      &lt;/video&gt;
+      &lt;div id=&quot;videoFinished&quot;&gt;
+         &lt;div class=&quot;content&quot;&gt;
+            &lt;div class=&quot;textContainer&quot;&gt;
+               Entre el código de promoción &lt;br&gt;&lt;b&gt;SUN725&lt;/b&gt; al pasar por caja, &lt;br&gt;y
+               &lt;h5&gt;obtenga un 25% de descuento adicional&lt;/h5&gt;
+               en todos&lt;br&gt; los sombreros y gafas de sol para mujer.                  
+            &lt;/div&gt;
+         &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;videoBackScreen&quot;&gt;&amp;nbsp;&lt;/div&gt;
+      &lt;div id=&quot;promotionTitle&quot;&gt;
+         Verano de diseño
+         &lt;h1&gt;Busque el código de promoción para &lt;b&gt;obtener un 40% de descuento&lt;/b&gt; en sombreros y gafas de sol de diseño&lt;/h1&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_richtext"
+	language_id="&es_ES;"
+	longmktgtext="&lt;h1&gt;Comprar por estilo&lt;/h1&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_richtext2"
+	language_id="&es_ES;"
+	longmktgtext="&lt;h1&gt;Comprar por marca&lt;/h1&gt;"
+/>
+

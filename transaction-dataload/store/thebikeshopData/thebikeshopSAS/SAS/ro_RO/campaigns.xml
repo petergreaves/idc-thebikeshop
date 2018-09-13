@@ -1,0 +1,96 @@
+
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be mbrgrpdesc.displayname and mbrgrpdesc.description  -->
+<!-- That would be colldesc.marketingtext                             -->
+
+
+<!-- Customer Profile Descriptions -->
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_1"
+   language_id="&ro_RO;"
+   displayname="Clienţi înregistraţi"
+   description="Clienţi care s-au înregistrat la magazin"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_2"
+   language_id="&ro_RO;"
+   displayname="Repetă clienţii"
+   description="Clienţi care au facut cel puţin o comandă la magazin"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_3"
+   language_id="&ro_RO;"
+   displayname="Cumpărători oaspeţi"
+   description="Cumpărători care nu s-au înregistrat la magazin"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_4"
+   language_id="&ro_RO;"
+   displayname="Clienţi masculini"
+   description="Clienţi înregistraţi care s-au identificat ca find bărbaţi"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_5"
+   language_id="&ro_RO;"
+   displayname="Clienţi feminini"
+   description="Clienţi înregistraţi care s-au identificat ca find femei"
+/>
+
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_6"
+   language_id="&ro_RO;"
+   displayname="Clienţi care au vârsta sub 40 de ani"
+   description="Clienţi care au vârsta sub 40 de ani"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_7"
+   language_id="&ro_RO;"
+   displayname="Clienţi care au vârsta de 40 de ani sau mai în vârstă"
+   description="Clienţi care au vârsta de 40 de ani sau mai în vârstă"
+/>
+
+
+<!-- Ad Copy Descriptions -->
+<!-- The colldesc.marketingtext will be used for alt text with the Ad Copy image -->
+
+<colldesc
+   collateral_id="@collateral_id_1"
+   language_id="&ro_RO;"
+   location="images/catalog/ro_RO/BuyOneGetOneFree_WineGlasses.jpg"
+   marketingtext="Oferta Cumpără unul, primeşte unul gratis la pahare de vin"
+/>
+<colldesc
+   collateral_id="@collateral_id_2"
+   language_id="&ro_RO;"
+   location="images/catalog/ro_RO/TopSellingItem.jpg"
+   marketingtext="Articolul online cel mai bine vândut momentan"
+/>
+<colldesc
+   collateral_id="@collateral_id_3"
+   language_id="&ro_RO;"
+   location="images/catalog/ro_RO/CategoryDiscount_Furniture.jpg"
+   marketingtext="Reducere 20% la toate articolele din categoria Mobilă"
+/>
+<colldesc
+   collateral_id="@collateral_id_4"
+   language_id="&ro_RO;"
+   location="images/catalog/ro_RO/ShippingDiscount_FreeGroundShipping.jpg"
+   marketingtext="Livrare cu masşina gratuită"
+/>
+
+<!-- The location and marketing text are intentionally left blank for collateral_id_5 -->
+<colldesc
+   collateral_id="@collateral_id_5"
+   language_id="&ro_RO;"
+   location=""
+   marketingtext=" "
+/>
+

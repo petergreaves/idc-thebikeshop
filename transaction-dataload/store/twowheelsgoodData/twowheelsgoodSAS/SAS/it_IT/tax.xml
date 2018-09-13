@@ -1,0 +1,47 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be calcodedsc.description, calcodedsc.longdescription -->
+<!-- That would be calscaleds.description, taxcgryds.description      -->
+
+
+<!--Table name:  CALCODEDSC -->
+<!--Purpose: Store description of CALCODE -->
+
+<calcodedsc
+   calcode_id="@calcode_id_3"
+   description="Codice di calcolo per le tasse sulle vendite del 5%"
+   language_id="&it_IT;" 	
+   longdescription="Codice di calcolo per le tasse sulle vendite del 5%" 
+/>
+<calcodedsc
+   calcode_id="@calcode_id_4"
+   description="Codice di calcolo per le tasse di spedizione dello 0%"
+   language_id="&it_IT;" 	
+   longdescription="Codice di calcolo per le tasse di spedizione dello 0%" 
+/>
+
+
+<!--Table name:  CALSCALEDS-->
+<!--Purpose: Store description of CALSCALE Scale Code -->
+
+<calscaleds
+   calscale_id="@calscale_id_13" 
+   description="Tasse sulle vendite del 5%"
+   language_id="&it_IT;" 
+/>
+<calscaleds
+   calscale_id="@calscale_id_14" 
+   description="Tasse di spedizione dello 0%"
+   language_id="&it_IT;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_1" 
+   description="Tassa sulle vendite"
+   language_id="&it_IT;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_2" 
+   description="Tasse di spedizione"
+   language_id="&it_IT;" 
+/>
+

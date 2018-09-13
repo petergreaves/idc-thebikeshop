@@ -1,0 +1,428 @@
+
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : ComputersDesktopsBrand -->
+<attr attr_id="@attribute_id_ComputersDesktops_6" identifier="ComputersDesktopsBrand" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_6" attr_id="@attribute_id_ComputersDesktops_6" storeent_id="&CAT_STOREENT_ID;" identifier="DVR Technics"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_12" attr_id="@attribute_id_ComputersDesktops_6" storeent_id="&CAT_STOREENT_ID;" identifier="Adelee Plus"	valusage="1" />
+<!--END Defining attribute : ComputersDesktopsBrand -->
+<!--BEGIN Defining attribute : ComputersDesktopsMemory -->
+<attr attr_id="@attribute_id_ComputersDesktops_4" identifier="ComputersDesktopsMemory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_4" attr_id="@attribute_id_ComputersDesktops_4" storeent_id="&CAT_STOREENT_ID;" identifier="2 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_10" attr_id="@attribute_id_ComputersDesktops_4" storeent_id="&CAT_STOREENT_ID;" identifier="4 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_15" attr_id="@attribute_id_ComputersDesktops_4" storeent_id="&CAT_STOREENT_ID;" identifier="8 GB"	valusage="1" />
+<!--END Defining attribute : ComputersDesktopsMemory -->
+<!--BEGIN Defining attribute : ComputersDesktopsHard Drive -->
+<attr attr_id="@attribute_id_ComputersDesktops_5" identifier="ComputersDesktopsHard Drive" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_5" attr_id="@attribute_id_ComputersDesktops_5" storeent_id="&CAT_STOREENT_ID;" identifier="500 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_11" attr_id="@attribute_id_ComputersDesktops_5" storeent_id="&CAT_STOREENT_ID;" identifier="1000 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_16" attr_id="@attribute_id_ComputersDesktops_5" storeent_id="&CAT_STOREENT_ID;" identifier="2000 GB"	valusage="1" />
+<!--END Defining attribute : ComputersDesktopsHard Drive -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Memory -->
+<attr attr_id="@attribute_id_ComputersDesktops_1" identifier="Memory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_1_CDE021_2101" attr_id="@attribute_id_ComputersDesktops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2101" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_7_CDE021_2102" attr_id="@attribute_id_ComputersDesktops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2102" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_13_CDE021_2103" attr_id="@attribute_id_ComputersDesktops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2103" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_13_CDE021_2104" attr_id="@attribute_id_ComputersDesktops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2104" />
+<!--END Descriptive attribute : Memory -->
+<!--BEGIN Descriptive attribute : Hard Drive -->
+<attr attr_id="@attribute_id_ComputersDesktops_2" identifier="Hard Drive" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_2_CDE021_2101" attr_id="@attribute_id_ComputersDesktops_2" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2101" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_8_CDE021_2102" attr_id="@attribute_id_ComputersDesktops_2" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2102" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_8_CDE021_2104" attr_id="@attribute_id_ComputersDesktops_2" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2104" />
+<attrval attrval_id="@attribute_value_id_ComputersDesktops_14_CDE021_2103" attr_id="@attribute_id_ComputersDesktops_2" storeent_id="&CAT_STOREENT_ID;" identifier="CDE021_2103" />
+<!--END Descriptive attribute : Hard Drive -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : CDE021_2101 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersDesktops_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CDE021_2101" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersDesktops_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CDE021_2101" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersDesktops_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_ComputersDesktops_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersDesktops_1" baseitem_id="@baseproduct_id_ComputersDesktops_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersDesktops_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersDesktops_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="USD" price="600" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="AUD" price="774.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="NZD" price="828.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="BRL" price="1908.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="CAD" price="762.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="CNY" price="4008.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="EUR" price="510.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="GBP" price="468.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="JPY" price="65814" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="KRW" price="684204" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="PLN" price="2184.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="RON" price="2346.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="RUB" price="35448.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_2" currency="TWD" price="18180.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_1" currency="TWD" listprice="18180.0" />
+<!-- Begin attribute mapping for CDE021_2101-->
+<catentryattr attr_id="@attribute_id_ComputersDesktops_1" attrval_id="@attribute_value_id_ComputersDesktops_1_CDE021_2101" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_2" attrval_id="@attribute_value_id_ComputersDesktops_2_CDE021_2101" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersDesktops_1" />
+<!-- End attribute mapping for CDE021_2101-->
+
+<!-- BEGIN items of CDE021_2101 -->
+<!-- BEGIN item bean CDE021_210101 -->
+<itemspc itemspc_id="@itemspc_id_ComputersDesktops_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersDesktops_1" partnumber="CDE021_210101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersDesktops_1" itemspc_id="@itemspc_id_ComputersDesktops_1" itemversn_id="@itemversn_id_ComputersDesktops_1" />
+<catentry catentry_id="@catentry_item_id_ComputersDesktops_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersDesktops_1"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CDE021_210101" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersDesktops_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersDesktops_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersDesktops_2" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersDesktops_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersDesktops_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersDesktops_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="USD" price="600" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="AUD" price="774.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="NZD" price="828.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="BRL" price="1908.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="CAD" price="762.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="CNY" price="4008.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="EUR" price="510.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="GBP" price="468.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="JPY" price="65814" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="KRW" price="684204" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="PLN" price="2184.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="RON" price="2346.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="RUB" price="35448.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_1" currency="TWD" price="18180.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_2" currency="TWD" listprice="18180.0" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="@attribute_value_id_ComputersDesktops_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersDesktops_2" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="@attribute_value_id_ComputersDesktops_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersDesktops_2" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="@attribute_value_id_ComputersDesktops_5"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersDesktops_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CDE021_210101 -->
+<!-- END items of CDE021_2101 -->
+<!-- END catalog entry : CDE021_2101 -->
+<!-- BEGIN catalog entry : CDE021_2102 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersDesktops_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CDE021_2102" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersDesktops_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CDE021_2102" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersDesktops_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_ComputersDesktops_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersDesktops_2" baseitem_id="@baseproduct_id_ComputersDesktops_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersDesktops_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersDesktops_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="USD" price="800" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="AUD" price="1032.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="NZD" price="1104.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="BRL" price="2544.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="CAD" price="1016.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="CNY" price="5344.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="EUR" price="680.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="GBP" price="624.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="JPY" price="87752" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="KRW" price="912272" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="PLN" price="2912.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="RON" price="3128.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="RUB" price="47264.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_4" currency="TWD" price="24240.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_3" currency="TWD" listprice="24240.0" />
+<!-- Begin attribute mapping for CDE021_2102-->
+<catentryattr attr_id="@attribute_id_ComputersDesktops_1" attrval_id="@attribute_value_id_ComputersDesktops_7_CDE021_2102" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_2" attrval_id="@attribute_value_id_ComputersDesktops_8_CDE021_2102" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersDesktops_3" />
+<!-- End attribute mapping for CDE021_2102-->
+
+<!-- BEGIN items of CDE021_2102 -->
+<!-- BEGIN item bean CDE021_210201 -->
+<itemspc itemspc_id="@itemspc_id_ComputersDesktops_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersDesktops_2" partnumber="CDE021_210201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersDesktops_2" itemspc_id="@itemspc_id_ComputersDesktops_2" itemversn_id="@itemversn_id_ComputersDesktops_2" />
+<catentry catentry_id="@catentry_item_id_ComputersDesktops_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersDesktops_2"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CDE021_210201" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersDesktops_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersDesktops_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersDesktops_4" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersDesktops_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersDesktops_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersDesktops_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="USD" price="800" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="AUD" price="1032.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="NZD" price="1104.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="BRL" price="2544.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="CAD" price="1016.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="CNY" price="5344.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="EUR" price="680.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="GBP" price="624.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="JPY" price="87752" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="KRW" price="912272" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="PLN" price="2912.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="RON" price="3128.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="RUB" price="47264.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_3" currency="TWD" price="24240.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_4" currency="TWD" listprice="24240.0" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="@attribute_value_id_ComputersDesktops_12"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersDesktops_4" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="@attribute_value_id_ComputersDesktops_10"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersDesktops_4" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="@attribute_value_id_ComputersDesktops_11"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersDesktops_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CDE021_210201 -->
+<!-- END items of CDE021_2102 -->
+<!-- END catalog entry : CDE021_2102 -->
+<!-- BEGIN catalog entry : CDE021_2103 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersDesktops_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CDE021_2103" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersDesktops_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CDE021_2103" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersDesktops_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_ComputersDesktops_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersDesktops_3" baseitem_id="@baseproduct_id_ComputersDesktops_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersDesktops_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersDesktops_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="USD" price="1150" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="AUD" price="1483.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="NZD" price="1587.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="BRL" price="3657.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="CAD" price="1460.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="CNY" price="7682.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="EUR" price="977.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="GBP" price="897.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="JPY" price="126144" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="KRW" price="1311391" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="PLN" price="4186.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="RON" price="4496.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="RUB" price="67942.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_6" currency="TWD" price="34845.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="USD" listprice="1300" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="AUD" listprice="1677.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="NZD" listprice="1794.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="BRL" listprice="4134.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="CAD" listprice="1651.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="CNY" listprice="8684.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="EUR" listprice="1105.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="GBP" listprice="1014.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="JPY" listprice="142597" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="KRW" listprice="1482442" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="PLN" listprice="4732.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="RON" listprice="5083.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="RUB" listprice="76804.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_5" currency="TWD" listprice="39390.0" />
+<!-- Begin attribute mapping for CDE021_2103-->
+<catentryattr attr_id="@attribute_id_ComputersDesktops_1" attrval_id="@attribute_value_id_ComputersDesktops_13_CDE021_2103" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_2" attrval_id="@attribute_value_id_ComputersDesktops_14_CDE021_2103" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersDesktops_5" />
+<!-- End attribute mapping for CDE021_2103-->
+
+<!-- BEGIN items of CDE021_2103 -->
+<!-- BEGIN item bean CDE021_210301 -->
+<itemspc itemspc_id="@itemspc_id_ComputersDesktops_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersDesktops_3" partnumber="CDE021_210301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersDesktops_3" itemspc_id="@itemspc_id_ComputersDesktops_3" itemversn_id="@itemversn_id_ComputersDesktops_3" />
+<catentry catentry_id="@catentry_item_id_ComputersDesktops_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersDesktops_3"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CDE021_210301" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersDesktops_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersDesktops_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersDesktops_6" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersDesktops_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersDesktops_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersDesktops_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="USD" price="1150" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="AUD" price="1483.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="NZD" price="1587.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="BRL" price="3657.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="CAD" price="1460.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="CNY" price="7682.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="EUR" price="977.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="GBP" price="897.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="JPY" price="126144" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="KRW" price="1311391" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="PLN" price="4186.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="RON" price="4496.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="RUB" price="67942.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_5" currency="TWD" price="34845.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="USD" listprice="1300" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="AUD" listprice="1677.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="NZD" listprice="1794.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="BRL" listprice="4134.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="CAD" listprice="1651.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="CNY" listprice="8684.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="EUR" listprice="1105.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="GBP" listprice="1014.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="JPY" listprice="142597" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="KRW" listprice="1482442" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="PLN" listprice="4732.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="RON" listprice="5083.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="RUB" listprice="76804.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_6" currency="TWD" listprice="39390.0" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="@attribute_value_id_ComputersDesktops_12"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersDesktops_6" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="@attribute_value_id_ComputersDesktops_15"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersDesktops_6" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="@attribute_value_id_ComputersDesktops_16"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersDesktops_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CDE021_210301 -->
+<!-- END items of CDE021_2103 -->
+<!-- END catalog entry : CDE021_2103 -->
+<!-- BEGIN catalog entry : CDE021_2104 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersDesktops_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CDE021_2104" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersDesktops_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CDE021_2104" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersDesktops_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_ComputersDesktops_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersDesktops_4" baseitem_id="@baseproduct_id_ComputersDesktops_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersDesktops_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersDesktops_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="USD" price="1125" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="AUD" price="1451.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="NZD" price="1552.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="BRL" price="3577.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="CAD" price="1428.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="CNY" price="7515.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="EUR" price="956.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="GBP" price="877.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="JPY" price="123401" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="KRW" price="1282882" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="PLN" price="4095.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="RON" price="4398.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="RUB" price="66465.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersDesktops_8" currency="TWD" price="34087.5" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="USD" listprice="1200" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="AUD" listprice="1548.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="NZD" listprice="1656.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="BRL" listprice="3816.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="CAD" listprice="1524.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="CNY" listprice="8016.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="EUR" listprice="1020.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="GBP" listprice="936.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="JPY" listprice="131628" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="KRW" listprice="1368408" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="PLN" listprice="4368.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="RON" listprice="4692.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="RUB" listprice="70896.0" />
+<listprice catentry_id="@catentry_product_id_ComputersDesktops_7" currency="TWD" listprice="36360.0" />
+<!-- Begin attribute mapping for CDE021_2104-->
+<catentryattr attr_id="@attribute_id_ComputersDesktops_1" attrval_id="@attribute_value_id_ComputersDesktops_13_CDE021_2104" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_2" attrval_id="@attribute_value_id_ComputersDesktops_8_CDE021_2104" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersDesktops_7" />
+<!-- End attribute mapping for CDE021_2104-->
+
+<!-- BEGIN items of CDE021_2104 -->
+<!-- BEGIN item bean CDE021_210401 -->
+<itemspc itemspc_id="@itemspc_id_ComputersDesktops_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersDesktops_4" partnumber="CDE021_210401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersDesktops_4" itemspc_id="@itemspc_id_ComputersDesktops_4" itemversn_id="@itemversn_id_ComputersDesktops_4" />
+<catentry catentry_id="@catentry_item_id_ComputersDesktops_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersDesktops_4"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CDE021_210401" markfordelete="0" baseitem_id="@baseproduct_id_ComputersDesktops_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersDesktops_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersDesktops_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersDesktops_8" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersDesktops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersDesktops_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersDesktops_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersDesktops_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="USD" price="1125" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="AUD" price="1451.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="NZD" price="1552.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="BRL" price="3577.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="CAD" price="1428.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="CNY" price="7515.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="EUR" price="956.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="GBP" price="877.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="JPY" price="123401" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="KRW" price="1282882" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="PLN" price="4095.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="RON" price="4398.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="RUB" price="66465.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersDesktops_7" currency="TWD" price="34087.5" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="USD" listprice="1200" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="AUD" listprice="1548.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="NZD" listprice="1656.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="BRL" listprice="3816.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="CAD" listprice="1524.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="CNY" listprice="8016.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="EUR" listprice="1020.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="GBP" listprice="936.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="JPY" listprice="131628" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="KRW" listprice="1368408" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="PLN" listprice="4368.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="RON" listprice="4692.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="RUB" listprice="70896.0" />
+<listprice catentry_id="@catentry_item_id_ComputersDesktops_8" currency="TWD" listprice="36360.0" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_6" attrval_id="@attribute_value_id_ComputersDesktops_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersDesktops_8" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_4" attrval_id="@attribute_value_id_ComputersDesktops_15"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersDesktops_8" />
+<catentryattr attr_id="@attribute_id_ComputersDesktops_5" attrval_id="@attribute_value_id_ComputersDesktops_11"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersDesktops_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CDE021_210401 -->
+<!-- END items of CDE021_2104 -->
+<!-- END catalog entry : CDE021_2104 -->
+<!-- END: Writing catalog entries -->
+

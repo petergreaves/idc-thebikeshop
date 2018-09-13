@@ -1,0 +1,66 @@
+
+<!-- BEGIN  Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description   MedicinceCategory -->
+<attrdesc attr_id="@attribute_id_Medicince_6" attrtype_id="STRING" language_id="&en_US;" name="Category" description="Category" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_6" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="1" value="Cold Relief" integervalue="" floatvalue="" stringvalue="Cold Relief" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_11" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="2" value="Immune Booster" integervalue="" floatvalue="" stringvalue="Immune Booster" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_15" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="3" value="Naturopathic" integervalue="" floatvalue="" stringvalue="Naturopathic" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_20" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="4" value="Pain relief" integervalue="" floatvalue="" stringvalue="Pain relief" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_22" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="5" value="Cold and sinus relief" integervalue="" floatvalue="" stringvalue="Cold and sinus relief" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_28" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&en_US;" sequence="6" value="Cold and flu relief" integervalue="" floatvalue="" stringvalue="Cold and flu relief" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceCategory -->
+<!--BEGIN Defining attribute description   MedicinceType -->
+<attrdesc attr_id="@attribute_id_Medicince_5" attrtype_id="STRING" language_id="&en_US;" name="Type" description="Type" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_5" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&en_US;" sequence="1" value="Lozenge" integervalue="" floatvalue="" stringvalue="Lozenge" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_10" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&en_US;" sequence="2" value="Tablet" integervalue="" floatvalue="" stringvalue="Tablet" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_14" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&en_US;" sequence="3" value="Pill" integervalue="" floatvalue="" stringvalue="Pill" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_17" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&en_US;" sequence="4" value="Capsule" integervalue="" floatvalue="" stringvalue="Capsule" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_25" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&en_US;" sequence="5" value="Liquid" integervalue="" floatvalue="" stringvalue="Liquid" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceType -->
+<!-- END  Writing defining attribute descriptions -->
+<!-- BEGIN  Writing descriptive attribute descriptions -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Medicince_4" attrtype_id="STRING" language_id="&en_US;" name="Category" description="Category" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_4_HME037_3701" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="1" value="Cold Relief" integervalue="" floatvalue="" stringvalue="Cold Relief" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_9_HME037_3702" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="2" value="Immune Booster" integervalue="" floatvalue="" stringvalue="Immune Booster" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3703" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="3" value="Naturopathic" integervalue="" floatvalue="" stringvalue="Naturopathic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3704" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="3" value="Naturopathic" integervalue="" floatvalue="" stringvalue="Naturopathic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3707" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="3" value="Naturopathic" integervalue="" floatvalue="" stringvalue="Naturopathic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3708" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="3" value="Naturopathic" integervalue="" floatvalue="" stringvalue="Naturopathic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3705" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="4" value="Pain relief" integervalue="" floatvalue="" stringvalue="Pain relief" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3709" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="4" value="Pain relief" integervalue="" floatvalue="" stringvalue="Pain relief" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_21_HME037_3706" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="5" value="Cold and sinus relief" integervalue="" floatvalue="" stringvalue="Cold and sinus relief" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_27_HME037_3710" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&en_US;" sequence="6" value="Cold and flu relief" integervalue="" floatvalue="" stringvalue="Cold and flu relief" />
+<!--end of  Category -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Medicince_3" attrtype_id="STRING" language_id="&en_US;" name="Type" description="Type" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_3_HME037_3701" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="1" value="Lozenge" integervalue="" floatvalue="" stringvalue="Lozenge" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_8_HME037_3702" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="2" value="Tablet" integervalue="" floatvalue="" stringvalue="Tablet" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3703" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="3" value="Pill" integervalue="" floatvalue="" stringvalue="Pill" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3705" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="3" value="Pill" integervalue="" floatvalue="" stringvalue="Pill" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3704" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="4" value="Capsule" integervalue="" floatvalue="" stringvalue="Capsule" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3706" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="4" value="Capsule" integervalue="" floatvalue="" stringvalue="Capsule" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3708" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="4" value="Capsule" integervalue="" floatvalue="" stringvalue="Capsule" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3707" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="5" value="Liquid" integervalue="" floatvalue="" stringvalue="Liquid" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3709" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="5" value="Liquid" integervalue="" floatvalue="" stringvalue="Liquid" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3710" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&en_US;" sequence="5" value="Liquid" integervalue="" floatvalue="" stringvalue="Liquid" />
+<!--end of  Type -->
+<!--start of  Packaging -->
+<attrdesc attr_id="@attribute_id_Medicince_1" attrtype_id="STRING" language_id="&en_US;" name="Packaging" description="Packaging" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3701" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="1" value="Cardboard packet" integervalue="" floatvalue="" stringvalue="Cardboard packet" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3702" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="1" value="Cardboard packet" integervalue="" floatvalue="" stringvalue="Cardboard packet" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3703" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="1" value="Cardboard packet" integervalue="" floatvalue="" stringvalue="Cardboard packet" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3704" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="1" value="Cardboard packet" integervalue="" floatvalue="" stringvalue="Cardboard packet" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3705" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="2" value="Plastic" integervalue="" floatvalue="" stringvalue="Plastic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3706" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="2" value="Plastic" integervalue="" floatvalue="" stringvalue="Plastic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3708" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="2" value="Plastic" integervalue="" floatvalue="" stringvalue="Plastic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3709" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="2" value="Plastic" integervalue="" floatvalue="" stringvalue="Plastic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3710" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="2" value="Plastic" integervalue="" floatvalue="" stringvalue="Plastic" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_23_HME037_3707" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&en_US;" sequence="3" value="Glass" integervalue="" floatvalue="" stringvalue="Glass" />
+<!--end of  Packaging -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

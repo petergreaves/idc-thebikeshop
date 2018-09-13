@@ -1,0 +1,659 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : ComputersLaptopsBrand -->
+<attr attr_id="@attribute_id_ComputersLaptops_6" identifier="ComputersLaptopsBrand" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_6" attr_id="@attribute_id_ComputersLaptops_6" storeent_id="&CAT_STOREENT_ID;" identifier="Eye Dee Team"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_14" attr_id="@attribute_id_ComputersLaptops_6" storeent_id="&CAT_STOREENT_ID;" identifier="Adelee Plus"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_19" attr_id="@attribute_id_ComputersLaptops_6" storeent_id="&CAT_STOREENT_ID;" identifier="DVR Technics"	valusage="1" />
+<!--END Defining attribute : ComputersLaptopsBrand -->
+<!--BEGIN Defining attribute : ComputersLaptopsBattery Life -->
+<attr attr_id="@attribute_id_ComputersLaptops_8" identifier="ComputersLaptopsBattery Life" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_8" attr_id="@attribute_id_ComputersLaptops_8" storeent_id="&CAT_STOREENT_ID;" identifier="2 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_16" attr_id="@attribute_id_ComputersLaptops_8" storeent_id="&CAT_STOREENT_ID;" identifier="3 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_20" attr_id="@attribute_id_ComputersLaptops_8" storeent_id="&CAT_STOREENT_ID;" identifier="6 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_22" attr_id="@attribute_id_ComputersLaptops_8" storeent_id="&CAT_STOREENT_ID;" identifier="8 hours"	valusage="1" />
+<!--END Defining attribute : ComputersLaptopsBattery Life -->
+<!--BEGIN Defining attribute : ComputersLaptopsMemory -->
+<attr attr_id="@attribute_id_ComputersLaptops_5" identifier="ComputersLaptopsMemory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_5" attr_id="@attribute_id_ComputersLaptops_5" storeent_id="&CAT_STOREENT_ID;" identifier="2 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_13" attr_id="@attribute_id_ComputersLaptops_5" storeent_id="&CAT_STOREENT_ID;" identifier="4 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_25" attr_id="@attribute_id_ComputersLaptops_5" storeent_id="&CAT_STOREENT_ID;" identifier="8 GB"	valusage="1" />
+<!--END Defining attribute : ComputersLaptopsMemory -->
+<!--BEGIN Defining attribute : ComputersLaptopsWeight -->
+<attr attr_id="@attribute_id_ComputersLaptops_7" identifier="ComputersLaptopsWeight" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_7" attr_id="@attribute_id_ComputersLaptops_7" storeent_id="&CAT_STOREENT_ID;" identifier="1 lb"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_15" attr_id="@attribute_id_ComputersLaptops_7" storeent_id="&CAT_STOREENT_ID;" identifier="2 lb"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_26" attr_id="@attribute_id_ComputersLaptops_7" storeent_id="&CAT_STOREENT_ID;" identifier="3 lb"	valusage="1" />
+<!--END Defining attribute : ComputersLaptopsWeight -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Memory -->
+<attr attr_id="@attribute_id_ComputersLaptops_1" identifier="Memory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2201" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2203" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2204" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2206" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_9_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2202" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_23_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2205" />
+<!--END Descriptive attribute : Memory -->
+<!--BEGIN Descriptive attribute : Battery Life -->
+<attr attr_id="@attribute_id_ComputersLaptops_4" identifier="Battery Life" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2201" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2205" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2206" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_12_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2202" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_18_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2203" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_21_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2204" />
+<!--END Descriptive attribute : Battery Life -->
+<!--BEGIN Descriptive attribute : Weight -->
+<attr attr_id="@attribute_id_ComputersLaptops_3" identifier="Weight" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2201" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2203" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2204" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2202" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2206" />
+<attrval attrval_id="@attribute_value_id_ComputersLaptops_24_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" identifier="CLA022_2205" />
+<!--END Descriptive attribute : Weight -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : CLA022_2201 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2201" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CLA022_2201" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_1" baseitem_id="@baseproduct_id_ComputersLaptops_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="USD" price="500" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="AUD" price="645.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="NZD" price="690.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="BRL" price="1590.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="CAD" price="635.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="CNY" price="3340.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="EUR" price="425.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="GBP" price="390.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="JPY" price="54845" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="KRW" price="570170" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="PLN" price="1820.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="RON" price="1955.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="RUB" price="29540.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_2" currency="TWD" price="15150.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="USD" listprice="500" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="AUD" listprice="645.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="NZD" listprice="690.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="BRL" listprice="1590.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="CAD" listprice="635.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="CNY" listprice="3340.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="EUR" listprice="425.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="GBP" listprice="390.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="JPY" listprice="54845" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="KRW" listprice="570170" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="PLN" listprice="1820.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="RON" listprice="1955.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="RUB" listprice="29540.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_1" currency="TWD" listprice="15150.0" />
+<!-- Begin attribute mapping for CLA022_2201-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2201" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2201" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2201" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_1" />
+<!-- End attribute mapping for CLA022_2201-->
+
+<!-- BEGIN items of CLA022_2201 -->
+<!-- BEGIN item bean CLA022_220101 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_1" partnumber="CLA022_220101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_1" itemspc_id="@itemspc_id_ComputersLaptops_1" itemversn_id="@itemversn_id_ComputersLaptops_1" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_1"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CLA022_220101" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_2" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="USD" price="500" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="AUD" price="645.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="NZD" price="690.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="BRL" price="1590.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="CAD" price="635.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="CNY" price="3340.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="EUR" price="425.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="GBP" price="390.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="JPY" price="54845" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="KRW" price="570170" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="PLN" price="1820.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="RON" price="1955.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="RUB" price="29540.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_1" currency="TWD" price="15150.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="USD" listprice="500" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="AUD" listprice="645.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="NZD" listprice="690.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="BRL" listprice="1590.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="CAD" listprice="635.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="CNY" listprice="3340.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="EUR" listprice="425.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="GBP" listprice="390.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="JPY" listprice="54845" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="KRW" listprice="570170" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="PLN" listprice="1820.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="RON" listprice="1955.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="RUB" listprice="29540.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_2" currency="TWD" listprice="15150.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_2" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_2" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_8"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_2" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_7"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220101 -->
+<!-- END items of CLA022_2201 -->
+<!-- END catalog entry : CLA022_2201 -->
+<!-- BEGIN catalog entry : CLA022_2202 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2202" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CLA022_2202" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_2" baseitem_id="@baseproduct_id_ComputersLaptops_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="USD" price="750" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="AUD" price="967.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="NZD" price="1035.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="BRL" price="2385.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="CAD" price="952.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="CNY" price="5010.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="EUR" price="637.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="GBP" price="585.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="JPY" price="82268" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="KRW" price="855255" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="PLN" price="2730.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="RON" price="2932.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="RUB" price="44310.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_4" currency="TWD" price="22725.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_3" currency="TWD" listprice="24240.0" />
+<!-- Begin attribute mapping for CLA022_2202-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_9_CLA022_2202" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2202" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_12_CLA022_2202" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_3" />
+<!-- End attribute mapping for CLA022_2202-->
+
+<!-- BEGIN items of CLA022_2202 -->
+<!-- BEGIN item bean CLA022_220201 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_2" partnumber="CLA022_220201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_2" itemspc_id="@itemspc_id_ComputersLaptops_2" itemversn_id="@itemversn_id_ComputersLaptops_2" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_2"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CLA022_220201" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_4" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="USD" price="750" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="AUD" price="967.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="NZD" price="1035.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="BRL" price="2385.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="CAD" price="952.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="CNY" price="5010.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="EUR" price="637.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="GBP" price="585.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="JPY" price="82268" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="KRW" price="855255" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="PLN" price="2730.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="RON" price="2932.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="RUB" price="44310.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_3" currency="TWD" price="22725.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_4" currency="TWD" listprice="24240.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_14"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_4" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_13"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_4" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_16"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_4" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_15"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220201 -->
+<!-- END items of CLA022_2202 -->
+<!-- END catalog entry : CLA022_2202 -->
+<!-- BEGIN catalog entry : CLA022_2203 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2203" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CLA022_2203" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_3" baseitem_id="@baseproduct_id_ComputersLaptops_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="USD" price="575" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="AUD" price="741.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="NZD" price="793.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="BRL" price="1828.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="CAD" price="730.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="CNY" price="3841.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="EUR" price="488.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="GBP" price="448.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="JPY" price="63072" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="KRW" price="655696" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="PLN" price="2093.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="RON" price="2248.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="RUB" price="33971.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_6" currency="TWD" price="17422.5" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_5" currency="TWD" listprice="18180.0" />
+<!-- Begin attribute mapping for CLA022_2203-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2203" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2203" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_18_CLA022_2203" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_5" />
+<!-- End attribute mapping for CLA022_2203-->
+
+<!-- BEGIN items of CLA022_2203 -->
+<!-- BEGIN item bean CLA022_220301 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_3" partnumber="CLA022_220301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_3" itemspc_id="@itemspc_id_ComputersLaptops_3" itemversn_id="@itemversn_id_ComputersLaptops_3" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_3"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CLA022_220301" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_6" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="USD" price="575" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="AUD" price="741.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="NZD" price="793.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="BRL" price="1828.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="CAD" price="730.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="CNY" price="3841.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="EUR" price="488.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="GBP" price="448.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="JPY" price="63072" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="KRW" price="655696" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="PLN" price="2093.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="RON" price="2248.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="RUB" price="33971.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_5" currency="TWD" price="17422.5" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_6" currency="TWD" listprice="18180.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_6" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_6" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_20"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_6" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_7"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220301 -->
+<!-- END items of CLA022_2203 -->
+<!-- END catalog entry : CLA022_2203 -->
+<!-- BEGIN catalog entry : CLA022_2204 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2204" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CLA022_2204" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_4" baseitem_id="@baseproduct_id_ComputersLaptops_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="USD" price="680" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="AUD" price="877.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="NZD" price="938.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="BRL" price="2162.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="CAD" price="863.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="CNY" price="4542.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="EUR" price="578.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="GBP" price="530.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="JPY" price="74589" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="KRW" price="775431" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="PLN" price="2475.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="RON" price="2658.8" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="RUB" price="40174.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_8" currency="TWD" price="20604.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="USD" listprice="700" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="AUD" listprice="903.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="NZD" listprice="966.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="BRL" listprice="2226.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="CAD" listprice="889.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="CNY" listprice="4676.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="EUR" listprice="595.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="GBP" listprice="546.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="JPY" listprice="76783" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="KRW" listprice="798238" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="PLN" listprice="2548.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="RON" listprice="2737.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="RUB" listprice="41356.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_7" currency="TWD" listprice="21210.0" />
+<!-- Begin attribute mapping for CLA022_2204-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2204" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2204" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_21_CLA022_2204" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_7" />
+<!-- End attribute mapping for CLA022_2204-->
+
+<!-- BEGIN items of CLA022_2204 -->
+<!-- BEGIN item bean CLA022_220401 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_4" partnumber="CLA022_220401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_4" itemspc_id="@itemspc_id_ComputersLaptops_4" itemversn_id="@itemversn_id_ComputersLaptops_4" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_4"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CLA022_220401" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_8" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="USD" price="680" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="AUD" price="877.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="NZD" price="938.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="BRL" price="2162.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="CAD" price="863.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="CNY" price="4542.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="EUR" price="578.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="GBP" price="530.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="JPY" price="74589" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="KRW" price="775431" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="PLN" price="2475.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="RON" price="2658.8" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="RUB" price="40174.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_7" currency="TWD" price="20604.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="USD" listprice="700" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="AUD" listprice="903.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="NZD" listprice="966.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="BRL" listprice="2226.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="CAD" listprice="889.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="CNY" listprice="4676.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="EUR" listprice="595.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="GBP" listprice="546.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="JPY" listprice="76783" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="KRW" listprice="798238" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="PLN" listprice="2548.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="RON" listprice="2737.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="RUB" listprice="41356.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_8" currency="TWD" listprice="21210.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_8" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_8" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_22"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_8" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_7"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220401 -->
+<!-- END items of CLA022_2204 -->
+<!-- END catalog entry : CLA022_2204 -->
+<!-- BEGIN catalog entry : CLA022_2205 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2205" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CLA022_2205" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_5" baseitem_id="@baseproduct_id_ComputersLaptops_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="USD" price="720" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="AUD" price="928.8" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="NZD" price="993.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="BRL" price="2289.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="CAD" price="914.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="CNY" price="4809.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="EUR" price="612.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="GBP" price="561.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="JPY" price="78977" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="KRW" price="821045" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="PLN" price="2620.8" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="RON" price="2815.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="RUB" price="42537.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_10" currency="TWD" price="21816.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_9" currency="TWD" listprice="24240.0" />
+<!-- Begin attribute mapping for CLA022_2205-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_23_CLA022_2205" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_24_CLA022_2205" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2205" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_9" />
+<!-- End attribute mapping for CLA022_2205-->
+
+<!-- BEGIN items of CLA022_2205 -->
+<!-- BEGIN item bean CLA022_220501 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_5" partnumber="CLA022_220501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_5" itemspc_id="@itemspc_id_ComputersLaptops_5" itemversn_id="@itemversn_id_ComputersLaptops_5" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_5"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CLA022_220501" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_10" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="USD" price="720" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="AUD" price="928.8" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="NZD" price="993.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="BRL" price="2289.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="CAD" price="914.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="CNY" price="4809.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="EUR" price="612.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="GBP" price="561.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="JPY" price="78977" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="KRW" price="821045" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="PLN" price="2620.8" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="RON" price="2815.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="RUB" price="42537.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_9" currency="TWD" price="21816.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="USD" listprice="800" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="AUD" listprice="1032.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="NZD" listprice="1104.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="BRL" listprice="2544.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="CAD" listprice="1016.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="CNY" listprice="5344.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="EUR" listprice="680.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="GBP" listprice="624.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="JPY" listprice="87752" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="KRW" listprice="912272" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="PLN" listprice="2912.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="RON" listprice="3128.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="RUB" listprice="47264.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_10" currency="TWD" listprice="24240.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_10" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_25"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_10" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_8"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_10" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_26"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220501 -->
+<!-- END items of CLA022_2205 -->
+<!-- END catalog entry : CLA022_2205 -->
+<!-- BEGIN catalog entry : CLA022_2206 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersLaptops_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CLA022_2206" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersLaptops_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CLA022_2206" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersLaptops_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_ComputersLaptops_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersLaptops_6" baseitem_id="@baseproduct_id_ComputersLaptops_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersLaptops_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersLaptops_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="USD" price="400" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="AUD" price="516.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="NZD" price="552.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="BRL" price="1272.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="CAD" price="508.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="CNY" price="2672.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="EUR" price="340.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="GBP" price="312.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="JPY" price="43876" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="KRW" price="456136" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="PLN" price="1456.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="RON" price="1564.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="RUB" price="23632.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersLaptops_12" currency="TWD" price="12120.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_product_id_ComputersLaptops_11" currency="TWD" listprice="12120.0" />
+<!-- Begin attribute mapping for CLA022_2206-->
+<catentryattr attr_id="@attribute_id_ComputersLaptops_1" attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2206" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+
+<catentryattr attr_id="@attribute_id_ComputersLaptops_3" attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2206" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_4" attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2206" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersLaptops_11" />
+<!-- End attribute mapping for CLA022_2206-->
+
+<!-- BEGIN items of CLA022_2206 -->
+<!-- BEGIN item bean CLA022_220601 -->
+<itemspc itemspc_id="@itemspc_id_ComputersLaptops_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersLaptops_6" partnumber="CLA022_220601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersLaptops_6" itemspc_id="@itemspc_id_ComputersLaptops_6" itemversn_id="@itemversn_id_ComputersLaptops_6" />
+<catentry catentry_id="@catentry_item_id_ComputersLaptops_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersLaptops_6"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CLA022_220601" markfordelete="0" baseitem_id="@baseproduct_id_ComputersLaptops_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersLaptops_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersLaptops_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersLaptops_12" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersLaptops" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersLaptops_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersLaptops_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersLaptops_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="USD" price="400" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="AUD" price="516.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="NZD" price="552.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="BRL" price="1272.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="CAD" price="508.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="CNY" price="2672.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="EUR" price="340.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="GBP" price="312.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="JPY" price="43876" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="KRW" price="456136" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="PLN" price="1456.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="RON" price="1564.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="RUB" price="23632.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersLaptops_11" currency="TWD" price="12120.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_item_id_ComputersLaptops_12" currency="TWD" listprice="12120.0" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_6" attrval_id="@attribute_value_id_ComputersLaptops_14"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersLaptops_12" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_5" attrval_id="@attribute_value_id_ComputersLaptops_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersLaptops_12" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_8" attrval_id="@attribute_value_id_ComputersLaptops_8"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersLaptops_12" />
+<catentryattr attr_id="@attribute_id_ComputersLaptops_7" attrval_id="@attribute_value_id_ComputersLaptops_15"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersLaptops_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CLA022_220601 -->
+<!-- END items of CLA022_2206 -->
+<!-- END catalog entry : CLA022_2206 -->
+<!-- END: Writing catalog entries -->
+

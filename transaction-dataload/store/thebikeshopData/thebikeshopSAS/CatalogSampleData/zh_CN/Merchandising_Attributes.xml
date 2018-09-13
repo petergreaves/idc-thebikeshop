@@ -1,0 +1,12 @@
+
+<!--start of Merchandising -->
+<attrdesc attr_id="@attribute_id_Merchandising_1" attrtype_id="STRING" language_id="&zh_CN;" name="独家" description="独家" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" valusage="1" language_id="&zh_CN;" sequence="1" value="独家" integervalue="" floatvalue="" stringvalue="独家" /> 
+
+<attrdesc attr_id="@attribute_id_Merchandising_2" attrtype_id="STRING" language_id="&zh_CN;" name="清仓
+" description="清仓
+" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" valusage="1" language_id="&zh_CN;" sequence="1" value="清仓
+" integervalue="" floatvalue="" stringvalue="清仓
+" /> 
+<!--end of Merchandising -->

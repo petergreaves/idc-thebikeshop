@@ -1,0 +1,13 @@
+<collateral collateral_id="@collateral_id_fasteners_hero" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="FastenersHeroImage" />
+<emspot emspot_id="@emspot_id_fasteners_hero" storeent_id="&MAR_STOREENT_ID;"  name="FastenersRow1_Content" description="Display the hero image on the fasteners page" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_fasteners_hero" emspot_id="@emspot_id_fasteners_hero" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_fasteners_hero" />
+
+<!-- Content Area ESpot for B2B home page FastenersRow2_Content_Left -->
+<collateral collateral_id="@collateral_id_bottom_fasteners_left" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="BoltsAdContent" />
+<emspot emspot_id="@emspot_id_bottom_fasteners_left" storeent_id="&MAR_STOREENT_ID;"  name="FastenersRow2_Content_Left" description="Display ads on the left side of the fasteners page." usagetype="MARKETING"/>
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_bottom_fasteners_left" emspot_id="@emspot_id_bottom_fasteners_left" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_bottom_fasteners_left" />
+
+<!-- Content Area ESpot for B2B Home Page FastenersRow2_Content_Right -->
+<collateral collateral_id="@collateral_id_bottom_fasteners_right" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="BXRBuildersScrewsAdContent" />
+<emspot emspot_id="@emspot_id_bottom_fasteners_right" storeent_id="&MAR_STOREENT_ID;"  name="FastenersRow2_Content_Right" description="Display ads on the right side of the fasteners page." usagetype="MARKETING"/>
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_bottom_fasteners_right" emspot_id="@emspot_id_bottom_fasteners_right" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_bottom_fasteners_right" />

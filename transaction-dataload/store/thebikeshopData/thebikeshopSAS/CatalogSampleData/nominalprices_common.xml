@@ -1,0 +1,16 @@
+<!-- Nominal prices -->
+
+<tradeposcn tradeposcn_id="@nominal_tradeposcn" member_id="@catalog_mbr_id" markfordelete="0" name="&CAT_STORE_IDENTIFIER;Nominal" type="S" precedence="0" flags="0"/>
+
+<policy 
+policy_id="@policy_id_nominal_1" 
+policyname="Nominal" 
+policytype_id="Price" 
+storeent_id="@catalogStore" 
+properties="name=&CAT_STORE_IDENTIFIER;Nominal&amp;orgentity_dn=ou=&CAT_STORE_DIR_LOWERCASE;,o=extended sites organization,o=root organization&amp;type=NOMINAL" 
+/>
+
+<policycmd 
+policy_id="@policy_id_nominal_1" 
+businesscmdclass="com.ibm.commerce.price.commands.RetrievePricesCmdImpl" 
+/>

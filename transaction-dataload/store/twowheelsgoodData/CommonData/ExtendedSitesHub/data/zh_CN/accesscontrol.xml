@@ -1,0 +1,59 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="关于我们
+" description="渠道商店中“关于我们”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="渠道商店中公共标题的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="渠道商店中“联系我们”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="渠道商店中“联系我们确认”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="渠道商店中“创建商店”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="渠道商店中“常见问题”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="渠道商店中登录页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="渠道商店中“登录表单”页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="渠道商店中导航框架的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="渠道商店中价格页面的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="渠道商店中注册页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="渠道商店中注册成功页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="渠道商店中提供服务页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="渠道商店中索引页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="从渠道商店连接至公共区域的链接的视图" language_id="&zh_CN;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="渠道商店中欢迎页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="渠道商店中注册页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="渠道商店中注册成功页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="渠道商店中注册页面的视图" language_id="&zh_CN;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="渠道商店中注册成功页面的视图" language_id="&zh_CN;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="渠道商店所有用户视图" description="所有用户都可访问的渠道商店视图" language_id="&zh_CN;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="所有用户执行渠道商店所有用户视图" description="所有用户执行渠道商店所有用户视图" language_id="&zh_CN;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="渠道组织的合同管理员对成员资源执行创建命令" description="合同管理员可以在渠道组织中创建合同" language_id="&zh_CN;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="渠道组织的合同管理员对合同资源执行部署合同命令" description="合同管理员可以在渠道组织中部署合同" language_id="&zh_CN;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="渠道组织的合同管理员显示合同数据 bean 资源组" description="合同管理员显示渠道组织中的合同数据 bean" language_id="&zh_CN;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="渠道策略组" description="此策略组包含所有特定于渠道的策略。" language_id="&zh_CN;"/>
+

@@ -1,0 +1,14 @@
+<!-- Create Profile Organization -->
+<mbrrel descendant_id="@seller_b2c_mbr_id" ancestor_id="@manufacturer_mbr_id" sequence="1" />
+<mbrrel descendant_id="@seller_b2c_mbr_id" ancestor_id="-2001" sequence="2" />
+
+<addrbook addrbook_id="@profile_addrbook_id" member_id="@seller_b2c_mbr_id" displayname="Internal use only." />
+<address address_id="@profile_addr_id" member_id="@seller_b2c_mbr_id" addrbook_id="@profile_addrbook_id" status="P" isprimary="1" nickname="Asset Store Organization" selfaddress="1" />
+
+<mbrrole member_id="@seller_b2c_mbr_id" role_id="-9" orgentity_id="@seller_b2c_orgentity_id" />
+<mbrrole member_id="@seller_b2c_mbr_id" role_id="-12" orgentity_id="@seller_b2c_orgentity_id" />
+<mbrrole member_id="@seller_b2c_mbr_id" role_id="-16" orgentity_id="@seller_b2c_orgentity_id" />
+<mbrrole member_id="@seller_b2c_mbr_id" role_id="-27" orgentity_id="@seller_b2c_orgentity_id" />
+<mbrrole member_id="@seller_b2c_mbr_id" role_id="-35" orgentity_id="@seller_b2c_orgentity_id" />
+
+

@@ -1,0 +1,58 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="Despre noi" description="Vizualizare pentru pagina despre noi din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="Vizualizare pentru antetul comun din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="Vizualizare pentru pagina contactaţi-ne din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="Vizualizare pentru pagina de confirmare contact din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="Vizualizare pentru pagina de creare magazin din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="Vizualizare pentru pagina de întrebări puse frecvent din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="Vizualizare pentru pagina de logare din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="Vizualizare pentru pagina formular de logare din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="Vizualizare pentru cadrul de navigare din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="Vizualizare pentru pagina de preţuri din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="Vizualizare pentru pagina de înregistrare din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="Vizualizare pentru pagina de înregistrare cu succes din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="Vizualizare pentru pagina de servicii furnizate din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="VizualizareMagazin" description="Vizualizare pentru pagina index din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="Vizualizare pentru zona de legătură cu publicul din Channel Store" language_id="&ro_RO;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="Vizualizare pentru pagina de bun venit din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="Vizualizare pentru pagina de înregistrare din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="Vizualizare pentru pagina de înregistrare cu succes din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="Vizualizare pentru pagina de înregistrare din Channel Store" language_id="&ro_RO;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="Vizualizare pentru pagina de înregistrare cu succes din Channel Store" language_id="&ro_RO;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="Vizualizări Channel Store accesibile tuturor utilizatorilor" description="Vizualizări Channel store accesibile tuturor utilizatorilor" language_id="&ro_RO;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="Toţi utilizatorii execută vizualizări pentru toţi utilizatorii magazinului lanţ" description="Toţi utilizatorii execută vizualizări pentru toţi utilizatorii magazinului lanţ" language_id="&ro_RO;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="Contract Administrators pentru Channel Organization Execute creează comenzi pe Member Resource" description="Contract Administrators pot crea contracte în Channel Organization" language_id="&ro_RO;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="Contract Administrators pentru Channel Organization execută comenzi de implementare de contracte pe Contract Resource" description="Contract Administrators pot implementa contracte pe Channel Organization" language_id="&ro_RO;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="Contract Administrators pentru Channel Organization afişează Contract Databean Resource Group" description="Contract Administrators afişează Contract Databeans în Channel Organization" language_id="&ro_RO;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="Grup de politici de canal" description="Acest grup de politici conţine toate politicile specifice Channel." language_id="&ro_RO;"/>
+

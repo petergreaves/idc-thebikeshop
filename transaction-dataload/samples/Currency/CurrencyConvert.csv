@@ -1,0 +1,4 @@
+CurrencyConvert,,,,,,
+StoreIdentifier,fromCurrency,toCurrency,factor,multiplyOrDivide,biDirectional,updatable
+AuroraESite,USD,INR,68.5,M,Y,Y
+ExtendedSitesCatalogAssetStore,USD,INR,68.5,M,Y,Y

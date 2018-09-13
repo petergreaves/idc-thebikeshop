@@ -1,0 +1,6 @@
+EmailMessage,
+messageType,transport,paramName,paramValue
+PasswordNotify,Silverpop,campaignId,528461
+PasswordNotify,Silverpop,recipient,recipient@host.com
+PasswordNotify,Silverpop,subject,mySubject
+OrderReceived,Email,someKey,someValue

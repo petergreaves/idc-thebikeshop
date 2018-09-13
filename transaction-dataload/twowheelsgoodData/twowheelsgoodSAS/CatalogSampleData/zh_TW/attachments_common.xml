@@ -1,0 +1,706 @@
+<!-- Attachments -->
+
+<!-- New Attachment feature does NOT use ATTACHMENT or ATTACHUSG tables -->
+<!-- Valid Attachment Object Types are CATALOG, CATGROUP, CATENTRY, CALLATERAL -->
+<!-- Valid Attchment Relations are No Usages Selected, Warranty, Images, Full Images, User Manual -->
+
+<!-- Description of the attachment relation usage -->
+
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_User_Manual_zh_TW"
+   atchrlus_id="@atchrlus_id_User_Manual"
+   language_id="&zh_TW;"
+   name="使用手冊"
+   shortdescription="PDF 格式的使用手冊。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_Warranty_zh_TW"
+   atchrlus_id="@atchrlus_id_Warranty"
+   language_id="&zh_TW;"
+   name="保固期"
+   shortdescription="PDF 格式的保固合約。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlus_id_Thumbnail_zh_TW"
+   atchrlus_id="@atchrlus_id_Thumbnail"
+   language_id="&zh_TW;"
+   name="Thumbnail"
+   shortdescription="網站地圖頁面所用的縮圖。"
+/>
+
+
+<!-- Description of the attachment relation usage -->
+
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_AngleThumbnail_zh_TW"
+   atchrlus_id="@atchrlus_id_AngleThumbnail"
+   language_id="&zh_TW;"
+   name="縮圖角度影像"
+   shortdescription="縮圖角度影像。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_AngleFullimage_zh_TW"
+   atchrlus_id="@atchrlus_id_AngleFullimage"
+   language_id="&zh_TW;"
+   name="全圖角度影像"
+   shortdescription="全圖角度影像。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_image_size_55_zh_TW"
+   atchrlus_id="@atchrlus_id_image_size_55"
+   language_id="&zh_TW;"
+   name="影像大小 55"
+   shortdescription="影像大小 55。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_image_size_40_zh_TW"
+   atchrlus_id="@atchrlus_id_image_size_40"
+   language_id="&zh_TW;"
+   name="影像大小 40"
+   shortdescription="影像大小 40。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_image_size_1000_zh_TW"
+   atchrlus_id="@atchrlus_id_image_size_1000"
+   language_id="&zh_TW;"
+   name="影像大小 1000"
+   shortdescription="影像大小 1000。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_image_size_330_zh_TW"
+   atchrlus_id="@atchrlus_id_image_size_330"
+   language_id="&zh_TW;"
+   name="影像大小 330"
+   shortdescription="影像大小 330。"
+/>
+<atchrlusds
+   atchrlusds_id="@atchrlusds_id_swatch_image_zh_TW"
+   atchrlus_id="@atchrlus_id_swatch_image"
+   language_id="&zh_TW;"
+   name="範例影像"
+   shortdescription="範例影像。"
+/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_25_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_25_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_25_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_25_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_25_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_25_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_25_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_25_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_25_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_25_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_25_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_25_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_25" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_31_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_31_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_31_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_31_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_31_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_31_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_31_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_31_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_31" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_22_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_22_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_22_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_22_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_22_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_22_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_22_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_22_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_22" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20501_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20501_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20501_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20501_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20501_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20501_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20501_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20501_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20501_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20501_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20501_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20501_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20501" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20502_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20502_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20502_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20502_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20502_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20502_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20502_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20502_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20502_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20502_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20502_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20502_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20502" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20503_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20503_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20503_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20503_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20503_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20503_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20503_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20503_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20503_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20503_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20503_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20503_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20503" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20504_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20504_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20504_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20504_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20504_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20504_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20504_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20504_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20504_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20504_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20504_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20504_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20504" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20505_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20505_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20505_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20505_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20505_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20505_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20505_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20505_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20505_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20505_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20505_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20505_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20505" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20506_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20506_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20506_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20506_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20506_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20506_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20506_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20506_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20506_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20506_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20506_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20506_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20506" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20507_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20507_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20507_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20507_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20507_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20507_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20507_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20507_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20507_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20507_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20507_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20507_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20507" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20508_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20508_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20508_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20508_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20508_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20508_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20508_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20508_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20508_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20508_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20508_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20508_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20508" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20509_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20509_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20509_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20509_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20509_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20509_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20509_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20509_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20509_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20509_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20509_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20509_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20509" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20510_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20510_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20510_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20510_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20510_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20510_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20510_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20510_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20510_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20510_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20510_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20510_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20510" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20511_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20511_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20511_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20511_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20511_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20511_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20511_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20511_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20511_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20511_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20511_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20511_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20511" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20512_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20512_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20512_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20512_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20512_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20512_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20512_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20512_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20512_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20512_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20512_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20512_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20512" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20513_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20513_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20513_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20513_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20513_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20513_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20513_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20513_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20513_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20513_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20513_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20513_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20513" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20514_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20514_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20514_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20514_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20514_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20514_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20514_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20514_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20514_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20514_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20514_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20514_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20514" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20515_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20515_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20515_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20515_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20515_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20515_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20515_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20515_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20515_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20515_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20515_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20515_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20515" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20516_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20516_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20516_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20516_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20516_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20516_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20516_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20516_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20516_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20516_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20516_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20516_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20516" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20517_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20517_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20517_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20517_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20517_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20517_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20517_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20517_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20517_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20517_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20517_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20517_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20517" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20518_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20518_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20518_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20518_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20518_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20518_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20518_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20518_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20518_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20518_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20518_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20518_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20518" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20519_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20519_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20519_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20519_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20519_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20519_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20519_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20519_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20519_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20519_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20519_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20519_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20519" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20520_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20520_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20520_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20520_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20520_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20520_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20520_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20520_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20520_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20520_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20520_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20520_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20520" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20521_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20521_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20521_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20521_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20521_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20521_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20521_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20521_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20521_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20521_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20521_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20521_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20521" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20522_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20522_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20522_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20522_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20522_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20522_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20522_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20522_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20522_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20522_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20522_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20522_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20522" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20523_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20523_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20523_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20523_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20523_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20523_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20523_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20523_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20523_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20523_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20523_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20523_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20523" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20524_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20524_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress3_20524_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress3_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20524_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20524_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress3_20524_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress3_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20524_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20524_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress3_20524_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress3_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20524_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 1" shortdescription="Gusso 無袖亮片洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20524_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 2" shortdescription="Gusso 無袖亮片洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress3_20524_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress3_20524" language_id="&zh_TW;" name="Gusso 無袖亮片洋裝角度 3" shortdescription="Gusso 無袖亮片洋裝角度 3"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30101_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30101_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30101_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30101_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30101_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30101_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30101_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30101_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30101" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30102_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30102_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30102_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30102_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30102_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30102_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30102_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30102_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30102" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30103_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30103_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30103_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30103_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30103_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30103_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30103_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30103_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30103" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30104_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30104_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30104_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30104_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30104_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30104_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30104_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30104_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30104" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30105_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30105_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30105_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30105_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30105_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30105_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30105_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30105_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30105" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30106_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30106_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30106_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30106_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30106_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30106_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30106_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30106_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30106" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30107_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30107_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30107_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30107_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30107_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30107_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30107_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30107_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30107" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30108_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30108_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30108_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30108_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30108_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30108_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30108_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30108_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30108" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30109_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30109_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30109_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30109_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30109_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30109_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30109_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30109_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30109" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30110_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30110_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30110_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30110_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30110_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30110_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30110_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30110_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30110" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30111_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30111_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30111_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30111_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30111_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30111_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30111_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30111_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30111" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30112_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30112_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30112_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30112_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30112_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30112_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30112_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30112_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30112" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30113_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30113_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30113_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30113_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30113_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30113_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30113_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30113_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30113" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30114_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30114_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30114_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30114_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30114_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30114_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30114_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30114_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30114" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30115_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30115_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30115_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30115_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30115_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30115_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30115_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30115_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30115" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30116_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30116_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30116_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30116_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30116_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30116_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30116_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30116_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30116" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30117_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30117_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30117_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30117_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30117_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30117_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30117_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30117_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30117" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_30118_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_30118_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_30118_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_30118_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_30118_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_30118_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_30118_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 1" shortdescription="各種休閒及踝長裙洋裝角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_30118_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_30118" language_id="&zh_TW;" name="各種休閒及踝長裙洋裝角度 2" shortdescription="各種休閒及踝長裙洋裝角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20201_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20201_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20201_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20201_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20201_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20201_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20201_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20201_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20201" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20202_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20202_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20202_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20202_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20202_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20202_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20202_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20202_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20202" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20203_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20203_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20203_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20203_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20203_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20203_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20203_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20203_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20203" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20204_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20204_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20204_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20204_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20204_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20204_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20204_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20204_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20204" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20205_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20205_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20205_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20205_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20205_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20205_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20205_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20205_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20205" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20206_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20206_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20206_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20206_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20206_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20206_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20206_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20206_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20206" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20207_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20207_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20207_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20207_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20207_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20207_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20207_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20207_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20207" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20208_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20208_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20208_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20208_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20208_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20208_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20208_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20208_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20208" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20209_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20209_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20209_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20209_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20209_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20209_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20209_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20209_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20209" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20210_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20210_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20210_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20210_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20210_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20210_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20210_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20210_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20210" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20211_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20211_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20211_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20211_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20211_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20211_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20211_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20211_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20211" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20212_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20212_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20212_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20212_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20212_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20212_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20212_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20212_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20212" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress1_20213_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress1_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_thumbangle_dress2_20213_zh_TW" atchtgt_id="@atchtgt_id_thumbangle_dress2_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress1_20213_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress1_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchtgtdsc atchtgtdsc_id="@atchtgtdsc_id_fullimageangle_dress2_20213_zh_TW" atchtgt_id="@atchtgt_id_fullimageangle_dress2_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress1_20213_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress1_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_thumbangle_dress2_20213_zh_TW" atchrel_id="@atchrel_id_thumbangle_dress2_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress1_20213_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress1_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 1" shortdescription="Luigi Valenti 連身背心裙角度 1"/>
+<atchreldsc atchreldsc_id="@atchreldsc_id_fullimageangle_dress2_20213_zh_TW" atchrel_id="@atchrel_id_fullimageangle_dress2_20213" language_id="&zh_TW;" name="Luigi Valenti 連身背心裙角度 2" shortdescription="Luigi Valenti 連身背心裙角度 2"/>
+

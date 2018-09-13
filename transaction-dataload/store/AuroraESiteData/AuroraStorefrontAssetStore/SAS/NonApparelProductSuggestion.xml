@@ -1,0 +1,2674 @@
+<emspot emspot_id="@madisons_emspot_id_prod24_650" storeent_id="&MAR_STOREENT_ID;"  name="ComputersDesktopsProductRight_CatEntries" description="Product Recommendation in Computer Desktops" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod24_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod24_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod24_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ComputersDesktopsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Computer Desktops"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod24_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod24_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod24_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod24_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod24_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod24_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod24_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod24_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod24_p631"
+    name="emsId"
+    value="@new_emspot_id_prod24_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod24_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod24_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod24_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod24_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod24_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod24_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod24_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod24_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod25_650" storeent_id="&MAR_STOREENT_ID;"  name="ComputersLaptopsProductRight_CatEntries" description="Product Recommendation in Computer Laptops" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod25_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod25_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod25_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ComputersLaptopsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Computer Laptops"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod25_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod25_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod25_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod25_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod25_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod25_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod25_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod25_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod25_p631"
+    name="emsId"
+    value="@new_emspot_id_prod25_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod25_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod25_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod25_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod25_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod25_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod25_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod25_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod25_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod26_650" storeent_id="&MAR_STOREENT_ID;"  name="ComputersTabletsProductRight_CatEntries" description="Product Recommendation in Computer Tablets" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod26_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod26_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod26_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ComputersTabletsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Computer Tablets"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod26_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod26_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod26_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod26_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod26_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod26_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod26_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod26_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod26_p631"
+    name="emsId"
+    value="@new_emspot_id_prod26_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod26_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod26_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod26_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod26_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod26_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod26_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod26_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod26_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod27_650" storeent_id="&MAR_STOREENT_ID;"  name="ComputersAccessoriesProductRight_CatEntries" description="Product Recommendation in Computer Accessories" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod27_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod27_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod27_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ComputersAccessoriesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Computer Accessories"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod27_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod27_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod27_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod27_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod27_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod27_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod27_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod27_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod27_p631"
+    name="emsId"
+    value="@new_emspot_id_prod27_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod27_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod27_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod27_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod27_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod27_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod27_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod27_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod27_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod28_650" storeent_id="&MAR_STOREENT_ID;"  name="ComputersComponentsProductRight_CatEntries" description="Product Recommendation in Computer Components" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod28_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod28_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod28_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ComputersComponentsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Computer Components"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod28_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod28_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod28_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod28_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod28_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod28_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod28_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod28_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod28_p631"
+    name="emsId"
+    value="@new_emspot_id_prod28_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod28_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod28_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod28_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod28_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod28_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod28_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod28_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod28_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod29_650" storeent_id="&MAR_STOREENT_ID;"  name="NewslettersProductRight_CatEntries" description="Product Recommendation in Newsletters" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod29_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod29_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod29_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="NewslettersProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Newsletters"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod29_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod29_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod29_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod29_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod29_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod29_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod29_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod29_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod29_p631"
+    name="emsId"
+    value="@new_emspot_id_prod29_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod29_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod29_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod29_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod29_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod29_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod29_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod29_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod29_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+
+<emspot emspot_id="@madisons_emspot_id_prod30_650" storeent_id="&MAR_STOREENT_ID;"  name="MagazinesProductRight_CatEntries" description="Product Recommendation in Magazines" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod30_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod30_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod30_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MagazinesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Magazines"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod30_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod30_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod30_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod30_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod30_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod30_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod30_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod30_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod30_p631"
+    name="emsId"
+    value="@new_emspot_id_prod30_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod30_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod30_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod30_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod30_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod30_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod30_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod30_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod30_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod31_650" storeent_id="&MAR_STOREENT_ID;"  name="AppliancesProductRight_CatEntries" description="Product Recommendation in Appliances" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod31_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod31_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod31_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="AppliancesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Appliances"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod31_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod31_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod31_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod31_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod31_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod31_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod31_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod31_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod31_p631"
+    name="emsId"
+    value="@new_emspot_id_prod31_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod31_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod31_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod31_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod31_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod31_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod31_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod31_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod31_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod32_650" storeent_id="&MAR_STOREENT_ID;"  name="LightingProductRight_CatEntries" description="Product Recommendation in Lighting" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod32_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod32_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod32_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="LightingProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Lighting"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod32_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod32_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod32_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod32_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod32_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod32_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod32_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod32_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod32_p631"
+    name="emsId"
+    value="@new_emspot_id_prod32_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod32_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod32_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod32_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod32_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod32_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod32_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod32_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod32_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod33_650" storeent_id="&MAR_STOREENT_ID;"  name="TablewareProductRight_CatEntries" description="Product Recommendation in Tableware" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod33_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod33_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod33_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="TablewareProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Tableware"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod33_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod33_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod33_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod33_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod33_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod33_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod33_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod33_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod33_p631"
+    name="emsId"
+    value="@new_emspot_id_prod33_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod33_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod33_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod33_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod33_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod33_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod33_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod33_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod33_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod34_650" storeent_id="&MAR_STOREENT_ID;"  name="KitchenwareProductRight_CatEntries" description="Product Recommendation in Kitchenware" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod34_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod34_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod34_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="KitchenwareProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Kitchenware"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod34_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod34_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod34_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod34_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod34_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod34_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod34_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod34_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod34_p631"
+    name="emsId"
+    value="@new_emspot_id_prod34_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod34_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod34_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod34_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod34_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod34_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod34_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod34_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod34_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod35_650" storeent_id="&MAR_STOREENT_ID;"  name="BathAccessoriesProductRight_CatEntries" description="Product Recommendation in BathAccessories" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod35_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod35_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod35_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BathAccessoriesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in BathAccessories"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod35_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod35_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod35_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod35_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod35_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod35_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod35_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod35_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod35_p631"
+    name="emsId"
+    value="@new_emspot_id_prod35_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod35_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod35_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod35_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod35_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod35_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod35_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod35_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod35_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod36_650" storeent_id="&MAR_STOREENT_ID;"  name="FurnitureProductRight_CatEntries" description="Product Recommendation in Furniture" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod36_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod36_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod36_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="FurnitureProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Furniture"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod36_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod36_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod36_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod36_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod36_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod36_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod36_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod36_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod36_p631"
+    name="emsId"
+    value="@new_emspot_id_prod36_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod36_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod36_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod36_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod36_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod36_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod36_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod36_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod36_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod37_650" storeent_id="&MAR_STOREENT_ID;"  name="FruitProductRight_CatEntries" description="Product Recommendation in Fruit" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod37_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod37_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod37_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="FruitProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Fruit"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod37_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod37_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod37_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod37_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod37_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod37_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod37_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod37_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod37_p631"
+    name="emsId"
+    value="@new_emspot_id_prod37_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod37_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod37_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod37_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod37_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod37_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod37_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod37_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod37_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod38_650" storeent_id="&MAR_STOREENT_ID;"  name="VegetablesProductRight_CatEntries" description="Product Recommendation in Vegetables" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod38_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod38_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod38_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="VegetablesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Vegetables"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod38_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod38_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod38_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod38_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod38_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod38_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod38_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod38_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod38_p631"
+    name="emsId"
+    value="@new_emspot_id_prod38_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod38_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod38_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod38_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod38_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod38_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod38_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod38_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod38_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+	
+<emspot emspot_id="@madisons_emspot_id_prod39_650" storeent_id="&MAR_STOREENT_ID;"  name="MeatProductRight_CatEntries" description="Product Recommendation in Meat" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod39_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod39_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod39_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MeatProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Meat"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod39_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod39_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod39_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod39_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod39_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod39_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod39_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod39_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod39_p631"
+    name="emsId"
+    value="@new_emspot_id_prod39_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod39_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod39_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod39_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod39_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod39_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod39_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod39_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod39_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+	
+<emspot emspot_id="@madisons_emspot_id_prod40_650" storeent_id="&MAR_STOREENT_ID;"  name="DairyProductRight_CatEntries" description="Product Recommendation in Dairy" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod40_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod40_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod40_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="DairyProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Dairy"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod40_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod40_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod40_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod40_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod40_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod40_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod40_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod40_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod40_p631"
+    name="emsId"
+    value="@new_emspot_id_prod40_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod40_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod40_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod40_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod40_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod40_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod40_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod40_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod40_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod41_650" storeent_id="&MAR_STOREENT_ID;"  name="MedicineProductRight_CatEntries" description="Product Recommendation in Medicine" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod41_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod41_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod41_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MedicineProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Medicine"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod41_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod41_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod41_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod41_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod41_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod41_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod41_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod41_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod41_p631"
+    name="emsId"
+    value="@new_emspot_id_prod41_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod41_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod41_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod41_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod41_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod41_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod41_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod41_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod41_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod42_650" storeent_id="&MAR_STOREENT_ID;"  name="VitaminsProductRight_CatEntries" description="Product Recommendation in Vitamins" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod42_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod42_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod42_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="VitaminsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Vitamins"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod42_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod42_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod42_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod42_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod42_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod42_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod42_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod42_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod42_p631"
+    name="emsId"
+    value="@new_emspot_id_prod42_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod42_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod42_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod42_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod42_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod42_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod42_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod42_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod42_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod43_650" storeent_id="&MAR_STOREENT_ID;"  name="ElectronicsRow4_CatEntries" description="Product Recommendation in Electronics" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_electronics_espot_title" emspot_id="@madisons_emspot_id_prod43_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod43_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod43_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod43_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ElectronicsRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Electronics"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod43_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod43_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod43_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod43_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod43_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod43_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod43_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod43_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod43_p631"
+    name="emsId"
+    value="@new_emspot_id_prod43_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod43_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod43_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod43_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod43_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod43_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod43_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod43_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod43_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<emspot emspot_id="@madisons_emspot_id_prod44_650" storeent_id="&MAR_STOREENT_ID;"  name="NewslettersAndMagazinesRow4_CatEntries" description="Product Recommendation in Magazines and Newsletters" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_newsandmagazines_espot_title" emspot_id="@madisons_emspot_id_prod44_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod44_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod44_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod44_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="NewslettersAndMagazinesRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Magazines and Newsletters"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod44_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod44_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod44_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod44_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod44_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod44_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod44_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod44_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod44_p631"
+    name="emsId"
+    value="@new_emspot_id_prod44_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod44_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod44_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod44_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod44_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod44_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod44_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod44_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod44_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+	
+	
+<emspot emspot_id="@madisons_emspot_id_prod45_650" storeent_id="&MAR_STOREENT_ID;"  name="HomeFurnishingsRow4_CatEntries" description="Product Recommendation in Home and  Furnishings" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_homefurnishings_espot_title" emspot_id="@madisons_emspot_id_prod45_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod45_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod45_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod45_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="HomeFurnishingsRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Home and  Furnishings"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod45_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod45_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod45_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod45_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod45_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod45_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod45_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod45_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod45_p631"
+    name="emsId"
+    value="@new_emspot_id_prod45_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod45_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod45_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod45_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod45_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod45_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod45_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod45_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod45_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+
+<emspot emspot_id="@madisons_emspot_id_prod46_650" storeent_id="&MAR_STOREENT_ID;"  name="GroceryRow4_CatEntries" description="Product Recommendation for Grocery" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_grocery_espot_title" emspot_id="@madisons_emspot_id_prod46_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod46_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod46_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod46_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GroceryRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation for Grocery"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod46_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod46_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod46_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod46_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod46_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod46_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod46_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod46_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod46_p631"
+    name="emsId"
+    value="@new_emspot_id_prod46_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod46_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod46_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod46_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod46_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod46_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod46_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod46_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod46_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod47_650" storeent_id="&MAR_STOREENT_ID;"  name="HealthRow4_CatEntries" description="Product Recommendation for Health" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_health_espot_title" emspot_id="@madisons_emspot_id_prod47_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod47_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod47_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod47_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="HealthRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation for Health"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod47_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod47_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod47_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod47_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod47_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod47_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod47_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod47_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod47_p631"
+    name="emsId"
+    value="@new_emspot_id_prod47_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod47_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod47_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod47_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod47_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod47_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod47_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod47_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod47_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<!-- 
+	Hardware category featured products
+	
+	Made up of the following parts:
+	1) Create a product recommendation web activity 
+-->
+<emspot emspot_id="@madisons_emspot_id_prod60_650" storeent_id="&MAR_STOREENT_ID;"  name="HardwareLightingProductRight_CatEntries" description="Product Recommendation in Hardware Lighting" usagetype="MARKETING" />
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod60_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod60_650" dmemspotord_id="-3" />
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod60_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="HardwareLightingProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Hardware Lighting"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod60_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod60_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod60_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod60_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod60_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod60_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod60_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod60_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod60_p631"
+    name="emsId"
+    value="@new_emspot_id_prod60_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod60_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod60_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod60_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod60_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod60_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod60_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod60_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod60_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod61_650" storeent_id="&MAR_STOREENT_ID;"  name="BoltsProductRight_CatEntries" description="Product Recommendation in Bolts" usagetype="MARKETING" />
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod61_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod61_650" dmemspotord_id="-3" />
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod61_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BoltsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Bolts"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod61_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod61_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod61_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod61_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod61_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod61_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod61_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod61_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod61_p631"
+    name="emsId"
+    value="@new_emspot_id_prod61_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod61_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod61_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod61_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod61_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod61_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod61_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod61_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod61_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+	
+<emspot emspot_id="@madisons_emspot_id_prod62_650" storeent_id="&MAR_STOREENT_ID;"  name="NutsProductRight_CatEntries" description="Product Recommendation in Nuts" usagetype="MARKETING" />
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod62_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod62_650" dmemspotord_id="-3" />
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod62_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="NutsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Nuts"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod62_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod62_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod62_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod62_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod62_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod62_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod62_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod62_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod62_p631"
+    name="emsId"
+    value="@new_emspot_id_prod62_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod62_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod62_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod62_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod62_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod62_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod62_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod62_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod62_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod63_650" storeent_id="&MAR_STOREENT_ID;"  name="ScrewsProductRight_CatEntries" description="Product Recommendation in Screws" usagetype="MARKETING" />
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod63_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod63_650" dmemspotord_id="-3" />
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod63_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="ScrewsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Screws"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod63_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod63_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod63_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod63_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod63_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod63_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod63_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod63_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod63_p631"
+    name="emsId"
+    value="@new_emspot_id_prod63_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod63_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod63_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod63_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod63_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod63_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod63_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod63_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod63_653"
+    triggermatch="0"
+    optcounter="0"  />

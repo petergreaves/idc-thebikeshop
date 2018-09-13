@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10001_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/1104B_EGRS_Camembert_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10001_zh_CN"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  language_id="&zh_CN;"
+  name="乳脂状卡门贝干酪"
+  shortdescription="乳脂状卡门贝干酪 12 美元/块，仅限本周"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10001_zh_CN"
+  atchast_id="@atchast_id_dairy10001_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10001_zh_CN"
+  atchrel_id="@atchrel_id_Dairy1001"
+  language_id="&zh_CN;"
+  name="乳脂状卡门贝干酪"
+  shortdescription="乳脂状卡门贝干酪"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1001"
+	language_id="&zh_CN;"
+	marketingtext="乳脂状卡门贝干酪" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10002_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/1108B_EGRS_Milk_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10002_zh_CN"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  language_id="&zh_CN;"
+  name="新鲜牛奶"
+  shortdescription="新鲜牛奶 3.99/箱（2 升），仅限本周"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10002_zh_CN"
+  atchast_id="@atchast_id_dairy10002_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10002_zh_CN"
+  atchrel_id="@atchrel_id_Dairy1002"
+  language_id="&zh_CN;"
+  name="新鲜牛奶"
+  shortdescription="新鲜牛奶"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1002"
+	language_id="&zh_CN;"
+	marketingtext="新鲜牛奶" 
+/>
+

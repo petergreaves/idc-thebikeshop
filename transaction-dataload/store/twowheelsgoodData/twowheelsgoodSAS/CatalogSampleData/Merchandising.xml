@@ -1,0 +1,61 @@
+<!--BEGIN Descriptive attribute Merchandising -->
+<attr attr_id="@attribute_id_Merchandising_1" identifier="Exclusive" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" storedisplay="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" storeent_id="&CAT_STOREENT_ID;" identifier="Exclusive" valusage="1" /> 
+
+<attr attr_id="@attribute_id_Merchandising_2" identifier="Clearance" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" storedisplay="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" storeent_id="&CAT_STOREENT_ID;" identifier="Clearance" valusage="1" /> 
+<!--END Descriptive attribute Merchandising -->
+
+<!--BEGIN Descriptive attribute : Exclusive -->
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_Appliances_1" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_BathAccessories_5" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_BoysPants_16" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_BoysShoes_59" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_BoysTops_105" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_ComputersDesktops_5" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_Furniture_1" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_GirlsPants_17" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_GirlsShoes_20" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_Kitchenware_11" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_Magazines_1" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_MenAccessories_40" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_MenPants_21" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_MenShoes_46" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_Tableware_29" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenHandbags_17" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenShirtsBlouses_30" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenShoes_64" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_10" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_21" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_33" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_1" attrval_id="@attribute_value_id_Merchandising_1" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_40" /> 
+<!--END Descriptive attribute : Exclusive -->
+
+<!--BEGIN Descriptive attribute : Clearance -->
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_Appliances_3" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_BathAccessories_21" />
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_BoysPants_42" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_BoysTops_29" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_ComputersAccessories_3" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_ComputersLaptops_7" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_GirlsDressesSkirts_6" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_GirlsPants_31" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_Kitchenware_5" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_Lighting_3" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_MenAccessories_8" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_MenJackets_8" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_MenShirts_15" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_MenSuits_8" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenAccessories_13" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenPants_13" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenShoes_11" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_GirlsTops_21" />
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_MenShoes_46" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_Tableware_29" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenHandbags_17" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenShirtsBlouses_30" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_WomenShoes_64" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_21" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_24" /> 
+<catentryattr attr_id="@attribute_id_Merchandising_2" attrval_id="@attribute_value_id_Merchandising_2" usage="2" sequence="1" catentry_id="@catentry_product_id_apparel_women_dresses_31" /> 
+<!--END Descriptive attribute : Clearance -->

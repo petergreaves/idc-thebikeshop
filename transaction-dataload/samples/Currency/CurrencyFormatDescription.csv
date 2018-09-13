@@ -1,0 +1,3 @@
+CurrencyFormatDescription,,,,,,,,,,,,,,
+StoreIdentifier,numberUsageID,setCurrency,languageId,currencySymbol,customizedCurrencyString,currencyPrefixPos,currencySuffixPos,displayLocale,currencyPrefixNeg,currencySuffixNeg,radixPoint,groupingChar,numberPattern,description
+AuroraESite,-1,INR,-1,₹,,₹,,,-₹,,,,"#,##0",Indian Rupee

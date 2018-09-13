@@ -1,0 +1,88 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+if (project.dcLicense != "accept") {
+	throw new GradleException("Digital Commerce SDK License has not been accepted. Please accept the license to continue.")
+}
+
+task build {
+	description 'Runs the build task on every master project in the workspace'
+}
+
+task bundle {
+	description 'Runs the bundle task on every master project in the workspace'
+}
+
+task clean {
+	description 'Runs the clean task on every master project in the workspace'
+}
+
+task createServer {
+	description 'Creates a test server for every application in the workspace'
+}
+
+// locate all projects in the workspace and create the tasks that will do the work
+file('..').eachDir() { d ->
+	if (d.name.contains('-master')) {
+		String name = d.name.split('-')[0]
+		['build', 'bundle', 'clean'].each { action ->
+			task("${name}-${action}", type: GradleBuild) {
+				dir = d
+				tasks = [action]
+			}
+			tasks[action].dependsOn "${name}-${action}"
+		}
+
+		if(name.equals('commerceue') || name.equals('crs')) {
+			def t = task("${name}-createServer", type: GradleBuild){
+				dir = d
+				tasks = ['createServer', 'updateWorkspace']
+			}
+			tasks['createServer'].dependsOn t
+		}
+	}
+
+}
+
+tasks.addRule("Pattern: <Template>-<Action>") { String taskName ->
+    if (taskName.contains("-")) {
+        def values = taskName.split('-')
+        String template = values[0]
+        String action = values[1]
+        task("${template}-${action}", type: GradleBuild) {
+            buildFile = "../$template-master/build.gradle"
+            dir = "../$template-master"
+            tasks = [action]
+            startParameter.projectProperties = gradle.startParameter.projectProperties
+        }
+    }
+}
+
+task("installWCPlugin", type: GradleBuild) {
+	buildFile = "setup.gradle"
+	tasks = ['installWCplugin']
+	startParameter.projectProperties = gradle.startParameter.projectProperties
+	startParameter.projectProperties['eclipseHome'] = eclipseHome
+}
+
+task("sftpBundleUpload", type: GradleBuild) {
+	description = 'Bundle and upload assets to SFTP server \nUsage: ./gradlew sftpBundleUpload -PsftpHostname=<sftp_hostname> -PsftpUsername=<sftp_username> -PsftpPassword=<sftp_password> -PsftpPort=<sftp_port>'
+	buildFile = "sftpBundleUpload.gradle"
+	tasks = ['sftpUpload']
+	startParameter.projectProperties = gradle.startParameter.projectProperties
+	startParameter.projectProperties['eclipseHome'] = eclipseHome
+}
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

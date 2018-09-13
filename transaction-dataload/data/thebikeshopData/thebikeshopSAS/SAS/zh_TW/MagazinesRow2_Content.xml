@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_mag10001_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Magazines1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/084B_ENS_PhotoritzMag_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_mag10001_zh_TW"
+  atchtgt_id="@atchtgt_id_Magazines1001"
+  language_id="&zh_TW;"
+  name="Photoritz 雜誌"
+  shortdescription="Photoritz 雜誌訂閱續約可省下 50%"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_mag10001_zh_TW"
+  atchast_id="@atchast_id_mag10001_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_mag10001_zh_TW"
+  atchrel_id="@atchrel_id_Magazines1001"
+  language_id="&zh_TW;"
+  name="Photoritz 雜誌"
+  shortdescription="Photoritz 雜誌"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Magazines1001"
+	language_id="&zh_TW;"
+	marketingtext="Photoritz 雜誌" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_mag10002_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Magazines1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/085B_ENS_SocietyTime_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_mag10002_zh_TW"
+  atchtgt_id="@atchtgt_id_Magazines1002"
+  language_id="&zh_TW;"
+  name="SocietyTime 雜誌"
+  shortdescription="SocietyTime 雜誌訂閱 2 年可省下 25%"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_mag10002_zh_TW"
+  atchast_id="@atchast_id_mag10002_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_mag10002_zh_TW"
+  atchrel_id="@atchrel_id_Magazines1002"
+  language_id="&zh_TW;"
+  name="SocietyTime 雜誌"
+  shortdescription="SocietyTime 雜誌"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Magazines1002"
+	language_id="&zh_TW;"
+	marketingtext="SocietyTime 雜誌" 
+/>
+

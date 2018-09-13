@@ -1,0 +1,47 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be calcodedsc.description, calcodedsc.longdescription -->
+<!-- That would be calscaleds.description, taxcgryds.description      -->
+
+
+<!--Table name:  CALCODEDSC -->
+<!--Purpose: Store description of CALCODE -->
+
+<calcodedsc
+   calcode_id="@calcode_id_3"
+   description="Calcularea codului pentru 5% taxe de vânzări"
+   language_id="&ro_RO;" 	
+   longdescription="Calcularea codului pentru 5% taxe de vânzări" 
+/>
+<calcodedsc
+   calcode_id="@calcode_id_4"
+   description="Calcularea codului pentru 0% taxe de transport"
+   language_id="&ro_RO;" 	
+   longdescription="Calcularea codului pentru 0% taxe de transport" 
+/>
+
+
+<!--Table name:  CALSCALEDS-->
+<!--Purpose: Store description of CALSCALE Scale Code -->
+
+<calscaleds
+   calscale_id="@calscale_id_13" 
+   description="Taxa de vânzare de 5%"
+   language_id="&ro_RO;" 
+/>
+<calscaleds
+   calscale_id="@calscale_id_14" 
+   description="Taxa de transport de 0%"
+   language_id="&ro_RO;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_1" 
+   description="Taxă vânzări"
+   language_id="&ro_RO;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_2" 
+   description="Taxă de livrare"
+   language_id="&ro_RO;" 
+/>
+

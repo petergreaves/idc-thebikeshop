@@ -1,0 +1,4 @@
+CatalogFilter,,,,,,,,,,,,,,,,,,,,,
+CatalogFilterName,StoreIdentifier,CatalogIdentifier,Usage,Delete,Field1,Field2,Field3,EnglishDescription,FrenchDescription,GermanDescription,ItalianDescription,SpanishDescription,PortugueseDescription,SChineseDescription,TChineseDescription,KoreanDescription,JapaneseDescription,RussianDescription,RomanianDescription,PolishDescription
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Buyer,0,111,222,333,ShortDesc for filter A,,,,,,,,,,,,
+CatalogFilterB,AuroraESite,ExtendedSitesCatalogAssetStore,Price,0,,,,ShortDesc for filter B,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+﻿RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription
+HomePageContainer,Container pagina Acasă,Widget container pagina Acasă
+ContentPageContainer,Container o coloană,Widget container de o coloană
+DepartmentPageContainer,Container două coloane (bara laterală stânga şi conţinut împărţit pe linii),Un widget container de două coloane (bara laterală stânga şi conţinut împărţit pe linii)
+SubCategoryPageContainer,Container două coloane (bara laterală stânga),Un widget container de două coloane (bara laterală stânga)
+SearchLandingPageContainer,Container o coloană cu banner antet,Widget container de o coloană cu banner antet
+SearchResultPageContainer,Container două coloane (bara laterală stânga şi cu file),Un widget container de două coloane (bara laterală stânga cu file)
+StaticContentContainer,Container două coloane (bara laterală dreapta),Un widget container de două coloane (bara laterală dreapta)
+ProductPageContainer,Container pagină produs,Widget container pagină produs

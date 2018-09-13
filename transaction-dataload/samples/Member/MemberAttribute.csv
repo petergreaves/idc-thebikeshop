@@ -1,0 +1,4 @@
+MemberAttribute,,
+attrType,attrName,description
+STRING,ExemptionNo123,Shopper Exemption Code
+STRING,CustomerUsageType123,Entity/ Use Codes

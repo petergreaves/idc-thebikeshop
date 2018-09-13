@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&en_US;"
+  description="Free Ground Shipping!"
+  longdescription="Free Ground Shipping on orders over $70."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&en_US;"
+	admindesc="Shipping Discount - Free Ground Delivery when you buy more than $70 USD"
+	shortdesc="Free Ground Shipping!"
+	longdesc="Free Ground Shipping on orders over $70."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&en_US;"
+  description="Repeat customers save $5.00 USD"
+  longdescription="To all customers who've successfully purchased from us, come back and save $5.00 on your next order."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&en_US;"
+	admindesc="Order Discount - Customers in the Repeat customer segment receive $5.00 of their next order"
+	shortdesc="Repeat customers save $5.00 USD"
+	longdesc="To all customers who've successfully purchased from us, come back and save $5.00 on your next order."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&en_US;"
+  description="Register today and save 7%."
+  longdescription="Register with us today and save 7% on your next order."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&en_US;"
+	admindesc="Order Discount - Promotion code for Registered customers to save 7% on their next order"
+	shortdesc="Register today and save 7%."
+	longdesc="Register with us today and save 7% on your next order."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&en_US;"
+  description="Save 10% on all orders"
+  longdescription="Save 10% on all orders."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&en_US;"
+	admindesc="Save 10% on all orders today"
+	shortdesc="Save 10% on all orders"
+	longdesc="Save 10% on all orders."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&en_US;"
+  description="Save $25 on all orders over $200 USD"
+  longdescription="Save $25 on all orders over $200 USD."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&en_US;"
+	admindesc="Save $25 on all orders before Saturday"
+	shortdesc="Save $25 on all orders over $200 USD"
+	longdesc="Save $25 on all orders over $200 USD."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&en_US;"
+  description="Flat $5 US-Regular shipping!"
+  longdescription="Use US Regular shipping and pay only $5 for shipping for your entire order."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&en_US;"
+	admindesc="Shipping discount"
+	shortdesc="Flat $5 US-Regular shipping!"
+	longdesc="Use US Regular shipping and pay only $5 for shipping for your entire order."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&en_US;"
+  description="Save 20% on Furniture!"
+  longdescription="Save 20% on all Furniture items! No restrictions!"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&en_US;"
+	admindesc="Category Discount - Save 20% on Furniture"
+	shortdesc="Save 20% on Furniture!"
+	longdesc="Save 20% on all Furniture items! No restrictions!"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

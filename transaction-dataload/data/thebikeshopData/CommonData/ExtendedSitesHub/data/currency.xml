@@ -1,0 +1,44 @@
+
+<!-- Table Name: CURLIST -->
+<!-- Purpose : -->
+<curlist currstr="USD" storeent_id="@ChannelStore" />
+<curlist currstr="EUR" storeent_id="@ChannelStore" />
+<curlist currstr="JPY" storeent_id="@ChannelStore" />
+<curlist currstr="KRW" storeent_id="@ChannelStore" />
+<curlist currstr="BRL" storeent_id="@ChannelStore" />
+<curlist currstr="CNY" storeent_id="@ChannelStore" />
+<curlist currstr="TWD" storeent_id="@ChannelStore" />
+<curlist currstr="CAD" storeent_id="@ChannelStore" />
+<curlist currstr="PLN" storeent_id="@ChannelStore" />
+<curlist currstr="RON" storeent_id="@ChannelStore" />
+<curlist currstr="RUB" storeent_id="@ChannelStore" />
+<curlist currstr="GBP" storeent_id="@ChannelStore" />
+<curlist currstr="AUD" storeent_id="@ChannelStore" />
+<curlist currstr="NZD" storeent_id="@ChannelStore" />
+
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="EUR" factor="0.782924" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_1" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="JPY" factor="112.735" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_2" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="KRW" factor="950.475" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_3" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="BRL" factor="2.32150" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_4" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="CNY" factor="8.02250" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_5" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="TWD" factor="32.0992" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_6" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="CAD" factor="1.11728" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_7" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="PLN" factor="3.2268" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_8" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="RON" factor="3.08582" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_9" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="RUB" factor="31.1278" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_10" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="GBP" factor="0.624" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_11" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="AUD" factor="1.2789" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_12" />
+<curconvert storeent_id="@ChannelStore" fromcurr="USD" tocurr="NZD" factor="1.37406" multiplyordivide="M" 
+bidirectional="Y" updatable="Y" curconvert_id="@curconvert_id_channel_13" />

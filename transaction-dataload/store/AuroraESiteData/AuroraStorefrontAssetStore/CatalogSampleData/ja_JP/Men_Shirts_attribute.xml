@@ -1,0 +1,191 @@
+
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenShirtsColor -->
+<attrdesc attr_id="@attribute_id_MenShirts_9" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_14" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="1" value="複数カラー" integervalue="" floatvalue="" stringvalue="複数カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_21" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="2" value="ブルー" integervalue="" floatvalue="" stringvalue="ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_29" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="3" value="アイボリー" integervalue="" floatvalue="" stringvalue="アイボリー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_33" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="4" value="ライト・ブルー" integervalue="" floatvalue="" stringvalue="ライト・ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_36" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="5" value="グレー" integervalue="" floatvalue="" stringvalue="グレー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_37" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="6" value="ホワイト" integervalue="" floatvalue="" stringvalue="ホワイト" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_40" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="7" value="パープル" integervalue="" floatvalue="" stringvalue="パープル" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_41" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="8" value="ブラック" integervalue="" floatvalue="" stringvalue="ブラック" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_48" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="9" value="デニム" integervalue="" floatvalue="" stringvalue="デニム" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_50" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&ja_JP;" sequence="10" value="濃灰色" integervalue="" floatvalue="" stringvalue="濃灰色" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsColor -->
+<!--BEGIN Defining attribute description  MenShirtsSize -->
+<attrdesc attr_id="@attribute_id_MenShirts_8" attrtype_id="STRING" language_id="&ja_JP;" name="サイズ" description="サイズ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_8" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_9" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_10" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_11" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_12" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_13" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&ja_JP;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Collar -->
+<attrdesc attr_id="@attribute_id_MenShirts_6" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1101" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="1" value="V ネック" integervalue="" floatvalue="" stringvalue="V ネック" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1114" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="1" value="V ネック" integervalue="" floatvalue="" stringvalue="V ネック" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1115" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="1" value="V ネック" integervalue="" floatvalue="" stringvalue="V ネック" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1120" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="1" value="V ネック" integervalue="" floatvalue="" stringvalue="V ネック" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1102" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="2" value="ポイント・カラー" integervalue="" floatvalue="" stringvalue="ポイント・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1110" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="2" value="ポイント・カラー" integervalue="" floatvalue="" stringvalue="ポイント・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1112" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="2" value="ポイント・カラー" integervalue="" floatvalue="" stringvalue="ポイント・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1103" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1104" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1106" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1118" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1121" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1122" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="3" value="スプレッド・カラー" integervalue="" floatvalue="" stringvalue="スプレッド・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_35_MCL011_1111" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="4" value="V スナップ・カラー" integervalue="" floatvalue="" stringvalue="V スナップ・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_39_MCL011_1113" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="5" value="クルーネック" integervalue="" floatvalue="" stringvalue="クルーネック" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_44_MCL011_1116" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="6" value="飾り鋲付きポイント・カラー" integervalue="" floatvalue="" stringvalue="飾り鋲付きポイント・カラー" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_45_MCL011_1117" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&ja_JP;" sequence="7" value="ウィング・カラー" integervalue="" floatvalue="" stringvalue="ウィング・カラー" />
+<!--end of  Collar -->
+<!--start of  Sleeve length -->
+<attrdesc attr_id="@attribute_id_MenShirts_10" attrtype_id="STRING" language_id="&ja_JP;" name="袖の長さ" description="袖の長さ" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1102" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="1" value="ショート・ロング" integervalue="" floatvalue="" stringvalue="ショート・ロング" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1106" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="1" value="ショート・ロング" integervalue="" floatvalue="" stringvalue="ショート・ロング" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1112" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="1" value="ショート・ロング" integervalue="" floatvalue="" stringvalue="ショート・ロング" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1117" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="1" value="ショート・ロング" integervalue="" floatvalue="" stringvalue="ショート・ロング" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1103" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1110" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1116" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1118" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1121" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1122" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="2" value="Long" integervalue="" floatvalue="" stringvalue="Long" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1104" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1111" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1113" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1114" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1115" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1120" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&ja_JP;" sequence="3" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<!--end of  Sleeve length -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_MenShirts_7" attrtype_id="STRING" language_id="&ja_JP;" name="袖の長さ" description="袖の長さ" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_7_MCL011_1101" attr_id="@attribute_id_MenShirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="ショート" integervalue="" floatvalue="" stringvalue="ショート" />
+<!--end of  Sleeve Length -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenShirts_3" attrtype_id="STRING" language_id="&ja_JP;" name="素材" description="素材" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_3_MCL011_1101" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="レーヨン" integervalue="" floatvalue="" stringvalue="レーヨン" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1102" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1103" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1104" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1106" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1110" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1111" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1112" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1114" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1115" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1117" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1121" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1122" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_38_MCL011_1113" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="3" value="コットン/絹" integervalue="" floatvalue="" stringvalue="コットン/絹" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_42_MCL011_1116" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="4" value="ポリエステル・レーヨン" integervalue="" floatvalue="" stringvalue="ポリエステル・レーヨン" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_47_MCL011_1118" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="5" value="デニム" integervalue="" floatvalue="" stringvalue="デニム" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_49_MCL011_1120" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&ja_JP;" sequence="6" value="ハイテク・ポリエステル" integervalue="" floatvalue="" stringvalue="ハイテク・ポリエステル" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenShirts_2" attrtype_id="STRING" language_id="&ja_JP;" name="スタイル" description="スタイル" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1101" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="T シャツ" integervalue="" floatvalue="" stringvalue="T シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1113" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="T シャツ" integervalue="" floatvalue="" stringvalue="T シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1114" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="T シャツ" integervalue="" floatvalue="" stringvalue="T シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1115" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="T シャツ" integervalue="" floatvalue="" stringvalue="T シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1120" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="T シャツ" integervalue="" floatvalue="" stringvalue="T シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1102" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1103" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1110" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1116" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1118" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1121" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1122" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_26_MCL011_1104" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="3" value="ノーティカル、ボタンダウン・シャツ" integervalue="" floatvalue="" stringvalue="ノーティカル、ボタンダウン・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1106" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ドレス・シャツ" integervalue="" floatvalue="" stringvalue="ドレス・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1112" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ドレス・シャツ" integervalue="" floatvalue="" stringvalue="ドレス・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1117" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ドレス・シャツ" integervalue="" floatvalue="" stringvalue="ドレス・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_34_MCL011_1111" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&ja_JP;" sequence="5" value="ヘンリー T シャツ" integervalue="" floatvalue="" stringvalue="ヘンリー T シャツ" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_MenShirts_4" attrtype_id="STRING" language_id="&ja_JP;" name="着用シーン" description="着用シーン" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1101" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1103" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1104" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1110" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1111" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1113" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1114" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1115" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1118" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1120" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1121" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1122" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1102" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ビジネス
+" integervalue="" floatvalue="" stringvalue="ビジネス
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1112" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ビジネス
+" integervalue="" floatvalue="" stringvalue="ビジネス
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1117" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ビジネス
+" integervalue="" floatvalue="" stringvalue="ビジネス
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_31_MCL011_1106" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="3" value="ビジネス・カジュアル" integervalue="" floatvalue="" stringvalue="ビジネス・カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_43_MCL011_1116" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&ja_JP;" sequence="4" value="フォーマル" integervalue="" floatvalue="" stringvalue="フォーマル" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Pattern -->
+<attrdesc attr_id="@attribute_id_MenShirts_1" attrtype_id="STRING" language_id="&ja_JP;" name="パターン" description="パターン" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1101" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1102" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1104" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1106" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1111" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1112" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1113" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1114" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1115" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1116" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1117" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1120" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1122" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="なし
+" integervalue="" floatvalue="" stringvalue="なし
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1103" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="2" value="格子縞" integervalue="" floatvalue="" stringvalue="格子縞" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1110" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="2" value="格子縞" integervalue="" floatvalue="" stringvalue="格子縞" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_46_MCL011_1118" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="グリッド" integervalue="" floatvalue="" stringvalue="グリッド" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_51_MCL011_1121" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&ja_JP;" sequence="4" value="ストライプ" integervalue="" floatvalue="" stringvalue="ストライプ" />
+<!--end of  Pattern -->
+<!-- END Writing descriptive attribute descriptions -->

@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110005_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11005"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0407B_EMS_Jeans_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110005_es_ES"
+  atchtgt_id="@atchtgt_id_11005"
+  language_id="&es_ES;"
+  name="Vaqueros"
+  shortdescription=" 15% de descuentos en pantalones vaqueros de hombre"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110005_es_ES"
+  atchast_id="@atchast_id_110005_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110005_es_ES"
+  atchrel_id="@atchrel_id_11005"
+  language_id="&es_ES;"
+  name="Vaqueros"
+  shortdescription="Vaqueros"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11005"
+	language_id="&es_ES;"
+	marketingtext="Vaqueros" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120005_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12005"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0410B_EMS_ShoeSale_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120005_es_ES"
+  atchtgt_id="@atchtgt_id_12005"
+  language_id="&es_ES;"
+  name="Venta de calzado"
+  shortdescription="Venta de calzado para hombre; compre dos pares y llévese el tercero gratis"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120005_es_ES"
+  atchast_id="@atchast_id_120005_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120005_es_ES"
+  atchrel_id="@atchrel_id_12005"
+  language_id="&es_ES;"
+  name="Venta de calzado"
+  shortdescription="Venta de calzado"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12005"
+	language_id="&es_ES;"
+	marketingtext="Venta de calzado" 
+/>
+

@@ -1,0 +1,21 @@
+	<!-- Create Hosting Hub Org -->
+	<mbrrel descendant_id="@channel_mbr_id" ancestor_id="@manufacturer_mbr_id" sequence="1" />
+	<mbrrel descendant_id="@channel_mbr_id" ancestor_id="-2001" sequence="2" />
+	<addrbook addrbook_id="@channel_addrbook_id" member_id="@channel_mbr_id" displayname="Internal use only." />
+	<address address_id="@channel_addr_id" member_id="@channel_mbr_id" addrbook_id="@channel_addrbook_id" status="P" isprimary="1" nickname="Extended Sites Hub Organization" selfaddress="1" />
+	<mbrrole member_id="@channel_mbr_id" role_id="-20" orgentity_id="@channel_orgentity_id" />
+	<mbrrole member_id="@channel_mbr_id" role_id="-27" orgentity_id="@channel_orgentity_id" />
+	<mbrrole member_id="@channel_mbr_id" role_id="-29" orgentity_id="@channel_orgentity_id" />
+
+	<!-- Create extendedsitesadmin user 
+	<member member_id="-1013" type="U" state="1"/>
+	<users users_id="-1013" dn="&USER_DN_CHANNEL_ADMIN_PART;&ROOT_ORG_DN;" registertype="A" profiletype="B" lastsession="2000-11-07-20.54.54.431670" />
+	<addrbook addrbook_id="-1013" member_id="-1013" displayname="Internal use only.-" />
+	<address address_id="-1013" member_id="-1013" addrbook_id="-1013" status="P" isprimary="1" lastname="extendedsitesadmin" nickname="extendedsitesadmin" address1="Internal use only." city="Internal use only." state="Internal use only." country="Internal use only." zipcode="Internal use only." selfaddress="1" email1="xxx@xxx.com"/>
+	<busprof users_id="-1013" org_id="@channel_orgentity_id" />
+	<mbrrel descendant_id="-1013" ancestor_id="-2001" sequence="1" />
+	<userdemo users_id="-1013" companyname="Internal use only." />
+	<userprof users_id="-1013" description="Internal use only." taxpayerid="" />
+	<userreg users_id="-1013" status="1" logonid="extendedsitesadmin" logonpassword="" passwordexpired="1" timeout="-1" plcyacct_id="-2" />
+        <mbrrole member_id="-1013" role_id="-27" orgentity_id="@channel_orgentity_id" />
+	-->

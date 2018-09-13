@@ -1,0 +1,46 @@
+AttributeDictionaryAttributeAllowedValues,,,,,
+Identifier,ValueIdentifier,Sequence,Value,LanguageId,Delete
+CordsColor,Black,1,Black,-1,
+CordsColor,Black,1,Noir,-2,
+CordsColor,Brown,2,Brown,-1,
+CordsColor,Brown,2,Marron,-2,
+CordsSize,29W x 28L,1,29W x 28L,-1,
+CordsSize,29W x 28L,1,29W x 28L,-2,
+CordsSize,30W x 32L,2,30W x 32L,-1,
+CordsSize,30W x 32L,2,30W x 32L,-2,
+CordsSize,34W x 30L,3,34W x 30L,-1,
+CordsSize,34W x 30L,3,34W x 30L,-2,
+DressPantColor,Black,1,Black,-1,
+DressPantColor,Black,1,Noir,-2,
+DressPantColor,Blue,2,Blue,-1,
+DressPantColor,Blue,2,Bleu,-2,
+DressPantSize,29W x 32L,1,29W x 32L,-1
+DressPantSize,29W x 32L,1,29W x 32L,-2
+DressPantSize,32W x 32L,2,32W x 32L,-1
+DressPantSize,32W x 32L,2,32W x 32L,-2
+DressShirtColor,White,1,White,-1
+DressShirtColor,White,1,Blanc,-2
+DressShirtSize,15,1,15,-1
+DressShirtSize,15,1,15,-2
+DressShirtSize,16,2,16,-1
+DressShirtSize,16,2,16,-2
+DressShirtSize,17,3,17,-1
+DressShirtSize,17,3,17,-2
+CasualShirtColor,White,1,White,-1
+CasualShirtColor,White,1,Blanc,-2
+CasualShirtColor,Blue,2,Blue,-1
+CasualShirtColor,Blue,2,Bleu,-2
+CasualShirtColor,Pink,3,Pink,-1
+CasualShirtColor,Pink,3,Rose,-2
+CasualShirtColor,Purple,4,Purple,-1
+CasualShirtColor,Purple,4,Violet,-2
+CasualShirtSize,Small,1,Small,-1
+CasualShirtSize,Small,1,Petit,-2
+CasualShirtSize,Medium,2,Medium,-1
+CasualShirtSize,Medium,2,Medium,-2
+CasualShirtSize,Large,3,Large,-1
+CasualShirtSize,Large,3,Grand,-2
+BodysuitColor,Black,1,Black,-1
+BodysuitColor,Black,1,Noir,-2
+BodysuitSize,Petit,1,Petit,-1
+BodysuitSize,Petit,1,Petit,-2

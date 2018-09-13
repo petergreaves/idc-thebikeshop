@@ -1,0 +1,80 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Electronics"
+   name="Electronique"
+   shortdescription="Electronique"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Electronique"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_ComputersLaptops"
+   name="Ordinateurs portables"
+   shortdescription="Ordinateurs portables"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cla_laptops.png"
+   fullimage="images/catalog/electronics/category/catr_cla_laptops.png"
+   keyword="Ordinateurs portables"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_ComputersTablets"
+   name="Tablettes graphiques"
+   shortdescription="Tablettes graphiques"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Tablettes graphiques"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_ComputersAccessories"
+   name="Accessoires"
+   shortdescription="Accessoires"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cac_accessories.png"
+   fullimage="images/catalog/electronics/category/catr_cac_accessories.png"
+   keyword="Accessoires"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_ComputersDesktops"
+   name="Ordinateurs de bureau"
+   shortdescription="Ordinateurs de bureau"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cde_desktops.png"
+   fullimage="images/catalog/electronics/category/catr_cde_desktops.png"
+   keyword="Ordinateurs de bureau"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_ComputersComponents"
+   name="Composants"
+   shortdescription="Composants"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_ccm_components.png"
+   fullimage="images/catalog/electronics/category/catr_ccm_components.png"
+   keyword="Composants"
+/>
+
+<!-- End of Category Descriptions -->
+
+

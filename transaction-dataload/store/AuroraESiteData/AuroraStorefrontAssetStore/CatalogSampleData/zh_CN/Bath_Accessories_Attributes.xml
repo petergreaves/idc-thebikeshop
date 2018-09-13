@@ -1,0 +1,120 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : BathAccessoriesColor -->
+<attrdesc attr_id="@attribute_id_BathAccessories_7" attrtype_id="STRING" language_id="&zh_CN;" name="颜色" description="颜色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_7" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_17" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="2" value="蓝色" integervalue="" floatvalue="" stringvalue="蓝色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_19" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="3" value="黄色" integervalue="" floatvalue="" stringvalue="黄色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_21" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="4" value="白色" integervalue="" floatvalue="" stringvalue="白色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_28" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="5" value="清除 " integervalue="" floatvalue="" stringvalue="清除 " qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_45" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="6" value="橙色" integervalue="" floatvalue="" stringvalue="橙色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_48" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&zh_CN;" sequence="7" value="绿色" integervalue="" floatvalue="" stringvalue="绿色" qtyunit_id="C62" />
+<!--END Defining attribute description : BathAccessoriesColor -->
+<!--BEGIN Defining attribute description : BathAccessoriesSize -->
+<attrdesc attr_id="@attribute_id_BathAccessories_6" attrtype_id="STRING" language_id="&zh_CN;" name="尺寸" description="尺寸" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_6" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="1" value="24&quot;" integervalue="" floatvalue="" stringvalue="24&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_10" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="2" value="24&quot; x 10&quot;" integervalue="" floatvalue="" stringvalue="24&quot; x 10&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_16" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="3" value="32&quot; x 54&quot;" integervalue="" floatvalue="" stringvalue="32&quot; x 54&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_27" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="4" value="3&quot; x 4&quot;" integervalue="" floatvalue="" stringvalue="3&quot; x 4&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_32" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="5" value="3&quot;（宽）x 17&quot;（高）x 4&quot;（深）" integervalue="" floatvalue="" stringvalue="3&quot;（宽）x 17&quot;（高）x 4&quot;（深）" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_36" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="6" value="4&quot; x 3&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 3&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_40" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="7" value="3&quot; x 6&quot;" integervalue="" floatvalue="" stringvalue="3&quot; x 6&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_44" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="8" value="4 件/套" integervalue="" floatvalue="" stringvalue="4 件/套" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_47" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="9" value="4 件/套" integervalue="" floatvalue="" stringvalue="4 件/套" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_52" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="10" value="4&quot; x 4&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 4&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_55" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="11" value="4&quot; x 8&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 8&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_57" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&zh_CN;" sequence="12" value="4&quot; x 6&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 6&quot;" qtyunit_id="C62" />
+<!--END Defining attribute description : BathAccessoriesSize -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BathAccessories_3" attrtype_id="STRING" language_id="&zh_CN;" name="面料" description="面料" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_3_HBA031_3101" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_8_HBA031_3102" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="2" value="镍" integervalue="" floatvalue="" stringvalue="镍" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3103" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="3" value="有机棉" integervalue="" floatvalue="" stringvalue="有机棉" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3104" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="3" value="有机棉" integervalue="" floatvalue="" stringvalue="有机棉" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3105" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="3" value="有机棉" integervalue="" floatvalue="" stringvalue="有机棉" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_24_HBA031_3106" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="4" value="玻璃/镀铬" integervalue="" floatvalue="" stringvalue="玻璃/镀铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_24_HBA031_3109" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="4" value="玻璃/镀铬" integervalue="" floatvalue="" stringvalue="玻璃/镀铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_29_HBA031_3107" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="5" value="白铬/黑铬" integervalue="" floatvalue="" stringvalue="白铬/黑铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3108" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="6" value="铬" integervalue="" floatvalue="" stringvalue="铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3112" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="6" value="铬" integervalue="" floatvalue="" stringvalue="铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3113" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="6" value="铬" integervalue="" floatvalue="" stringvalue="铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3114" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="6" value="铬" integervalue="" floatvalue="" stringvalue="铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3115" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="6" value="铬" integervalue="" floatvalue="" stringvalue="铬" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_42_HBA031_3110" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="7" value="塑料" integervalue="" floatvalue="" stringvalue="塑料" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_42_HBA031_3111" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&zh_CN;" sequence="7" value="塑料" integervalue="" floatvalue="" stringvalue="塑料" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BathAccessories_1" attrtype_id="STRING" language_id="&zh_CN;" name="样式
+" description="样式
+" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3101" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="1" value="安装/连接" integervalue="" floatvalue="" stringvalue="安装/连接" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3102" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="1" value="安装/连接" integervalue="" floatvalue="" stringvalue="安装/连接" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3114" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="1" value="安装/连接" integervalue="" floatvalue="" stringvalue="安装/连接" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3103" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="2" value="经典" integervalue="" floatvalue="" stringvalue="经典" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3104" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="2" value="经典" integervalue="" floatvalue="" stringvalue="经典" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3105" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="2" value="经典" integervalue="" floatvalue="" stringvalue="经典" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3106" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="3" value="安装" integervalue="" floatvalue="" stringvalue="安装" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3107" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="3" value="安装" integervalue="" floatvalue="" stringvalue="安装" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3108" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="3" value="安装" integervalue="" floatvalue="" stringvalue="安装" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3112" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="3" value="安装" integervalue="" floatvalue="" stringvalue="安装" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3113" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="3" value="安装" integervalue="" floatvalue="" stringvalue="安装" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3109" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="4" value="浴室配件" integervalue="" floatvalue="" stringvalue="浴室配件" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3110" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="4" value="浴室配件" integervalue="" floatvalue="" stringvalue="浴室配件" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3111" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="4" value="浴室配件" integervalue="" floatvalue="" stringvalue="浴室配件" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3115" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="4" value="浴室配件" integervalue="" floatvalue="" stringvalue="浴室配件" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_53" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&zh_CN;" sequence="5" value="儿童装饰和配件" integervalue="" floatvalue="" stringvalue="儿童装饰和配件" />
+<!--end of  Style -->
+<!--start of  Color -->
+<attrdesc attr_id="@attribute_id_BathAccessories_2" attrtype_id="STRING" language_id="&zh_CN;" name="颜色" description="颜色" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3101" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3102" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3108" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3112" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3113" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3114" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3115" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="1" value="银" integervalue="" floatvalue="" stringvalue="银" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_12_HBA031_3103" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="2" value="蓝色" integervalue="" floatvalue="" stringvalue="蓝色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_18_HBA031_3104" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="3" value="黄色" integervalue="" floatvalue="" stringvalue="黄色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3105" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="4" value="白色" integervalue="" floatvalue="" stringvalue="白色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3107" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="4" value="白色" integervalue="" floatvalue="" stringvalue="白色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3109" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="4" value="白色" integervalue="" floatvalue="" stringvalue="白色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_23_HBA031_3106" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="5" value="清除 " integervalue="" floatvalue="" stringvalue="清除 " />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_41_HBA031_3110" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="6" value="橙色" integervalue="" floatvalue="" stringvalue="橙色" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_46_HBA031_3111" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&zh_CN;" sequence="7" value="绿色" integervalue="" floatvalue="" stringvalue="绿色" />
+<!--end of  Color -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_BathAccessories_5" attrtype_id="STRING" language_id="&zh_CN;" name="类型" description="类型" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3101" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="1" value="传统" integervalue="" floatvalue="" stringvalue="传统" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3102" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="1" value="传统" integervalue="" floatvalue="" stringvalue="传统" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3112" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="1" value="传统" integervalue="" floatvalue="" stringvalue="传统" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3103" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="2" value="浴巾" integervalue="" floatvalue="" stringvalue="浴巾" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3104" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="2" value="浴巾" integervalue="" floatvalue="" stringvalue="浴巾" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3105" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="2" value="浴巾" integervalue="" floatvalue="" stringvalue="浴巾" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3106" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="3" value="现代" integervalue="" floatvalue="" stringvalue="现代" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3110" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="3" value="现代" integervalue="" floatvalue="" stringvalue="现代" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3111" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="3" value="现代" integervalue="" floatvalue="" stringvalue="现代" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3114" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="3" value="现代" integervalue="" floatvalue="" stringvalue="现代" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_31_HBA031_3107" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="4" value="马桶刷" integervalue="" floatvalue="" stringvalue="马桶刷" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_35_HBA031_3108" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="5" value="厕纸架" integervalue="" floatvalue="" stringvalue="厕纸架" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_39_HBA031_3109" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="6" value="当代" integervalue="" floatvalue="" stringvalue="当代" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_51_HBA031_3113" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="7" value="经典" integervalue="" floatvalue="" stringvalue="经典" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_51_HBA031_3115" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&zh_CN;" sequence="7" value="经典" integervalue="" floatvalue="" stringvalue="经典" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--end of  Brand -->
+

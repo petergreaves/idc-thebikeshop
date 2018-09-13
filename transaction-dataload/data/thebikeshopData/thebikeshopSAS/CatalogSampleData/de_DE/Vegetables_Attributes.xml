@@ -1,0 +1,88 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : VegetablesBrand -->
+<attrdesc attr_id="@attribute_id_Vegetables_6" attrtype_id="STRING" language_id="&de_DE;" name="Marke" description="Marke" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_6" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&de_DE;" sequence="1" value="Oxford Orchards" integervalue="" floatvalue="" stringvalue="Oxford Orchards" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_15" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&de_DE;" sequence="2" value="Winston Organics" integervalue="" floatvalue="" stringvalue="Winston Organics" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_22" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&de_DE;" sequence="3" value="Bluthe Potato Co." integervalue="" floatvalue="" stringvalue="Bluthe Potato Co." qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_26" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&de_DE;" sequence="4" value="California Sun" integervalue="" floatvalue="" stringvalue="California Sun" qtyunit_id="C62" />
+<!--END Defining attribute description : VegetablesBrand -->
+<!--BEGIN Defining attribute description : VegetablesType -->
+<attrdesc attr_id="@attribute_id_Vegetables_7" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_7" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="1" value="Erbsen" integervalue="" floatvalue="" stringvalue="Erbsen" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_10" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="2" value="Blattsalat" integervalue="" floatvalue="" stringvalue="Blattsalat" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_12" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="3" value="Paprikaschoten" integervalue="" floatvalue="" stringvalue="Paprikaschoten" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_16" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="4" value="Gurken" integervalue="" floatvalue="" stringvalue="Gurken" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_18" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="5" value="Zwiebeln" integervalue="" floatvalue="" stringvalue="Zwiebeln" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_23" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="6" value="Rote Kartoffeln" integervalue="" floatvalue="" stringvalue="Rote Kartoffeln" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_27" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="7" value="Tomaten" integervalue="" floatvalue="" stringvalue="Tomaten" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_29" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="8" value="Brokkoli" integervalue="" floatvalue="" stringvalue="Brokkoli" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_32" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="9" value="Karotten" integervalue="" floatvalue="" stringvalue="Karotten" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_34" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="10" value="Auberginen" integervalue="" floatvalue="" stringvalue="Auberginen" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_36" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&de_DE;" sequence="11" value="Kohl" integervalue="" floatvalue="" stringvalue="Kohl" qtyunit_id="C62" />
+<!--END Defining attribute description : VegetablesType -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_Vegetables_1" attrtype_id="STRING" language_id="&de_DE;" name="Größe" description="Größe" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3401" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3403" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3405" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3406" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3407" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3411" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="1" value="Mittel" integervalue="" floatvalue="" stringvalue="Mittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3402" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="2" value="Groß" integervalue="" floatvalue="" stringvalue="Groß" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3404" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="2" value="Groß" integervalue="" floatvalue="" stringvalue="Groß" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3408" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="2" value="Groß" integervalue="" floatvalue="" stringvalue="Groß" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3410" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="2" value="Groß" integervalue="" floatvalue="" stringvalue="Groß" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_30_GVE034_3409" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&de_DE;" sequence="3" value="Klein" integervalue="" floatvalue="" stringvalue="Klein" />
+<!--end of  Size -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Vegetables_5" attrtype_id="STRING" language_id="&de_DE;" name="Kategorie" description="Kategorie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3401" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3402" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3403" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3404" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3405" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3406" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3407" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3408" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3409" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3410" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3411" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&de_DE;" sequence="1" value="Gemüse" integervalue="" floatvalue="" stringvalue="Gemüse" />
+<!--end of  Category -->
+<!--start of  Price -->
+<attrdesc attr_id="@attribute_id_Vegetables_3" attrtype_id="STRING" language_id="&de_DE;" name="Preis" description="Preis" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3401" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3402" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3403" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3404" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3405" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3407" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3408" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3409" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3410" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3411" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_20_GVE034_3406" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&de_DE;" sequence="2" value="/10 lb Bag" integervalue="" floatvalue="" stringvalue="/10 lb Tüte" />
+<!--end of  Price -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Vegetables_4" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_4_GVE034_3401" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="1" value="Erbsen" integervalue="" floatvalue="" stringvalue="Erbsen" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_9_GVE034_3402" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="2" value="Blattsalat" integervalue="" floatvalue="" stringvalue="Blattsalat" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_11_GVE034_3403" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="3" value="Paprikaschoten" integervalue="" floatvalue="" stringvalue="Paprikaschoten" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_14_GVE034_3404" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="4" value="Gurken" integervalue="" floatvalue="" stringvalue="Gurken" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_17_GVE034_3405" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="5" value="Zwiebeln" integervalue="" floatvalue="" stringvalue="Zwiebeln" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_21_GVE034_3406" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="6" value="Rote Kartoffeln" integervalue="" floatvalue="" stringvalue="Rote Kartoffeln" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_25_GVE034_3407" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="7" value="Tomaten" integervalue="" floatvalue="" stringvalue="Tomaten" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_28_GVE034_3408" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="8" value="Brokkoli" integervalue="" floatvalue="" stringvalue="Brokkoli" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_31_GVE034_3409" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="9" value="Karotten" integervalue="" floatvalue="" stringvalue="Karotten" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_33_GVE034_3410" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="10" value="Auberginen" integervalue="" floatvalue="" stringvalue="Auberginen" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_35_GVE034_3411" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&de_DE;" sequence="11" value="Kohl" integervalue="" floatvalue="" stringvalue="Kohl" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->

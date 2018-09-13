@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><server auto-publish-setting="2" auto-publish-time="1" hostname="localhost" id="Store Test Server" looseConfig="true" name="Store Test Server" runtime-id="WebSphere Application Server Liberty Profile" server-type="com.ibm.ws.st.server.wlp" server-type-id="com.ibm.ws.st.server.wlp" serverName="crsServer_20180831150810" serverType="libertyServer" start-timeout="60" stop-timeout="60" timestamp="3" userDirId="WebSphere Application Server Liberty Profile">
+  <list key="modules" value0="crs::org.eclipse.jst.jee.server:crs::jst.ear::7.0"/>
+</server>

@@ -1,0 +1,3 @@
+LayoutWidget
+LayoutName,AdminName,ChildWidgetDefIdentifier,ChildWidgetAdminName,WidgetSequence,SlotID,Delete
+SampleContentPageLayout,SampleContentPageContainer,SampleStoreWidget,SampleStoreWiget,0,1,

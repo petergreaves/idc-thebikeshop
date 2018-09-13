@@ -1,0 +1,104 @@
+MarketingContentAttachmentDescription
+contentName,attachmentIdentifier,usageName,relationName,relationShortDescription,relationLongDescription,languageId,delete
+WomenLandingPage_Atct_brand1,WomenLandingPage_Atct_brand1,NOUSAGE,Brand1,Показать бренд,,-20,0
+WomenLandingPage_Atct_brand2,WomenLandingPage_Atct_brand2,NOUSAGE,brand2,Показать бренд,,-20,0
+WomenLandingPage_Atct_brand3,WomenLandingPage_Atct_brand3,NOUSAGE,brand3,Показать бренд,,-20,0
+WomenLandingPage_Atct_brand4,WomenLandingPage_Atct_brand4,NOUSAGE,brand4,Показать бренд,,-20,0
+WomenLandingPage_Atct_brand5,WomenLandingPage_Atct_brand5,NOUSAGE,brand5,Показать бренд,,-20,0
+HeaderESpot15OffPurchaseAd,HeaderESpot15OffPurchaseAd,NOUSAGE,Скидка 15%,Сэкономьте 15% от суммы покупки,,-20,0
+HeaderESpotFreeShippingSpecial,HeaderESpotFreeShippingSpecial,NOUSAGE,Бесплатная доставка,Бесплатная доставка,,-20,0
+BoysPants_Atct_1,BoysPants_Atct_1,NOUSAGE,Уютные свитеры,Уютные свитеры,,-20,0
+BoysPants_Atct_2,BoysPants_Atct_2,NOUSAGE,Джинсы,Джинсы,,-20,0
+BoysShoes_Atct_1,BoysShoes_Atct_1,NOUSAGE,Футболки,Футболки,,-20,0
+BoysShoes_Atct_2,BoysShoes_Atct_2,NOUSAGE,Распродажа обуви,Распродажа обуви,,-20,0
+BoysTops_Atct_1,BoysTops_Atct_1,NOUSAGE,Уютные свитеры,Уютные свитеры,,-20,0
+BoysTops_Atct_2,BoysTops_Atct_2,NOUSAGE,Джинсы,Джинсы,,-20,0
+BoysRow1_Content,BoysRow1_Content,NOUSAGE,Распродажа одежды для мальчиков,Распродажа одежды для мальчиков,,-20,0
+GirlsDS_Atct_1,GirlsDS_Atct_1,NOUSAGE,Распродажа платьев,Распродажа платьев,,-20,0
+GirlsDS_Atct_2,GirlsDS_Atct_2,NOUSAGE,Распродажа обуви,Распродажа обуви,,-20,0
+GirlsPants_Atct_1,GirlsPants_Atct_1,NOUSAGE,Джинсовая ткань,Джинсовая ткань,,-20,0
+GirlsPants_Atct_2,GirlsPants_Atct_2,NOUSAGE,Летняя распродажа,Летняя распродажа,,-20,0
+GirlsShoes_Atct_1,GirlsShoes_Atct_1,NOUSAGE,Распродажа обуви 1,Распродажа обуви 1,,-20,0
+GirlsShoes_Atct_2,GirlsShoes_Atct_2,NOUSAGE,Распродажа обуви ,Распродажа обуви ,,-20,0
+GirlsTops_Atct_1,GirlsTops_Atct_1,NOUSAGE,Футболки и топы,Футболки и топы,,-20,0
+GirlsTops_Atct_2,GirlsTops_Atct_2,NOUSAGE,Теплые свитеры,Теплые свитеры,,-20,0
+MenAcc_Atct_1,MenAcc_Atct_1,NOUSAGE,Шелковый галстук,Шелковый галстук,,-20,0
+MenAcc_Atct_2,MenAcc_Atct_2,NOUSAGE,Приоденься,Приоденься,,-20,0
+MenJackets_Atct_1,MenJackets_Atct_1,NOUSAGE,Модная кожа,Модная кожа,,-20,0
+MenJackets_Atct_2,MenJackets_Atct_2,NOUSAGE,Роскошный кашемир,Роскошный кашемир,,-20,0
+MenPants_Atct_1,MenPants_Atct_1,NOUSAGE,Джинсы,Джинсы,,-20,0
+MenPants_Atct_2,MenPants_Atct_2,NOUSAGE,Распродажа обуви,Распродажа обуви,,-20,0
+MenShirts_Atct_1,MenShirts_Atct_1,NOUSAGE,Базовые футболки,Базовые футболки,,-20,0
+MenShirts_Atct_2,MenShirts_Atct_2,NOUSAGE,Классическая мужская рубашка,Классическая мужская рубашка,,-20,0
+MenShoes_Atct_1,MenShoes_Atct_1,NOUSAGE,Распродажа обуви,Распродажа обуви,,-20,0
+MenShoes_Atct_2,MenShoes_Atct_2,NOUSAGE,Кожаные ремни,Кожаные ремни,,-20,0
+MenSuits_Atct_1,MenSuits_Atct_1,NOUSAGE,Приоденься,Приоденься,,-20,0
+MenSuits_Atct_2,MenSuits_Atct_2,NOUSAGE,Шелковый галстук,Шелковый галстук,,-20,0
+MenRow1_Content,MenRow1_Content,NOUSAGE,Приоденься,Приоденься,,-20,0
+WAcc_Atct_1,WAcc_Atct_1,NOUSAGE,Кожаные ремни,Кожаные ремни,,-20,0
+WAcc_Atct_2,WAcc_Atct_2,NOUSAGE,Отличная сумка,Отличная сумка,,-20,0
+WHB_Atct_1,WHB_Atct_1,NOUSAGE,Отличная сумка,Отличная сумка,,-20,0
+WHB_Atct_2,WHB_Atct_2,NOUSAGE,Солнцезащитные очки,Солнцезащитные очки,,-20,0
+WPants_Atct_1,WPants_Atct_1,NOUSAGE,Джинсы,Джинсы,,-20,0
+WPants_Atct_2,WPants_Atct_2,NOUSAGE,Кожаные ремни,Кожаные ремни,,-20,0
+WSB_Atct_1,WSB_Atct_1,NOUSAGE,Джинсы,Джинсы,,-20,0
+WSB_Atct_2,WSB_Atct_2,NOUSAGE,Рубашки и блузы,Рубашки и блузы,,-20,0
+WSh_Atct_1,WSh_Atct_1,NOUSAGE,Вечерний блеск,Вечерний блеск,,-20,0
+WSh_Atct_2,WSh_Atct_2,NOUSAGE,Распродажа обуви,Распродажа обуви,,-20,0
+WSk_Atct_1,WSk_Atct_1,NOUSAGE,Джинсы,Джинсы,,-20,0
+WSk_Atct_2,WSk_Atct_2,NOUSAGE,Летняя распродажа,Летняя распродажа,,-20,0
+WSw_Atct_1,WSw_Atct_1,NOUSAGE,Вечерний блеск,Вечерний блеск: скидка 15% на все женские вечерние платья,,-20,0
+WSw_Atct_2,WSw_Atct_2,NOUSAGE,Уютные свитеры,"Уютные свитеры: при покупке одного - второй со скидкой 25%",,-20,0
+Accessories_Atct_1,Accessories_Atct_1,NOUSAGE,Кристально прозрачный,Кристально прозрачный,,-20,0
+Accessories_Atct_2,Accessories_Atct_2,NOUSAGE,Сэкономьте на аксессуарах,Сэкономьте на аксессуарах,,-20,0
+Appliances_Atct_1,Appliances_Atct_1,NOUSAGE,Неизменное совершенство,Неизменное совершенство,,-20,0
+Appliances_Atct_2,Appliances_Atct_2,NOUSAGE,Экономьте на крупных кухонных аксессуарах,Экономьте на крупных кухонных аксессуарах,,-20,0
+BathAcc_Atct_1,BathAcc_Atct_1,NOUSAGE,Хлопковые полотенца,Хлопковые полотенца,,-20,0
+BathAcc_Atct_2,BathAcc_Atct_2,NOUSAGE,Аксессуары для ванной комнаты,Аксессуары для ванной комнаты,,-20,0
+Components_Atct_1,Components_Atct_1,NOUSAGE,Настраиваемые настольные компьютеры,Настраиваемые настольные компьютеры,,-20,0
+Components_Atct_2,Components_Atct_2,NOUSAGE,Настраиваемые портативные компьютеры,Настраиваемые портативные компьютеры,,-20,0
+Desktops_Atct_1,Desktops_Atct_1,NOUSAGE,Настраиваемый персональный компьютер,Настраиваемый персональный компьютер,,-20,0
+Desktops_Atct_2,Desktops_Atct_2,NOUSAGE,Сэкономьте на принтерах,Сэкономьте на принтерах,,-20,0
+Dairy_Atct_1,Dairy_Atct_1,NOUSAGE,Сливочный камамбер,Сливочный камамбер,,-20,0
+Dairy_Atct_2,Dairy_Atct_2,NOUSAGE,"Молоко, придающее силы","Молоко, придающее силы",,-20,0
+DesktopsAndLaptops,DesktopsAndLaptops,NOUSAGE,Настольные и портативные компьютеры,Настольные и портативные компьютеры,,-20,0
+GetReadyForSchool,GetReadyForSchool,NOUSAGE,Подготовьтесь к школе,Подготовьтесь к школе,,-20,0
+PowerOnTheGo,PowerOnTheGo,NOUSAGE,"Возможности, которые всегда с вами","Возможности, которые всегда с вами",,-20,0
+Fruits_Atct_1,Fruits_Atct_1,NOUSAGE,Яблоки Red Delicious,Яблоки Red Delicious,,-20,0
+Fruits_Atct_2,Fruits_Atct_2,NOUSAGE,Щедрые ягоды,Щедрые ягоды,,-20,0
+Furniture_Atct_1,Furniture_Atct_1,NOUSAGE,Мебель для спальни,Мебель для спальни,,-20,0
+Furniture_Atct_2,Furniture_Atct_2,NOUSAGE,Экономьте на осветительных приборах,Экономьте на осветительных приборах,,-20,0
+FreeDelivery,FreeDelivery,NOUSAGE,Бесплатная доставка,Бесплатная доставка,,-20,0
+AtlanticLobster,AtlanticLobster,NOUSAGE,Атлантический омар,Атлантический омар,,-20,0
+CrispRomaine,CrispRomaine,NOUSAGE,Свежий салат Ромэн,Свежий салат Ромэн,,-20,0
+FreeConsultation,FreeConsultation,NOUSAGE,Бесплатная консультация,Бесплатная консультация,,-20,0
+NaturalVitamins,NaturalVitamins,NOUSAGE,Природные витамины,Природные витамины,,-20,0
+AutomaticRefills,AutomaticRefills,NOUSAGE,Автоматическое пополнение,Автоматическое пополнение,,-20,0
+LivingRoomSale,LivingRoomSale,NOUSAGE,Распродажа гостиных комнат,Распродажа гостиных комнат,,-20,0
+PerfectEveryTime,PerfectEveryTime,NOUSAGE,Неизменное совершенство,Неизменное совершенство,,-20,0
+SaveOnLighting,SaveOnLighting,NOUSAGE,Экономьте на осветительных приборах,Экономьте на осветительных приборах,,-20,0
+Kitchenware_Atct_1,Kitchenware_Atct_1,NOUSAGE,Кухонные принадлежности из нержавеющей стали,Кухонные принадлежности из нержавеющей стали,,-20,0
+Kitchenware_Atct_2,Kitchenware_Atct_2,NOUSAGE,Экономьте на крупных кухонных аксессуарах,Экономьте на крупных кухонных аксессуарах,,-20,0
+Laptops_Atct_1,Laptops_Atct_1,NOUSAGE,Настраиваемые портативные компьютеры,Настраиваемые портативные компьютеры,,-20,0
+Laptops_Atct_2,Laptops_Atct_2,NOUSAGE,Сэкономьте на аксессуарах,Сэкономьте на аксессуарах,,-20,0
+Lighting_Atct_1,Lighting_Atct_1,NOUSAGE,Экономьте на осветительных приборах,Экономьте на осветительных приборах,,-20,0
+Lighting_Atct_2,Lighting_Atct_2,NOUSAGE,Измените свою гостиную,Измените свою гостиную,,-20,0
+Magazines_Atct_1,Magazines_Atct_1,NOUSAGE,Журнал Photoritz,Журнал Photoritz,,-20,0
+Magazines_Atct_2,Magazines_Atct_2,NOUSAGE,Журнал SocietyTime,Журнал SocietyTime,,-20,0
+Meat_Atct_1,Meat_Atct_1,NOUSAGE,Куры гриль в медовой глазури,Куры гриль в медовой глазури,,-20,0
+Meat_Atct_2,Meat_Atct_2,NOUSAGE,Сашими с лососем,Сашими с лососем,,-20,0
+Medicines_Atct_1,Medicines_Atct_1,NOUSAGE,Автоматическое пополнение,Автоматическое пополнение,,-20,0
+Medicines_Atct_2,Medicines_Atct_2,NOUSAGE,Все природные витамины,Все природные витамины,,-20,0
+SubscribeAndSave,SubscribeAndSave,NOUSAGE,Подпишись и сэкономь,Подпишись и сэкономь,,-20,0
+SubscribeToNewsletters,SubscribeToNewsletters,NOUSAGE,Подпишитесь на новостные рассылки,Подпишитесь на новостные рассылки,,-20,0
+SubscribeToMagazines,SubscribeToMagazines,NOUSAGE,Журнал Econo Sense,Журнал Econo Sense,,-20,0
+Newsletters_Atct_1,Newsletters_Atct_1,NOUSAGE,Подпишитесь на новостные рассылки,Подпишитесь на новостные рассылки,,-20,0
+Newsletters_Atct_2,Newsletters_Atct_2,NOUSAGE,Журнал Delish,Журнал Delish,,-20,0
+Tablets_Atct_1,Tablets_Atct_1,NOUSAGE,"Возможности, которые всегда с вами","Возможности, которые всегда с вами",,-20,0
+Tablets_Atct_2,Tablets_Atct_2,NOUSAGE,Подготовьтесь к школе,Подготовьтесь к школе,,-20,0
+Tableware_Atct_1,Tableware_Atct_1,NOUSAGE,Свободное комплектование,Свободное комплектование,,-20,0
+Tableware_Atct_2,Tableware_Atct_2,NOUSAGE,Свободное комплектование - тарелки,Свободное комплектование - тарелки,,-20,0
+Vegetables_Atct_1,Vegetables_Atct_1,NOUSAGE,Морковь с грядки,Морковь с грядки,,-20,0
+Vegetables_Atct_2,Vegetables_Atct_2,NOUSAGE,Фасованная смесь для салата,Фасованная смесь для салата,,-20,0
+Vitamins_Atct_1,Vitamins_Atct_1,NOUSAGE,Все природные витамины,Все природные витамины,,-20,0
+Vitamins_Atct_2,Vitamins_Atct_2,NOUSAGE,Желатиновые капсулы от простуды,Желатиновые капсулы от простуды,,-20,0

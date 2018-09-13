@@ -1,0 +1,9 @@
+<!-- Content Area ESpot for Apparel Espot1 -->
+<collateral collateral_id="@collateral_id_apparel_sub_espot1" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="ApparelSubEspot1" />
+<emspot emspot_id="@madisons_emspot_id_801" storeent_id="&MAR_STOREENT_ID;"  name="ApparelRow2_Content_Left" description="Display ads on Apparel department page" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_apparel_sub_espot1" emspot_id="@madisons_emspot_id_801" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_apparel_sub_espot1" />
+
+<!-- Content Area ESpot for Apparel Espot2 -->
+<collateral collateral_id="@collateral_id_apparel_sub_espot2" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="ApparelSubEspot2" />
+<emspot emspot_id="@madisons_emspot_id_802" storeent_id="&MAR_STOREENT_ID;"  name="ApparelRow2_Content_Right" description="Display ads on Apparel department page" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_apparel_sub_espot2" emspot_id="@madisons_emspot_id_802" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_apparel_sub_espot2" />

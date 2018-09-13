@@ -1,0 +1,3 @@
+PaymentPolicy,,,
+PolicyName,Description,LongDescription,Properties
+TestPunchout,Test punchout,Test payment punchout method,attrPageName=SimplePunchout&paymentConfigurationId=default&display=true&compatibleMode=false&uniqueKey=piId&PIKey=piId&punchoutPayment=true

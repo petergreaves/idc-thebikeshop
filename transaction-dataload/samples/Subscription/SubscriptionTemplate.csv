@@ -1,0 +1,4 @@
+SubscriptionTemplate
+identifier,partNumberSold,partNumberToShip,quantity,price,Delete
+1,NMA026_260101,NMA026_260201,1,,
+2,NMA026_260102,NMA026_260202,1,,

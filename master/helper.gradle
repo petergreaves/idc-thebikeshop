@@ -1,0 +1,39 @@
+import org.gradle.internal.os.OperatingSystem
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+task updateWorkspace {
+	description = 'Updates the workspace by importing new projects and creating a new test server'
+
+	mustRunAfter createServer
+
+	doLast {
+		logging.level = LogLevel.INFO
+
+		def buildScript = new File(project.workspaceDir, 'master/setup/setup.xml').canonicalFile
+
+		// Update the workspace
+		ant.exec(executable : "${project.eclipseHome}/${OperatingSystem.current().isUnix() ? 'eclipse' : 'eclipsec'}", failOnError: true) {
+			arg(line : '-application org.eclipse.ant.core.antRunner')
+			arg(line : '-nosplash')
+			arg(line : """-data "${project.workspaceDir}" """)
+			arg(line : """-DlibertyHome="${project.libertyHome}" """)
+			arg(line : """-DserverName=${project.serverName}""")
+			arg(line : """-DserverDisplayName="${project.serverDisplayName}" """)
+			arg(line : project.hasProperty('earName') ? """-DearName="${project.earName}" """ : '')
+			arg(line : """-buildfile "${buildScript}" """)
+		}
+	}
+}
+

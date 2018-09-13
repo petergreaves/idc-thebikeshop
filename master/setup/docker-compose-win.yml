@@ -1,0 +1,52 @@
+web:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-web:20180807000000
+  links:
+  - app:app
+  ports:
+   - "8000:8000"
+   - "8001:8001"
+   - "8002:8002"
+   - "8004:8004"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+app:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-app:20180807000000
+  links:
+  - db:db
+  extra_hosts:
+   - "search:10.0.75.1"
+   - "store:10.0.75.1"
+   - "xc:10.0.75.1"
+  ports:
+   - "5080:5080"
+   - "5443:5443"
+  volumes:
+   - "../../transaction-config/xml:/SETUP/app/customization"
+   - "../../transaction-dataload/data:/SETUP/app/dataload"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+db:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-db:20180807000000
+  privileged: true
+  ports:
+   - "50000:50000"
+   - "50001:50001"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+search:
+  image: registry.ng.bluemix.net/digitalcommerce/search-app:20180807000000
+  links:
+   - app:app
+   - db:db
+  environment:
+   - SOLR_MASTER=true
+  volumes:
+  - "../../search-runtime:/search-config/search-runtime"
+  extra_hosts:
+   - "xc:10.0.75.1"
+   - "store:10.0.75.1"
+  ports:
+   - "3738:3738"

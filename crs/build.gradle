@@ -1,0 +1,77 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+ 
+apply plugin: 'ear'
+apply plugin: 'eclipse-wtp'
+
+def ejb(name) {
+	dependencies {
+		deploy project(path: name, configuration: 'archives')
+		earlib project(path: name, configuration: 'compile')
+	}
+}
+
+dependencies {
+	deploy project(path: ':crs-custom-web', configuration: 'archives')
+}
+
+// Add an archiveName attribute to all modules.  This is to prevent
+// Eclipse from trying to migrate the file on startup
+eclipse {
+	wtp {
+		component.file.withXml { provider -> 
+			provider.asNode().'*'.'dependent-module'.collect { module ->
+				def path = module.'@deploy-path'
+				def handle = module.@handle
+				if (handle.contains('classpath')) {
+					def name = handle.find(/classpath\/.*\/(.+.jar)/) { full, name -> name }
+					module.@archiveName = name
+				} else {
+					def name = handle.find(/resource\/([^\/]+)/) { full, name -> name }
+					if (path == '/lib') {
+						module.@archiveName = name + '.jar'
+					} else {
+						if (project(":${name}").plugins.hasPlugin('war')) {
+							module.@archiveName = name + '.war'
+						} else {
+							module.@archiveName = name + '.jar'
+						}
+					}
+				}
+			}
+			def node = provider.asNode().'*'.'wb-resource'.find { it.'@source-path' == 'src/main/application' }
+			if (node) {
+				node.@tag = 'defaultRootSource'
+			}
+		}
+
+		facet.file.withXml { provider ->
+			// change the existing jst.ear facet, not add a new one
+			provider.asNode().installed.find { it.@facet == 'jst.ear' }.@version = '6.0'
+		}
+	}
+}
+
+cleanEclipse.finalizedBy('eclipse')
+
+ear {
+	deploymentDescriptor {
+		webModule("crs-custom-static.war", "/crs-custom-static")
+	}
+	exclude '**/ibmconfig/**'
+}
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

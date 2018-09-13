@@ -1,0 +1,50 @@
+<!-- Create the Store ID and add our unique STORE_IDENTIFIER to the storeent table.
+     The STORE_IDENTIFIER and Organization DN (orgentity table) uniquely define our store the the database. -->
+<storeent
+storeent_id="@storeent_id_1"
+member_id="&MEMBER_ID;"
+type="S"
+identifier="&STORE_IDENTIFIER;"
+setccurr="USD"
+/>
+
+<!-- Relate the store entity to the Fulfillment Center and a store group.  Define the store directory.
+     Specify that this store supports ATP (allocationgoodfor). -->
+<store
+store_id="@storeent_id_1"
+directory="&STORE_DIR;"
+language_id="&en_US;"
+storegrp_id="-1"
+allocationgoodfor="43200"
+inventorysystem="-1"
+bopmpadfactor="0"
+ffmcselectionflags="0"
+rejectedordexpiry="259200"
+pricerefflags="8"
+storetype="&STORE_TYPE;"
+quotegoodfor="43200"
+persistentsession="3"
+/>
+
+<shipmode shipmode_id="@pickup_shipmode_id" storeent_id="@storeent_id_1" code="PickupInStore" markfordelete="0"/>
+
+<!-- Define InventoryAdjustmentCode's for the Store.
+     This code represents a reason for an InventoryAdjustment that can be displayed in a GUI. -->
+<invadjcode
+adjustcode="PCNT"
+invadjcode_id="@invadjcode_id_1"
+markfordelete="0"
+storeent_id="@storeent_id_1"
+/>
+<invadjcode
+adjustcode="SPLG"
+invadjcode_id="@invadjcode_id_2"
+markfordelete="0"
+storeent_id="@storeent_id_1"
+/>
+<invadjcode
+adjustcode="DISC"
+invadjcode_id="@invadjcode_id_3"
+markfordelete="0"
+storeent_id="@storeent_id_1"
+/>

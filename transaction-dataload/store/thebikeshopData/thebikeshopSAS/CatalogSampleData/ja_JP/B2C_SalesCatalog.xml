@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2c_sales" 
+    language_id="&ja_JP;" 
+    name="Aurora コンシューマー・ダイレクト・サンプル・データ"
+    shortdescription="Aurora コンシューマー・ダイレクト・サンプル・データ"
+    longdescription="コンシューマー・ダイレクト・ストアでのカタログ機能を紹介するために、6 つの部門 (アパレル、電化製品、食料品、健康、ホーム・インテリア、ニュースレター、およびマガジン) が表示されるセールス・カタログ。"
+    thumbnail=""
+    fullimage="" 
+  />
+  

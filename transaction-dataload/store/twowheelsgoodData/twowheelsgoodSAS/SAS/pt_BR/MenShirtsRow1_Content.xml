@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110003_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0404B_EMS_BasicTees_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110003_pt_BR"
+  atchtgt_id="@atchtgt_id_11003"
+  language_id="&pt_BR;"
+  name="Camisetas Básicas"
+  shortdescription="Venda de Camisetas Básicas Compre 2, ganhe a terceira grátis"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110003_pt_BR"
+  atchast_id="@atchast_id_110003_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110003_pt_BR"
+  atchrel_id="@atchrel_id_11003"
+  language_id="&pt_BR;"
+  name="Camisetas Básicas"
+  shortdescription="Camisetas Básicas"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11003"
+	language_id="&pt_BR;"
+	marketingtext="Camisetas Básicas" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120003_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0406B_EMS_DressShirt_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120003_pt_BR"
+  atchtgt_id="@atchtgt_id_12003"
+  language_id="&pt_BR;"
+  name="Camisa Social"
+  shortdescription="Venda de Camisas Sociais 15% de desconto em camisas sociais masculinas"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120003_pt_BR"
+  atchast_id="@atchast_id_120003_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120003_pt_BR"
+  atchrel_id="@atchrel_id_12003"
+  language_id="&pt_BR;"
+  name="Camisa Social"
+  shortdescription="Camisa Social"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12003"
+	language_id="&pt_BR;"
+	marketingtext="Camisa Social" 
+/>
+

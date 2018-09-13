@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_grocery0002_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_grocery0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/1107B_EGRS_Lobster_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_grocery0002_fr_FR"
+  atchtgt_id="@atchtgt_id_grocery0002"
+  language_id="&fr_FR;"
+  name="Homard de l'Atlantique"
+  shortdescription="Homard de l'Atlantique 18,99 $ le kg cette semaine uniquement !"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_grocery0002_fr_FR"
+  atchast_id="@atchast_id_grocery0002_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_grocery0002_fr_FR"
+  atchrel_id="@atchrel_id_grocery0002"
+  language_id="&fr_FR;"
+  name="Homard de l'Atlantique"
+  shortdescription="Homard de l'Atlantique"
+/>
+<colldesc 
+	collateral_id="@collateral_id_grocery0002"
+	language_id="&fr_FR;"
+	marketingtext="Homard de l'Atlantique" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_grocery0003_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_grocery0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/1109B_EGRS_Romaine_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_grocery0003_fr_FR"
+  atchtgt_id="@atchtgt_id_grocery0003"
+  language_id="&fr_FR;"
+  name="Romaine croquante"
+  shortdescription="Romaine croquante 1,99 $ le kg cette semaine uniquement !"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_grocery0003_fr_FR"
+  atchast_id="@atchast_id_grocery0003_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_grocery0003_fr_FR"
+  atchrel_id="@atchrel_id_grocery0003"
+  language_id="&fr_FR;"
+  name="Romaine croquante"
+  shortdescription="Romaine croquante"
+/>
+<colldesc 
+	collateral_id="@collateral_id_grocery0003"
+	language_id="&fr_FR;"
+	marketingtext="Romaine croquante" 
+/>
+
+
+
+

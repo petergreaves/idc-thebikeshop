@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&fr_FR;"
+  description="Livraison gratuite !"
+  longdescription="Livraison gratuite pour toute commande d'un montant supérieur à 70 $."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&fr_FR;"
+	admindesc="Remise sur les frais de port : livraison gratuite pour des achats au-delà de 70 $"
+	shortdesc="Livraison gratuite !"
+	longdesc="Livraison gratuite pour toute commande d'un montant supérieur à 70 $."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&fr_FR;"
+  description="Les clients fidèles économisent 5 $"
+  longdescription="Si vous avez effectué un achat sur notre site, vous bénéficierez d'une remise de 5 $ sur votre prochaine commande."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&fr_FR;"
+	admindesc="Remise sur la commande - Les client fidèles bénéficieront de 5 $ de remise sur leur prochaine commande"
+	shortdesc="Les clients fidèles économisent 5 $"
+	longdesc="Si vous avez effectué un achat sur notre site, vous bénéficierez d'une remise de 5 $ sur votre prochaine commande."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&fr_FR;"
+  description="Enregistrez-vous aujourd'hui et économisez 7 %."
+  longdescription="Enregistrez-vous aujourd'hui et économisez 7 % sur votre prochaine commande."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&fr_FR;"
+	admindesc="Remise sur la commande - Code de promotion. Les clients enregistrés économiseront 7 % sur leur prochaine commande"
+	shortdesc="Enregistrez-vous aujourd'hui et économisez 7 %."
+	longdesc="Enregistrez-vous aujourd'hui et économisez 7 % sur votre prochaine commande."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&fr_FR;"
+  description="Moins 10 % sur toutes les commandes"
+  longdescription="Economisez 10 % sur toutes les commandes."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&fr_FR;"
+	admindesc="Economisez 10 % sur toutes les commandes aujourd'hui"
+	shortdesc="Moins 10 % sur toutes les commandes"
+	longdesc="Economisez 10 % sur toutes les commandes."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&fr_FR;"
+  description="Economisez 25 $ sur toutes les commandes dépassant 200 $"
+  longdescription="Economisez 25 $ sur toutes les commandes dépassant 200 $."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&fr_FR;"
+	admindesc="Moins 25 $ sur toutes les commandes passées avant samedi"
+	shortdesc="Economisez 25 $ sur toutes les commandes dépassant 200 $"
+	longdesc="Economisez 25 $ sur toutes les commandes dépassant 200 $."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&fr_FR;"
+  description="Livraison standard pour 5 $ seulement !"
+  longdescription="Utilisez la livraison standard et ne payez que 5 $ pour la livraison de toute votre commande."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&fr_FR;"
+	admindesc="Remise sur les frais de port"
+	shortdesc="Livraison standard pour 5 $ seulement !"
+	longdesc="Utilisez la livraison standard et ne payez que 5 $ pour la livraison de toute votre commande."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&fr_FR;"
+  description="Moins 20 % sur le mobilier !"
+  longdescription="Economisez 20 % sur tous les meubles ! Sans aucune restriction !"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&fr_FR;"
+	admindesc="Remise sur la catégorie - Economisez 20 % sur le mobilier"
+	shortdesc="Moins 20 % sur le mobilier !"
+	longdesc="Economisez 20 % sur tous les meubles ! Sans aucune restriction !"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

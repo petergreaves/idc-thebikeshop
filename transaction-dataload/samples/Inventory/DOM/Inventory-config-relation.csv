@@ -1,0 +1,3 @@
+InventoryConfigurationRelation
+Identifier,PartNumber,CatEntryStoreIdentifier,OnlineStoreIdentifier,PhysicalStoreIdentifier,Delete
+Sample,AuroraWMDRS-1,ExtendedSitesCatalogAssetStore,,,0

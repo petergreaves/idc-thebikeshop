@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_light10001_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Lighting1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1009B_EHFS_SaveOnLighting_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_light10001_en_US"
+  atchtgt_id="@atchtgt_id_Lighting1001"
+  language_id="&en_US;"
+  name="Save on Lighting"
+  shortdescription="Save on Lighting 40% off selected table lamps"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_light10001_en_US"
+  atchast_id="@atchast_id_light10001_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_light10001_en_US"
+  atchrel_id="@atchrel_id_Lighting1001"
+  language_id="&en_US;"
+  name="Save on Lighting"
+  shortdescription="Save on Lighting"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Lighting1001"
+	language_id="&en_US;"
+	marketingtext="Save on Lighting" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_light10002_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Lighting1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1012B_EHFS_UpdateLivingRoom_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_light10002_en_US"
+  atchtgt_id="@atchtgt_id_Lighting1002"
+  language_id="&en_US;"
+  name="Update Living Room"
+  shortdescription="Update Your Living Room 15% off living room furniture"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_light10002_en_US"
+  atchast_id="@atchast_id_light10002_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_light10002_en_US"
+  atchrel_id="@atchrel_id_Lighting1002"
+  language_id="&en_US;"
+  name="Update Living Room"
+  shortdescription="Update Living Room"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Lighting1002"
+	language_id="&en_US;"
+	marketingtext="Update Living Room" 
+/>
+

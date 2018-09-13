@@ -1,0 +1,68 @@
+
+<colldesc 
+	collateral_id="@collateral_id_aboutdressdesigner_hero"
+	language_id="&zh_TW;"
+	longmktgtext="&lt;div class=&quot;left_column left_column_5px static_page&quot; role=&quot;main&quot;&gt;			
+			&lt;div class=&quot; hero_image &quot;&gt;				
+				&lt;img alt=&quot;About the designer hero image&quot; src=&quot;[imagePath]StaticContent/images/[langlocale]/011B_EATDM_EliseKurkova_001.jpg&quot;/&gt;			
+			&lt;/div&gt;						
+			&lt;div class=&quot;header&quot;&gt;關於設計師&lt;/div&gt;						
+			&lt;div class=&quot;three_column_content&quot;&gt;				
+				&lt;div class=&quot;column&quot; &gt;					
+					&lt;div class=&quot;text_holder&quot; &gt;						
+						&lt;p&gt;榮獲獎項的設計師 Elise Kurkova 為追求時尚、設計和對品質不妥協的人們帶來了熱情。&lt;/p&gt;					
+						&lt;p&gt;「當女性穿上我的服飾，我希望她能感受到彷彿在享受生命中最大的樂趣。」&lt;/p&gt;	
+					&lt;/div&gt;										
+					&lt;div class=&quot;espot&quot; style=&quot;position:relative;&quot;&gt;						
+						&lt;img alt=&quot;Dresses Image&quot; src=&quot;[imagePath]StaticContent/images/dresses_espot.png&quot;/&gt;					
+						&lt;a href=&quot;[fullPathHomeURL]/apparel/women/dresses&quot;&gt;						
+						&lt;div class=&quot;imagelink&quot; style=&quot;position: absolute; &nbsp;top: 220px; right: 0px; &quot;&gt;						
+						洋裝							
+						&lt;/div&gt;						
+						&lt;/a&gt;					
+						&lt;/div&gt;					
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;					
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;						
+						&lt;div class=&quot;text_holder&quot;&gt;							
+						&lt;p&gt;來自俄羅斯聖彼得堡的 Elise 還記得用她母親的舊衣物裝扮嬉戲，並花費數小時用家中能找到的&lt;/p&gt;						
+						&lt;/div&gt;			
+						&lt;/div&gt;							
+						&lt;div class=&quot;column border&quot;&gt;				
+						&lt;div class=&quot;text_holder&quot;&gt;					
+						&lt;p&gt;所有裝飾品來裝飾每件衣服。&lt;/p&gt;					
+						&lt;p&gt;她在大學時期學習藝術史，並專攻 20 世紀服裝趨勢，這豐富了她的創造力。&lt;/p&gt;																		
+						&lt;p&gt;當她在學校被要求製作戲劇系的服裝時，讓她對於服裝製作起了興趣。&lt;/p&gt;	
+							&lt;p&gt;這激起了她創作自己的設計的念頭，所以在完成大學學業後，她移居美國學習流行設計。&lt;/p&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			
+						&lt;/div&gt;								
+						&lt;div class=&quot;quote&quot;&gt;					
+												
+							「當女性穿上我的服飾，我希望她能感受到彷彿在享受生命中最大的樂趣。」		
+						&lt;/div&gt;								
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;			
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;					
+						&lt;div class=&quot;text_holder&quot;&gt;					
+							&lt;p&gt;在 1998 年畢業後，Elise 移居紐約，在那邊為多個服裝工作室工作，並慢慢地獲得採購和行銷的經驗。&lt;/p&gt;				
+							&lt;p&gt;Elise 在 2007 年加入 Madison's 並發表第一個系列，這個系列是以她的家鄉作為靈感。&lt;/p&gt;		
+						&lt;/div&gt;			
+						&lt;/div&gt;									
+						&lt;div class=&quot;column border&quot;&gt;				
+						&lt;div class=&quot;text_holder&quot;&gt;				
+						&lt;p&gt;Petroika 系列中的冬裝同時兼具流行與功能。&lt;/p&gt;					
+						&lt;p&gt;她目前的最新力作是新的 Heritage 系列。&lt;/p&gt;					
+						&lt;p&gt;這個晚禮服系列適合每個人，從狂放不羈的皮衣到精巧細緻的錦緞和亮片服飾。&lt;/p&gt;					
+						&lt;/div&gt;								
+						&lt;div class=&quot;espot&quot; style=&quot;position:relative;margin-left:1px;&quot;&gt;				
+						&lt;img alt=&quot;Suits Image&quot; src=&quot;[imagePath]StaticContent/images/suits_espot.png&quot;/&gt;						
+						&lt;a href=&quot;[fullPathHomeURL]/apparel/men/suits&quot;&gt;				
+						&lt;div class=&quot;imagelink&quot; style=&quot;top: 257px; right: 0px;&quot;&gt;							
+							西裝４						
+						&lt;/div&gt;				
+						&lt;/a&gt;					
+						&lt;/div&gt;				
+						&lt;/div&gt;				
+						&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;		
+						&lt;/div&gt;					
+						&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;				
+						&lt;/div&gt;"
+/>
+

@@ -1,0 +1,17 @@
+<orgentity orgentity_id="@catalog_orgentity_id" dn="ou=&CAT_STORE_DIR_LOWERCASE;,o=extended sites organization,o=root organization">
+  <isa>
+    <member member_id="@catalog_mbr_id" type="O"/>
+  </isa>
+</orgentity>
+
+<storeent storeent_id="@catalogStore" member_id="&CAT_MEMBER_ID;" identifier="&CAT_STORE_IDENTIFIER;" type="S" />
+<store store_id="@catalogStore" storegrp_id="-1" />
+
+<orgentity orgentity_id="@hosting_orgentity_id" dn="&HOS_ORGANIZATION_DN;">
+	<isa>
+		<member member_id="@hosting_mbr_id" type="O"/>
+	</isa>
+</orgentity>
+
+<storeent storeent_id="@hostingStore" member_id="&HOS_MEMBER_ID;" identifier="&HOS_STORE_IDENTIFIER;" type="S" />
+<store store_id="@hostingStore" storegrp_id="-1" />

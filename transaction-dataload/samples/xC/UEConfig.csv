@@ -1,0 +1,3 @@
+ExtUEConfig
+ExtUEConfigId,Url,HttpMethod,Description,Properties,FilterId,Timeout,Retriable,Delete
+ibm_validate_quantity,/extension/order/validate_quantity,POST,validate quantity Extension,Content-Type=application/json,101,,1,0

@@ -1,0 +1,85 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenHandbagsColor -->
+<attrdesc attr_id="@attribute_id_WomenHandbags_5" attrtype_id="STRING" language_id="&pt_BR;" name="Cor" description="Cor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_5" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Preta" integervalue="" floatvalue="" stringvalue="Preta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_9" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Branco" integervalue="" floatvalue="" stringvalue="Branco" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_13" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="3" value="Multicor" integervalue="" floatvalue="" stringvalue="Multicor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_17" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="4" value="Vermelho" integervalue="" floatvalue="" stringvalue="Vermelho" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_19" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="5" value="Bege" integervalue="" floatvalue="" stringvalue="Bege" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_21" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="6" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_22" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="7" value="Marrom" integervalue="" floatvalue="" stringvalue="Marrom" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_28" attr_id="@attribute_id_WomenHandbags_5" valusage="1" language_id="&pt_BR;" sequence="8" value="Prata" integervalue="" floatvalue="" stringvalue="Prata" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenHandbagsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_WomenHandbags_1" attrtype_id="STRING" language_id="&pt_BR;" name="Tamanho" description="Tamanho" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_1_WBG006_0601" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="1" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_1_WBG006_0605" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="1" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_1_WBG006_0608" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="1" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_1_WBG006_0610" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="1" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_1_WBG006_0611" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="1" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_6_WBG006_0602" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_6_WBG006_0606" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_6_WBG006_0612" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_6_WBG006_0615" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_6_WBG006_0616" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0603" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0609" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0617" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0618" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0619" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0620" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_10_WBG006_0622" attr_id="@attribute_id_WomenHandbags_1" valusage="1" language_id="&pt_BR;" sequence="3" value="P" integervalue="" floatvalue="" stringvalue="P" />
+<!--end of  Size -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenHandbags_3" attrtype_id="STRING" language_id="&pt_BR;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0601" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0602" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0603" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0605" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0606" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0608" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0609" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0610" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0611" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0615" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_3_WBG006_0616" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Couro" integervalue="" floatvalue="" stringvalue="Couro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_23_WBG006_0612" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Tecido" integervalue="" floatvalue="" stringvalue="Tecido" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_25_WBG006_0617" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Tecido/lantejoulas" integervalue="" floatvalue="" stringvalue="Tecido/lantejoulas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_25_WBG006_0620" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Tecido/lantejoulas" integervalue="" floatvalue="" stringvalue="Tecido/lantejoulas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_25_WBG006_0622" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Tecido/lantejoulas" integervalue="" floatvalue="" stringvalue="Tecido/lantejoulas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_26_WBG006_0618" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="4" value="Tecido/lantejoulas/motivos" integervalue="" floatvalue="" stringvalue="Tecido/lantejoulas/motivos" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_27_WBG006_0619" attr_id="@attribute_id_WomenHandbags_3" valusage="1" language_id="&pt_BR;" sequence="5" value="Tecido/lantejoulas/contas" integervalue="" floatvalue="" stringvalue="Tecido/lantejoulas/contas" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenHandbags_2" attrtype_id="STRING" language_id="&pt_BR;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_2_WBG006_0601" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Bolsa de ombro" integervalue="" floatvalue="" stringvalue="Bolsa de ombro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_2_WBG006_0611" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Bolsa de ombro" integervalue="" floatvalue="" stringvalue="Bolsa de ombro" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_7_WBG006_0602" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Bolsa de mão" integervalue="" floatvalue="" stringvalue="Bolsa de mão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_7_WBG006_0606" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Bolsa de mão" integervalue="" floatvalue="" stringvalue="Bolsa de mão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_7_WBG006_0615" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Bolsa de mão" integervalue="" floatvalue="" stringvalue="Bolsa de mão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_7_WBG006_0616" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Bolsa de mão" integervalue="" floatvalue="" stringvalue="Bolsa de mão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_11_WBG006_0603" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Bolsa transversal" integervalue="" floatvalue="" stringvalue="Bolsa transversal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_14_WBG006_0605" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="4" value="Sacola" integervalue="" floatvalue="" stringvalue="Sacola" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_14_WBG006_0608" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="4" value="Sacola" integervalue="" floatvalue="" stringvalue="Sacola" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_20_WBG006_0609" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="5" value="Mochila" integervalue="" floatvalue="" stringvalue="Mochila" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_20_WBG006_0610" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="5" value="Mochila" integervalue="" floatvalue="" stringvalue="Mochila" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_20_WBG006_0612" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="5" value="Mochila" integervalue="" floatvalue="" stringvalue="Mochila" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_24_WBG006_0617" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Carteira" integervalue="" floatvalue="" stringvalue="Carteira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_24_WBG006_0618" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Carteira" integervalue="" floatvalue="" stringvalue="Carteira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_24_WBG006_0619" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Carteira" integervalue="" floatvalue="" stringvalue="Carteira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_24_WBG006_0620" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Carteira" integervalue="" floatvalue="" stringvalue="Carteira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenHandbags_24_WBG006_0622" attr_id="@attribute_id_WomenHandbags_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Carteira" integervalue="" floatvalue="" stringvalue="Carteira" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

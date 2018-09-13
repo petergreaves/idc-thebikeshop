@@ -1,0 +1,13 @@
+	<!-- Create Asset Store Organization -->
+	<orgentity orgentity_id="@profile_orgentity_id" dn="ou=&STORE_DIRECTORY_LOWERCASE;,&ORGANIZATION_DN;" orgentitytype="OU" orgentityname="资产商店组织" >
+		<isa>
+			<member member_id="@profile_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>
+	
+	<!-- Create Asset Store Base Contracts Organization -->
+	<orgentity orgentity_id="@base_orgentity_id" dn="&BASE_ORGANIZATION_DN;" orgentitytype="O" orgentityname="基本合同帐户组织" >
+		<isa>
+			<member member_id="@base_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>

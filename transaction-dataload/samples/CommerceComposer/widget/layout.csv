@@ -1,0 +1,3 @@
+Layout
+LayoutName,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault,StartDate,EndDate,Priority,Delete
+SampleContentPageLayout,"Sample any page, single slot",The layout for content pages.,Any,1,FALSE,FALSE,,,,

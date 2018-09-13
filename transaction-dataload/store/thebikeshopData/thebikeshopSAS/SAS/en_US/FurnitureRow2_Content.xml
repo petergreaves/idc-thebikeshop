@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_furn10001_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Furniture1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1003B_EHFS_BedroomFurniture_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_furn10001_en_US"
+  atchtgt_id="@atchtgt_id_Furniture1001"
+  language_id="&en_US;"
+  name="Bedroom Furniture"
+  shortdescription="15% off bedroom furniture"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_furn10001_en_US"
+  atchast_id="@atchast_id_furn10001_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_furn10001_en_US"
+  atchrel_id="@atchrel_id_Furniture1001"
+  language_id="&en_US;"
+  name="Bedroom Furniture"
+  shortdescription="Bedroom Furniture"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Furniture1001"
+	language_id="&en_US;"
+	marketingtext="Bedroom Furniture" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_furn10002_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Furniture1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1010B_EHFS_SaveOnLighting_002.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_furn10002_en_US"
+  atchtgt_id="@atchtgt_id_Furniture1002"
+  language_id="&en_US;"
+  name="Save on Lighting"
+  shortdescription="Save on Lighting 40% off selected table lamps"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_furn10002_en_US"
+  atchast_id="@atchast_id_furn10002_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_furn10002_en_US"
+  atchrel_id="@atchrel_id_Furniture1002"
+  language_id="&en_US;"
+  name="Save on Lighting"
+  shortdescription="Save on Lighting"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Furniture1002"
+	language_id="&en_US;"
+	marketingtext="Save on Lighting" 
+/>
+

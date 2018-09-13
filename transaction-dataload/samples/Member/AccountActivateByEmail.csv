@@ -1,0 +1,5 @@
+CmdReg
+StoreIdentifier,Description,InterfaceName,ClassName,Properties,Delete
+AuroraESite,,com.ibm.commerce.member.facade.server.commands.UserRegistrationAddCheckApprovalCmd,com.ibm.commerce.member.facade.server.commands.UserRegistrationAddCheckApprovalEmailActivationCmdImpl,,
+AuroraESite,,com.ibm.commerce.usermanagement.commands.UserRegistrationAddCmd,com.ibm.commerce.member.facade.server.commands.UserRegistrationAddWithApprovalCheckCmdImpl,,
+AuroraESite,,com.ibm.commerce.member.facade.server.commands.UserRegistrationEmailActivateCmd,com.ibm.commerce.member.facade.server.commands.UserRegistrationEmailActivateCmdImpl,view=LogonForm,

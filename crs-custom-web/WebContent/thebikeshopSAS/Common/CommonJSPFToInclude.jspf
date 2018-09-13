@@ -1,0 +1,62 @@
+<%--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2009, 2018 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+--%>
+<!-- BEGIN CommonJSPFToInclude.jspf -->
+
+	<%@ include file="ProgressBar.jspf"%>
+	<%@ include file="MessageDisplay.jspf"%>
+	<%@ include file="ComparePopup.jspf"%>
+	<%@ include file="InactivityWarningPopup.jspf"%>
+ 	<flow:ifEnabled feature="CookieWarning">		
+ 		<%@ include file="CookieWarning.jspf"%> 
+	</flow:ifEnabled>
+	<c:if test="${env_storePreviewLink}">
+		<%@ include file="RemotePreviewModeTab.jspf"%>
+	</c:if>
+	<c:if test="${env_schemeToUse eq 'https'}">
+		<%@ include file="CSRFProtection.jspf"%>
+	</c:if>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+		
+			<c:if test="${WCParam.MERGE_CART_FAILED_SHOPCART_THRESHOLD == '1'}">
+				//handle form logon in checkout and sign in page
+				setCookie("MERGE_CART_FAILED_SHOPCART_THRESHOLD", "1", {path: "/", domain: cookieDomain});
+			</c:if>
+			
+			//handle Ajax global login
+			var showMergeCartError = getCookie("MERGE_CART_FAILED_SHOPCART_THRESHOLD");
+			if (showMergeCartError == "1") {
+				setCookie("MERGE_CART_FAILED_SHOPCART_THRESHOLD", null, {expires: -1, path: "/", domain: cookieDomain});
+				<fmt:message key="MERGED_SHOPPING_CART_WARNING" bundle="${storeText}" var="MERGED_SHOPPING_CART_WARNING"/>
+				MessageHelper.setMessage("MERGE_CART_FAILED_SHOPCART_THRESHOLD", <wcf:json object="${MERGED_SHOPPING_CART_WARNING}"/>);
+				MessageHelper.displayErrorMessage(MessageHelper.messages["MERGE_CART_FAILED_SHOPCART_THRESHOLD"]);
+			}
+		});
+			
+	</script>
+	<%out.flush();%>
+		<c:import url="${env_jspStoreDir}Common/CallCenterIntegrationSetup.jsp"/>
+	<%out.flush();%>
+	<flow:ifEnabled feature="ConsentOptions">
+	<%out.flush();%>
+		<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url= "${env_siteWidgetsDir}Common/PrivacyPolicy/PrivacyPolicyPopup.jsp">
+			<wcpgl:param name="storeId" value="${storeId}" />
+			<wcpgl:param name="catalogId" value="${catalogId}" />
+			<wcpgl:param name="emsName" value="PrivacyPolicyPageCenter_Content"/>
+		</wcpgl:widgetImport>
+	<%out.flush();%>
+	</flow:ifEnabled>
+	
+<!-- END CommonJSPFToInclude.jspf -->

@@ -1,0 +1,88 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : LightingColor -->
+<attrdesc attr_id="@attribute_id_Lighting_5" attrtype_id="STRING" language_id="&fr_FR;" name="Couleur" description="Couleur" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_5" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Rouge" integervalue="" floatvalue="" stringvalue="Rouge" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_7" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="2" value="Blanc" integervalue="" floatvalue="" stringvalue="Blanc" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_13" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="3" value="Argent" integervalue="" floatvalue="" stringvalue="Argent" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_15" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="4" value="Effacer" integervalue="" floatvalue="" stringvalue="Effacer" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_19" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="5" value="Noir" integervalue="" floatvalue="" stringvalue="Noir" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_20" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="6" value="Chocolat" integervalue="" floatvalue="" stringvalue="Chocolat" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_22" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="7" value="Ivoire" integervalue="" floatvalue="" stringvalue="Ivoire" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_24" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="8" value="Gris" integervalue="" floatvalue="" stringvalue="Gris" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_25" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&fr_FR;" sequence="9" value="Orange" integervalue="" floatvalue="" stringvalue="Orange" qtyunit_id="C62" />
+<!--END Defining attribute description : LightingColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Height -->
+<attrdesc attr_id="@attribute_id_Lighting_3" attrtype_id="STRING" language_id="&fr_FR;" name="Hauteur" description="Hauteur" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2801" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2802" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2805" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2807" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2808" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2809" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2810" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2811" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2812" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2813" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2815" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2816" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2817" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2818" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2819" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2803" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="2" value="Grand" integervalue="" floatvalue="" stringvalue="Grand" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2806" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="2" value="Grand" integervalue="" floatvalue="" stringvalue="Grand" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2814" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="2" value="Grand" integervalue="" floatvalue="" stringvalue="Grand" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_11_HLG028_2804" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&fr_FR;" sequence="3" value="petite" integervalue="" floatvalue="" stringvalue="petite" />
+<!--end of  Height -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Lighting_2" attrtype_id="STRING" language_id="&fr_FR;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2801" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2802" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2803" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2809" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2810" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2811" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2815" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2816" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2818" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2819" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2804" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Traditionnel" integervalue="" floatvalue="" stringvalue="Traditionnel" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2805" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Traditionnel" integervalue="" floatvalue="" stringvalue="Traditionnel" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2806" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2808" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2812" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2813" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2814" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2817" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_18_HLG028_2807" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&fr_FR;" sequence="4" value="Eclairage contemporain" integervalue="" floatvalue="" stringvalue="Eclairage contemporain" />
+<!--end of  Style -->
+<!--start of  Fixture Type -->
+<attrdesc attr_id="@attribute_id_Lighting_1" attrtype_id="STRING" language_id="&fr_FR;" name="Type d'installation" description="Type d'installation" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2801" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Lampe de table" integervalue="" floatvalue="" stringvalue="Lampe de table" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2809" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Lampe de table" integervalue="" floatvalue="" stringvalue="Lampe de table" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2810" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Lampe de table" integervalue="" floatvalue="" stringvalue="Lampe de table" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2811" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Lampe de table" integervalue="" floatvalue="" stringvalue="Lampe de table" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2818" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Lampe de table" integervalue="" floatvalue="" stringvalue="Lampe de table" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2802" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Suspension" integervalue="" floatvalue="" stringvalue="Suspension" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2804" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Suspension" integervalue="" floatvalue="" stringvalue="Suspension" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2812" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Suspension" integervalue="" floatvalue="" stringvalue="Suspension" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2803" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Lampe de sol" integervalue="" floatvalue="" stringvalue="Lampe de sol" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2806" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Lampe de sol" integervalue="" floatvalue="" stringvalue="Lampe de sol" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2813" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Lampe de sol" integervalue="" floatvalue="" stringvalue="Lampe de sol" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2814" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Lampe de sol" integervalue="" floatvalue="" stringvalue="Lampe de sol" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2805" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Lustre" integervalue="" floatvalue="" stringvalue="Lustre" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2808" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Lustre" integervalue="" floatvalue="" stringvalue="Lustre" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2807" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Lampe de bureau" integervalue="" floatvalue="" stringvalue="Lampe de bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2816" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Lampe de bureau" integervalue="" floatvalue="" stringvalue="Lampe de bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2817" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Lampe de bureau" integervalue="" floatvalue="" stringvalue="Lampe de bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2819" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Lampe de bureau" integervalue="" floatvalue="" stringvalue="Lampe de bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_23_HLG028_2815" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&fr_FR;" sequence="6" value="Lampe en col de cygne" integervalue="" floatvalue="" stringvalue="Lampe en col de cygne" />
+<!--end of  Fixture Type -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

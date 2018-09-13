@@ -1,0 +1,43 @@
+
+<colldesc 
+	collateral_id="@collateral_id_styleguideattachment_hero"
+	language_id="&ro_RO;"
+	longmktgtext="&lt;div class=&quot;left_column left_column_5px static_page&quot; role=&quot;main&quot;&gt;		
+		&lt;div class=&quot;style_guide&quot;&gt;			
+		&lt;div class=&quot;left_image&quot;&gt;			
+			&lt;img alt=&quot;Style Guide&quot; src=&quot;[imagePath]StaticContent/images/[langlocale]/styleguide.jpg&quot;/&gt;		
+		&lt;/div&gt;				
+		&lt;div class=&quot;right_content&quot;&gt;			
+			&lt;div class=&quot;header&quot;&gt;Ghidul de stil de la Aurora&lt;/div&gt;			
+			&lt;p&gt;Răsfoiţi prin Ghidul cu stilul de primăvară pentru a vedea unele dintre cele mai recente tendinţe din modă de la designeri apreciaţi în lume. &nbsp;Ghidul nostru de stil oferă moda cu stil, design clasic şi calitate fără egal -- aveţi câte ceva pentru fiecare din familie!&lt;/p&gt;					
+			&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;			
+			&lt;p class=&quot;bold&quot;&gt;Oferte speciale pentru:&lt;/p&gt;		
+			&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;			
+				&lt;ul&gt;					
+				&lt;li&gt;Îmbrăcăminte pentru femei&lt;/li&gt;		
+				&lt;li&gt;Pantofi pentru femei&lt;/li&gt;				
+				&lt;li&gt;Accesorii pentru femei&lt;/li&gt;			
+				&lt;li&gt;Îmbrăcăminte pentru bărbaţi&lt;/li&gt;						
+				&lt;li&gt;Îmbrăcăminte pentru copii&lt;/li&gt;				
+				&lt;/ul&gt;			
+				&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;			
+				&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;&lt;br/&gt;					
+				&lt;div class=&quot;attachment&quot;&gt;					
+				&lt;div class=&quot;icon&quot;&gt;&lt;img alt=&quot;PDF Icon&quot; src=&quot;[imagePath]StaticContent/images/pdf_icon_2.png&quot;/&gt;&lt;/div&gt;			
+				&lt;div class=&quot;details&quot;&gt;				
+				&lt;p&gt;&lt;a href=&quot;[imagePath]StaticContent/attachments/[langlocale]/style_guide.pdf&quot;&gt;Descărcare PDF&lt;/a&gt;&lt;/p&gt;			
+				&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;				
+				&lt;p&gt;(233.3 kb)&lt;/p&gt;				
+				&lt;/div&gt;				
+				&lt;/div&gt;					
+				&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;			
+				&lt;/div&gt;							
+				&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;			
+				&lt;/div&gt;			
+				&lt;div class=&quot;full_espot&quot;&gt;		
+					&lt;img alt=&quot;Shirt Sale 15% off men's dress shirts.&quot; src=&quot;[imagePath]StaticContent/images/[langlocale]/products_large.jpg&quot;/&gt;	
+					&lt;/div&gt;					
+					&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;			
+					&lt;/div&gt;"
+/>
+

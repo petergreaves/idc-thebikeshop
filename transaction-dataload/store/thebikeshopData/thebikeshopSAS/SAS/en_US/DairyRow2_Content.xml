@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10001_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1104B_EGRS_Camembert_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10001_en_US"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  language_id="&en_US;"
+  name="Creamy Camembert"
+  shortdescription="Creamy Camembert $12 each this week only"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10001_en_US"
+  atchast_id="@atchast_id_dairy10001_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10001_en_US"
+  atchrel_id="@atchrel_id_Dairy1001"
+  language_id="&en_US;"
+  name="Creamy Camembert"
+  shortdescription="Creamy Camembert"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1001"
+	language_id="&en_US;"
+	marketingtext="Creamy Camembert" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10002_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/1108B_EGRS_Milk_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10002_en_US"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  language_id="&en_US;"
+  name="Refreshing Milk"
+  shortdescription="Refreshing Milk $3.99 per 2 L carton this week only"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10002_en_US"
+  atchast_id="@atchast_id_dairy10002_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10002_en_US"
+  atchrel_id="@atchrel_id_Dairy1002"
+  language_id="&en_US;"
+  name="Refreshing Milk"
+  shortdescription="Refreshing Milk"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1002"
+	language_id="&en_US;"
+	marketingtext="Refreshing Milk" 
+/>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY MAR_MEMBER_ID "@marketing_mbr_id">
+<!ENTITY STORE_IDENTIFIER_LOWERCASE "aurora">
+<!ENTITY STORE_IDENTIFIER "Aurora">
+<!ENTITY ro_RO "-21">
+<!ENTITY pt_BR "-6">
+<!ENTITY HOS_STORE_DIR "thebikeshop">
+<!ENTITY CATGROUP_APPAREL "@catgroup_id_apparel">
+<!ENTITY CATGROUP_MEN "@catgroup_id_apparel_men_dresses">
+<!ENTITY CAT_STORE_DIR "thebikeshopCAS">
+<!ENTITY WCHPREFIX "https://my4.digitalexperience.ibm.com/30817b50-78a2-4463-b5e2-2d7c39231327/dxdam">
+<!ENTITY CATGROUP_GROCERY "@catgroup_id_Grocery">
+<!ENTITY es_ES "-5">
+<!ENTITY INV_CHOICE "DOMInv">
+<!ENTITY MAR_STORE_IDENTIFIER_LOWERCASE "thebikeshopsas">
+<!ENTITY CAT_ORGANIZATION_DN "ou=asset store organization,o=extended sites organization,o=root organization">
+<!ENTITY MAR_STORE_DIR "thebikeshopSAS">
+<!ENTITY HOS_MEMBER_ID "@hosting_mbr_id">
+<!ENTITY iw_IL "-11">
+<!ENTITY VENDOR_ID "@vendor_id_1">
+<!ENTITY ATTR_CHOICE "Classic">
+<!ENTITY TRADEPOSCN_ID "@tradeposcn_id">
+<!ENTITY ko_KR "-9">
+<!ENTITY en_US "-1">
+<!ENTITY HOS_STOREENT_ID "@hostingStore">
+<!ENTITY CATALOG_ID "@catalog_id">
+<!ENTITY CAT_STORE_IDENTIFIER "thebikeshopCAS">
+<!ENTITY CATGROUP_BOYS "@catgroup_id_apparel_boys_dresses">
+<!ENTITY CAT_STORE_IDENTIFIER_LOWERCASE "thebikeshopcas">
+<!ENTITY LIST_TRADEPOSCN_ID "@list_tradeposcn_id">
+<!ENTITY ORGANIZATION_DN "ou=aurora,o=seller organization,o=root organization">
+<!ENTITY ru_RU "-20">
+<!ENTITY it_IT "-4">
+<!ENTITY pl_PL "-22">
+<!ENTITY MAR_STORE_DIR_LOWERCASE "thebikeshopsas">
+<!ENTITY STORE_DIRECTORY_LOWERCASE "thebikeshopcas">
+<!ENTITY CATGROUP_HARDWARE_LIGHTING "@catgroup_id_hardware_lighting">
+<!ENTITY tr_TR "-13">
+<!ENTITY HOS_STORE_IDENTIFIER "thebikeshop">
+<!ENTITY CATGROUP_HOMEFURNISHINGS "@catgroup_id_HomeFurnishings">
+<!ENTITY CATGROUP_HEALTH "@catgroup_id_Health">
+<!ENTITY ja_JP "-10">
+<!ENTITY he_IL "-12">
+<!ENTITY fr_FR "-2">
+<!ENTITY HOS_ORGANIZATION_DN "ou=extended sites seller organizationthebikeshop,o=extended sites seller organization,o=root organization">
+<!ENTITY CATGROUP_HARDWARE "@catgroup_id_Hardware">
+<!ENTITY CATGROUP_FASTENERS "@catgroup_id_hardware_fasteners">
+<!ENTITY de_DE "-3">
+<!ENTITY MAR_STORE_IDENTIFIER "thebikeshopSAS">
+<!ENTITY zh_TW "-8">
+<!ENTITY CATGROUP_ELECTRONICS "@catgroup_id_Electronics">
+<!ENTITY HOS_STORE_DIR_LOWERCASE "thebikeshop">
+<!ENTITY CAT_MEMBER_ID "@catalog_mbr_id">
+<!ENTITY CAT_STOREENT_ID "@catalogStore">
+<!ENTITY FFMCENTER_ID "@ffmcenter_id_1">
+<!ENTITY CATGROUP_WOMEN "@catgroup_id_apparel_womencat_dresses">
+<!ENTITY HOS_STORE_IDENTIFIER_LOWERCASE "thebikeshop">
+<!ENTITY MAR_ORGANIZATION_DN "ou=thebikeshopsas,o=extended sites organization,o=root organization">
+<!ENTITY STORE_DIR "thebikeshopCAS">
+<!ENTITY CATGROUP_GIRLS "@catgroup_id_apparel_girls_dresses">
+<!ENTITY CATGROUP_NEWSMAGAZINES "@catgroup_id_aurora_NewslettersMagazines">
+<!ENTITY WCHASSETS_CATSTOREDIR "/ExtendedSitesCatalogAssetStore">
+<!ENTITY zh_CN "-7">
+<!ENTITY ar_EG "-23">
+<!ENTITY CAT_STORE_DIR_LOWERCASE "thebikeshopcas">
+<!ENTITY MAR_STOREENT_ID "@marketingStore">
+

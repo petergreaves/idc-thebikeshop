@@ -1,0 +1,81 @@
+
+<colldesc 
+	collateral_id="@collateral_id_eveningsparkledress_hero"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;left_column left_column_5px static_page&quot; role=&quot;main&quot;&gt;		
+			&lt;div class=&quot;video_container&quot;&gt;			
+				&lt;span class=&quot;spanacce&quot;&gt;Evening Sparkle Dress Collection Flash Video&lt;/span&gt;
+				&lt;!-- Android 2.2+ fallback to Flash -/-&gt;			
+				&lt;video controls poster=&quot;[imagePath]StaticContent/media/dc_video_main_718_412.jpg&quot; &gt;		
+				&lt;source src=&quot;[imagePath]StaticContent/media/dc_video.mp4&quot; type=&quot;video/mp4&quot; /&gt;		
+				&lt;/video&gt; --&gt;			
+				&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;718&quot; height=&quot;412&quot; id=&quot;dc_video_player&quot; align=&quot;middle&quot;&gt;				
+				&lt;param name=&quot;base&quot; value=&quot;[imagePath]StaticContent/&quot;/&gt;
+				&lt;param name=&quot;movie&quot; value=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; /&gt;				
+				&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;					
+				&lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt;				
+				&lt;param name=&quot;play&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;loop&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;wmode&quot; value=&quot;window&quot; /&gt;			
+				&lt;param name=&quot;scale&quot; value=&quot;showall&quot; /&gt;			
+				&lt;param name=&quot;menu&quot; value=&quot;true&quot; /&gt;				
+				&lt;param name=&quot;devicefont&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;salign&quot; value=&quot;&quot; /&gt;			
+				&lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;			
+				&lt;!--[if !IE]&gt;--&gt;				
+				&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; width=&quot;718&quot; height=&quot;412&quot;&gt;	
+				&lt;param name=&quot;base&quot; value=&quot;[imagePath]StaticContent/&quot;/&gt;
+				&lt;param name=&quot;movie&quot; value=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; /&gt;					
+				&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;					
+				&lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt;				
+				&lt;param name=&quot;play&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;loop&quot; value=&quot;false&quot; /&gt;					
+				&lt;param name=&quot;wmode&quot; value=&quot;window&quot; /&gt;			
+				&lt;param name=&quot;scale&quot; value=&quot;showall&quot; /&gt;				
+				&lt;param name=&quot;menu&quot; value=&quot;true&quot; /&gt;					
+				&lt;param name=&quot;devicefont&quot; value=&quot;false&quot; /&gt;					
+				&lt;param name=&quot;salign&quot; value=&quot;&quot; /&gt;			
+				&lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;		
+				&lt;!--&lt;![endif]--&gt;					
+				&lt;a href=&quot;http://www.adobe.com/go/getflash&quot;&gt;				
+				&lt;img src=&quot;http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif&quot; alt=&quot;Get Adobe Flash player&quot; /&gt;		
+				&lt;/a&gt;				
+								&lt;!--[if !IE]&gt;--&gt;		
+				&lt;/object&gt;				
+				&lt;!--&lt;![endif]--&gt;	
+				&lt;/object&gt;		
+				&lt;/div&gt;			
+				&lt;div class=&quot;header&quot;&gt;闪亮晚裙时装展视频&lt;/div&gt;		
+				&lt;div class=&quot;three_column_content&quot;&gt;				
+				&lt;div class=&quot;column&quot;&gt;			
+				&lt;div class=&quot;image_holder_top&quot;&gt;			
+				&lt;img alt=&quot;Luxurious Leathers&quot; src=&quot;[imagePath]StaticContent/images/column_espot01.png&quot;/&gt;			
+				&lt;/div&gt;				
+				&lt;div class=&quot;text_holder_bottom text_holder&quot;&gt;		
+				&lt;div class=&quot;header&quot;&gt;豪华的皮革&lt;/div&gt;					
+				&lt;p&gt;由具备多年经验的专家精选的精致皮革已制作成有新意且带有黑人爵士风的晚装。&nbsp;皮革极其柔滑，设计在我们的 Hermitage Glamskin 系列中也极其受欢迎。&lt;/p&gt;	
+				&lt;/div&gt;			
+				&lt;/div&gt;			
+				&lt;div class=&quot;column border&quot;&gt;	
+				&lt;div class=&quot;text_holder_top text_holder&quot;&gt;			
+				&lt;div class=&quot;header&quot;&gt;闪耀的亮片&lt;/div&gt;			
+				&lt;p&gt;没有什么能像经典设计的礼服上数以千计的金属片那样能点亮夜晚。&nbsp;请看看 Hermitage Metallica 系列中最新迷人礼服，它们装饰有金色、银色、铜色和钢青色的金属片。&lt;/p&gt;	
+				&lt;/div&gt;				
+				&lt;div class=&quot;image_holder_bottom&quot;&gt;					
+				&lt;img alt=&quot;Sequin Shine&quot; src=&quot;[imagePath]StaticContent/images/column_espot02.png&quot;/&gt;					
+				&lt;/div&gt;		
+				&lt;/div&gt;				
+				&lt;div class=&quot;column border&quot;&gt;			
+				&lt;div class=&quot;image_holder_top&quot;&gt;		
+				&lt;img alt=&quot;Smooth Silks&quot; src=&quot;[imagePath]StaticContent/images/column_espot03.png&quot;/&gt;		
+				&lt;/div&gt;				
+				&lt;div class=&quot;text_holder_bottom text_holder&quot;&gt;			
+				&lt;div class=&quot;header&quot;&gt;光滑的丝绸&lt;/div&gt;			
+				&lt;p&gt;如果您&#39;正在找&#39;既顺滑又性感的优雅服装，那么您必须看看 Hermitage Gemstone 系列。&nbsp;这些丝缎制品在包括紫水晶、祖母绿、红宝石和蓝宝石的宝石调色板上看起来尤为奢华。&lt;/p&gt;					
+				&lt;/div&gt;			
+				&lt;/div&gt;	
+				&lt;/div&gt;	
+				&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;			
+				&lt;/div&gt;"
+/>
+

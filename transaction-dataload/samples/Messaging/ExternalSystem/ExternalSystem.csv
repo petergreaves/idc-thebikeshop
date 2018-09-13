@@ -1,0 +1,14 @@
+ExternalSystem,
+messageType,paramName,paramValue,delete
+com.ibm.commerce.inventory.external,URL,www.test.com
+com.ibm.commerce.inventory.external,userName,John Doe
+com.ibm.commerce.inventory.external,password,passw0rd
+com.ibm.commerce.inventory.external,errorLifeExpectancy,0
+com.ibm.commerce.order.external,URL,www.test.com
+com.ibm.commerce.order.external,userName,John Doe2
+com.ibm.commerce.order.external,password,passw0rd
+com.ibm.commerce.order.external,errorLifeExpectancy,0
+com.ibm.commerce.order.external.GetOrder,URL,www.test.com
+com.ibm.commerce.order.external.GetOrder,userName,John Doe3
+com.ibm.commerce.order.external.GetOrder,password,passw0rd
+com.ibm.commerce.order.external.GetOrder,errorLifeExpectancy,0

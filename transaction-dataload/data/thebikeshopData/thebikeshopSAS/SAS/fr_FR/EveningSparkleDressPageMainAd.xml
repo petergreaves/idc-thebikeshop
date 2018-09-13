@@ -1,0 +1,81 @@
+
+<colldesc 
+	collateral_id="@collateral_id_eveningsparkledress_hero"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;left_column left_column_5px static_page&quot; role=&quot;main&quot;&gt;		
+			&lt;div class=&quot;video_container&quot;&gt;			
+				&lt;span class=&quot;spanacce&quot;&gt;Evening Sparkle Dress Collection Flash Video&lt;/span&gt;
+				&lt;!-- Android 2.2+ fallback to Flash -/-&gt;			
+				&lt;video controls poster=&quot;[imagePath]StaticContent/media/dc_video_main_718_412.jpg&quot; &gt;		
+				&lt;source src=&quot;[imagePath]StaticContent/media/dc_video.mp4&quot; type=&quot;video/mp4&quot; /&gt;		
+				&lt;/video&gt; --&gt;			
+				&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;718&quot; height=&quot;412&quot; id=&quot;dc_video_player&quot; align=&quot;middle&quot;&gt;				
+				&lt;param name=&quot;base&quot; value=&quot;[imagePath]StaticContent/&quot;/&gt;
+				&lt;param name=&quot;movie&quot; value=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; /&gt;				
+				&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;					
+				&lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt;				
+				&lt;param name=&quot;play&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;loop&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;wmode&quot; value=&quot;window&quot; /&gt;			
+				&lt;param name=&quot;scale&quot; value=&quot;showall&quot; /&gt;			
+				&lt;param name=&quot;menu&quot; value=&quot;true&quot; /&gt;				
+				&lt;param name=&quot;devicefont&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;salign&quot; value=&quot;&quot; /&gt;			
+				&lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;			
+				&lt;!--[if !IE]&gt;--&gt;				
+				&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; width=&quot;718&quot; height=&quot;412&quot;&gt;	
+				&lt;param name=&quot;base&quot; value=&quot;[imagePath]StaticContent/&quot;/&gt;
+				&lt;param name=&quot;movie&quot; value=&quot;[imagePath]StaticContent/media/dc_video_player.swf&quot; /&gt;					
+				&lt;param name=&quot;quality&quot; value=&quot;best&quot; /&gt;					
+				&lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt;				
+				&lt;param name=&quot;play&quot; value=&quot;false&quot; /&gt;				
+				&lt;param name=&quot;loop&quot; value=&quot;false&quot; /&gt;					
+				&lt;param name=&quot;wmode&quot; value=&quot;window&quot; /&gt;			
+				&lt;param name=&quot;scale&quot; value=&quot;showall&quot; /&gt;				
+				&lt;param name=&quot;menu&quot; value=&quot;true&quot; /&gt;					
+				&lt;param name=&quot;devicefont&quot; value=&quot;false&quot; /&gt;					
+				&lt;param name=&quot;salign&quot; value=&quot;&quot; /&gt;			
+				&lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;		
+				&lt;!--&lt;![endif]--&gt;					
+				&lt;a href=&quot;http://www.adobe.com/go/getflash&quot;&gt;				
+				&lt;img src=&quot;http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif&quot; alt=&quot;Get Adobe Flash player&quot; /&gt;		
+				&lt;/a&gt;				
+				&lt;!--[if !IE]&gt;--&gt;		
+				&lt;/object&gt;				
+				&lt;!--&lt;![endif]--&gt;	
+				&lt;/object&gt;		
+				&lt;/div&gt;			
+				&lt;div class=&quot;header&quot;&gt;Collection Robes Eclat d'un soir&lt;/div&gt;		
+				&lt;div class=&quot;three_column_content&quot;&gt;				
+				&lt;div class=&quot;column&quot;&gt;			
+				&lt;div class=&quot;image_holder_top&quot;&gt;			
+				&lt;img alt=&quot;Luxurious Leathers&quot; src=&quot;[imagePath]StaticContent/images/column_espot01.png&quot;/&gt;			
+				&lt;/div&gt;				
+				&lt;div class=&quot;text_holder_bottom text_holder&quot;&gt;		
+				&lt;div class=&quot;header&quot;&gt;Cuirs grand luxe&lt;/div&gt;					
+				&lt;p&gt;Des cuirs de grande qualité, sélectionnés par des maîtres artisans, ont permis de confectionner une ligne originale de vêtements de soirée. &nbsp;Ils sont d'une extrême finesse et les créations de la ligne Hermitage Glamskin sont particulièrement sexy.&lt;/p&gt;	
+				&lt;/div&gt;			
+				&lt;/div&gt;			
+				&lt;div class=&quot;column border&quot;&gt;	
+				&lt;div class=&quot;text_holder_top text_holder&quot;&gt;			
+				&lt;div class=&quot;header&quot;&gt;Eclats de paillettes&lt;/div&gt;			
+				&lt;p&gt;Rien ne brille plus lors d'une soirée que des paillettes par milliers sur une robe de style classique. &nbsp;Découvrez les dernières robes glamour de la ligne Hermitage Metallica ornées de paillettes or, argent, bronze et bleu-acier.&lt;/p&gt;	
+				&lt;/div&gt;				
+				&lt;div class=&quot;image_holder_bottom&quot;&gt;					
+				&lt;img alt=&quot;Sequin Shine&quot; src=&quot;[imagePath]StaticContent/images/column_espot02.png&quot;/&gt;					
+				&lt;/div&gt;		
+				&lt;/div&gt;				
+				&lt;div class=&quot;column border&quot;&gt;			
+				&lt;div class=&quot;image_holder_top&quot;&gt;		
+				&lt;img alt=&quot;Smooth Silks&quot; src=&quot;[imagePath]StaticContent/images/column_espot03.png&quot;/&gt;		
+				&lt;/div&gt;				
+				&lt;div class=&quot;text_holder_bottom text_holder&quot;&gt;			
+				&lt;div class=&quot;header&quot;&gt;Froissement de soie&lt;/div&gt;			
+				&lt;p&gt;Si vous recherchez un look élégant, alliant douceur et séduction, vous devez absolument découvrir la collection Hermitage Gemstone. &nbsp;Ces créations soie et satin sont somptueuses, dans une gamme de couleurs de pierres précieuses, améthyste, émeraude, rubis, saphir.&lt;/p&gt;					
+				&lt;/div&gt;			
+				&lt;/div&gt;	
+				&lt;/div&gt;	
+				&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;			
+				&lt;/div&gt;"
+/>
+

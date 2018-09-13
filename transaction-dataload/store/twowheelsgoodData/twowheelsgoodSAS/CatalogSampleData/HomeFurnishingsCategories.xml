@@ -1,0 +1,105 @@
+<catgroup 
+   catgroup_id="@catgroup_id_HomeFurnishings"
+   member_id="&CAT_MEMBER_ID;"
+   identifier="Home Furnishings"
+   markfordelete="0"
+/>
+<cattogrp
+   catalog_id="&CATALOG_ID;"
+   catgroup_id="@catgroup_id_HomeFurnishings"
+   sequence="5"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_HomeFurnishings"
+/>
+
+
+
+<catgroup catgroup_id="@catgroup_id_BathAccessories"
+member_id="&CAT_MEMBER_ID;" identifier="Bath Accessories"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Furniture"
+member_id="&CAT_MEMBER_ID;" identifier="Furniture"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Kitchenware"
+member_id="&CAT_MEMBER_ID;" identifier="Kitchenware"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Lighting"
+member_id="&CAT_MEMBER_ID;" identifier="Lighting"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Tableware"
+member_id="&CAT_MEMBER_ID;" identifier="Tableware"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Appliances"
+member_id="&CAT_MEMBER_ID;" identifier="Appliances"
+markfordelete="0" />
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_Appliances"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_BathAccessories"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_Furniture"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_Kitchenware"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_Lighting"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_HomeFurnishings"
+   catgroup_id_child="@catgroup_id_Tableware"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Appliances"
+/>
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Tableware"
+/>
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Lighting"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Kitchenware"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Furniture"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_BathAccessories"
+/>

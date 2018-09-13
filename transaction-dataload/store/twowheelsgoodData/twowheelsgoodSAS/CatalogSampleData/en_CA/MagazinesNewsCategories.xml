@@ -1,0 +1,33 @@
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_Magazines"
+   name="Magazines"
+   shortdescription="Magazines"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   keyword="Magazines"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_NewsLetters"
+   name="Newsletters"
+   shortdescription="Newsletters"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nne_newsletters.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nne_newsletters.png"
+   keyword="Newsletters"
+/>
+
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_aurora_NewslettersMagazines"
+   name="Newsletters &amp; Magazines"
+   shortdescription="Newsletters &amp; Magazines"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   keyword="Newsletters &amp; Magazines"
+/>

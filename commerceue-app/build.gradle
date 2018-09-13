@@ -1,0 +1,77 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+ 
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin : 'eclipse-wtp'
+
+webAppDirName = 'WebContent'
+
+war {
+    exclude('**/certs')
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    archiveName = 'commerceue-app.war'
+}
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+    if ('workspaceDir' == prop.key) {
+        // don't replace the workspace dir variable
+        return
+    }
+
+    project.ext.set(prop.key, prop.value)
+}
+
+dependencies {
+    if (((System.getenv('JOB_NAME') != null) && (System.getenv('BUILD_ID') != null)) || ((System.getenv('JOB_NAME') != "") && (System.getenv('BUILD_ID') != ""))) {
+        compile 'javax:javaee-api:7.0'
+        compile 'javax:javaee-web-api:6.0'
+        compile 'javax.servlet:javax.servlet-api:3.1.0'
+        compile 'javax.ws.rs:javax.ws.rs-api:2.0.1'
+        compile 'org.apache.commons:commons-lang3:3.4'
+        compile 'com.ibm.websphere.appserver.api:com.ibm.websphere.appserver.api.distributedMap:2.0.11'
+        compile group: 'com.ibm.websphere.appserver.api', name: 'com.ibm.websphere.appserver.api.wsoc', version: '1.0.16'
+        compile 'jstl:jstl:1.2'
+        compile fileTree(dir: new File(project(':commerceue-ear').projectDir, 'src/main/application/lib'), include: ['*.jar'])    
+        testCompile fileTree(dir: new File(project(':commerceue-ear').projectDir, 'lib-test'), include: ['*.jar'])
+    }
+    else {
+        compile fileTree(dir: new File(project(':commerceue-ear').projectDir, 'src/main/application/lib'), include: ['*.jar'])
+        compile fileTree(dir: "$libertyHome/dev/api/spec/", exclude: ['com.ibm.*.javaee.servlet.3.0_*.jar'])
+        compile fileTree(dir: "$libertyHome/dev/api/ibm/", include: ['com.ibm.websphere.appserver.api.wsoc_1.0.*.jar'])
+    }
+}
+
+if (((System.getenv('JOB_NAME') != null) && (System.getenv('BUILD_ID') != null)) || ((System.getenv('JOB_NAME') != "") && (System.getenv('BUILD_ID') != ""))) {
+    repositories{
+      mavenCentral()
+      jcenter()
+      maven{
+        url "https://plugins.gradle.org/m2/"    
+      }
+    }
+}
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

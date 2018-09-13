@@ -1,0 +1,141 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  GirlsTopsColor -->
+<attrdesc attr_id="@attribute_id_GirlsTops_8" attrtype_id="STRING" language_id="&es_ES;" name="Color" description="Color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_14" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="1" value="Multicolor" integervalue="" floatvalue="" stringvalue="Multicolor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_33" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="2" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_38" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="3" value="Rosa" integervalue="" floatvalue="" stringvalue="Rosa" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_42" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="4" value="Verde" integervalue="" floatvalue="" stringvalue="Verde" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_49" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="5" value="Blanco" integervalue="" floatvalue="" stringvalue="Blanco" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_52" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="6" value="Rojo" integervalue="" floatvalue="" stringvalue="Rojo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_54" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="7" value="Marrón" integervalue="" floatvalue="" stringvalue="Marrón" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_56" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="8" value="Naranja" integervalue="" floatvalue="" stringvalue="Naranja" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_58" attr_id="@attribute_id_GirlsTops_8" valusage="1" language_id="&es_ES;" sequence="9" value="Morado" integervalue="" floatvalue="" stringvalue="Morado" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsTopsColor -->
+<!--BEGIN Defining attribute description  GirlsTopsSize -->
+<attrdesc attr_id="@attribute_id_GirlsTops_7" attrtype_id="STRING" language_id="&es_ES;" name="Talla" description="Talla" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_7" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="1" value="12 meses" integervalue="" floatvalue="" stringvalue="12 meses" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_8" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="2" value="18 meses" integervalue="" floatvalue="" stringvalue="18 meses" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_9" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="3" value="24 meses" integervalue="" floatvalue="" stringvalue="24 meses" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_10" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="4" value="2T" integervalue="" floatvalue="" stringvalue="2T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_11" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="5" value="3T" integervalue="" floatvalue="" stringvalue="3T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_12" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="6" value="4T" integervalue="" floatvalue="" stringvalue="4T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_13" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="7" value="5T" integervalue="" floatvalue="" stringvalue="5T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_20" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="8" value="6" integervalue="" floatvalue="" stringvalue="6" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_21" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="9" value="8" integervalue="" floatvalue="" stringvalue="8" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_22" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="10" value="10" integervalue="" floatvalue="" stringvalue="10" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_23" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="11" value="12" integervalue="" floatvalue="" stringvalue="12" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_24" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="12" value="14" integervalue="" floatvalue="" stringvalue="14" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_28" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="13" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_29" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="14" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_30" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="15" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_31" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="16" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_32" attr_id="@attribute_id_GirlsTops_7" valusage="1" language_id="&es_ES;" sequence="17" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsTopsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_GirlsTops_5" attrtype_id="STRING" language_id="&es_ES;" name="Largo manga" description="Largo manga" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1701" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1703" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1704" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1706" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1707" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1709" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1711" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1713" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1714" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_5_GCL017_1716" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="1" value="Manga larga" integervalue="" floatvalue="" stringvalue="Manga larga" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_18_GCL017_1702" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="2" value="Manga corta" integervalue="" floatvalue="" stringvalue="Manga corta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_18_GCL017_1705" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="2" value="Manga corta" integervalue="" floatvalue="" stringvalue="Manga corta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_18_GCL017_1710" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="2" value="Manga corta" integervalue="" floatvalue="" stringvalue="Manga corta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_18_GCL017_1712" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="2" value="Manga corta" integervalue="" floatvalue="" stringvalue="Manga corta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_18_GCL017_1715" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="2" value="Manga corta" integervalue="" floatvalue="" stringvalue="Manga corta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_51_GCL017_1708" attr_id="@attribute_id_GirlsTops_5" valusage="1" language_id="&es_ES;" sequence="3" value="Manga japonesa" integervalue="" floatvalue="" stringvalue="Manga japonesa" />
+<!--end of  Sleeve Length -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_GirlsTops_6" attrtype_id="STRING" language_id="&es_ES;" name="Edad" description="Edad" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_6_GCL017_1701" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="1" value="12 - 24 meses, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 meses, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1702" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1703" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1704" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1706" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1707" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1710" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1713" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1714" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_19_GCL017_1716" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_41_GCL017_1705" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="3" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_41_GCL017_1708" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="3" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_53_GCL017_1709" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="4" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_53_GCL017_1711" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="4" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_53_GCL017_1715" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="4" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_57_GCL017_1712" attr_id="@attribute_id_GirlsTops_6" valusage="1" language_id="&es_ES;" sequence="5" value="2 - 5, 6- 10, 12 - 14" integervalue="" floatvalue="" stringvalue="2 - 5, 6- 10, 12 - 14" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_GirlsTops_2" attrtype_id="STRING" language_id="&es_ES;" name="Tejido" description="Tejido" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1701" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1702" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1705" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1707" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1710" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1711" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1712" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1714" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1715" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_2_GCL017_1716" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_26_GCL017_1703" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="2" value="Terciopelo velour" integervalue="" floatvalue="" stringvalue="Terciopelo velour" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_35_GCL017_1704" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="3" value="Mezcla de algodón y poliéster" integervalue="" floatvalue="" stringvalue="Mezcla de algodón y poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_35_GCL017_1709" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="3" value="Mezcla de algodón y poliéster" integervalue="" floatvalue="" stringvalue="Mezcla de algodón y poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_35_GCL017_1713" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="3" value="Mezcla de algodón y poliéster" integervalue="" floatvalue="" stringvalue="Mezcla de algodón y poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_44_GCL017_1706" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="4" value="Mezcla de algodón y lana" integervalue="" floatvalue="" stringvalue="Mezcla de algodón y lana" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_44_GCL017_1708" attr_id="@attribute_id_GirlsTops_2" valusage="1" language_id="&es_ES;" sequence="4" value="Mezcla de algodón y lana" integervalue="" floatvalue="" stringvalue="Mezcla de algodón y lana" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_GirlsTops_1" attrtype_id="STRING" language_id="&es_ES;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_1_GCL017_1701" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="1" value="Camiseta cuello polo con botones" integervalue="" floatvalue="" stringvalue="Camiseta cuello polo con botones" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_15_GCL017_1702" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="2" value="Camiseta" integervalue="" floatvalue="" stringvalue="Camiseta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_15_GCL017_1710" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="2" value="Camiseta" integervalue="" floatvalue="" stringvalue="Camiseta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_15_GCL017_1712" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="2" value="Camiseta" integervalue="" floatvalue="" stringvalue="Camiseta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_15_GCL017_1715" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="2" value="Camiseta" integervalue="" floatvalue="" stringvalue="Camiseta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_25_GCL017_1703" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="3" value="Sudadera con cremallera" integervalue="" floatvalue="" stringvalue="Sudadera con cremallera" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_34_GCL017_1704" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="4" value="Rebeca con botones" integervalue="" floatvalue="" stringvalue="Rebeca con botones" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_39_GCL017_1705" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="5" value="Camiseta con ribete de algodón blanco" integervalue="" floatvalue="" stringvalue="Camiseta con ribete de algodón blanco" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_43_GCL017_1706" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="6" value="Jersey" integervalue="" floatvalue="" stringvalue="Jersey" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_47_GCL017_1707" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="7" value="Blusón" integervalue="" floatvalue="" stringvalue="Blusón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_47_GCL017_1711" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="7" value="Blusón" integervalue="" floatvalue="" stringvalue="Blusón" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_50_GCL017_1708" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="8" value="Rebeca" integervalue="" floatvalue="" stringvalue="Rebeca" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_50_GCL017_1709" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="8" value="Rebeca" integervalue="" floatvalue="" stringvalue="Rebeca" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_59_GCL017_1713" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="9" value="Sudadera" integervalue="" floatvalue="" stringvalue="Sudadera" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_59_GCL017_1716" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="9" value="Sudadera" integervalue="" floatvalue="" stringvalue="Sudadera" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_60_GCL017_1714" attr_id="@attribute_id_GirlsTops_1" valusage="1" language_id="&es_ES;" sequence="10" value="Chaqueta con capucha y cremallera" integervalue="" floatvalue="" stringvalue="Chaqueta con capucha y cremallera" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_GirlsTops_3" attrtype_id="STRING" language_id="&es_ES;" name="Ocasión" description="Ocasión" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_3_GCL017_1701" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="1" value="De diario o de vestir" integervalue="" floatvalue="" stringvalue="De diario o de vestir" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1702" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1708" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1709" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1710" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1712" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1713" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1714" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1715" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_16_GCL017_1716" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="2" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_27_GCL017_1703" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="3" value="Ropa deportiva" integervalue="" floatvalue="" stringvalue="Ropa deportiva" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_36_GCL017_1704" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="4" value="Sport" integervalue="" floatvalue="" stringvalue="Sport" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_36_GCL017_1705" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="4" value="Sport" integervalue="" floatvalue="" stringvalue="Sport" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_45_GCL017_1706" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="5" value="Informal, de vestir" integervalue="" floatvalue="" stringvalue="Informal, de vestir" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_48_GCL017_1707" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="6" value="De vestir" integervalue="" floatvalue="" stringvalue="De vestir" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsTops_48_GCL017_1711" attr_id="@attribute_id_GirlsTops_3" valusage="1" language_id="&es_ES;" sequence="6" value="De vestir" integervalue="" floatvalue="" stringvalue="De vestir" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

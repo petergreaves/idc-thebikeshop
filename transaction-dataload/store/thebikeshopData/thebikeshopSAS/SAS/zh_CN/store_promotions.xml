@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&zh_CN;"
+  description="陆地送货免费！"
+  longdescription="订购满 70 美元免陆地运费。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&zh_CN;"
+	admindesc="装运折扣 － 购买超过 $70 USD 时陆地装运免费"
+	shortdesc="陆地送货免费！"
+	longdesc="订购满 70 美元免陆地运费。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&zh_CN;"
+  description="老客户可优惠 5.00 美元"
+  longdescription="对于已成功在我们这里购买商品的所有客户，在您下次订购时可节省 5.00 元。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&zh_CN;"
+	admindesc="订单折扣 － 老客户群中的顾客在下次下单时优惠 $5.00"
+	shortdesc="老客户可优惠 5.00 美元"
+	longdesc="对于已成功在我们这里购买商品的所有客户，在您下次订购时可节省 5.00 元。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&zh_CN;"
+  description="今天注册即可享受九三折优惠。"
+  longdescription="今天向我们注册，下次订购时可享受九三折优惠。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&zh_CN;"
+	admindesc="订单折扣 － 针对注册顾客的促销计划，下次订购时可优惠 7%"
+	shortdesc="今天注册即可享受九三折优惠。"
+	longdesc="今天向我们注册，下次订购时可享受九三折优惠。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&zh_CN;"
+  description="所有订单 9 折优惠"
+  longdescription="所有订单 9 折优惠。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&zh_CN;"
+	admindesc="今日所有订单 9 折优惠"
+	shortdesc="所有订单 9 折优惠"
+	longdesc="所有订单 9 折优惠。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&zh_CN;"
+  description="所有订单满 200 美元减 25 美元"
+  longdescription="所有订单满 200 美元减 25 美元。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&zh_CN;"
+	admindesc="在星期六前下单，所有订单优惠 $25"
+	shortdesc="所有订单满 200 美元减 25 美元"
+	longdesc="所有订单满 200 美元减 25 美元。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&zh_CN;"
+  description="美国平邮仅 5 美元/单！"
+  longdescription="使用美国平邮，全单仅需支付 5 美元运费。"
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&zh_CN;"
+	admindesc="装运折扣"
+	shortdesc="美国平邮仅 5 美元/单！"
+	longdesc="使用美国平邮，全单仅需支付 5 美元运费。"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&zh_CN;"
+  description="家具 8 折优惠！"
+  longdescription="所有家具商品均 8 折优惠！无限制！"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&zh_CN;"
+	admindesc="类别折扣 － 家具 8 折优惠"
+	shortdesc="家具 8 折优惠！"
+	longdesc="所有家具商品均 8 折优惠！无限制！"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

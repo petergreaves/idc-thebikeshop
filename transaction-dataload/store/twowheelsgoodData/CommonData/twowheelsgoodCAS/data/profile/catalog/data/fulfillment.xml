@@ -1,0 +1,8 @@
+<!-- Create a Fulfillment Center for the store. -->
+<ffmcenter
+ffmcenter_id="@catalogFFMCenter_id"
+member_id="@profile_mbr_id"
+name="&STORE_IDENTIFIER_CPS; Home"
+defaultshipoffset="0"
+markfordelete="0"
+/>

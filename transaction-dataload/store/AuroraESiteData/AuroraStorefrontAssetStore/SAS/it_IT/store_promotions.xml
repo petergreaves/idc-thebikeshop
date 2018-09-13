@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&it_IT;"
+  description="Spedizione via terra gratuita"
+  longdescription="Spedizione via terra gratuita per gli ordini superiori ai $70."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&it_IT;"
+	admindesc="Sconto sulla spedizione - Spedizione terrestre gratuita per acquisti superiori a $70"
+	shortdesc="Spedizione via terra gratuita"
+	longdesc="Spedizione via terra gratuita per gli ordini superiori ai $70."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&it_IT;"
+  description="Sconto di $5.00 USD ai clienti che hanno già acquistato"
+  longdescription="Per tutti i clienti che hanno già acquistato presso i nostri negozi, sconto di $ 5,00 sull'ordine successivo."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&it_IT;"
+	admindesc="Sconto ordine - I cliente nel segmento Cliente ripetuto ricevono $5.00 sull'ordine successivo"
+	shortdesc="Sconto di $5.00 USD ai clienti che hanno già acquistato"
+	longdesc="Per tutti i clienti che hanno già acquistato presso i nostri negozi, sconto di $ 5,00 sull'ordine successivo."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&it_IT;"
+  description="Eseguire la registrazione oggi per risparmiare il 7%."
+  longdescription="Eseguire la registrazione oggi per risparmiare il 7% sul prossimo ordine."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&it_IT;"
+	admindesc="Sconto ordine - Codice promozionale per i clienti registrati per un risparmio pari al 7% sul prossimo ordine"
+	shortdesc="Eseguire la registrazione oggi per risparmiare il 7%."
+	longdesc="Eseguire la registrazione oggi per risparmiare il 7% sul prossimo ordine."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&it_IT;"
+  description="Risparmio del 10% su tutti gli ordini"
+  longdescription="Risparmio del 10% su tutti gli ordini."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&it_IT;"
+	admindesc="Risparmio del 10% su tutti gli ordini del giorno"
+	shortdesc="Risparmio del 10% su tutti gli ordini"
+	longdesc="Risparmio del 10% su tutti gli ordini."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&it_IT;"
+  description="Risparmio di $25 su tutti gli ordini superiori ai $200 USD"
+  longdescription="Risparmio di $25 su tutti gli ordini superiori ai $200 USD."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&it_IT;"
+	admindesc="Risparmio di $25 su tutti gli ordini effettuati prima di sabato"
+	shortdesc="Risparmio di $25 su tutti gli ordini superiori ai $200 USD"
+	longdesc="Risparmio di $25 su tutti gli ordini superiori ai $200 USD."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&it_IT;"
+  description="Prezzo fisso $5 US-spedizione regolare"
+  longdescription="Utilizzare la spedizione regolare per gli Stati Uniti e solo $5 per la spedizione per l'intero ordine."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&it_IT;"
+	admindesc="Sconto spedizione"
+	shortdesc="Prezzo fisso $5 US-spedizione regolare"
+	longdesc="Utilizzare la spedizione regolare per gli Stati Uniti e solo $5 per la spedizione per l'intero ordine."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&it_IT;"
+  description="Risparmio del 20% sull'arredamento."
+  longdescription="Risparmio del 20% su tutti gli articoli di arredamento. Nessuna limitazione"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&it_IT;"
+	admindesc="Sconto categoria - Risparmio del 20% sul mobilio"
+	shortdesc="Risparmio del 20% sull'arredamento."
+	longdesc="Risparmio del 20% su tutti gli articoli di arredamento. Nessuna limitazione"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

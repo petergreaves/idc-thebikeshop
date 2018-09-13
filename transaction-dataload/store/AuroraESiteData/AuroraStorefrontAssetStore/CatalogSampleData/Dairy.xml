@@ -1,0 +1,920 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : DairyType -->
+<attr attr_id="@attribute_id_Dairy_6" identifier="DairyType" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_6" attr_id="@attribute_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" identifier="Butter"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_9" attr_id="@attribute_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" identifier="Milk"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_14" attr_id="@attribute_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" identifier="Cheese"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_23" attr_id="@attribute_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" identifier="Yogourt"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_26" attr_id="@attribute_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" identifier="Eggs"	valusage="1" />
+<!--END Defining attribute : DairyType -->
+<!--BEGIN Defining attribute : DairyBrand -->
+<attr attr_id="@attribute_id_Dairy_5" identifier="DairyBrand" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_5" attr_id="@attribute_id_Dairy_5" storeent_id="&CAT_STOREENT_ID;" identifier="Madisons Choice"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_13" attr_id="@attribute_id_Dairy_5" storeent_id="&CAT_STOREENT_ID;" identifier="Oxford Organics"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_17" attr_id="@attribute_id_Dairy_5" storeent_id="&CAT_STOREENT_ID;" identifier="Delissima"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Dairy_20" attr_id="@attribute_id_Dairy_5" storeent_id="&CAT_STOREENT_ID;" identifier="Pierre&apos;s Fromage"	valusage="1" />
+<!--END Defining attribute : DairyBrand -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Size -->
+<attr attr_id="@attribute_id_Dairy_1" identifier="Size" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Dairy_1_GDA035_3501" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3501" />
+<attrval attrval_id="@attribute_value_id_Dairy_7_GDA035_3502" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3502" />
+<attrval attrval_id="@attribute_value_id_Dairy_7_GDA035_3508" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3508" />
+<attrval attrval_id="@attribute_value_id_Dairy_10_GDA035_3503" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3503" />
+<attrval attrval_id="@attribute_value_id_Dairy_15_GDA035_3504" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3504" />
+<attrval attrval_id="@attribute_value_id_Dairy_15_GDA035_3509" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3509" />
+<attrval attrval_id="@attribute_value_id_Dairy_18_GDA035_3505" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3505" />
+<attrval attrval_id="@attribute_value_id_Dairy_21_GDA035_3506" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3506" />
+<attrval attrval_id="@attribute_value_id_Dairy_24_GDA035_3507" attr_id="@attribute_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3507" />
+<!--END Descriptive attribute : Size -->
+<!--BEGIN Descriptive attribute : Category -->
+<attr attr_id="@attribute_id_Dairy_4" identifier="Category" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3501" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3501" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3502" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3502" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3503" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3503" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3504" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3504" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3505" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3505" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3506" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3506" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3507" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3507" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3508" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3508" />
+<attrval attrval_id="@attribute_value_id_Dairy_4_GDA035_3509" attr_id="@attribute_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3509" />
+<!--END Descriptive attribute : Category -->
+<!--BEGIN Descriptive attribute : Type -->
+<attr attr_id="@attribute_id_Dairy_3" identifier="Type" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Dairy_3_GDA035_3501" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3501" />
+<attrval attrval_id="@attribute_value_id_Dairy_8_GDA035_3502" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3502" />
+<attrval attrval_id="@attribute_value_id_Dairy_8_GDA035_3508" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3508" />
+<attrval attrval_id="@attribute_value_id_Dairy_12_GDA035_3503" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3503" />
+<attrval attrval_id="@attribute_value_id_Dairy_12_GDA035_3504" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3504" />
+<attrval attrval_id="@attribute_value_id_Dairy_12_GDA035_3505" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3505" />
+<attrval attrval_id="@attribute_value_id_Dairy_12_GDA035_3509" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3509" />
+<attrval attrval_id="@attribute_value_id_Dairy_22_GDA035_3506" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3506" />
+<attrval attrval_id="@attribute_value_id_Dairy_25_GDA035_3507" attr_id="@attribute_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" identifier="GDA035_3507" />
+<!--END Descriptive attribute : Type -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : GDA035_3501 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3501" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Madisons Choice" partnumber="GDA035_3501" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_1" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_1" baseitem_id="@baseproduct_id_Dairy_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="USD" price="4.59" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="AUD" price="5.92" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="NZD" price="6.33" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="BRL" price="14.6" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="CAD" price="5.83" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="CNY" price="30.66" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="EUR" price="3.9" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="GBP" price="3.58" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="JPY" price="503" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="KRW" price="5234" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="PLN" price="16.71" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="RON" price="17.95" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="RUB" price="271.18" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_2" currency="TWD" price="139.08" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="USD" listprice="4.79" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="AUD" listprice="6.18" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="NZD" listprice="6.61" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="BRL" listprice="15.23" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="CAD" listprice="6.08" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="CNY" listprice="32.0" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="EUR" listprice="4.07" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="GBP" listprice="3.74" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="JPY" listprice="525" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="KRW" listprice="5462" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="PLN" listprice="17.44" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="RON" listprice="18.73" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="RUB" listprice="282.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_1" currency="TWD" listprice="145.14" />
+<!-- Begin attribute mapping for GDA035_3501-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_1_GDA035_3501" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_1" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_3_GDA035_3501" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_1" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3501" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_1" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_1" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_1" />
+<!-- End attribute mapping for GDA035_3501-->
+
+<!-- BEGIN items of GDA035_3501 -->
+<!-- BEGIN item bean GDA035_350101 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_1" partnumber="GDA035_350101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_1" itemspc_id="@itemspc_id_Dairy_1" itemversn_id="@itemversn_id_Dairy_1" />
+<catentry catentry_id="@catentry_item_id_Dairy_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_1"	catenttype_id="ItemBean" mfname="Madisons Choice"	partnumber="GDA035_350101" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_2" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="USD" price="4.59" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="AUD" price="5.92" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="NZD" price="6.33" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="BRL" price="14.6" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="CAD" price="5.83" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="CNY" price="30.66" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="EUR" price="3.9" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="GBP" price="3.58" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="JPY" price="503" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="KRW" price="5234" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="PLN" price="16.71" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="RON" price="17.95" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="RUB" price="271.18" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_1" currency="TWD" price="139.08" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="USD" listprice="4.79" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="AUD" listprice="6.18" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="NZD" listprice="6.61" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="BRL" listprice="15.23" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="CAD" listprice="6.08" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="CNY" listprice="32.0" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="EUR" listprice="4.07" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="GBP" listprice="3.74" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="JPY" listprice="525" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="KRW" listprice="5462" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="PLN" listprice="17.44" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="RON" listprice="18.73" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="RUB" listprice="282.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_2" currency="TWD" listprice="145.14" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_2" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_6"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350101 -->
+<!-- END items of GDA035_3501 -->
+<!-- END catalog entry : GDA035_3501 -->
+<!-- BEGIN catalog entry : GDA035_3502 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3502" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Madisons Choice" partnumber="GDA035_3502" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_3" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_2" baseitem_id="@baseproduct_id_Dairy_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="USD" price="3.49" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="AUD" price="4.5" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="NZD" price="4.82" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="BRL" price="11.1" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="CAD" price="4.43" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="CNY" price="23.31" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="EUR" price="2.97" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="GBP" price="2.72" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="JPY" price="383" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="KRW" price="3980" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="PLN" price="12.7" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="RON" price="13.65" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="RUB" price="206.19" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_4" currency="TWD" price="105.75" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="USD" listprice="3.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="AUD" listprice="5.15" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="NZD" listprice="5.51" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="BRL" listprice="12.69" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="CAD" listprice="5.07" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="CNY" listprice="26.65" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="EUR" listprice="3.39" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="GBP" listprice="3.11" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="JPY" listprice="438" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="KRW" listprice="4550" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="PLN" listprice="14.52" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="RON" listprice="15.6" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="RUB" listprice="235.73" />
+<listprice catentry_id="@catentry_product_id_Dairy_3" currency="TWD" listprice="120.9" />
+<!-- Begin attribute mapping for GDA035_3502-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_7_GDA035_3502" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_3" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_8_GDA035_3502" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_3" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3502" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_3" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_3" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_3" />
+<!-- End attribute mapping for GDA035_3502-->
+
+<!-- BEGIN items of GDA035_3502 -->
+<!-- BEGIN item bean GDA035_350201 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_2" partnumber="GDA035_350201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_2" itemspc_id="@itemspc_id_Dairy_2" itemversn_id="@itemversn_id_Dairy_2" />
+<catentry catentry_id="@catentry_item_id_Dairy_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_2"	catenttype_id="ItemBean" mfname="Madisons Choice"	partnumber="GDA035_350201" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_4" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="USD" price="3.49" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="AUD" price="4.5" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="NZD" price="4.82" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="BRL" price="11.1" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="CAD" price="4.43" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="CNY" price="23.31" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="EUR" price="2.97" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="GBP" price="2.72" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="JPY" price="383" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="KRW" price="3980" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="PLN" price="12.7" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="RON" price="13.65" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="RUB" price="206.19" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_3" currency="TWD" price="105.75" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="USD" listprice="3.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="AUD" listprice="5.15" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="NZD" listprice="5.51" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="BRL" listprice="12.69" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="CAD" listprice="5.07" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="CNY" listprice="26.65" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="EUR" listprice="3.39" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="GBP" listprice="3.11" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="JPY" listprice="438" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="KRW" listprice="4550" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="PLN" listprice="14.52" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="RON" listprice="15.6" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="RUB" listprice="235.73" />
+<listprice catentry_id="@catentry_item_id_Dairy_4" currency="TWD" listprice="120.9" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_4" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_9"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350201 -->
+<!-- END items of GDA035_3502 -->
+<!-- END catalog entry : GDA035_3502 -->
+<!-- BEGIN catalog entry : GDA035_3503 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3503" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Oxford Organics" partnumber="GDA035_3503" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_5" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_3" baseitem_id="@baseproduct_id_Dairy_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="USD" price="3.79" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="AUD" price="4.89" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="NZD" price="5.23" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="BRL" price="12.05" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="CAD" price="4.81" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="CNY" price="25.32" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="EUR" price="3.22" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="GBP" price="2.96" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="JPY" price="416" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="KRW" price="4322" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="PLN" price="13.8" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="RON" price="14.82" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="RUB" price="223.91" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_6" currency="TWD" price="114.84" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="USD" listprice="3.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="AUD" listprice="5.15" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="NZD" listprice="5.51" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="BRL" listprice="12.69" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="CAD" listprice="5.07" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="CNY" listprice="26.65" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="EUR" listprice="3.39" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="GBP" listprice="3.11" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="JPY" listprice="438" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="KRW" listprice="4550" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="PLN" listprice="14.52" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="RON" listprice="15.6" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="RUB" listprice="235.73" />
+<listprice catentry_id="@catentry_product_id_Dairy_5" currency="TWD" listprice="120.9" />
+<!-- Begin attribute mapping for GDA035_3503-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_10_GDA035_3503" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_5" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_12_GDA035_3503" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_5" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3503" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_5" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_5" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_5" />
+<!-- End attribute mapping for GDA035_3503-->
+
+<!-- BEGIN items of GDA035_3503 -->
+<!-- BEGIN item bean GDA035_350301 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_3" partnumber="GDA035_350301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_3" itemspc_id="@itemspc_id_Dairy_3" itemversn_id="@itemversn_id_Dairy_3" />
+<catentry catentry_id="@catentry_item_id_Dairy_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_3"	catenttype_id="ItemBean" mfname="Oxford Organics"	partnumber="GDA035_350301" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_6" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="USD" price="3.79" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="AUD" price="4.89" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="NZD" price="5.23" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="BRL" price="12.05" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="CAD" price="4.81" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="CNY" price="25.32" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="EUR" price="3.22" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="GBP" price="2.96" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="JPY" price="416" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="KRW" price="4322" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="PLN" price="13.8" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="RON" price="14.82" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="RUB" price="223.91" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_5" currency="TWD" price="114.84" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="USD" listprice="3.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="AUD" listprice="5.15" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="NZD" listprice="5.51" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="BRL" listprice="12.69" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="CAD" listprice="5.07" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="CNY" listprice="26.65" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="EUR" listprice="3.39" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="GBP" listprice="3.11" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="JPY" listprice="438" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="KRW" listprice="4550" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="PLN" listprice="14.52" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="RON" listprice="15.6" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="RUB" listprice="235.73" />
+<listprice catentry_id="@catentry_item_id_Dairy_6" currency="TWD" listprice="120.9" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_6" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350301 -->
+<!-- END items of GDA035_3503 -->
+<!-- END catalog entry : GDA035_3503 -->
+<!-- BEGIN catalog entry : GDA035_3504 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3504" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Delissima" partnumber="GDA035_3504" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_7" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_4" baseitem_id="@baseproduct_id_Dairy_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="USD" price="9.89" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="AUD" price="12.76" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="NZD" price="13.65" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="BRL" price="31.45" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="CAD" price="12.56" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="CNY" price="66.07" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="EUR" price="8.41" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="GBP" price="7.71" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="JPY" price="1085" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="KRW" price="11278" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="PLN" price="36.0" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="RON" price="38.67" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="RUB" price="584.3" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_8" currency="TWD" price="299.67" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="USD" listprice="10.79" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="AUD" listprice="13.92" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="NZD" listprice="14.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="BRL" listprice="34.31" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="CAD" listprice="13.7" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="CNY" listprice="72.08" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="EUR" listprice="9.17" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="GBP" listprice="8.42" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="JPY" listprice="1184" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="KRW" listprice="12304" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="PLN" listprice="39.28" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="RON" listprice="42.19" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="RUB" listprice="637.47" />
+<listprice catentry_id="@catentry_product_id_Dairy_7" currency="TWD" listprice="326.94" />
+<!-- Begin attribute mapping for GDA035_3504-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_15_GDA035_3504" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_7" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_12_GDA035_3504" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_7" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3504" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_7" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_7" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_7" />
+<!-- End attribute mapping for GDA035_3504-->
+
+<!-- BEGIN items of GDA035_3504 -->
+<!-- BEGIN item bean GDA035_350401 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_4" partnumber="GDA035_350401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_4" itemspc_id="@itemspc_id_Dairy_4" itemversn_id="@itemversn_id_Dairy_4" />
+<catentry catentry_id="@catentry_item_id_Dairy_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_4"	catenttype_id="ItemBean" mfname="Delissima"	partnumber="GDA035_350401" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_8" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="USD" price="9.89" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="AUD" price="12.76" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="NZD" price="13.65" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="BRL" price="31.45" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="CAD" price="12.56" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="CNY" price="66.07" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="EUR" price="8.41" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="GBP" price="7.71" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="JPY" price="1085" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="KRW" price="11278" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="PLN" price="36.0" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="RON" price="38.67" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="RUB" price="584.3" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_7" currency="TWD" price="299.67" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="USD" listprice="10.79" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="AUD" listprice="13.92" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="NZD" listprice="14.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="BRL" listprice="34.31" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="CAD" listprice="13.7" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="CNY" listprice="72.08" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="EUR" listprice="9.17" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="GBP" listprice="8.42" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="JPY" listprice="1184" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="KRW" listprice="12304" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="PLN" listprice="39.28" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="RON" listprice="42.19" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="RUB" listprice="637.47" />
+<listprice catentry_id="@catentry_item_id_Dairy_8" currency="TWD" listprice="326.94" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_17"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_8" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350401 -->
+<!-- END items of GDA035_3504 -->
+<!-- END catalog entry : GDA035_3504 -->
+<!-- BEGIN catalog entry : GDA035_3505 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3505" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Pierre&apos;s Fromage" partnumber="GDA035_3505" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_9" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_5" baseitem_id="@baseproduct_id_Dairy_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="USD" price="6.49" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="AUD" price="8.37" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="NZD" price="8.96" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="BRL" price="20.64" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="CAD" price="8.24" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="CNY" price="43.35" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="EUR" price="5.52" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="GBP" price="5.06" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="JPY" price="712" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="KRW" price="7401" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="PLN" price="23.62" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="RON" price="25.38" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="RUB" price="383.43" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_10" currency="TWD" price="196.65" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="USD" listprice="6.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="AUD" listprice="9.02" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="NZD" listprice="9.65" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="BRL" listprice="22.23" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="CAD" listprice="8.88" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="CNY" listprice="46.69" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="EUR" listprice="5.94" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="GBP" listprice="5.45" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="JPY" listprice="767" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="KRW" listprice="7971" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="PLN" listprice="25.44" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="RON" listprice="27.33" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="RUB" listprice="412.97" />
+<listprice catentry_id="@catentry_product_id_Dairy_9" currency="TWD" listprice="211.8" />
+<!-- Begin attribute mapping for GDA035_3505-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_18_GDA035_3505" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_9" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_12_GDA035_3505" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_9" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3505" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_9" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_9" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_9" />
+<!-- End attribute mapping for GDA035_3505-->
+
+<!-- BEGIN items of GDA035_3505 -->
+<!-- BEGIN item bean GDA035_350501 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_5" partnumber="GDA035_350501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_5" itemspc_id="@itemspc_id_Dairy_5" itemversn_id="@itemversn_id_Dairy_5" />
+<catentry catentry_id="@catentry_item_id_Dairy_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_5"	catenttype_id="ItemBean" mfname="Pierre&apos;s Fromage"	partnumber="GDA035_350501" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_10" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="USD" price="6.49" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="AUD" price="8.37" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="NZD" price="8.96" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="BRL" price="20.64" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="CAD" price="8.24" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="CNY" price="43.35" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="EUR" price="5.52" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="GBP" price="5.06" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="JPY" price="712" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="KRW" price="7401" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="PLN" price="23.62" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="RON" price="25.38" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="RUB" price="383.43" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_9" currency="TWD" price="196.65" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="USD" listprice="6.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="AUD" listprice="9.02" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="NZD" listprice="9.65" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="BRL" listprice="22.23" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="CAD" listprice="8.88" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="CNY" listprice="46.69" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="EUR" listprice="5.94" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="GBP" listprice="5.45" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="JPY" listprice="767" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="KRW" listprice="7971" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="PLN" listprice="25.44" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="RON" listprice="27.33" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="RUB" listprice="412.97" />
+<listprice catentry_id="@catentry_item_id_Dairy_10" currency="TWD" listprice="211.8" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_20"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_10" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350501 -->
+<!-- END items of GDA035_3505 -->
+<!-- END catalog entry : GDA035_3505 -->
+<!-- BEGIN catalog entry : GDA035_3506 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3506" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Madisons Choice" partnumber="GDA035_3506" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_11" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_6" baseitem_id="@baseproduct_id_Dairy_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="USD" price="4.29" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="AUD" price="5.53" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="NZD" price="5.92" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="BRL" price="13.64" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="CAD" price="5.45" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="CNY" price="28.66" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="EUR" price="3.65" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="GBP" price="3.35" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="JPY" price="471" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="KRW" price="4892" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="PLN" price="15.62" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="RON" price="16.77" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="RUB" price="253.45" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_12" currency="TWD" price="129.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="USD" listprice="4.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="AUD" listprice="6.44" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="NZD" listprice="6.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="BRL" listprice="15.87" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="CAD" listprice="6.34" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="CNY" listprice="33.33" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="EUR" listprice="4.24" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="GBP" listprice="3.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="JPY" listprice="547" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="KRW" listprice="5690" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="PLN" listprice="18.16" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="RON" listprice="19.51" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="RUB" listprice="294.81" />
+<listprice catentry_id="@catentry_product_id_Dairy_11" currency="TWD" listprice="151.2" />
+<!-- Begin attribute mapping for GDA035_3506-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_21_GDA035_3506" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_11" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_22_GDA035_3506" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_11" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3506" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_11" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_11" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_11" />
+<!-- End attribute mapping for GDA035_3506-->
+
+<!-- BEGIN items of GDA035_3506 -->
+<!-- BEGIN item bean GDA035_350601 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_6" partnumber="GDA035_350601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_6" itemspc_id="@itemspc_id_Dairy_6" itemversn_id="@itemversn_id_Dairy_6" />
+<catentry catentry_id="@catentry_item_id_Dairy_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_6"	catenttype_id="ItemBean" mfname="Madisons Choice"	partnumber="GDA035_350601" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_12" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="USD" price="4.29" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="AUD" price="5.53" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="NZD" price="5.92" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="BRL" price="13.64" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="CAD" price="5.45" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="CNY" price="28.66" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="EUR" price="3.65" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="GBP" price="3.35" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="JPY" price="471" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="KRW" price="4892" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="PLN" price="15.62" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="RON" price="16.77" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="RUB" price="253.45" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_11" currency="TWD" price="129.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="USD" listprice="4.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="AUD" listprice="6.44" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="NZD" listprice="6.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="BRL" listprice="15.87" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="CAD" listprice="6.34" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="CNY" listprice="33.33" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="EUR" listprice="4.24" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="GBP" listprice="3.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="JPY" listprice="547" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="KRW" listprice="5690" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="PLN" listprice="18.16" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="RON" listprice="19.51" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="RUB" listprice="294.81" />
+<listprice catentry_id="@catentry_item_id_Dairy_12" currency="TWD" listprice="151.2" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_23"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350601 -->
+<!-- END items of GDA035_3506 -->
+<!-- END catalog entry : GDA035_3506 -->
+<!-- BEGIN catalog entry : GDA035_3507 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_7" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3507" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Oxford Organics" partnumber="GDA035_3507" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_7" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_13" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_13" sequence="7" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_7" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_7" baseitem_id="@baseproduct_id_Dairy_7" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="USD" price="2.89" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="AUD" price="3.73" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="NZD" price="3.99" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="BRL" price="9.19" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="CAD" price="3.67" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="CNY" price="19.31" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="EUR" price="2.46" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="GBP" price="2.25" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="JPY" price="317" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="KRW" price="3296" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="PLN" price="10.52" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="RON" price="11.3" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="RUB" price="170.74" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_14" currency="TWD" price="87.57" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="USD" listprice="3.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="AUD" listprice="5.02" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="NZD" listprice="5.37" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="BRL" listprice="12.37" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="CAD" listprice="4.94" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="CNY" listprice="25.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="EUR" listprice="3.31" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="GBP" listprice="3.03" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="JPY" listprice="427" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="KRW" listprice="4436" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="PLN" listprice="14.16" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="RON" listprice="15.21" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="RUB" listprice="229.82" />
+<listprice catentry_id="@catentry_product_id_Dairy_13" currency="TWD" listprice="117.87" />
+<!-- Begin attribute mapping for GDA035_3507-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_24_GDA035_3507" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_13" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_25_GDA035_3507" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_13" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3507" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_13" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_13" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_13" />
+<!-- End attribute mapping for GDA035_3507-->
+
+<!-- BEGIN items of GDA035_3507 -->
+<!-- BEGIN item bean GDA035_350701 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_7" partnumber="GDA035_350701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_7" itemspc_id="@itemspc_id_Dairy_7" itemversn_id="@itemversn_id_Dairy_7" />
+<catentry catentry_id="@catentry_item_id_Dairy_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_7"	catenttype_id="ItemBean" mfname="Oxford Organics"	partnumber="GDA035_350701" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_14" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_14" sequence="7.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="USD" price="2.89" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="AUD" price="3.73" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="NZD" price="3.99" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="BRL" price="9.19" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="CAD" price="3.67" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="CNY" price="19.31" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="EUR" price="2.46" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="GBP" price="2.25" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="JPY" price="317" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="KRW" price="3296" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="PLN" price="10.52" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="RON" price="11.3" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="RUB" price="170.74" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_13" currency="TWD" price="87.57" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="USD" listprice="3.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="AUD" listprice="5.02" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="NZD" listprice="5.37" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="BRL" listprice="12.37" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="CAD" listprice="4.94" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="CNY" listprice="25.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="EUR" listprice="3.31" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="GBP" listprice="3.03" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="JPY" listprice="427" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="KRW" listprice="4436" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="PLN" listprice="14.16" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="RON" listprice="15.21" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="RUB" listprice="229.82" />
+<listprice catentry_id="@catentry_item_id_Dairy_14" currency="TWD" listprice="117.87" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_14" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_26"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350701 -->
+<!-- END items of GDA035_3507 -->
+<!-- END catalog entry : GDA035_3507 -->
+<!-- BEGIN catalog entry : GDA035_3508 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_8" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3508" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_15" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Oxford Organics" partnumber="GDA035_3508" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_8" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_15" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_15" sequence="8" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_8" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_8" baseitem_id="@baseproduct_id_Dairy_8" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="USD" price="5.29" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="AUD" price="6.82" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="NZD" price="7.3" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="BRL" price="16.82" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="CAD" price="6.72" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="CNY" price="35.34" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="EUR" price="4.5" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="GBP" price="4.13" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="JPY" price="580" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="KRW" price="6032" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="PLN" price="19.26" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="RON" price="20.68" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="RUB" price="312.53" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_16" currency="TWD" price="160.29" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="USD" listprice="5.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="AUD" listprice="7.73" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="NZD" listprice="8.27" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="BRL" listprice="19.05" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="CAD" listprice="7.61" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="CNY" listprice="40.01" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="EUR" listprice="5.09" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="GBP" listprice="4.67" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="JPY" listprice="657" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="KRW" listprice="6831" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="PLN" listprice="21.8" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="RON" listprice="23.42" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="RUB" listprice="353.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_15" currency="TWD" listprice="181.5" />
+<!-- Begin attribute mapping for GDA035_3508-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_7_GDA035_3508" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_15" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_8_GDA035_3508" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_15" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3508" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_15" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_15" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_15" />
+<!-- End attribute mapping for GDA035_3508-->
+
+<!-- BEGIN items of GDA035_3508 -->
+<!-- BEGIN item bean GDA035_350801 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_8" partnumber="GDA035_350801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_8" itemspc_id="@itemspc_id_Dairy_8" itemversn_id="@itemversn_id_Dairy_8" />
+<catentry catentry_id="@catentry_item_id_Dairy_16" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_8"	catenttype_id="ItemBean" mfname="Oxford Organics"	partnumber="GDA035_350801" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_16" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_16" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_16" sequence="8.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="USD" price="5.29" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="AUD" price="6.82" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="NZD" price="7.3" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="BRL" price="16.82" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="CAD" price="6.72" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="CNY" price="35.34" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="EUR" price="4.5" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="GBP" price="4.13" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="JPY" price="580" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="KRW" price="6032" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="PLN" price="19.26" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="RON" price="20.68" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="RUB" price="312.53" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_15" currency="TWD" price="160.29" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="USD" listprice="5.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="AUD" listprice="7.73" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="NZD" listprice="8.27" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="BRL" listprice="19.05" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="CAD" listprice="7.61" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="CNY" listprice="40.01" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="EUR" listprice="5.09" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="GBP" listprice="4.67" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="JPY" listprice="657" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="KRW" listprice="6831" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="PLN" listprice="21.8" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="RON" listprice="23.42" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="RUB" listprice="353.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_16" currency="TWD" listprice="181.5" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_16" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_9"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_16" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350801 -->
+<!-- END items of GDA035_3508 -->
+<!-- END catalog entry : GDA035_3508 -->
+<!-- BEGIN catalog entry : GDA035_3509 -->
+<baseitem baseitem_id="@baseproduct_id_Dairy_9" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="GDA035_3509" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Dairy_17" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Madisons Choice" partnumber="GDA035_3509" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_9" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Dairy_17" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Dairy_17" sequence="9" />
+<storeitem baseitem_id="@baseproduct_id_Dairy_9" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Dairy_9" baseitem_id="@baseproduct_id_Dairy_9" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Dairy_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Dairy_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="USD" price="8.99" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="AUD" price="11.6" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="NZD" price="12.41" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="BRL" price="28.59" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="CAD" price="11.42" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="CNY" price="60.05" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="EUR" price="7.64" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="GBP" price="7.01" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="JPY" price="986" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="KRW" price="10252" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="PLN" price="32.72" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="RON" price="35.15" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="RUB" price="531.13" />
+<offerprice offer_id="@offer_catentry_product_id_Dairy_18" currency="TWD" price="272.4" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="USD" listprice="9.99" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="AUD" listprice="12.89" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="NZD" listprice="13.79" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="BRL" listprice="31.77" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="CAD" listprice="12.69" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="CNY" listprice="66.73" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="EUR" listprice="8.49" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="GBP" listprice="7.79" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="JPY" listprice="1096" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="KRW" listprice="11392" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="PLN" listprice="36.36" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="RON" listprice="39.06" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="RUB" listprice="590.21" />
+<listprice catentry_id="@catentry_product_id_Dairy_17" currency="TWD" listprice="302.7" />
+<!-- Begin attribute mapping for GDA035_3509-->
+<catentryattr attr_id="@attribute_id_Dairy_1" attrval_id="@attribute_value_id_Dairy_15_GDA035_3509" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Dairy_17" />
+
+<catentryattr attr_id="@attribute_id_Dairy_3" attrval_id="@attribute_value_id_Dairy_12_GDA035_3509" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Dairy_17" />
+<catentryattr attr_id="@attribute_id_Dairy_4" attrval_id="@attribute_value_id_Dairy_4_GDA035_3509" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Dairy_17" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Dairy_17" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Dairy_17" />
+<!-- End attribute mapping for GDA035_3509-->
+
+<!-- BEGIN items of GDA035_3509 -->
+<!-- BEGIN item bean GDA035_350901 -->
+<itemspc itemspc_id="@itemspc_id_Dairy_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Dairy_9" partnumber="GDA035_350901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Dairy_9" itemspc_id="@itemspc_id_Dairy_9" itemversn_id="@itemversn_id_Dairy_9" />
+<catentry catentry_id="@catentry_item_id_Dairy_18" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Dairy_9"	catenttype_id="ItemBean" mfname="Madisons Choice"	partnumber="GDA035_350901" markfordelete="0" baseitem_id="@baseproduct_id_Dairy_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Dairy_17"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Dairy_18" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Dairy_18" />
+<catgpenrel catgroup_id="@catgroup_id_Dairy" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Dairy_18" sequence="9.2" />
+<offer offer_id="@offer_catentry_item_id_Dairy_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Dairy_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="USD" price="8.99" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="AUD" price="11.6" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="NZD" price="12.41" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="BRL" price="28.59" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="CAD" price="11.42" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="CNY" price="60.05" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="EUR" price="7.64" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="GBP" price="7.01" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="JPY" price="986" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="KRW" price="10252" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="PLN" price="32.72" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="RON" price="35.15" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="RUB" price="531.13" />
+<offerprice offer_id="@offer_catentry_item_id_Dairy_17" currency="TWD" price="272.4" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="USD" listprice="9.99" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="AUD" listprice="12.89" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="NZD" listprice="13.79" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="BRL" listprice="31.77" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="CAD" listprice="12.69" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="CNY" listprice="66.73" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="EUR" listprice="8.49" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="GBP" listprice="7.79" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="JPY" listprice="1096" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="KRW" listprice="11392" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="PLN" listprice="36.36" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="RON" listprice="39.06" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="RUB" listprice="590.21" />
+<listprice catentry_id="@catentry_item_id_Dairy_18" currency="TWD" listprice="302.7" />
+<catentryattr attr_id="@attribute_id_Dairy_5" attrval_id="@attribute_value_id_Dairy_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Dairy_18" />
+<catentryattr attr_id="@attribute_id_Dairy_6" attrval_id="@attribute_value_id_Dairy_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Dairy_18" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean GDA035_350901 -->
+<!-- END items of GDA035_3509 -->
+<!-- END catalog entry : GDA035_3509 -->
+<!-- END: Writing catalog entries -->
+
+

@@ -1,0 +1,257 @@
+
+<!-- TRANSLATORS: DO NOT TRANSLATE ANY TEXT WITHIN [] (SUCH AS [storeName]) -->
+<colldesc 
+	collateral_id="@collateral_id_static_1"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Cher/Chère [nomUtilisateur],&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Nous avons bien reçu votre demande de réinitialisation de votre mot de passe. &lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Votre code de validation :&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[codeValidation]&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Utilisez le code de validation dans le navigateur à partir duquel vous avez lancé la demande de réinitialisation du mot de passe.&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Merci,&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;L'équipe [nomMagasin]&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_2"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Cher client/Chère cliente,&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[senderName] dont l'adresse électronique est [senderEmail], a créé une liste de présélection.&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Pour consulter cette liste, cliquez sur le lien suivant :&lt;/p&gt;
+														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot;href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Merci,&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;L'équipe [nomMagasin]&lt;/p&gt;&lt;br/&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_3"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Aide&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Foire aux questions&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Comment passer commande ?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Commander depuis [storeName] est extrêmement simple. S'il s'agit de votre premier achat dans notre magasin, suivez simplement ces trois étapes : &lt;/p&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Parcourez le catalogue. &lt;/li&gt;
+&lt;li&gt;Ajoutez l'article de votre choix au chariot. &lt;/li&gt;
+&lt;li&gt;Complétez le processus de règlement des achats. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Votre adresse électronique et un mot de passe vous seront demandés afin de vous enregistrer en tant que client. Ainsi, lors de vos prochains achats, ces informations auront déjà été enregistrées et vous n'aurez pas à les fournir une nouvelle fois.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Comment payer ?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Nous acceptons les cartes Visa, Mastercard et American Express. Lors du règlement de vos achats, le numéro de votre carte de crédit vous sera demandé.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Puis-je utiliser ma carte de crédit en toute sécurité ?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Nous garantissons que toute opération effectuée sur le site [storeName] est sécurisée à 100 %. Cela signifie que votre carte ne sera débitée d'aucun montant en cas d'achats illicites sur le site [storeName]. Si vous le souhaitez, vous pouvez n'indiquer que les cinq derniers chiffres de votre carte et la date d'expiration. Une fois votre commande passée, vous pourrez nous communiquer par téléphone les autres chiffres de votre numéro de carte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Comment puis-je suivre ma commande ?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Vous pouvez suivre toute commande effectuée chez [storeName] en cliquant simplement sur le lien Mon compte situé en haut de chaque page. Là, vous pouvez afficher ou modifier toute commande dont le processus d'expédition n'a pas encore été lancé.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_4"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Nous contacter&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Contact&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Nous sommes là pour vous aider.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Si vous avez besoin d'aide pour votre commande, écrivez-nous à l'adresse support@[storeName].com.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Si vous avez des questions concernant [nomMagasin], ou désirez apporter des commentaires sur notre magasin ou notre site Web, contactez-nous à l'adresse questions@[nomMagasin].com.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+	/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_5"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Politique de retour&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Nos principes&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Si pour une raison quelconque, vous n'êtes pas entièrement satisfait de votre commande, il vous suffit de contacter le service clientèle pour savoir comment faire pour retourner votre commande contre remboursement. Lorsque vous souhaiterez passer une nouvelle commande, nous serons heureux de vous servir à nouveau.&lt;/p&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_6"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Confidentialité&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Informations personnelles&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] s'engage à protéger et à respecter votre vie privée. Vous pouvez visiter le site Web [storeName] sans vous identifier, ni révéler d'informations personnelles. Pour des raisons de livraison et de facturation, nous devons parfois stocker vos informations personnelles sur un serveur sécurisé. Elles ne seront jamais vendues à un tiers, ni utilisées pour vous contacter sans votre consentement. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Si vous acceptez de nous fournir des informations personnelles via Internet, informations dont nous pouvons avoir besoin pour correspondre avec vous ou traiter votre commande, nous sommes disposés à vous faire connaître notre mode d'utilisation de ces informations. Si vous nous demandez de ne pas utiliser ces informations pour vous recontacter ultérieurement, nous respecterons votre souhait.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Les informations collectées par [storeName] sont exploitées en interne par le personnel [storeName] autorisé, ce à trois fins essentielles. En premier lieu, ces informations nous permettent d'améliorer notre site en déterminant les secteurs, caractéristiques et produits qui vous intéressent le plus. Ensuite, nous tentons de personnaliser notre site à l'intention de nos clients. Nous pourrions, par exemple, vous recommander à l'avenir des produits ou des fonctionnalités susceptibles de vous intéresser, en fonction de vos choix passés. Enfin, nous conservons la trace des domaines depuis lesquels nos clients ont accédé à notre site. Nous procédons à l'analyse de ces données pour définir des tendances et des statistiques, puis nous les détruisons. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Nous nous y engageons envers vous.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_7"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Qui sommes-nous ?&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Notre histoire&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Créé en 1957, [storeName] était au départ un petit magasin de biens et services situé dans la ville de New York. Aujourd'hui, il existe plus de 800 grands magasins [storeName] dans 15 pays différents. [storeName] emploie plus de 125 000 personnes.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;[storeName].com reflète notre engagement initial de proposer des produits d'excellente qualité à leur juste prix avec, à portée de clic 24 heures sur 24, les marques et les styles que vous appréciez déjà dans nos magasins traditionnels.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Regardez autour de vous. Nous espérons que vous aimez ce que vous voyez !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Notre mission&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Notre mission consiste à offrir à nos clients l'expérience d'achat en ligne la meilleure et la plus pratique possible. Nous nous engageons à livrer nos produits dans un emballage écologique facile à ouvrir, et à accepter toutes les principales cartes de crédit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Responsabilité sociétale&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] est soucieux de garantir un mode de vie sain à tous les niveaux de notre activité. Depuis notre initiative pour des  &quot;communautés plus sûres&quot; jusqu'à notre projet de protection de l'environnement, nous sommes fiers de notre engagement envers nos clients, du respect de leur diversité, communautés, santé et sécurité. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_8"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Contacter l'entreprise [nomMagasin]&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Siège social de [nomMagasin]&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Nous nous engageons personnellement à offrir à nos clients un service parfait. Si vous désirez nous contacter en cas de question ou de commentaire, sélectionnez ci-dessous le service de l'entreprise le plus approprié afin de recevoir une réponse rapide :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Ressources humaines&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Notre service des ressources humaines est ouvert du lundi au vendredi, de 8 heures à 17 heures (HNE). Vous pouvez nous contacter n'importe quand par courrier électronique à l'adresse careers@[nomMagasin].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Relations clients&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Notre service Relations clients est ouvert du mercredi au vendredi, de 8 heures à 17 heures (HNE). Vous pouvez nous contacter n'importe quand par courrier électronique à l'adresse relations@[nomMagasin].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Responsabilité sociétale&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Pour plus d'informations sur la responsabilité sociétale de [nomMagasin], visitez la page Qui sommes-nous ? ou envoyez-nous un message à l'adresse info@[nomMagasin].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;L'adresse du siège social de [nomMagasin] Corporate est :&lt;/p&gt;
+&lt;p&gt;Street123&lt;/p&gt;
+&lt;p&gt;Toronto Ontario&lt;/p&gt;
+&lt;p&gt;Canada M3C-1L1&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_10"
+	language_id="&fr_FR;"
+	marketingtext="&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;Notre mission consiste à offrir à nos clients l'expérience d'achat en ligne la meilleure et la plus pratique possible. Nous nous sommes engagés à offrir des produits qui fournis dans un conditionnement facile à ouvrir.&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;Consultez nos &lt;a style=&quot;color: #0081AF; text-decoration: none;&quot;class=&quot;link&quot; href=&quot;[LINK1]&quot;&gt;Règles de confidentialité&lt;/a&gt; pour plus d'informations&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot; class=&quot;link&quot;href=&quot;[LINK2]&quot;&gt;www.[NOM_MAGASIN].com&lt;/a&gt; | Copyright [NOM_MAGASIN], NY. 2012.&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_11"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;p&gt; Cher/Chère [userName],&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nous avons bien reçu votre demande d'envoi de mot de passe par courrier électronique. &lt;br /&gt;&lt;br /&gt;Votre mot de passe : [mot de passe]&lt;br /&gt;&lt;br /&gt;Notez que votre mot de passe est sensible à la casse.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Merci,&lt;br /&gt;L'équipe [nomMagasin]&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_12"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Cher utilisateur/Chère utilisatrice,&lt;/h2&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Votre compte vient d'être activé.&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Cliquez ci-dessous pour ouvrir une session et poursuivre vos achats.
+														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot; href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Merci,&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;L'équipe [nomMagasin]&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_13"
+	language_id="&fr_FR;"
+	marketingtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Merci d'avoir passé une commande chez [storeName]. Votre commande référence [orderNumber], ne peut pas être traitée car nous n'avons pas reçu l'autorisation de paiement correspondante. Pour acheter les articles ci-dessous, contactez-nous au 01.43.45.45.45. Merci encore d'avoir choisi [nomMagasin] pour vos achats.&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_14"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Merci d'avoir passé une commande chez [storeName]. Nous avons reçu l'autorisation de paiement pour votre commande référence [orderNumber]. Utilisez le numéro de référence de suivi ci-joint pour suivre le colis : &lt;strong&gt;[numéroSuivi]&lt;/strong&gt;. Si vous expédiez des articles à d'autres adresses de livraison ou que vous utilisez un autre mode d'expédition, vous allez recevoir un autre courrier électronique contenant les détails de livraison. En cas de questions ou de préoccupations quant à votre commande, vous pouvez nous contacter par courrier électronique à l'adresse orders@[nomMagasin].com ou par téléphone au 1-800-555-1234. Merci encore d'avoir choisi [nomMagasin] pour vos achats.&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_15"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Cher/Chère [nomUtilisateur],&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Nous avons bien reçu votre demande de réinitialisation de votre mot de passe. &lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Votre code de validation :&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[codeValidation]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Copiez le code de validation et entrez-le sur la page suivante afin de réinitialiser votre mot de passe : &nbsp;&nbsp;&nbsp; &lt;/strong&gt;[URLFormulaireRéinitialisationMotDePasse]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Merci,&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;L'équipe [nomMagasin]&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+

@@ -1,0 +1,767 @@
+	<!-- Define all the views in the storefront -->
+	<acaction acaction_id="@AllUserView" action="AllUserView"/>
+	<acaction acaction_id="@RegisteredCustomerView" action="RegisteredCustomerView"/>
+	<acaction acaction_id="@CSRView" action="CSRView"/>
+	
+	<acaction acaction_id="@OrderSummaryView" action="OrderSummaryView"/>
+	<acaction acaction_id="@AjaxCheckoutAddressDisplayView" action="AjaxCheckoutAddressDisplayView"/>
+	<acaction acaction_id="@AjaxCheckoutDisplayView" action="AjaxCheckoutDisplayView"/>
+	<acaction acaction_id="@EmptySnippetView" action="EmptySnippetView"/>
+	<acaction acaction_id="@StandardCOD" action="StandardCOD"/>
+	<acaction acaction_id="@StandardBillMeLater" action="StandardBillMeLater"/>
+	<acaction acaction_id="@StandardPayLater" action="StandardPayLater"/>
+	<acaction acaction_id="@StandardAmex" action="StandardAmex"/>
+	<acaction acaction_id="@StandardMasterCard" action="StandardMasterCard"/>
+	<acaction acaction_id="@StandardVisa" action="StandardVisa"/>
+	<acaction acaction_id="@StandardDiscover" action="StandardDiscover"/>
+	<acaction acaction_id="@StandardLOC" action="StandardLOC"/>
+	<acaction acaction_id="@StandardCheck" action="StandardCheck"/>
+	<acaction acaction_id="@StandardBankServACH" action="StandardBankServACH"/>
+	<acaction acaction_id="@AjaxAddressDisplayView" action="AjaxAddressDisplayView"/>
+	<acaction acaction_id="@AjaxShopcartAddressFormView" action="AjaxShopcartAddressFormView"/>
+	<acaction acaction_id="@AjaxAddressSelectView" action="AjaxAddressSelectView"/>
+
+	<acaction acaction_id="@AjaxLogonForm" action="AjaxLogonForm"/>
+	
+	<acaction acaction_id="@CategoryOnlyResultsDisplayView" action="CategoryOnlyResultsDisplayView"/>
+	<acaction acaction_id="@AjaxQuickCartDisplay" action="AjaxQuickCartDisplay"/>
+	<acaction acaction_id="@CurrentOrderInformationView" action="CurrentOrderInformationView"/>
+	<acaction acaction_id="@AjaxPromotionCodeDisplayView" action="AjaxPromotionCodeDisplayView"/>
+	<acaction acaction_id="@PromotionFreeGiftChoicesView" action="PromotionFreeGiftChoicesView"/>
+	<acaction acaction_id="@GenericApplicationError" action="GenericApplicationError"/>
+	<acaction acaction_id="@GenericSystemError" action="GenericSystemError"/>
+	
+	<acaction acaction_id="@UserRegistrationAddFormView" action="UserRegistrationAddFormView"/>
+	<acaction acaction_id="@UserRegistrationErrorView" action="UserRegistrationErrorView"/>
+	<acaction acaction_id="@AuthenticationPolicyErrorView" action="AuthenticationPolicyErrorView"/>
+	
+	<acaction acaction_id="@CategoryDisplayView" action="CategoryDisplayView"/>
+	<acaction acaction_id="@LogonForm" action="LogonForm"/>
+	<acaction acaction_id="@LogoffView" action="LogoffView"/>
+	<acaction acaction_id="@LogonErrorView" action="LogonErrorView"/>
+	<acaction acaction_id="@UserPasswordUpdate" action="UserPasswordUpdate"/>
+	<acaction acaction_id="@ResetPasswordForm" action="ResetPasswordForm"/>
+	<acaction acaction_id="@ResetPasswordErrorView" action="ResetPasswordErrorView"/>
+	<acaction acaction_id="@ResetPasswordGuestErrorView" action="ResetPasswordGuestErrorView"/>
+	<acaction acaction_id="@ResetPasswordRegisterErrorView" action="ResetPasswordRegisterErrorView"/>
+	<acaction acaction_id="@PasswordNotifyView" action="PasswordNotifyView"/>
+	<acaction acaction_id="@SendPasswordNotificationErrorView" action="SendPasswordNotificationErrorView"/>
+	<acaction acaction_id="@DoPaymentErrorView" action="DoPaymentErrorView"/>
+	<acaction acaction_id="@CatalogAttachmentView" action="CatalogAttachmentView"/>
+	
+	<acaction acaction_id="@StoreCatalogDisplayView" action="StoreCatalogDisplayView"/>
+
+	<acaction acaction_id="@InvalidInputErrorView" action="InvalidInputErrorView"/>
+	<acaction acaction_id="@OrderReceivedView" action="OrderReceivedView"/>
+	<acaction acaction_id="@OrderCancelView" action="OrderCancelView"/>
+	<acaction acaction_id="@ReleaseShipNotifyView" action="ReleaseShipNotifyView"/>
+	<acaction acaction_id="@ChangePassword" action="ChangePassword"/>
+	<acaction acaction_id="@ProductDisplayErrorView" action="ProductDisplayErrorView"/>
+
+	<acaction acaction_id="@BillingAddressView" action="BillingAddressView"/>
+	<acaction acaction_id="@DiscountDetailsDisplayView" action="DiscountDetailsDisplayView"/>
+	<acaction acaction_id="@StoreView" action="StoreView"/>
+	<acaction acaction_id="@QuickOrderView" action="QuickOrderView"/>
+	<acaction acaction_id="@BillingDetailsView" action="BillingDetailsView"/>
+	
+	<acaction acaction_id="@CurrentOrderInformationView" action="CurrentOrderInformationView"/>
+	<acaction acaction_id="@SingleShipmentOrderSummaryView" action="SingleShipmentOrderSummaryView"/>
+	<acaction acaction_id="@TraditionalAjaxShippingDetailsURL" action="TraditionalAjaxShippingDetailsURL"/>
+	<acaction acaction_id="@AjaxQuickCheckoutAddressForm" action="AjaxQuickCheckoutAddressForm"/>
+	<acaction acaction_id="@AjaxUnregisteredCheckoutAddressForm" action="AjaxUnregisteredCheckoutAddressForm"/>
+	<acaction acaction_id="@QuickCheckoutEmptySnippetView" action="QuickCheckoutEmptySnippetView"/>
+	<acaction acaction_id="@QuickCheckoutOfflineSnippetView" action="QuickCheckoutOfflineSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutAmexSnippetView" action="QuickCheckoutAmexSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutMastercardSnippetView" action="QuickCheckoutMastercardSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutVisaSnippetView" action="QuickCheckoutVisaSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutBankServACHSnippetView" action="QuickCheckoutBankServACHSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutCheckSnippetView" action="QuickCheckoutCheckSnippetView"/>
+	<acaction acaction_id="@QuickCheckoutLOCSnippetView" action="QuickCheckoutLOCSnippetView"/>
+	
+	<acaction acaction_id="@AjaxOrderItemDisplayView" action="AjaxOrderItemDisplayView"/>
+	<acaction acaction_id="@OrderItemDisplayViewShiptoAssoc" action="OrderItemDisplayViewShiptoAssoc"/>
+	<acaction acaction_id="@OrderItemDisplayViewShiptoDsp" action="OrderItemDisplayViewShiptoDsp"/>
+	<acaction acaction_id="@ShopCartDisplayView" action="ShopCartDisplayView"/>
+	<acaction acaction_id="@ShopCartPageView" action="ShopCartPageView"/>
+	<acaction acaction_id="@OrderItemPageView" action="OrderItemPageView"/>
+	<acaction acaction_id="@OrderDetailPageView" action="OrderDetailPageView"/>
+	<acaction acaction_id="@MSOrderItemPageView" action="MSOrderItemPageView"/>
+	<acaction acaction_id="@CategoryDisplay" action="CategoryDisplay"/>
+	<acaction acaction_id="@ProductDisplay" action="ProductDisplay"/>
+	<acaction acaction_id="@AddressEditView" action="AddressEditView"/>
+	<acaction acaction_id="@OrderShippingBillingView" action="OrderShippingBillingView"/>
+	<acaction acaction_id="@UnregisteredCheckoutView" action="UnregisteredCheckoutView"/>
+	<acaction acaction_id="@OrderBillingView" action="OrderBillingView"/>
+	<acaction acaction_id="@AjaxMultipleShipmentOrderItemDetailsView" action="AjaxMultipleShipmentOrderItemDetailsView"/>
+	<acaction acaction_id="@BillingAddressDisplayView" action="BillingAddressDisplayView"/>
+	<acaction acaction_id="@ShippingAddressDisplayView" action="ShippingAddressDisplayView"/>
+	<acaction acaction_id="@MultipleShipmentOrderSummaryView" action="MultipleShipmentOrderSummaryView"/>
+	<acaction acaction_id="@OrderShippingBillingConfirmationView" action="OrderShippingBillingConfirmationView"/>
+	<acaction acaction_id="@AjaxSingleShipmentShipChargeView" action="AjaxSingleShipmentShipChargeView"/>
+	<acaction acaction_id="@AjaxMultipleShipmentShipChargeView" action="AjaxMultipleShipmentShipChargeView"/>
+	
+	<acaction acaction_id="@GetCatalogEntryDetailsByID" action="GetCatalogEntryDetailsByID"/>
+	<acaction acaction_id="@BillingAddressDisplayView_1" action="BillingAddressDisplayView_1"/>
+	<acaction acaction_id="@BillingAddressDisplayView_2" action="BillingAddressDisplayView_2"/>
+	<acaction acaction_id="@BillingAddressDisplayView_3" action="BillingAddressDisplayView_3"/>
+	<acaction acaction_id="@orderTotalAsJSON" action="orderTotalAsJSON"/>
+
+	<acaction acaction_id="@SubCatListDisplayView" action="SubCatListDisplayView"/>
+	<acaction acaction_id="@GetCatalogEntryInventoryData" action="GetCatalogEntryInventoryData"/>
+	<acaction acaction_id="@AjaxStoreLocatorDisplayView" action="AjaxStoreLocatorDisplayView"/>
+	<acaction acaction_id="@AjaxProvinceSelectionDisplayView" action="AjaxProvinceSelectionDisplayView"/>
+	<acaction acaction_id="@AjaxCitySelectionDisplayView" action="AjaxCitySelectionDisplayView"/>
+	<acaction acaction_id="@AjaxStoreLocatorResultsView" action="AjaxStoreLocatorResultsView"/>
+	<acaction acaction_id="@AjaxSelectedStoreListView" action="AjaxSelectedStoreListView"/>
+	<acaction acaction_id="@CheckoutStoreSelectionView" action="CheckoutStoreSelectionView"/>
+	<acaction acaction_id="@CheckoutPayInStoreView" action="CheckoutPayInStoreView"/>
+	<acaction acaction_id="@DOMOrderShippingBillingView" action="DOMOrderShippingBillingView"/>
+	<acaction acaction_id="@DOMInventoryStatusView" action="DOMInventoryStatusView"/>
+	<acaction acaction_id="@PayInStoreSnippetView" action="PayInStoreSnippetView"/>
+	<acaction acaction_id="@SimplePunchout" action="SimplePunchout"/>
+	<acaction acaction_id="@PunchoutPaymentRedirectView" action="PunchoutPaymentRedirectView"/>
+	<acaction acaction_id="@PunchoutPaymentCallBackView" action="PunchoutPaymentCallBackView"/>
+	<acaction acaction_id="@OrderLockStatusView" action="OrderLockStatusView"/>
+
+	<!-- Coremetrics views BEGIN-->
+	<acaction acaction_id="@AnalyticsShopcartView" action="AnalyticsShopcartView"/>
+	<acaction acaction_id="@AnalyticsProductView" action="AnalyticsProductView"/>
+	<acaction acaction_id="@AnalyticsPageView" action="AnalyticsPageView"/>
+	<acaction acaction_id="@AnalyticsElementView" action="AnalyticsElementView"/>
+	<acaction acaction_id="@AnalyticsRegistrationView" action="AnalyticsRegistrationView"/>
+	<!-- Coremetrics views END-->
+	<acaction acaction_id="@AjaxSubmitQuote" action="AjaxSubmitQuote"/>
+
+	<acaction acaction_id="@AjaxBrowsingHistoryEspotDisplay" action="AjaxBrowsingHistoryEspotDisplay"/>
+	<acaction acaction_id="@AjaxBrowsingHistoryView" action="AjaxBrowsingHistoryView"/>
+	<acaction acaction_id="@NonAjaxBrowsingHistoryView" action="NonAjaxBrowsingHistoryView"/>
+	<acaction acaction_id="@AjaxBrowsingHistoryDisplay" action="AjaxBrowsingHistoryDisplay"/>
+	<acaction acaction_id="@AjaxCategorySubscriptionDisplay" action="AjaxCategorySubscriptionDisplay"/>
+
+	<acaction acaction_id="@StaticContentSitemap" action="StaticContentSitemap"/>
+	<acaction acaction_id="@ConfigureView" action="ConfigureView"/>
+	<acaction acaction_id="@LaunchConfiguratorView" action="LaunchConfiguratorView"/>
+	<acaction acaction_id="@LaunchConfiguratorRedirectView" action="LaunchConfiguratorRedirectView"/>
+	<acaction acaction_id="@AllWishListsInProductDetailView" action="AllWishListsInProductDetailView"/>
+	<acaction acaction_id="@RemoteWidgetToolView" action="RemoteWidgetToolView"/>
+
+	<acaction acaction_id="@StaticContent" action="StaticContent"/>
+	<acaction acaction_id="@AutoSuggestView" action="AutoSuggestView"/>
+	<acaction acaction_id="@CachedSuggestionsView" action="CachedSuggestionsView"/>
+	<acaction acaction_id="@SubscriptionMerchantNotifyView" action="SubscriptionMerchantNotifyView"/>
+	<acaction acaction_id="@SubscriptionUserNotifyView" action="SubscriptionUserNotifyView"/>
+	<acaction acaction_id="@AjaxIntelligentOfferDisplayView" action="AjaxIntelligentOfferDisplayView"/>
+	<acaction acaction_id="@AnalyticsConversionEventView" action="AnalyticsConversionEventView"/>
+	<acaction acaction_id="@ResendActivationForm" action="ResendActivationForm"/>
+	<acaction acaction_id="@ResendActivationGuestView" action="ResendActivationGuestView"/>
+	
+	<acaction acaction_id="@UserRegistrationForm" action="UserRegistrationForm"/>
+	<acaction acaction_id="@AddressBookForm" action="AddressBookForm"/>
+	<acaction acaction_id="@AjaxAddressBookForm" action="AjaxAddressBookForm"/>
+	<acaction acaction_id="@AjaxAccountAddressForm" action="AjaxAccountAddressForm"/>
+	<acaction acaction_id="@AddressDeleteErrorView" action="AddressDeleteErrorView"/>
+	<acaction acaction_id="@ProfileFormView" action="ProfileFormView"/>
+	<acaction acaction_id="@AddressErrorView" action="AddressErrorView"/>
+	<acaction acaction_id="@WishListDisplayView" action="WishListDisplayView"/>
+	
+	<acaction acaction_id="@AjaxAccountWishListDisplayView" action="AjaxAccountWishListDisplayView"/>
+	<acaction acaction_id="@WishListResultDisplayView" action="WishListResultDisplayView"/>
+	<acaction acaction_id="@MultipleWishListSelectionView" action="MultipleWishListSelectionView"/>
+	<acaction acaction_id="@SharedWishListView" action="SharedWishListView"/>
+	<acaction acaction_id="@ApproversNotifyView" action="ApproversNotifyView"/>
+	<acaction acaction_id="@InterestItemDisplayView" action="InterestItemDisplayView"/>
+	<acaction acaction_id="@TrackOrderStatus" action="TrackOrderStatus"/>
+	<acaction acaction_id="@OrderDetail" action="OrderDetail"/>
+	<acaction acaction_id="@GuestOrderDetail" action="GuestOrderDetail"/>
+	<acaction acaction_id="@OrderCommentsListView" action="OrderCommentsListView"/>
+	<acaction acaction_id="@OrderStatusTableDetailsDisplay" action="OrderStatusTableDetailsDisplay"/>
+	<acaction acaction_id="@RecurringOrderTableDetailsDisplay" action="RecurringOrderTableDetailsDisplay"/>
+	<acaction acaction_id="@SubscriptionTableDetailsDisplay" action="SubscriptionTableDetailsDisplay"/>
+	<acaction acaction_id="@RecurringOrderChildOrdersTableDetailsDisplay" action="RecurringOrderChildOrdersTableDetailsDisplay"/>
+	<acaction acaction_id="@SubscriptionChildOrdersTableDetailsDisplay" action="SubscriptionChildOrdersTableDetailsDisplay"/>
+	<acaction acaction_id="@CouponWallet" action="CouponWallet"/>
+	<acaction acaction_id="@CouponWalletTableView" action="CouponWalletTableView"/>
+	<acaction acaction_id="@SBSOrderItemPageView" action="SBSOrderItemPageView"/>
+	<acaction acaction_id="@SBSMSOrderItemPageView" action="SBSMSOrderItemPageView"/>
+
+	<acaction acaction_id="@InvalidateCache" action="InvalidateCache"/>
+	<acaction acaction_id="@SearchAutoSuggestJsonView" action="SearchAutoSuggestJsonView"/>
+	<acaction acaction_id="@SearchComponentAutoSuggestView" action="SearchComponentAutoSuggestView"/>
+	<acaction acaction_id="@SearchComponentCachedSuggestionsView" action="SearchComponentCachedSuggestionsView"/>
+	<acaction acaction_id="@GetCatalogEntryDetailsByIDView" action="GetCatalogEntryDetailsByIDView"/>
+	<acaction acaction_id="@MiniShopCartDisplayView" action="MiniShopCartDisplayView"/>
+	<acaction acaction_id="@DepartmentDropdownView" action="DepartmentDropdownView"/>
+	<acaction acaction_id="@DepartmentDropdownViewRWD" action="DepartmentDropdownViewRWD"/>
+	<acaction acaction_id="@TopCategoriesDisplayView" action="TopCategoriesDisplayView"/>
+	<acaction acaction_id="@SearchDisplayView" action="SearchDisplayView"/>
+	<acaction acaction_id="@TechnicalSpecificationView" action="TechnicalSpecificationView"/>
+	<acaction acaction_id="@AttachmentPaginationView" action="AttachmentPaginationView"/>
+
+	<acaction acaction_id="@CompareProductsDisplayView" action="CompareProductsDisplayView"/>
+	<acaction acaction_id="@DiscountDetailsView" action="DiscountDetailsView"/>
+	<acaction acaction_id="@ContentAreaESpotView" action="ContentAreaESpotView"/>
+	<acaction acaction_id="@CategoriesESpotView" action="CategoriesESpotView"/>
+	<acaction acaction_id="@AdvancedSearchDisplay" action="AdvancedSearchDisplay"/>	
+	<acaction acaction_id="@Ping" action="Ping"/>
+	<acaction acaction_id="@UnsupportedBrowserErrorView" action="UnsupportedBrowserErrorView"/>
+	<acaction acaction_id="@GenericStaticContentPageLayoutView" action="GenericStaticContentPageLayoutView"/>
+
+	<acaction acaction_id="@ProductListingView" action="ProductListingView"/>
+	<acaction acaction_id="@QuickInfoDetailsView" action="QuickInfoDetailsView"/>
+	<acaction acaction_id="@IntelligentOfferResultsView" action="IntelligentOfferResultsView"/>
+	<acaction acaction_id="@IntelligentOfferView" action="IntelligentOfferView"/>
+	<acaction acaction_id="@SiteContentListView" action="SiteContentListView"/>	
+	<acaction acaction_id="@CatalogEntryRecommendationView" action="CatalogEntryRecommendationView"/>
+	<acaction acaction_id="@AttachmentPaginationListView" action="AttachmentPaginationListView"/>
+	<acaction acaction_id="@GetInventoryStatusByIDView" action="GetInventoryStatusByIDView"/>
+	<acaction acaction_id="@GetOnlineInventoryStatusByIDView" action="GetOnlineInventoryStatusByIDView"/>
+	<acaction acaction_id="@GetStoreDetailsByIDView" action="GetStoreDetailsByIDView"/>
+	
+	<acaction acaction_id="@RequisitionListDisplayView" action="RequisitionListDisplayView"/>
+	<acaction acaction_id="@RequisitionListDetailView" action="RequisitionListDetailView"/>
+	<acaction acaction_id="@RequisitionListUploadDetailView" action="RequisitionListUploadDetailView"/>
+	
+	<acaction acaction_id="@ListOrdersDisplayView" action="ListOrdersDisplayView"/>
+	<acaction acaction_id="@RequisitionListsView" action="RequisitionListsView"/>
+	<acaction acaction_id="@RequisitionListItemTableView" action="RequisitionListItemTableView"/>
+	<acaction acaction_id="@SavedOrderDetailView" action="SavedOrderDetailView"/>
+	<acaction acaction_id="@AjaxSavedOrderListView" action="AjaxSavedOrderListView"/>
+	<acaction acaction_id="@SavedOrderItemTableView" action="SavedOrderItemTableView"/>
+	<acaction acaction_id="@SavedOrderInfoView" action="SavedOrderInfoView"/>
+	<acaction acaction_id="@SearchComponentSKUAutoSuggestView" action="SearchComponentSKUAutoSuggestView"/>
+	
+	<!-- B2B Self service -->
+	<acaction acaction_id="@OrganizationUsersListView" action="OrganizationUsersListView"/>
+	<acaction acaction_id="@OrganizationAdminCreateUserView" action="OrganizationAdminCreateUserView"/>
+	<acaction acaction_id="@OrganizationsAndUsersView" action="OrganizationsAndUsersView"/>					
+	<acaction acaction_id="@OrganizationCreateEditView" action="OrganizationCreateEditView"/>
+	<acaction acaction_id="@OrderApprovalView" action="OrderApprovalView"/>
+	<acaction acaction_id="@BuyerApprovalView" action="BuyerApprovalView"/>
+	<acaction acaction_id="@OrderApprovalDetailView" action="OrderApprovalDetailView"/>
+	<acaction acaction_id="@BuyerApprovalDetailView" action="BuyerApprovalDetailView"/>	
+	<acaction acaction_id="@OrderApprovalTableView" action="OrderApprovalTableView"/>
+	<acaction acaction_id="@BuyerApprovalTableView" action="BuyerApprovalTableView"/>
+	<acaction acaction_id="@ApprovalCommentView" action="ApprovalCommentView"/>
+	<acaction acaction_id="@SSOrderDetailItemTableView" action="SSOrderDetailItemTableView"/>
+	<acaction acaction_id="@MSOrderDetailItemTableView" action="MSOrderDetailItemTableView"/>
+	<acaction acaction_id="@OrganizationAdminEditUserView" action="OrganizationAdminEditUserView"/>
+	<acaction acaction_id="@OrganizationUserInfoDetailsView" action="OrganizationUserInfoDetailsView"/>
+	<acaction acaction_id="@OrganizationUserInfoAddressView" action="OrganizationUserInfoAddressView"/>
+	<acaction acaction_id="@OrgSummaryDisplayView" action="OrgSummaryDisplayView"/>
+	<acaction acaction_id="@OrgListDisplayView" action="OrgListDisplayView"/>
+	<acaction acaction_id="@OrgSearchListDisplayView" action="OrgSearchListDisplayView"/>
+	<acaction acaction_id="@OrgRolesDisplayView" action="OrgRolesDisplayView"/>
+	<acaction acaction_id="@OrgMemberGroupDisplayView" action="OrgMemberGroupDisplayView"/>
+	<acaction acaction_id="@UserRoleManagementRoleSelectorView" action="UserRoleManagementRoleSelectorView"/>
+	<acaction acaction_id="@UserRoleManagementOrgListView" action="UserRoleManagementOrgListView"/>
+	<acaction acaction_id="@UserMemberGroupManagementView" action="UserMemberGroupManagementView"/>
+	<acaction acaction_id="@NumberOfOrderApprovalsView" action="NumberOfOrderApprovalsView"/>
+	<acaction acaction_id="@NumberOfBuyerApprovalsView" action="NumberOfBuyerApprovalsView"/>
+	
+	
+	<acaction acaction_id="@GlobalLoginView" action="GlobalLoginView"/>
+	<acaction acaction_id="@GlobalLoginSignInView" action="GlobalLoginSignInView"/>
+    <acaction acaction_id="@GlobalLoginShopOnBehalfDisplayView" action="GlobalLoginShopOnBehalfDisplayView"/>	
+	<acaction acaction_id="@AddToRequisitionListsView" action="AddToRequisitionListsView"/>
+	<acaction acaction_id="@SKUListView" action="SKUListView"/>
+	<acaction acaction_id="@SearchRuleInfoView" action="SearchRuleInfoView"/>
+	
+	<!-- FEP7 Mobile30 START -->
+	<acaction acaction_id="@m30FeatureProductsDisplayView" action="m30FeatureProductsDisplayView"/>
+	<acaction acaction_id="@m30CatalogSearchResultView" action="m30CatalogSearchResultView"/>
+	<acaction acaction_id="@m30AdvancedSearchDisplay" action="m30AdvancedSearchDisplay"/>
+	<acaction acaction_id="@m30InterestListsView" action="m30InterestListsView"/>
+	<acaction acaction_id="@m30InterestListForm" action="m30InterestListForm"/>
+	<acaction acaction_id="@m30InterestListDisplay" action="m30InterestListDisplay"/>
+	<acaction acaction_id="@m30EmailWishlistDisplay" action="m30EmailWishlistDisplay"/>
+	<acaction acaction_id="@m30SendWishListMessage" action="m30SendWishListMessage"/>
+	<acaction acaction_id="@m30OrderItemDisplay" action="m30OrderItemDisplay"/>
+	<acaction acaction_id="@m30MyAccountDisplay" action="m30MyAccountDisplay"/>
+	<acaction acaction_id="@m30AddToProdCompare" action="m30AddToProdCompare"/>
+	<acaction acaction_id="@m30ProductCompareResultView" action="m30ProductCompareResultView"/>
+	<acaction acaction_id="@m30RemoveFromProdCompare" action="m30RemoveFromProdCompare"/>
+	<acaction acaction_id="@m30LanguageCurrencyDisplay" action="m30LanguageCurrencyDisplay"/>
+	<acaction acaction_id="@m30MySubscriptionDisplay" action="m30MySubscriptionDisplay"/>
+	<acaction acaction_id="@m30LogonForm" action="m30LogonForm"/>
+	<acaction acaction_id="@m30UserRegistrationAddForm" action="m30UserRegistrationAddForm"/>
+	<acaction acaction_id="@m30UserRegistrationUpdate" action="m30UserRegistrationUpdate"/>
+	<acaction acaction_id="@m30ResetPassword" action="m30ResetPassword"/>
+	<acaction acaction_id="@m30ResetPasswordDisplay" action="m30ResetPasswordDisplay"/>
+	<acaction acaction_id="@m30OrderHistory" action="m30OrderHistory"/>
+	<acaction acaction_id="@m30OrderShippingOptions" action="m30OrderShippingOptions"/>	
+	<acaction acaction_id="@m30OrderShippingBillingSummaryView" action="m30OrderShippingBillingSummaryView"/>	
+	<acaction acaction_id="@m30OrderShippingBillingConfirmationView" action="m30OrderShippingBillingConfirmationView"/>	
+	<acaction acaction_id="@m30OrderShippingAddressSelection" action="m30OrderShippingAddressSelection"/>	
+	<acaction acaction_id="@m30OrderBillingAddressSelection" action="m30OrderBillingAddressSelection"/>
+	<acaction acaction_id="@m30OrderBillingDetails" action="m30OrderBillingDetails"/>
+	<acaction acaction_id="@m30OrderDetails" action="m30OrderDetails"/>
+	<acaction acaction_id="@m30CouponsDisplay" action="m30CouponsDisplay"/>
+	<acaction acaction_id="@m30DiscountDetailsDisplay" action="m30DiscountDetailsDisplay"/>
+	<acaction acaction_id="@m30StoreLocatorView" action="m30StoreLocatorView"/>
+	<acaction acaction_id="@m30StoreLocatorSearchView" action="m30StoreLocatorSearchView"/>
+	<acaction acaction_id="@m30StoreLocatorResultView" action="m30StoreLocatorResultView"/>
+	<acaction acaction_id="@m30StoreDetailView" action="m30StoreDetailView"/>
+	<acaction acaction_id="@m30StoreMapView" action="m30StoreMapView"/>
+	<acaction acaction_id="@m30SelectedStoreListView" action="m30SelectedStoreListView"/>
+	<acaction acaction_id="@m30AddToStoreList" action="m30AddToStoreList"/>
+	<acaction acaction_id="@m30RemoveFromStoreList" action="m30RemoveFromStoreList"/>
+	<acaction acaction_id="@m30SaveStoreSelection" action="m30SaveStoreSelection"/>
+	<acaction acaction_id="@m30InStoreAvailabilityDetailsView" action="m30InStoreAvailabilityDetailsView"/>
+	<acaction acaction_id="@m30OrderPaymentDetails" action="m30OrderPaymentDetails"/>
+	<acaction acaction_id="@m30CheckoutLogon" action="m30CheckoutLogon"/>
+	<!-- FEP7 Mobile30 END -->
+
+	<!-- CSR Views -->
+	<acaction acaction_id="@FindRegisteredCustomerView" action="FindRegisteredCustomerView"/>
+	<acaction acaction_id="@RegisteredCustomersListView" action="RegisteredCustomersListView"/>
+	<acaction acaction_id="@CustomerServiceLandingPageView" action="CustomerServiceLandingPageView"/>
+	<acaction acaction_id="@CSROrderSummaryView" action="CSROrderSummaryView"/>
+	<acaction acaction_id="@FindOrderView" action="FindOrderView"/>
+	<acaction acaction_id="@FindOrdersResultListView" action="FindOrdersResultListView"/>
+	
+	<!-- JQuery Aurora -->
+	<acaction acaction_id="@GetOnlineInventoryStatusByIDViewV2" action="GetOnlineInventoryStatusByIDViewV2"/>
+	<acaction acaction_id="@RequisitionListsViewV2" action="RequisitionListsViewV2"/>
+	<acaction acaction_id="@AjaxSavedOrderListViewV2" action="AjaxSavedOrderListViewV2"/>
+	<acaction acaction_id="@RequisitionListItemTableViewV2" action="RequisitionListItemTableViewV2"/>
+	<acaction acaction_id="@SavedOrderItemTableViewV2" action="SavedOrderItemTableViewV2"/>
+	<acaction acaction_id="@SavedOrderInfoViewV2" action="SavedOrderInfoViewV2"/>
+	<acaction acaction_id="@OrganizationUsersListViewV2" action="OrganizationUsersListViewV2"/>
+	<acaction acaction_id="@GlobalLoginViewV2" action="GlobalLoginViewV2"/>
+	<acaction acaction_id="@GlobalLoginSignInViewV2" action="GlobalLoginSignInViewV2"/>
+	<acaction acaction_id="@GlobalLoginShopOnBehalfDisplayViewV2" action="GlobalLoginShopOnBehalfDisplayViewV2"/>
+	<acaction acaction_id="@AddToRequisitionListsViewV2" action="AddToRequisitionListsViewV2"/>
+	<acaction acaction_id="@SKUListViewV2" action="SKUListViewV2"/>
+	<acaction acaction_id="@OrderApprovalTableViewV2" action="OrderApprovalTableViewV2"/>
+	<acaction acaction_id="@BuyerApprovalTableViewV2" action="BuyerApprovalTableViewV2"/>
+	<acaction acaction_id="@ApprovalCommentViewV2" action="ApprovalCommentViewV2"/>
+	<acaction acaction_id="@SSOrderDetailItemTableViewV2" action="SSOrderDetailItemTableViewV2"/>
+	<acaction acaction_id="@MSOrderDetailItemTableViewV2" action="MSOrderDetailItemTableViewV2"/>
+	<acaction acaction_id="@NumberOfOrderApprovalsViewV2" action="NumberOfOrderApprovalsViewV2"/>
+	<acaction acaction_id="@NumberOfBuyerApprovalsViewV2" action="NumberOfBuyerApprovalsViewV2"/>
+	<acaction acaction_id="@OrganizationUserInfoDetailsViewV2" action="OrganizationUserInfoDetailsViewV2"/>
+	<acaction acaction_id="@OrganizationUserInfoAddressViewV2" action="OrganizationUserInfoAddressViewV2"/>
+	<acaction acaction_id="@OrgSummaryDisplayViewV2" action="OrgSummaryDisplayViewV2"/>
+	<acaction acaction_id="@OrgListDisplayViewV2" action="OrgListDisplayViewV2"/>
+	<acaction acaction_id="@OrgSearchListDisplayViewV2" action="OrgSearchListDisplayViewV2"/>
+	<acaction acaction_id="@OrgMemberGroupDisplayViewV2" action="OrgMemberGroupDisplayViewV2"/>
+	<acaction acaction_id="@OrgRolesDisplayViewV2" action="OrgRolesDisplayViewV2"/>
+	<acaction acaction_id="@SearchComponentSKUAutoSuggestViewV2" action="SearchComponentSKUAutoSuggestViewV2"/>
+	<acaction acaction_id="@UserRoleManagementRoleSelectorViewV2" action="UserRoleManagementRoleSelectorViewV2"/>
+	<acaction acaction_id="@UserRoleManagementOrgListViewV2" action="UserRoleManagementOrgListViewV2"/>
+	<acaction acaction_id="@UserMemberGroupManagementViewV2" action="UserMemberGroupManagementViewV2"/>
+	<acaction acaction_id="@RegisteredCustomersListViewV2" action="RegisteredCustomersListViewV2"/>
+	<acaction acaction_id="@FindOrdersResultListViewV2" action="FindOrdersResultListViewV2"/>
+	<acaction acaction_id="@OrderCommentsListViewV2" action="OrderCommentsListViewV2"/>
+	<acaction acaction_id="@AjaxOrderListViewV2" action="AjaxOrderListViewV2"/>
+	<acaction acaction_id="@AjaxAddressBookListViewV2" action="AjaxAddressBookListViewV2"/>
+	<acaction acaction_id="@AjaxAddressBookDetailViewV2" action="AjaxAddressBookDetailViewV2"/>
+	<acaction acaction_id="@MultipleWishListSelectionViewV2" action="MultipleWishListSelectionViewV2"/>
+	<acaction acaction_id="@WishListResultDisplayViewV2" action="WishListResultDisplayViewV2"/>
+	<acaction acaction_id="@SearchRuleInfoViewV2" action="SearchRuleInfoViewV2"/>
+	<acaction acaction_id="@ProductListingViewV2" action="ProductListingViewV2"/>
+	<acaction acaction_id="@QuickInfoDetailsViewV2" action="QuickInfoDetailsViewV2"/>
+	<acaction acaction_id="@IntelligentOfferResultsViewV2" action="IntelligentOfferResultsViewV2"/>
+	<acaction acaction_id="@IntelligentOfferViewV2" action="IntelligentOfferViewV2"/>
+	<acaction acaction_id="@SiteContentListViewV2" action="SiteContentListViewV2"/>	
+	<acaction acaction_id="@CatalogEntryRecommendationViewV2" action="CatalogEntryRecommendationViewV2"/>
+	<acaction acaction_id="@AttachmentPaginationListViewV2" action="AttachmentPaginationListViewV2"/>
+	<acaction acaction_id="@GetInventoryStatusByIDViewV2" action="GetInventoryStatusByIDViewV2"/>
+	<acaction acaction_id="@GetStoreDetailsByIDViewV2" action="GetStoreDetailsByIDViewV2"/>
+	
+	<!-- All user views: registration, error views, password expiry -->
+	<acactgrp acactgrp_id="@StorefrontAllUsersViews" groupname="&STORE_IDENTIFIER;AllUsersViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AllUserView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@UnsupportedBrowserErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GenericApplicationError"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GenericSystemError"/>	
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@UserRegistrationAddFormView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@UserRegistrationErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AuthenticationPolicyErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AjaxLogonForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@LogonForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@LogoffView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@LogonErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@UserPasswordUpdate"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResetPasswordForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResetPasswordErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResetPasswordGuestErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResetPasswordRegisterErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@PasswordNotifyView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SendPasswordNotificationErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@OrderReceivedView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@OrderCancelView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ReleaseShipNotifyView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ChangePassword"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SubscriptionMerchantNotifyView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SubscriptionUserNotifyView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResendActivationForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ResendActivationGuestView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@StaticContentSitemap"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@StaticContent"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SharedWishListView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@WishListResultDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@ApproversNotifyView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginSignInView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginShopOnBehalfDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AddToRequisitionListsView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SKUListView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GuestOrderDetail"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@OrderCommentsListView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@WishListResultDisplayViewV2"/>
+		
+	<!-- Coremetrics views BEGIN-->
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsShopcartView"/>        
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsProductView"/>        
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsPageView"/>        
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsElementView"/>        
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsRegistrationView"/>        
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AnalyticsConversionEventView"/>
+	<!-- Coremetrics views END-->
+
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AutoSuggestView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@CachedSuggestionsView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@InvalidateCache"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SearchAutoSuggestJsonView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SearchComponentAutoSuggestView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SearchComponentCachedSuggestionsView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AjaxQuickCartDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@MiniShopCartDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@DepartmentDropdownView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@DepartmentDropdownViewRWD"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SearchComponentSKUAutoSuggestView"/>		
+	
+	<!-- FEP7 Mobile30 START -->
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30FeatureProductsDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30CatalogSearchResultView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30AdvancedSearchDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30InterestListsView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30InterestListForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30InterestListDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30EmailWishlistDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30SendWishListMessage"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderItemDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30MyAccountDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30AddToProdCompare"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30ProductCompareResultView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30RemoveFromProdCompare"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30LanguageCurrencyDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30MySubscriptionDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30LogonForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30UserRegistrationAddForm"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30UserRegistrationUpdate"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30ResetPassword"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30ResetPasswordDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderHistory"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderShippingOptions"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderShippingBillingSummaryView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderShippingBillingConfirmationView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderShippingAddressSelection"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderBillingAddressSelection"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderBillingDetails"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderDetails"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30CouponsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30DiscountDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30StoreLocatorView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30StoreLocatorSearchView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30StoreLocatorResultView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30StoreDetailView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30StoreMapView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30SelectedStoreListView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30AddToStoreList"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30RemoveFromStoreList"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30SaveStoreSelection"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30InStoreAvailabilityDetailsView"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30OrderPaymentDetails"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@m30CheckoutLogon"/>
+	<!-- FEP7 Mobile30 END -->
+	
+	<!-- JQuery Aurora --> 
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginSignInViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@GlobalLoginShopOnBehalfDisplayViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@AddToRequisitionListsViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SKUListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@SearchComponentSKUAutoSuggestViewV2"/>		
+	<acactactgp acactgrp_id="@StorefrontAllUsersViews" acaction_id="@OrderCommentsListViewV2"/>
+	
+	<!-- Registered customer views: all of my account -->
+	<acactgrp acactgrp_id="@StorefrontRegisteredCustomerViews" groupname="&STORE_IDENTIFIER;RegisteredCustomerViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RegisteredCustomerView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@UserRegistrationForm"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AddressBookForm"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxAddressBookForm"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxAccountAddressForm"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AddressDeleteErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@ProfileFormView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AddressErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@WishListDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxAccountWishListDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@MultipleWishListSelectionView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@TrackOrderStatus"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@OrderDetail"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@OrderStatusTableDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RecurringOrderTableDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SubscriptionTableDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RecurringOrderChildOrdersTableDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SubscriptionChildOrdersTableDetailsDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@CouponWallet"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@Ping"/>
+	
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxQuickCheckoutAddressForm"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutEmptySnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutOfflineSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutAmexSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutMastercardSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutVisaSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutBankServACHSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutCheckSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@QuickCheckoutLOCSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxBrowsingHistoryEspotDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxBrowsingHistoryView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@NonAjaxBrowsingHistoryView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxBrowsingHistoryDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxCategorySubscriptionDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@InterestItemDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@CouponWalletTableView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListDetailView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListUploadDetailView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@ListOrdersDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListsView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListItemTableView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SavedOrderDetailView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxSavedOrderListView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SavedOrderItemTableView"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SavedOrderInfoView"/>	
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListsViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxSavedOrderListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@RequisitionListItemTableViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SavedOrderItemTableViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SavedOrderInfoViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@SSOrderDetailItemTableViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@MSOrderDetailItemTableViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxOrderListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxAddressBookListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@AjaxAddressBookDetailViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@MultipleWishListSelectionViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontRegisteredCustomerViews" acaction_id="@WishListResultDisplayViewV2"/>
+	
+	<!-- Catalog browsing views: home, department, category, product, search, landing, and content pages -->
+	<acactgrp acactgrp_id="@StorefrontCatalogBrowsingViews" groupname="&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CategoryDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ProductDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GenericStaticContentPageLayoutView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CompareProductsDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@DiscountDetailsView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ContentAreaESpotView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CategoriesESpotView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AdvancedSearchDisplay"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetCatalogEntryDetailsByID"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SubCatListDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CategoryOnlyResultsDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CategoryDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CatalogAttachmentView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@StoreCatalogDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@InvalidInputErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ProductDisplayErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@DiscountDetailsDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@StoreView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetCatalogEntryInventoryData"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@QuickOrderView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ConfigureView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@LaunchConfiguratorView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@LaunchConfiguratorRedirectView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AllWishListsInProductDetailView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@RemoteWidgetToolView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetCatalogEntryDetailsByIDView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@TopCategoriesDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SearchDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@TechnicalSpecificationView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AttachmentPaginationView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxIntelligentOfferDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxStoreLocatorDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxProvinceSelectionDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxCitySelectionDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxStoreLocatorResultsView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AjaxSelectedStoreListView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ProductListingView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@QuickInfoDetailsView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@IntelligentOfferResultsView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@IntelligentOfferView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SiteContentListView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CatalogEntryRecommendationView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AttachmentPaginationListView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetInventoryStatusByIDView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetOnlineInventoryStatusByIDView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetStoreDetailsByIDView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SearchRuleInfoView"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetOnlineInventoryStatusByIDViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SearchRuleInfoViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@ProductListingViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@QuickInfoDetailsViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@IntelligentOfferResultsViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@IntelligentOfferViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@SiteContentListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@CatalogEntryRecommendationViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@AttachmentPaginationListViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetInventoryStatusByIDViewV2"/>
+	<acactactgp acactgrp_id="@StorefrontCatalogBrowsingViews" acaction_id="@GetStoreDetailsByIDViewV2"/>
+	
+	<!-- Checkout flow views: shopping cart, checkout flow -->
+	<acactgrp acactgrp_id="@StorefrontCheckoutFlowViews" groupname="&STORE_IDENTIFIER;CheckoutFlowViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@CurrentOrderInformationView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@SingleShipmentOrderSummaryView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@TraditionalAjaxShippingDetailsURL"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxUnregisteredCheckoutAddressForm"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderShippingBillingView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@UnregisteredCheckoutView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderBillingView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxMultipleShipmentOrderItemDetailsView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingAddressDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@ShippingAddressDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@MultipleShipmentOrderSummaryView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderShippingBillingConfirmationView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxSingleShipmentShipChargeView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxMultipleShipmentShipChargeView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingAddressDisplayView_1"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingAddressDisplayView_2"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingAddressDisplayView_3"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@orderTotalAsJSON"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderSummaryView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxCheckoutAddressDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxCheckoutDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@EmptySnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardCOD"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardBillMeLater"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardPayLater"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardAmex"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardMasterCard"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardVisa"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardDiscover"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardLOC"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardCheck"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@StandardBankServACH"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxAddressDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxShopcartAddressFormView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxAddressSelectView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxOrderItemDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderItemDisplayViewShiptoAssoc"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderItemDisplayViewShiptoDsp"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@ShopCartDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@ShopCartPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderItemPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderDetailPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@MSOrderItemPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxPromotionCodeDisplayView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@PromotionFreeGiftChoicesView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@CheckoutPayInStoreView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@DOMOrderShippingBillingView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@DOMInventoryStatusView"/>        
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@DoPaymentErrorView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingAddressView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@BillingDetailsView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AjaxSubmitQuote"/>	
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@SBSOrderItemPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@SBSMSOrderItemPageView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@AddressEditView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@CheckoutStoreSelectionView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@PayInStoreSnippetView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@SimplePunchout"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@PunchoutPaymentRedirectView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@PunchoutPaymentCallBackView"/>
+	<acactactgp acactgrp_id="@StorefrontCheckoutFlowViews" acaction_id="@OrderLockStatusView"/>
+	
+	
+	<!-- Buyer Administrators views -->
+	<acactgrp acactgrp_id="@BuyerAdministratorsViews" groupname="&STORE_IDENTIFIER;BuyerAdministratorsViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUsersListView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationAdminCreateUserView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationsAndUsersView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationCreateEditView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrderApprovalView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@BuyerApprovalView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrderApprovalDetailView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@BuyerApprovalDetailView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrderApprovalTableView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@BuyerApprovalTableView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@ApprovalCommentView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@SSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@MSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationAdminEditUserView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUserInfoDetailsView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUserInfoAddressView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgSummaryDisplayView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgListDisplayView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgSearchListDisplayView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgRolesDisplayView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgMemberGroupDisplayView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserRoleManagementRoleSelectorView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserRoleManagementOrgListView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserMemberGroupManagementView"/>
+    <acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@GlobalLoginShopOnBehalfDisplayView"/>
+    <acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@NumberOfOrderApprovalsView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@NumberOfBuyerApprovalsView"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUsersListViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrderApprovalTableViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@BuyerApprovalTableViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@ApprovalCommentViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@NumberOfOrderApprovalsViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@NumberOfBuyerApprovalsViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUserInfoDetailsViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrganizationUserInfoAddressViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgSummaryDisplayViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgListDisplayViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgSearchListDisplayViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgMemberGroupDisplayViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@OrgRolesDisplayViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserRoleManagementRoleSelectorViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserRoleManagementOrgListViewV2"/>
+	<acactactgp acactgrp_id="@BuyerAdministratorsViews" acaction_id="@UserMemberGroupManagementViewV2"/>
+	
+	<!-- Buyer Approver views -->
+	<acactgrp acactgrp_id="@BuyerApproversViews" groupname="&STORE_IDENTIFIER;BuyerApproversViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@OrderApprovalView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@BuyerApprovalView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@OrderApprovalDetailView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@BuyerApprovalDetailView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@OrderApprovalTableView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@BuyerApprovalTableView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@ApprovalCommentView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@SSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@MSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@NumberOfOrderApprovalsView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@NumberOfBuyerApprovalsView"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@OrderApprovalTableViewV2"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@BuyerApprovalTableViewV2"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@ApprovalCommentViewV2"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@NumberOfOrderApprovalsViewV2"/>
+	<acactactgp acactgrp_id="@BuyerApproversViews" acaction_id="@NumberOfBuyerApprovalsViewV2"/>
+	
+	<!-- CSR Views -->
+	<acactgrp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" groupname="&STORE_IDENTIFIER;CSSRViews" member_id="-2001"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@CSRView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@FindRegisteredCustomerView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@RegisteredCustomersListView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@CustomerServiceLandingPageView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@FindOrderView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@FindOrdersResultListView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@CSROrderSummaryView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@SSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@MSOrderDetailItemTableView"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@SSOrderDetailItemTableViewV2"/>	
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@MSOrderDetailItemTableViewV2"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@RegisteredCustomersListViewV2"/>
+	<acactactgp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acaction_id="@FindOrdersResultListViewV2"/>
+	
+	<!-- Policy creation -->
+	<acpolicy acpolicy_id="@acpolicy_id_1" policyname="AllUsersExecute&STORE_IDENTIFIER;AllUsersViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontAllUsersViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_2" policyname="AllUsersExecute&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontCatalogBrowsingViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_3" policyname="AllUsersExecute&STORE_IDENTIFIER;CheckoutFlowViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontCheckoutFlowViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_4" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;RegisteredCustomerViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontRegisteredCustomerViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_5" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontCatalogBrowsingViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_6" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CheckoutFlowViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontCheckoutFlowViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_10" policyname="BuyerAdministratorsFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;BuyerAdministratorsViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@BuyerAdministrators" acactgrp_id="@BuyerAdministratorsViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_11" policyname="BuyerApproversFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;BuyerApproverViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@BuyerApprovers" acactgrp_id="@BuyerApproversViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_20" policyname="CSSRFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CSSRViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@CustomerServiceRepresentativesAndSupervisorsForOrg" acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>

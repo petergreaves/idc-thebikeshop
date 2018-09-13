@@ -1,0 +1,5 @@
+CatalogFilterCondition,,,,,,,,,,,,,,,,,,,,,,,,
+CatalogFilterName,StoreIdentifier,CatalogIdentifier,CatalogGroupIdentifier,ConditionGroupIdentifier,ConditionType,AttributeName,Operator,AttributeValueIdentifier,AttributeValue,LanguageId,ValueType,Delete,CondField1,CondField2,CondField3,CondField4,CondField5,CondValField1,CondValField2,CondValField3,CondValField4,CondValField5
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Dresses,conditionDressesAnd,0,Color,not equals,"HKT030_3013,HBA031_3111,HKT030_3002","Red,Green,Black",-1,String,0,111,222,333,4444,555,"1,2,2","2,2,2","3,3,3","41,42,43","5,5,5"
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Dresses,conditionDressesAnd,1,Size,equals,WBG006_0601,L,-7,String,0,,,,,,,,,,
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Dresses,conditionDressesAnd,1,material,equals,100% cotton,100% cotton,-1,String,0,,,,,,,,,,

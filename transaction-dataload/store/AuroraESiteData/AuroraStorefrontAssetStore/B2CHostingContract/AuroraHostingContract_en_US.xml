@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trading SYSTEM "ForeignKeys.dtd">
+<Package loadItemName="" xmlns="http://www.ibm.com/WebSphereCommerce"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.ibm.com/WebSphereCommerce Package.xsd" >
+<HostingContract     state = "Active" contractUsage = "Reseller"
+
+                creditAllowed = "false" >
+    <Participant role = "Creator"  >
+        <ParticipantMember>
+            <OrganizationRef distinguishName = "o=root organization"/>
+        </ParticipantMember>
+    </Participant>
+    <Participant role = "Host"  >
+        <ParticipantMember>
+            <OrganizationRef distinguishName = "ou=extended sites hub organization,o=extended sites organization,o=root organization"/>
+        </ParticipantMember>
+    </Participant>
+    <Participant role = "Recipient"  >
+        <ParticipantMember>
+            <OrganizationRef distinguishName = "o=extended sites seller organization,o=root organization"/>
+        </ParticipantMember>
+    </Participant>
+    <ContractUniqueKey name = "&STORE_IDENTIFIER_HOS;" majorVersionNumber = "1"  minorVersionNumber = "0"  origin = "Imported">
+        <ContractOwner>
+            <OrganizationRef distinguishName = "ou=extended sites hub organization,o=extended sites organization,o=root organization"/>
+        </ContractOwner>
+    </ContractUniqueKey>
+    <ContractDescription locale = "en_US"
+            shortDescription = "&STORE_IDENTIFIER_HOS;"/>
+</HostingContract>
+
+<Organization name="Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;" type="OU" createRegisteredCustomersMemberGroup="true" >
+	<OrganizationUniqueKey distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization" />
+	<ParentOrganizationRef>
+		<OrganizationRef distinguishName="o=extended sites seller organization,o=root organization" />
+	</ParentOrganizationRef>
+	<PolicyGroupRef name="ManagementAndAdministrationPolicyGroup">
+		<Owner>
+			<OrganizationRef distinguishName="o=root organization" />
+		</Owner>
+	</PolicyGroupRef>
+	<PolicyGroupRef name="CommonShoppingPolicyGroup">
+		<Owner>
+			<OrganizationRef distinguishName="o=root organization" />
+		</Owner>
+	</PolicyGroupRef>
+	<PolicyGroupRef name="B2CPolicyGroup">
+		<Owner>
+			<OrganizationRef distinguishName="o=root organization" />
+		</Owner>
+	</PolicyGroupRef>
+	<PolicyGroupRef name="&STORE_IDENTIFIER_RPS2; PolicyGroup">
+		<Owner>
+			<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization" />
+		</Owner>
+	</PolicyGroupRef>
+</Organization>
+
+<Store defaultCurrency="USD" defaultLocale="en_US" directory="&STORE_IDENTIFIER_HOS;" initialState="open" remoteURL="/webapp/wcs/stores/servlet/StoreView?storeId=%STORE_ID%" sequence="0" type="MHS">		
+<StoreUniqueKey storeIdentity="&STORE_IDENTIFIER_HOS;">			
+<StoreOwner>				
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>				</StoreOwner>		</StoreUniqueKey>		
+<Description description="&STORE_IDENTIFIER_HOS;" displayName="&STORE_IDENTIFIER_HOS;" locale="en_US"></Description>		
+<StoreRelationship resourceType="com.ibm.commerce.catalog" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.catalog" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.price" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.price" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.URL" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.URL" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.command" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.command" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.view" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.view" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.tax" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.tax" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.businessPolicy" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.businessPolicy" sequence="2">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.businessPolicy" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.campaigns" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.campaigns" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.promotions" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.promotions" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.segmentation" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.segmentation" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.storeitem" sequence="2">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.storeitem" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.storeitem" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.conversion" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.conversion" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.format" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.format" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.supported" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.supported" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.countervalue" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.currency.countervalue" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.measurement.format" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.measurement.format" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.propertyFiles" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.propertyFiles" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.contract" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.contract" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>				
+<StoreRelationship resourceType="com.ibm.commerce.shipping.shipmode" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.shipping.shipmode" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>				
+<StoreRelationship resourceType="com.ibm.commerce.shipping.shipjurisdiction" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.shipping.shipjurisdiction" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>				
+<StoreRelationship resourceType="com.ibm.commerce.shipping.calculation" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.shipping.calculation" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>				
+<StoreRelationship resourceType="com.ibm.commerce.content" sequence="2">			
+<StoreRef name="&STORE_IDENTIFIER_CPS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_DIR_CPS_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.content" sequence="1">			
+<StoreRef name="&STORE_IDENTIFIER_RPS2;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>		
+<StoreRelationship resourceType="com.ibm.commerce.content" sequence="0">			
+<StoreRef name="&STORE_IDENTIFIER_HOS;">				
+<Owner>					
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>					</Owner>			</StoreRef>		</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.pricerule" sequence="1">
+			<StoreRef name="&STORE_IDENTIFIER_RPS2;">
+				<Owner>
+					<OrganizationRef distinguishName = "ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization" />	
+				</Owner>
+			</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.pricerule" sequence="0">
+			<StoreRef name="&STORE_IDENTIFIER_HOS;">
+				<Owner>
+					<OrganizationRef distinguishName = "ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization" />	
+				</Owner>
+			</StoreRef>
+</StoreRelationship>				
+<StoreRelationship  resourceType="com.ibm.commerce.catalogfilter" sequence="1">
+	<StoreRef name="&STORE_IDENTIFIER_RPS2;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.catalogfilter" sequence="0">
+	<StoreRef name="&STORE_IDENTIFIER_HOS;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.search.entitlement" sequence="1">
+	<StoreRef name="&STORE_IDENTIFIER_RPS2;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.search.entitlement" sequence="0">
+	<StoreRef name="&STORE_IDENTIFIER_HOS;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.search.price" sequence="1">
+	<StoreRef name="&STORE_IDENTIFIER_RPS2;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=&STORE_IDENTIFIER_RPS2_LOWERCASE;,o=extended sites organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<StoreRelationship  resourceType="com.ibm.commerce.search.price" sequence="0">
+	<StoreRef name="&STORE_IDENTIFIER_HOS;">
+		<Owner>
+			<OrganizationRef distinguishName = "ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization" />	
+		</Owner>
+	</StoreRef>
+</StoreRelationship>
+<SupportedLanguage locale="en_US"></SupportedLanguage>		
+<SupportedCurrency currency="USD"></SupportedCurrency>		
+<BusinessPolicy name="Master &STORE_IDENTIFIER_HOS; Products" properties="name=&STORE_IDENTIFIER_HOS; ProductsPriceList&amp;member_id=%MEMBER_ID%" type="Price">
+<Command class="com.ibm.commerce.price.commands.RetrievePricesCmdImpl" properties=""></Command>		</BusinessPolicy>
+<BusinessPolicy name="MailShipping" type="ShippingMode" properties="shippingMode=Mail&amp;carrier=Mail" />
+<BusinessPolicy name="COD" properties="attrPageName=StandardCOD&amp;paymentConfigurationId=default&amp;display=true&amp;compatibleMode=false" type="Payment">
+<Command class="com.ibm.commerce.payment.actions.commands.DoPaymentActionsPolicyCmdImpl" properties=""></Command>
+<Command class="com.ibm.commerce.payment.actions.commands.EditPaymentInstructionPolicyCmdImpl" properties=""></Command>
+<Command class="com.ibm.commerce.payment.actions.commands.QueryPaymentsInfoPolicyCmdImpl" properties=""></Command></BusinessPolicy>
+<ShippingMode carrier="Mail" code="Mail" default="true"></ShippingMode>
+</Store>
+<PriceList name="&STORE_IDENTIFIER_HOS; ProductsPriceList" precedence="1000" type="S">		
+<Owner>			
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef>		</Owner>	</PriceList>
+<FulfillmentCenter default="true" inventoryopflags="14" name="&STORE_IDENTIFIER_HOS;">
+<Owner>
+<OrganizationRef distinguishName="ou=Extended Sites Seller Organization&STORE_IDENTIFIER_HOS;,o=extended sites seller organization,o=root organization"></OrganizationRef></Owner></FulfillmentCenter>
+</Package>

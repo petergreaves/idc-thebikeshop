@@ -1,0 +1,5 @@
+LayoutAssignment
+LayoutName,PageGroup,PageAdminName,Identifier
+HomePageLayout,Content,HomePage,
+HomePageHardwareLayout,Content,HomePage,
+SiteMapPageLayout,Content,SiteMapPage,

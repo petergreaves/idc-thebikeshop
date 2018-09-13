@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nlet10001_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Newsletters1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/086B_ENS_SubscribeNews_001.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nlet10001_it_IT"
+  atchtgt_id="@atchtgt_id_Newsletters1001"
+  language_id="&it_IT;"
+  name="Abbonati alle newsletter"
+  shortdescription="Abbonati e risparmia. Ricevi il 25% di sconto abbonandoti a 2 o più riviste"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nlet10001_it_IT"
+  atchast_id="@atchast_id_nlet10001_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nlet10001_it_IT"
+  atchrel_id="@atchrel_id_Newsletters1001"
+  language_id="&it_IT;"
+  name="Abbonati alle newsletter"
+  shortdescription="Abbonati alle newsletter"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Newsletters1001"
+	language_id="&it_IT;"
+	marketingtext="Abbonati alle newsletter" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nlet10002_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Newsletters1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/082B_ENS_DelishMag_001.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nlet10002_it_IT"
+  atchtgt_id="@atchtgt_id_Newsletters1002"
+  language_id="&it_IT;"
+  name="Delish Magazine"
+  shortdescription="Delish Magazine. 25% di sconto sul primo anno di abbonamento"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nlet10002_it_IT"
+  atchast_id="@atchast_id_nlet10002_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nlet10002_it_IT"
+  atchrel_id="@atchrel_id_Newsletters1002"
+  language_id="&it_IT;"
+  name="Delish Magazine"
+  shortdescription="Delish Magazine"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Newsletters1002"
+	language_id="&it_IT;"
+	marketingtext="Delish Magazine" 
+/>
+

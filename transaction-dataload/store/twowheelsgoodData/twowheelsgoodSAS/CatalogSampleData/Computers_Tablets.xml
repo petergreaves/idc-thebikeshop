@@ -1,0 +1,662 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : ComputersTabletsSize -->
+<attr attr_id="@attribute_id_ComputersTablets_5" identifier="ComputersTabletsSize" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_5" attr_id="@attribute_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" identifier="7&quot;"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_17" attr_id="@attribute_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" identifier="4&quot;"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_23" attr_id="@attribute_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" identifier="5&quot;"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_28" attr_id="@attribute_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" identifier="10&quot;"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_32" attr_id="@attribute_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" identifier="8&quot;"	valusage="1" />
+<!--END Defining attribute : ComputersTabletsSize -->
+<!--BEGIN Defining attribute : ComputersTabletsBattery Life -->
+<attr attr_id="@attribute_id_ComputersTablets_8" identifier="ComputersTabletsBattery Life" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_8" attr_id="@attribute_id_ComputersTablets_8" storeent_id="&CAT_STOREENT_ID;" identifier="12 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_12" attr_id="@attribute_id_ComputersTablets_8" storeent_id="&CAT_STOREENT_ID;" identifier="8 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_20" attr_id="@attribute_id_ComputersTablets_8" storeent_id="&CAT_STOREENT_ID;" identifier="24 hours"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_24" attr_id="@attribute_id_ComputersTablets_8" storeent_id="&CAT_STOREENT_ID;" identifier="4 hours"	valusage="1" />
+<!--END Defining attribute : ComputersTabletsBattery Life -->
+<!--BEGIN Defining attribute : ComputersTabletsBrand -->
+<attr attr_id="@attribute_id_ComputersTablets_6" identifier="ComputersTabletsBrand" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="0" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_6" attr_id="@attribute_id_ComputersTablets_6" storeent_id="&CAT_STOREENT_ID;" identifier="DVR Technics"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_18" attr_id="@attribute_id_ComputersTablets_6" storeent_id="&CAT_STOREENT_ID;" identifier="Adelee Plus"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_29" attr_id="@attribute_id_ComputersTablets_6" storeent_id="&CAT_STOREENT_ID;" identifier="Eye Dee Team"	valusage="1" />
+<!--END Defining attribute : ComputersTabletsBrand -->
+<!--BEGIN Defining attribute : ComputersTabletsStorage -->
+<attr attr_id="@attribute_id_ComputersTablets_7" identifier="ComputersTabletsStorage" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_7" attr_id="@attribute_id_ComputersTablets_7" storeent_id="&CAT_STOREENT_ID;" identifier="16 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_11" attr_id="@attribute_id_ComputersTablets_7" storeent_id="&CAT_STOREENT_ID;" identifier="8 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_19" attr_id="@attribute_id_ComputersTablets_7" storeent_id="&CAT_STOREENT_ID;" identifier="32 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_30" attr_id="@attribute_id_ComputersTablets_7" storeent_id="&CAT_STOREENT_ID;" identifier="64 GB"	valusage="1" />
+<!--END Defining attribute : ComputersTabletsStorage -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Size -->
+<attr attr_id="@attribute_id_ComputersTablets_1" identifier="Size" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_1_CTA023_2301" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2301" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_1_CTA023_2302" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2302" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_13_CTA023_2303" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2303" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_21_CTA023_2304" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2304" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_25_CTA023_2305" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2305" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_31_CTA023_2306" attr_id="@attribute_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2306" />
+<!--END Descriptive attribute : Size -->
+<!--BEGIN Descriptive attribute : Battery Life -->
+<attr attr_id="@attribute_id_ComputersTablets_4" identifier="Battery Life" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_4_CTA023_2301" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2301" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_4_CTA023_2306" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2306" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_10_CTA023_2302" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2302" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_10_CTA023_2305" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2305" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_16_CTA023_2303" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2303" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_22_CTA023_2304" attr_id="@attribute_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2304" />
+<!--END Descriptive attribute : Battery Life -->
+<!--BEGIN Descriptive attribute : Storage -->
+<attr attr_id="@attribute_id_ComputersTablets_3" identifier="Storage" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_3_CTA023_2301" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2301" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_9_CTA023_2302" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2302" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_9_CTA023_2304" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2304" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_15_CTA023_2303" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2303" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_15_CTA023_2306" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2306" />
+<attrval attrval_id="@attribute_value_id_ComputersTablets_27_CTA023_2305" attr_id="@attribute_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" identifier="CTA023_2305" />
+<!--END Descriptive attribute : Storage -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : CTA023_2301 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2301" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CTA023_2301" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_1" baseitem_id="@baseproduct_id_ComputersTablets_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="USD" price="375" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="AUD" price="483.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="NZD" price="517.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="BRL" price="1192.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="CAD" price="476.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="CNY" price="2505.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="EUR" price="318.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="GBP" price="292.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="JPY" price="41134" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="KRW" price="427628" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="PLN" price="1365.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="RON" price="1466.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="RUB" price="22155.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_2" currency="TWD" price="11362.5" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_1" currency="TWD" listprice="12120.0" />
+<!-- Begin attribute mapping for CTA023_2301-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_1_CTA023_2301" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_3_CTA023_2301" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_4_CTA023_2301" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_1" />
+<!-- End attribute mapping for CTA023_2301-->
+
+<!-- BEGIN items of CTA023_2301 -->
+<!-- BEGIN item bean CTA023_230101 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_1" partnumber="CTA023_230101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_1" itemspc_id="@itemspc_id_ComputersTablets_1" itemversn_id="@itemversn_id_ComputersTablets_1" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_1"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CTA023_230101" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_2" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="USD" price="375" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="AUD" price="483.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="NZD" price="517.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="BRL" price="1192.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="CAD" price="476.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="CNY" price="2505.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="EUR" price="318.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="GBP" price="292.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="JPY" price="41134" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="KRW" price="427628" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="PLN" price="1365.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="RON" price="1466.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="RUB" price="22155.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_1" currency="TWD" price="11362.5" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_2" currency="TWD" listprice="12120.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_2" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_2" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_7"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_2" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_8"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230101 -->
+<!-- END items of CTA023_2301 -->
+<!-- END catalog entry : CTA023_2301 -->
+<!-- BEGIN catalog entry : CTA023_2302 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2302" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CTA023_2302" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_2" baseitem_id="@baseproduct_id_ComputersTablets_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="USD" price="390" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="AUD" price="503.1" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="NZD" price="538.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="BRL" price="1240.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="CAD" price="495.3" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="CNY" price="2605.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="EUR" price="331.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="GBP" price="304.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="JPY" price="42779" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="KRW" price="444733" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="PLN" price="1419.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="RON" price="1524.9" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="RUB" price="23041.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_4" currency="TWD" price="11817.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_3" currency="TWD" listprice="12120.0" />
+<!-- Begin attribute mapping for CTA023_2302-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_1_CTA023_2302" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_9_CTA023_2302" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_10_CTA023_2302" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_3" />
+<!-- End attribute mapping for CTA023_2302-->
+
+<!-- BEGIN items of CTA023_2302 -->
+<!-- BEGIN item bean CTA023_230201 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_2" partnumber="CTA023_230201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_2" itemspc_id="@itemspc_id_ComputersTablets_2" itemversn_id="@itemversn_id_ComputersTablets_2" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_2"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CTA023_230201" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_4" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="USD" price="390" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="AUD" price="503.1" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="NZD" price="538.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="BRL" price="1240.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="CAD" price="495.3" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="CNY" price="2605.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="EUR" price="331.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="GBP" price="304.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="JPY" price="42779" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="KRW" price="444733" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="PLN" price="1419.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="RON" price="1524.9" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="RUB" price="23041.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_3" currency="TWD" price="11817.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="USD" listprice="400" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="AUD" listprice="516.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="NZD" listprice="552.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="BRL" listprice="1272.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="CAD" listprice="508.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="CNY" listprice="2672.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="EUR" listprice="340.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="GBP" listprice="312.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="JPY" listprice="43876" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="KRW" listprice="456136" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="PLN" listprice="1456.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="RON" listprice="1564.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="RUB" listprice="23632.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_4" currency="TWD" listprice="12120.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_4" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_4" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_11"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_4" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_12"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230201 -->
+<!-- END items of CTA023_2302 -->
+<!-- END catalog entry : CTA023_2302 -->
+<!-- BEGIN catalog entry : CTA023_2303 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2303" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CTA023_2303" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_3" baseitem_id="@baseproduct_id_ComputersTablets_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="USD" price="475" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="AUD" price="612.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="NZD" price="655.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="BRL" price="1510.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="CAD" price="603.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="CNY" price="3173.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="EUR" price="403.75" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="GBP" price="370.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="JPY" price="52103" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="KRW" price="541662" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="PLN" price="1729.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="RON" price="1857.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="RUB" price="28063.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_6" currency="TWD" price="14392.5" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="USD" listprice="500" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="AUD" listprice="645.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="NZD" listprice="690.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="BRL" listprice="1590.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="CAD" listprice="635.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="CNY" listprice="3340.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="EUR" listprice="425.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="GBP" listprice="390.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="JPY" listprice="54845" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="KRW" listprice="570170" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="PLN" listprice="1820.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="RON" listprice="1955.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="RUB" listprice="29540.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_5" currency="TWD" listprice="15150.0" />
+<!-- Begin attribute mapping for CTA023_2303-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_13_CTA023_2303" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_15_CTA023_2303" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_16_CTA023_2303" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_5" />
+<!-- End attribute mapping for CTA023_2303-->
+
+<!-- BEGIN items of CTA023_2303 -->
+<!-- BEGIN item bean CTA023_230301 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_3" partnumber="CTA023_230301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_3" itemspc_id="@itemspc_id_ComputersTablets_3" itemversn_id="@itemversn_id_ComputersTablets_3" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_3"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CTA023_230301" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_6" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="USD" price="475" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="AUD" price="612.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="NZD" price="655.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="BRL" price="1510.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="CAD" price="603.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="CNY" price="3173.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="EUR" price="403.75" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="GBP" price="370.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="JPY" price="52103" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="KRW" price="541662" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="PLN" price="1729.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="RON" price="1857.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="RUB" price="28063.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_5" currency="TWD" price="14392.5" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="USD" listprice="500" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="AUD" listprice="645.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="NZD" listprice="690.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="BRL" listprice="1590.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="CAD" listprice="635.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="CNY" listprice="3340.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="EUR" listprice="425.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="GBP" listprice="390.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="JPY" listprice="54845" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="KRW" listprice="570170" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="PLN" listprice="1820.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="RON" listprice="1955.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="RUB" listprice="29540.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_6" currency="TWD" listprice="15150.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_18"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_6" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_17"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_6" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_19"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_6" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_20"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230301 -->
+<!-- END items of CTA023_2303 -->
+<!-- END catalog entry : CTA023_2303 -->
+<!-- BEGIN catalog entry : CTA023_2304 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2304" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Adelee Plus" partnumber="CTA023_2304" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_4" baseitem_id="@baseproduct_id_ComputersTablets_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="USD" price="300" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="AUD" price="387.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="NZD" price="414.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="BRL" price="954.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="CAD" price="381.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="CNY" price="2004.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="EUR" price="255.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="GBP" price="234.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="JPY" price="32907" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="KRW" price="342102" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="PLN" price="1092.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="RON" price="1173.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="RUB" price="17724.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_8" currency="TWD" price="9090.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="USD" listprice="300" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="AUD" listprice="387.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="NZD" listprice="414.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="BRL" listprice="954.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="CAD" listprice="381.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="CNY" listprice="2004.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="EUR" listprice="255.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="GBP" listprice="234.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="JPY" listprice="32907" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="KRW" listprice="342102" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="PLN" listprice="1092.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="RON" listprice="1173.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="RUB" listprice="17724.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_7" currency="TWD" listprice="9090.0" />
+<!-- Begin attribute mapping for CTA023_2304-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_21_CTA023_2304" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_9_CTA023_2304" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_22_CTA023_2304" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_7" />
+<!-- End attribute mapping for CTA023_2304-->
+
+<!-- BEGIN items of CTA023_2304 -->
+<!-- BEGIN item bean CTA023_230401 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_4" partnumber="CTA023_230401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_4" itemspc_id="@itemspc_id_ComputersTablets_4" itemversn_id="@itemversn_id_ComputersTablets_4" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_4"	catenttype_id="ItemBean" mfname="Adelee Plus"	partnumber="CTA023_230401" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_8" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="USD" price="300" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="AUD" price="387.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="NZD" price="414.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="BRL" price="954.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="CAD" price="381.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="CNY" price="2004.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="EUR" price="255.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="GBP" price="234.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="JPY" price="32907" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="KRW" price="342102" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="PLN" price="1092.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="RON" price="1173.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="RUB" price="17724.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_7" currency="TWD" price="9090.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="USD" listprice="300" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="AUD" listprice="387.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="NZD" listprice="414.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="BRL" listprice="954.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="CAD" listprice="381.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="CNY" listprice="2004.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="EUR" listprice="255.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="GBP" listprice="234.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="JPY" listprice="32907" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="KRW" listprice="342102" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="PLN" listprice="1092.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="RON" listprice="1173.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="RUB" listprice="17724.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_8" currency="TWD" listprice="9090.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_18"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_8" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_23"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_8" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_11"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_8" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_24"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230401 -->
+<!-- END items of CTA023_2304 -->
+<!-- END catalog entry : CTA023_2304 -->
+<!-- BEGIN catalog entry : CTA023_2305 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2305" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CTA023_2305" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_5" baseitem_id="@baseproduct_id_ComputersTablets_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="USD" price="630" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="AUD" price="812.7" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="NZD" price="869.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="BRL" price="2003.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="CAD" price="800.1" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="CNY" price="4208.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="EUR" price="535.5" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="GBP" price="491.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="JPY" price="69105" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="KRW" price="718414" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="PLN" price="2293.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="RON" price="2463.3" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="RUB" price="37220.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_10" currency="TWD" price="19089.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="USD" listprice="700" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="AUD" listprice="903.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="NZD" listprice="966.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="BRL" listprice="2226.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="CAD" listprice="889.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="CNY" listprice="4676.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="EUR" listprice="595.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="GBP" listprice="546.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="JPY" listprice="76783" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="KRW" listprice="798238" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="PLN" listprice="2548.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="RON" listprice="2737.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="RUB" listprice="41356.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_9" currency="TWD" listprice="21210.0" />
+<!-- Begin attribute mapping for CTA023_2305-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_25_CTA023_2305" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_27_CTA023_2305" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_10_CTA023_2305" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_9" />
+<!-- End attribute mapping for CTA023_2305-->
+
+<!-- BEGIN items of CTA023_2305 -->
+<!-- BEGIN item bean CTA023_230501 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_5" partnumber="CTA023_230501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_5" itemspc_id="@itemspc_id_ComputersTablets_5" itemversn_id="@itemversn_id_ComputersTablets_5" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_5"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CTA023_230501" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_10" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="USD" price="630" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="AUD" price="812.7" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="NZD" price="869.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="BRL" price="2003.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="CAD" price="800.1" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="CNY" price="4208.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="EUR" price="535.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="GBP" price="491.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="JPY" price="69105" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="KRW" price="718414" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="PLN" price="2293.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="RON" price="2463.3" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="RUB" price="37220.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_9" currency="TWD" price="19089.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="USD" listprice="700" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="AUD" listprice="903.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="NZD" listprice="966.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="BRL" listprice="2226.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="CAD" listprice="889.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="CNY" listprice="4676.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="EUR" listprice="595.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="GBP" listprice="546.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="JPY" listprice="76783" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="KRW" listprice="798238" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="PLN" listprice="2548.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="RON" listprice="2737.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="RUB" listprice="41356.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_10" currency="TWD" listprice="21210.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_10" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_28"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_10" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_30"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_10" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_12"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230501 -->
+<!-- END items of CTA023_2305 -->
+<!-- END catalog entry : CTA023_2305 -->
+<!-- BEGIN catalog entry : CTA023_2306 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersTablets_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CTA023_2306" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersTablets_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CTA023_2306" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersTablets_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_ComputersTablets_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersTablets_6" baseitem_id="@baseproduct_id_ComputersTablets_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersTablets_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersTablets_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="USD" price="540" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="AUD" price="696.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="NZD" price="745.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="BRL" price="1717.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="CAD" price="685.8" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="CNY" price="3607.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="EUR" price="459.0" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="GBP" price="421.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="JPY" price="59233" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="KRW" price="615784" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="PLN" price="1965.6" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="RON" price="2111.4" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="RUB" price="31903.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersTablets_12" currency="TWD" price="16362.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_product_id_ComputersTablets_11" currency="TWD" listprice="18180.0" />
+<!-- Begin attribute mapping for CTA023_2306-->
+<catentryattr attr_id="@attribute_id_ComputersTablets_1" attrval_id="@attribute_value_id_ComputersTablets_31_CTA023_2306" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+
+<catentryattr attr_id="@attribute_id_ComputersTablets_3" attrval_id="@attribute_value_id_ComputersTablets_15_CTA023_2306" usage="2" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_4" attrval_id="@attribute_value_id_ComputersTablets_4_CTA023_2306" usage="2" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="0" usage="1" sequence="3.0" catentry_id="@catentry_product_id_ComputersTablets_11" />
+<!-- End attribute mapping for CTA023_2306-->
+
+<!-- BEGIN items of CTA023_2306 -->
+<!-- BEGIN item bean CTA023_230601 -->
+<itemspc itemspc_id="@itemspc_id_ComputersTablets_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersTablets_6" partnumber="CTA023_230601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersTablets_6" itemspc_id="@itemspc_id_ComputersTablets_6" itemversn_id="@itemversn_id_ComputersTablets_6" />
+<catentry catentry_id="@catentry_item_id_ComputersTablets_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersTablets_6"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CTA023_230601" markfordelete="0" baseitem_id="@baseproduct_id_ComputersTablets_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersTablets_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersTablets_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersTablets_12" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersTablets" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersTablets_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersTablets_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersTablets_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="USD" price="540" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="AUD" price="696.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="NZD" price="745.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="BRL" price="1717.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="CAD" price="685.8" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="CNY" price="3607.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="EUR" price="459.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="GBP" price="421.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="JPY" price="59233" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="KRW" price="615784" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="PLN" price="1965.6" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="RON" price="2111.4" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="RUB" price="31903.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersTablets_11" currency="TWD" price="16362.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="USD" listprice="600" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="AUD" listprice="774.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="NZD" listprice="828.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="BRL" listprice="1908.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="CAD" listprice="762.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="CNY" listprice="4008.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="EUR" listprice="510.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="GBP" listprice="468.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="JPY" listprice="65814" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="KRW" listprice="684204" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="PLN" listprice="2184.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="RON" listprice="2346.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="RUB" listprice="35448.0" />
+<listprice catentry_id="@catentry_item_id_ComputersTablets_12" currency="TWD" listprice="18180.0" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_6" attrval_id="@attribute_value_id_ComputersTablets_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersTablets_12" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_5" attrval_id="@attribute_value_id_ComputersTablets_32"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersTablets_12" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_7" attrval_id="@attribute_value_id_ComputersTablets_19"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_ComputersTablets_12" />
+<catentryattr attr_id="@attribute_id_ComputersTablets_8" attrval_id="@attribute_value_id_ComputersTablets_8"	usage="1" sequence="3.0" catentry_id="@catentry_item_id_ComputersTablets_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CTA023_230601 -->
+<!-- END items of CTA023_2306 -->
+<!-- END catalog entry : CTA023_2306 -->
+<!-- END: Writing catalog entries -->
+

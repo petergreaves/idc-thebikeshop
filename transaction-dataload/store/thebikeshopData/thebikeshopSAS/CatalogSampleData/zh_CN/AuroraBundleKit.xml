@@ -1,0 +1,60 @@
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Men_accessory_1"
+   language_id="&zh_CN;"
+   name="最佳组合"
+   shortdescription="男士配件捆绑销售"
+   longdescription="此款皮带，采用意大利进口牛皮制作，拉丝镀镍处理的皮带扣，中间设计有裂缝式接头。搭配时尚帅气，手工熨烫，采用真丝涤纶混纺材料的黑色领带，风格鲜明，个性十足。"
+   thumbnail="images/catalog/apparel/men/mac013_accessories/200x310/mac013_1333.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/men/mac013_accessories/646x1000/mac013_1333.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Stylish_latte_1"
+   language_id="&zh_CN;"
+   name="天生一对"
+   shortdescription="时尚拿铁捆绑销售"
+   longdescription="Kitchenel 意式浓缩咖啡/拿铁咖啡机配一对 Almherst 陶瓷咖啡杯是任何咖啡爱好者无法抗拒的诱惑。此款意式浓缩咖啡/拿铁咖啡机提供多种选项，使您无需执行复杂的操作，就可以轻松制作出拿铁咖啡。"
+   thumbnail="images/catalog/homefurnishings/hap027_appliances/200x310/hap027_2744.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hap027_appliances/646x1000/hap027_2744.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_CristieGlassware_1"
+   language_id="&zh_CN;"
+   name="酒香四溢"
+   shortdescription="葡萄酒杯套装"
+   longdescription="此经典葡萄酒杯套装包括四只高脚杯，是正式晚宴的必备佳品。这些酒杯采用阔口和椭圆形杯体设计，造型精致优雅，可以完美保留葡萄酒的最佳风味"
+   thumbnail="images/catalog/homefurnishings/hta029_tableware/200x310/hta029_2932.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hta029_tableware/646x1000/hta029_2932.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_Casual_Yet_Classic_1"
+   language_id="&zh_CN;"
+   name="休闲经典"
+   shortdescription="白色棉质衬衫和蓝色工装牛仔套装"
+   longdescription="白色棉质衬衫配蓝色工装牛仔裤套装，是小男孩的经典外衣组合，适合所有场合。白色背景上的灰黑色几何图案使衬衫更显优雅现代。工装牛仔裤与衬衫搭配完美"
+   thumbnail="images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1417.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1417.jpg"
+   available="1"
+   published="1"
+/>
+
+<!-- Dynamic Kit -->
+<catentdesc catentry_id="@catentry_dynamickit_id_computers_11" language_id="&zh_CN;" name="AXABC-E3062 台式计算机" shortdescription="Aurora AXABC-E3062 一体式电脑。" longdescription="Aurora AXABC-E3062 一体式电脑配备全高清宽屏，采用节省空间设计，具有超高的可用性，从而点亮您的数字化生活。配置：处理器、操作系统、硬盘驱动器、内存、光盘驱动器、声卡、调制解调器以及无线键盘、监视器、鼠标和扬声器。" thumbnail="images/catalog/electronics/cde021_desktops/200x310/cde021_2104.jpg" fullimage="images/catalog/electronics/cde021_desktops/646x1000/cde021_2104.jpg" available="1" published="0"/>
+<baseitmdsc baseitem_id="@baseitem_dynamickit_id_computers_11" language_id="&zh_CN;" shortdescription="Aurora AXABC-E3062 一体式电脑。" longdescription="Aurora AXABC-E3062 一体式电脑配备全高清宽屏，采用节省空间设计，具有超高的可用性，从而点亮您的数字化生活。配置：处理器、操作系统、硬盘驱动器、内存、光盘驱动器、声卡、调制解调器以及无线键盘、监视器、鼠标和扬声器。"/>
+<!-- End of Dynamic Kit -->
+
+
+

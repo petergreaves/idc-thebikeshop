@@ -1,0 +1,114 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  BoysTopsSize -->
+<attrdesc attr_id="@attribute_id_BoysTops_6" attrtype_id="STRING" language_id="&en_US;" name="Size" description="Size" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_6" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_7" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_8" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_9" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_10" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_19" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="6" value="2T" integervalue="" floatvalue="" stringvalue="2T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_20" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="7" value="3T" integervalue="" floatvalue="" stringvalue="3T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_21" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="8" value="4T" integervalue="" floatvalue="" stringvalue="4T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_22" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="9" value="5T" integervalue="" floatvalue="" stringvalue="5T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_23" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="10" value="6" integervalue="" floatvalue="" stringvalue="6" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_24" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="11" value="8" integervalue="" floatvalue="" stringvalue="8" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_25" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&en_US;" sequence="12" value="10" integervalue="" floatvalue="" stringvalue="10" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysTopsSize -->
+<!--BEGIN Defining attribute description  BoysTopsColor -->
+<attrdesc attr_id="@attribute_id_BoysTops_7" attrtype_id="STRING" language_id="&en_US;" name="Color" description="Color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_11" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="1" value="Orange" integervalue="" floatvalue="" stringvalue="Orange" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_16" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="2" value="Green" integervalue="" floatvalue="" stringvalue="Green" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_26" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="3" value="Multi-color" integervalue="" floatvalue="" stringvalue="Multi-color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_32" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="4" value="Blue" integervalue="" floatvalue="" stringvalue="Blue" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_36" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="5" value="Brown" integervalue="" floatvalue="" stringvalue="Brown" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_40" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&en_US;" sequence="6" value="White" integervalue="" floatvalue="" stringvalue="White" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysTopsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_BoysTops_4" attrtype_id="STRING" language_id="&en_US;" name="Sleeve Length" description="Sleeve Length" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_4_BCL014_1401" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="1" value="Full sleeve" integervalue="" floatvalue="" stringvalue="Full sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_4_BCL014_1407" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="1" value="Full sleeve" integervalue="" floatvalue="" stringvalue="Full sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_15_BCL014_1402" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="2" value="Half sleeve" integervalue="" floatvalue="" stringvalue="Half sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_15_BCL014_1403" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="2" value="Half sleeve" integervalue="" floatvalue="" stringvalue="Half sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_28_BCL014_1404" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="3" value="Long sleeve" integervalue="" floatvalue="" stringvalue="Long sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_30_BCL014_1405" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="4" value="Short sleeve" integervalue="" floatvalue="" stringvalue="Short sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_30_BCL014_1406" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="4" value="Short sleeve" integervalue="" floatvalue="" stringvalue="Short sleeve" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_38_BCL014_1408" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="5" value="Sleeveless" integervalue="" floatvalue="" stringvalue="Sleeveless" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1409" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1410" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1411" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1412" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1413" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1414" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1415" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1416" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&en_US;" sequence="6" value="Full sleeves" integervalue="" floatvalue="" stringvalue="Full sleeves" />
+<!--end of  Sleeve Length -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_BoysTops_5" attrtype_id="STRING" language_id="&en_US;" name="Age" description="Age" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1401" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1402" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1403" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1404" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_31_BCL014_1405" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_31_BCL014_1408" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1406" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1407" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1409" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1410" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1411" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1412" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1413" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1414" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1416" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_41_BCL014_1415" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&en_US;" sequence="4" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BoysTops_2" attrtype_id="STRING" language_id="&en_US;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1401" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1407" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1408" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1412" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1402" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1403" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1404" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1405" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1406" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1409" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1410" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1411" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1413" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1414" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1415" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1416" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&en_US;" sequence="2" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BoysTops_1" attrtype_id="STRING" language_id="&en_US;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_1_BCL014_1401" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="1" value="Half-zip sweater" integervalue="" floatvalue="" stringvalue="Half-zip sweater" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_1_BCL014_1412" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="1" value="Half-zip sweater" integervalue="" floatvalue="" stringvalue="Half-zip sweater" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1402" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="2" value="Shirt" integervalue="" floatvalue="" stringvalue="Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1411" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="2" value="Shirt" integervalue="" floatvalue="" stringvalue="Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1413" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="2" value="Shirt" integervalue="" floatvalue="" stringvalue="Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1415" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="2" value="Shirt" integervalue="" floatvalue="" stringvalue="Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1403" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1404" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1405" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1406" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1409" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1410" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1414" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1416" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="3" value="T-shirt" integervalue="" floatvalue="" stringvalue="T-shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_35_BCL014_1407" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="4" value="Pullover" integervalue="" floatvalue="" stringvalue="Pullover" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_37_BCL014_1408" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&en_US;" sequence="5" value="Vest" integervalue="" floatvalue="" stringvalue="Vest" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

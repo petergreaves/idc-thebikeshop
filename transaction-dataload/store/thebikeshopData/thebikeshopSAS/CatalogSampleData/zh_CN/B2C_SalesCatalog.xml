@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2c_sales" 
+    language_id="&zh_CN;" 
+    name="Aurora 消费者直销样本数据"
+    shortdescription="Aurora 消费者直销样本数据"
+    longdescription="一个销售商品目录，显示 6 个部门（服装、电子、食品、保健、家居和家具、新闻刊物和杂志），用于展示消费者直销商店中的商品目录特征。"
+    thumbnail=""
+    fullimage="" 
+  />
+  

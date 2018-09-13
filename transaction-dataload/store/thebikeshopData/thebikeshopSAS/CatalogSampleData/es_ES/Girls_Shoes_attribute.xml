@@ -1,0 +1,82 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  GirlsShoesColor -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_7" attrtype_id="STRING" language_id="&es_ES;" name="Color" description="Color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_14" attr_id="@attribute_id_GirlsShoes_7" valusage="1" language_id="&es_ES;" sequence="1" value="Negro" integervalue="" floatvalue="" stringvalue="Negro" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_24" attr_id="@attribute_id_GirlsShoes_7" valusage="1" language_id="&es_ES;" sequence="2" value="Rosa" integervalue="" floatvalue="" stringvalue="Rosa" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_27" attr_id="@attribute_id_GirlsShoes_7" valusage="1" language_id="&es_ES;" sequence="3" value="Plata" integervalue="" floatvalue="" stringvalue="Plata" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_30" attr_id="@attribute_id_GirlsShoes_7" valusage="1" language_id="&es_ES;" sequence="4" value="Rojo" integervalue="" floatvalue="" stringvalue="Rojo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_39" attr_id="@attribute_id_GirlsShoes_7" valusage="1" language_id="&es_ES;" sequence="5" value="Multicolor" integervalue="" floatvalue="" stringvalue="Multicolor" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsShoesColor -->
+<!--BEGIN Defining attribute description  GirlsShoesSize -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_6" attrtype_id="INTEGER" language_id="&es_ES;" name="Talla" description="Talla" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_6" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="1" value="6" integervalue="6" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_7" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="2" value="7" integervalue="7" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_8" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="3" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_9" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="4" value="9" integervalue="9" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_10" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="5" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_11" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="6" value="11" integervalue="11" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_12" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="7" value="12" integervalue="12" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_13" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="8" value="13" integervalue="13" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_20" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="9" value="2T" integervalue="" floatvalue="" stringvalue="2T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_21" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="10" value="3T" integervalue="" floatvalue="" stringvalue="3T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_22" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="11" value="4T" integervalue="" floatvalue="" stringvalue="4T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_23" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="12" value="5T" integervalue="" floatvalue="" stringvalue="5T" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_33" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="13" value="12 meses" integervalue="" floatvalue="" stringvalue="12 meses" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_34" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="14" value="18 meses" integervalue="" floatvalue="" stringvalue="18 meses" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_35" attr_id="@attribute_id_GirlsShoes_6" valusage="1" language_id="&es_ES;" sequence="15" value="24 meses" integervalue="" floatvalue="" stringvalue="24 meses" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsShoesSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_5" attrtype_id="STRING" language_id="&es_ES;" name="Edad" description="Edad" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_5_GSH020_2001" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="1" value="6 - 13" integervalue="" floatvalue="" stringvalue="6 - 13" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_5_GSH020_2007" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="1" value="6 - 13" integervalue="" floatvalue="" stringvalue="6 - 13" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_19_GSH020_2002" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="2" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_19_GSH020_2003" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="2" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_19_GSH020_2004" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="2" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_19_GSH020_2006" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="2" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_19_GSH020_2008" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="2" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_32_GSH020_2005" attr_id="@attribute_id_GirlsShoes_5" valusage="1" language_id="&es_ES;" sequence="3" value="12 - 24 meses, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 meses, 2 - 5" />
+<!--end of  Age -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_1" attrtype_id="STRING" language_id="&es_ES;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_1_GSH020_2001" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="1" value="Zapato deportivo" integervalue="" floatvalue="" stringvalue="Zapato deportivo" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_1_GSH020_2006" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="1" value="Zapato deportivo" integervalue="" floatvalue="" stringvalue="Zapato deportivo" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_15_GSH020_2002" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="2" value="Bailarinas" integervalue="" floatvalue="" stringvalue="Bailarinas" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_15_GSH020_2003" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="2" value="Bailarinas" integervalue="" floatvalue="" stringvalue="Bailarinas" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_15_GSH020_2005" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="2" value="Bailarinas" integervalue="" floatvalue="" stringvalue="Bailarinas" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_15_GSH020_2007" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="2" value="Bailarinas" integervalue="" floatvalue="" stringvalue="Bailarinas" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_15_GSH020_2008" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="2" value="Bailarinas" integervalue="" floatvalue="" stringvalue="Bailarinas" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_28_GSH020_2004" attr_id="@attribute_id_GirlsShoes_1" valusage="1" language_id="&es_ES;" sequence="3" value="Merceditas" integervalue="" floatvalue="" stringvalue="Merceditas" />
+<!--end of  Style -->
+<!--start of  Width -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_3" attrtype_id="STRING" language_id="&es_ES;" name="Anchura" description="Anchura" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2001" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2003" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2004" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2005" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2006" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_3_GSH020_2008" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="1" value="Normal" integervalue="" floatvalue="" stringvalue="Normal" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_17_GSH020_2002" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="2" value="Ancha" integervalue="" floatvalue="" stringvalue="Ancha" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_38_GSH020_2007" attr_id="@attribute_id_GirlsShoes_3" valusage="1" language_id="&es_ES;" sequence="3" value="Normal, ancha" integervalue="" floatvalue="" stringvalue="Normal, ancha" />
+<!--end of  Width -->
+<!--start of  Feature -->
+<attrdesc attr_id="@attribute_id_GirlsShoes_2" attrtype_id="STRING" language_id="&es_ES;" name="Característica" description="Característica" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_2_GSH020_2001" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="1" value="Suela de goma" integervalue="" floatvalue="" stringvalue="Suela de goma" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_2_GSH020_2006" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="1" value="Suela de goma" integervalue="" floatvalue="" stringvalue="Suela de goma" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_16_GSH020_2002" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="2" value="Cinta" integervalue="" floatvalue="" stringvalue="Cinta" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_25_GSH020_2003" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="3" value="Purpurina" integervalue="" floatvalue="" stringvalue="Purpurina" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_29_GSH020_2004" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="4" value="Hebilla" integervalue="" floatvalue="" stringvalue="Hebilla" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_31_GSH020_2005" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="5" value="Lazo" integervalue="" floatvalue="" stringvalue="Lazo" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_31_GSH020_2008" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="5" value="Lazo" integervalue="" floatvalue="" stringvalue="Lazo" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsShoes_37_GSH020_2007" attr_id="@attribute_id_GirlsShoes_2" valusage="1" language_id="&es_ES;" sequence="6" value="Escarapela, Tartán" integervalue="" floatvalue="" stringvalue="Escarapela, Tartán" />
+<!--end of  Feature -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

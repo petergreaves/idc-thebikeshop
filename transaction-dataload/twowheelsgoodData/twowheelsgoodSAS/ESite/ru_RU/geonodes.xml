@@ -1,0 +1,1006 @@
+
+<geondds geondds_id="@geondds_ru_RU_Canada" geonode_id="@geonode_Canada" language_id="&ru_RU;" name="Канада" description="Канада" />
+<geondds geondds_id="@geondds_ru_RU_UnitedStates" geonode_id="@geonode_UnitedStates" language_id="&ru_RU;" name="США" description="США" />
+<geondds geondds_id="@geondds_ru_RU_Alberta" geonode_id="@geonode_Alberta" language_id="&ru_RU;" name="Альберта" description="Альберта" />
+<geondds geondds_id="@geondds_ru_RU_Calgary" geonode_id="@geonode_Calgary" language_id="&ru_RU;" name="Калгари" description="Калгари" />
+<geondds geondds_id="@geondds_ru_RU_Edmonton" geonode_id="@geonode_Edmonton" language_id="&ru_RU;" name="Эдмонтон" description="Эдмонтон" />
+<geondds geondds_id="@geondds_ru_RU_Lethbridge" geonode_id="@geonode_Lethbridge" language_id="&ru_RU;" name="Летбридж" description="Летбридж" />
+<geondds geondds_id="@geondds_ru_RU_MedicineHat" geonode_id="@geonode_MedicineHat" language_id="&ru_RU;" name="Медисин-Хат" description="Медисин-Хат" />
+<geondds geondds_id="@geondds_ru_RU_RedDeer" geonode_id="@geonode_RedDeer" language_id="&ru_RU;" name="Рэд Дир" description="Рэд Дир" />
+<geondds geondds_id="@geondds_ru_RU_StAlbert" geonode_id="@geonode_StAlbert" language_id="&ru_RU;" name="Сент-Альберт" description="Сент-Альберт" />
+<geondds geondds_id="@geondds_ru_RU_StrathconaCounty" geonode_id="@geonode_StrathconaCounty" language_id="&ru_RU;" name="Округ Страткона" description="Округ Страткона" />
+<geondds geondds_id="@geondds_ru_RU_BritishColumbia" geonode_id="@geonode_BritishColumbia" language_id="&ru_RU;" name="Британская Колумбия" description="Британская Колумбия" />
+<geondds geondds_id="@geondds_ru_RU_Abbotsford" geonode_id="@geonode_Abbotsford" language_id="&ru_RU;" name="Абботсфорд" description="Абботсфорд" />
+<geondds geondds_id="@geondds_ru_RU_Burnaby" geonode_id="@geonode_Burnaby" language_id="&ru_RU;" name="Бернаби" description="Бернаби" />
+<geondds geondds_id="@geondds_ru_RU_Chilliwack" geonode_id="@geonode_Chilliwack" language_id="&ru_RU;" name="Chilliwack" description="Chilliwack" />
+<geondds geondds_id="@geondds_ru_RU_Coquitlam" geonode_id="@geonode_Coquitlam" language_id="&ru_RU;" name="Кокуитлэм" description="Кокуитлэм" />
+<geondds geondds_id="@geondds_ru_RU_Delta" geonode_id="@geonode_Delta" language_id="&ru_RU;" name="Дельта" description="Дельта" />
+<geondds geondds_id="@geondds_ru_RU_Kamloops" geonode_id="@geonode_Kamloops" language_id="&ru_RU;" name="Камлопс" description="Камлопс" />
+<geondds geondds_id="@geondds_ru_RU_Kelowna" geonode_id="@geonode_Kelowna" language_id="&ru_RU;" name="Келоуна" description="Келоуна" />
+<geondds geondds_id="@geondds_ru_RU_Langley" geonode_id="@geonode_Langley" language_id="&ru_RU;" name="Лэнгли" description="Лэнгли" />
+<geondds geondds_id="@geondds_ru_RU_MapleRidge" geonode_id="@geonode_MapleRidge" language_id="&ru_RU;" name="Мэйпл-Ридж" description="Мэйпл-Ридж" />
+<geondds geondds_id="@geondds_ru_RU_Nanaimo" geonode_id="@geonode_Nanaimo" language_id="&ru_RU;" name="Нанаймо" description="Нанаймо" />
+<geondds geondds_id="@geondds_ru_RU_NewWestminster" geonode_id="@geonode_NewWestminster" language_id="&ru_RU;" name="Нью-Вестминстер" description="Нью-Вестминстер" />
+<geondds geondds_id="@geondds_ru_RU_NorthVancouver" geonode_id="@geonode_NorthVancouver" language_id="&ru_RU;" name="Норт-Ванкувер" description="Норт-Ванкувер" />
+<geondds geondds_id="@geondds_ru_RU_PortCoquitlam" geonode_id="@geonode_PortCoquitlam" language_id="&ru_RU;" name="Порт Кокуитлэм" description="Порт Кокуитлэм" />
+<geondds geondds_id="@geondds_ru_RU_PrinceGeorge" geonode_id="@geonode_PrinceGeorge" language_id="&ru_RU;" name="Принс-Джордж" description="Принс-Джордж" />
+<geondds geondds_id="@geondds_ru_RU_RichmondBC" geonode_id="@geonode_RichmondBC" language_id="&ru_RU;" name="Ричмонд (Британская Колумбия)" description="Ричмонд (Британская Колумбия)" />
+<geondds geondds_id="@geondds_ru_RU_Saanich" geonode_id="@geonode_Saanich" language_id="&ru_RU;" name="Саанич" description="Саанич" />
+<geondds geondds_id="@geondds_ru_RU_Surrey" geonode_id="@geonode_Surrey" language_id="&ru_RU;" name="Суррей" description="Суррей" />
+<geondds geondds_id="@geondds_ru_RU_VancouverBC" geonode_id="@geonode_VancouverBC" language_id="&ru_RU;" name="Ванкувер (Британская Колумбия)" description="Ванкувер (Британская Колумбия)" />
+<geondds geondds_id="@geondds_ru_RU_Victoria" geonode_id="@geonode_Victoria" language_id="&ru_RU;" name="Виктория" description="Виктория" />
+<geondds geondds_id="@geondds_ru_RU_WestVancouver" geonode_id="@geonode_WestVancouver" language_id="&ru_RU;" name="Вест-Ванкувер" description="Вест-Ванкувер" />
+<geondds geondds_id="@geondds_ru_RU_Manitoba" geonode_id="@geonode_Manitoba" language_id="&ru_RU;" name="Манитоба" description="Манитоба" />
+<geondds geondds_id="@geondds_ru_RU_Winnipeg" geonode_id="@geonode_Winnipeg" language_id="&ru_RU;" name="Виннипег" description="Виннипег" />
+<geondds geondds_id="@geondds_ru_RU_NewBrunswick" geonode_id="@geonode_NewBrunswick" language_id="&ru_RU;" name="Нью-Брансуик" description="Нью-Брансуик" />
+<geondds geondds_id="@geondds_ru_RU_Fredericton" geonode_id="@geonode_Fredericton" language_id="&ru_RU;" name="Фредериктон" description="Фредериктон" />
+<geondds geondds_id="@geondds_ru_RU_Moncton" geonode_id="@geonode_Moncton" language_id="&ru_RU;" name="Монктон" description="Монктон" />
+<geondds geondds_id="@geondds_ru_RU_SaintJohn" geonode_id="@geonode_SaintJohn" language_id="&ru_RU;" name="Сент-Джон" description="Сент-Джон" />
+<geondds geondds_id="@geondds_ru_RU_NewfoundlandandLabrador" geonode_id="@geonode_NewfoundlandandLabrador" language_id="&ru_RU;" name="Ньюфаундленд и Лабрадор" description="Ньюфаундленд и Лабрадор" />
+<geondds geondds_id="@geondds_ru_RU_StJohns" geonode_id="@geonode_StJohns" language_id="&ru_RU;" name="Сент-Джонс" description="Сент-Джонс" />
+<geondds geondds_id="@geondds_ru_RU_NovaScotia" geonode_id="@geonode_NovaScotia" language_id="&ru_RU;" name="Новая Шотландия" description="Новая Шотландия" />
+<geondds geondds_id="@geondds_ru_RU_CapeBreton" geonode_id="@geonode_CapeBreton" language_id="&ru_RU;" name="Кейп-Бретон" description="Кейп-Бретон" />
+<geondds geondds_id="@geondds_ru_RU_Halifax" geonode_id="@geonode_Halifax" language_id="&ru_RU;" name="Галифакс" description="Галифакс" />
+<geondds geondds_id="@geondds_ru_RU_KingsCounty" geonode_id="@geonode_KingsCounty" language_id="&ru_RU;" name="Округ Кингз" description="Округ Кингз" />
+<geondds geondds_id="@geondds_ru_RU_Ontario" geonode_id="@geonode_Ontario" language_id="&ru_RU;" name="Онтарио" description="Онтарио" />
+<geondds geondds_id="@geondds_ru_RU_Ajax" geonode_id="@geonode_Ajax" language_id="&ru_RU;" name="Аякс" description="Аякс" />
+<geondds geondds_id="@geondds_ru_RU_Barrie" geonode_id="@geonode_Barrie" language_id="&ru_RU;" name="Барри" description="Барри" />
+<geondds geondds_id="@geondds_ru_RU_BellevilleON" geonode_id="@geonode_BellevilleON" language_id="&ru_RU;" name="Беллвилль (Онтарио)" description="Беллвилль (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_Brampton" geonode_id="@geonode_Brampton" language_id="&ru_RU;" name="Брэмптон" description="Брэмптон" />
+<geondds geondds_id="@geondds_ru_RU_Brantford" geonode_id="@geonode_Brantford" language_id="&ru_RU;" name="Брэнтфорд" description="Брэнтфорд" />
+<geondds geondds_id="@geondds_ru_RU_BurlingtonON" geonode_id="@geonode_BurlingtonON" language_id="&ru_RU;" name="Берлингтон (Онтарио)" description="Берлингтон (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_Caledon" geonode_id="@geonode_Caledon" language_id="&ru_RU;" name="Каледон" description="Каледон" />
+<geondds geondds_id="@geondds_ru_RU_CambridgeON" geonode_id="@geonode_CambridgeON" language_id="&ru_RU;" name="Кембридж (Онтарио)" description="Кембридж (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_ChathamKent" geonode_id="@geonode_ChathamKent" language_id="&ru_RU;" name="Чатем-Кент" description="Чатем-Кент" />
+<geondds geondds_id="@geondds_ru_RU_Clarington" geonode_id="@geonode_Clarington" language_id="&ru_RU;" name="Кларингтон" description="Кларингтон" />
+<geondds geondds_id="@geondds_ru_RU_Cornwall" geonode_id="@geonode_Cornwall" language_id="&ru_RU;" name="Корнуолл" description="Корнуолл" />
+<geondds geondds_id="@geondds_ru_RU_GreaterSudbury" geonode_id="@geonode_GreaterSudbury" language_id="&ru_RU;" name="Грейтер-Садбери" description="Грейтер-Садбери" />
+<geondds geondds_id="@geondds_ru_RU_Guelph" geonode_id="@geonode_Guelph" language_id="&ru_RU;" name="Гелф" description="Гелф" />
+<geondds geondds_id="@geondds_ru_RU_Haldimand" geonode_id="@geonode_Haldimand" language_id="&ru_RU;" name="Халдиманд" description="Халдиманд" />
+<geondds geondds_id="@geondds_ru_RU_HaltonHills" geonode_id="@geonode_HaltonHills" language_id="&ru_RU;" name="Халтон-Хиллз" description="Халтон-Хиллз" />
+<geondds geondds_id="@geondds_ru_RU_HamiltonON" geonode_id="@geonode_HamiltonON" language_id="&ru_RU;" name="Гамильтон (Онтарио)" description="Гамильтон (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_KawarthaLakes" geonode_id="@geonode_KawarthaLakes" language_id="&ru_RU;" name="Каварта-Лэйкс" description="Каварта-Лэйкс" />
+<geondds geondds_id="@geondds_ru_RU_Kingston" geonode_id="@geonode_Kingston" language_id="&ru_RU;" name="Кингстон" description="Кингстон" />
+<geondds geondds_id="@geondds_ru_RU_Kitchener" geonode_id="@geonode_Kitchener" language_id="&ru_RU;" name="Китченер" description="Китченер" />
+<geondds geondds_id="@geondds_ru_RU_London" geonode_id="@geonode_London" language_id="&ru_RU;" name="Лондон" description="Лондон" />
+<geondds geondds_id="@geondds_ru_RU_Markham" geonode_id="@geonode_Markham" language_id="&ru_RU;" name="Маркхэм" description="Маркхэм" />
+<geondds geondds_id="@geondds_ru_RU_Mississauga" geonode_id="@geonode_Mississauga" language_id="&ru_RU;" name="Миссиссога" description="Миссиссога" />
+<geondds geondds_id="@geondds_ru_RU_Newmarket" geonode_id="@geonode_Newmarket" language_id="&ru_RU;" name="Ньюмаркет" description="Ньюмаркет" />
+<geondds geondds_id="@geondds_ru_RU_NiagaraFallsON" geonode_id="@geonode_NiagaraFallsON" language_id="&ru_RU;" name="Ниагарский водопад (Онтарио)" description="Ниагарский водопад (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_NorfolkON" geonode_id="@geonode_NorfolkON" language_id="&ru_RU;" name="Норфолк (Онтарио)" description="Норфолк (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_NorthBay" geonode_id="@geonode_NorthBay" language_id="&ru_RU;" name="Норт-Бэй" description="Норт-Бэй" />
+<geondds geondds_id="@geondds_ru_RU_Oakville" geonode_id="@geonode_Oakville" language_id="&ru_RU;" name="Оквилль" description="Оквилль" />
+<geondds geondds_id="@geondds_ru_RU_Oshawa" geonode_id="@geonode_Oshawa" language_id="&ru_RU;" name="Ошава" description="Ошава" />
+<geondds geondds_id="@geondds_ru_RU_Ottawa" geonode_id="@geonode_Ottawa" language_id="&ru_RU;" name="Оттава" description="Оттава" />
+<geondds geondds_id="@geondds_ru_RU_Peterborough" geonode_id="@geonode_Peterborough" language_id="&ru_RU;" name="Питерборо" description="Питерборо" />
+<geondds geondds_id="@geondds_ru_RU_Pickering" geonode_id="@geonode_Pickering" language_id="&ru_RU;" name="Пикеринг" description="Пикеринг" />
+<geondds geondds_id="@geondds_ru_RU_RichmondHill" geonode_id="@geonode_RichmondHill" language_id="&ru_RU;" name="Ричмонд-Хилл" description="Ричмонд-Хилл" />
+<geondds geondds_id="@geondds_ru_RU_Sarnia" geonode_id="@geonode_Sarnia" language_id="&ru_RU;" name="Сарния" description="Сарния" />
+<geondds geondds_id="@geondds_ru_RU_SaultSteMarieON" geonode_id="@geonode_SaultSteMarieON" language_id="&ru_RU;" name="Су-Сент-Мари (Онтарио)" description="Су-Сент-Мари (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_StCatharines" geonode_id="@geonode_StCatharines" language_id="&ru_RU;" name="Сент-Катаринес" description="Сент-Катаринес" />
+<geondds geondds_id="@geondds_ru_RU_ThunderBay" geonode_id="@geonode_ThunderBay" language_id="&ru_RU;" name="Тандер-Бэй" description="Тандер-Бэй" />
+<geondds geondds_id="@geondds_ru_RU_Timmins" geonode_id="@geonode_Timmins" language_id="&ru_RU;" name="Тимминс" description="Тимминс" />
+<geondds geondds_id="@geondds_ru_RU_Toronto" geonode_id="@geonode_Toronto" language_id="&ru_RU;" name="Торонто" description="Торонто" />
+<geondds geondds_id="@geondds_ru_RU_Vaughan" geonode_id="@geonode_Vaughan" language_id="&ru_RU;" name="Воэн" description="Воэн" />
+<geondds geondds_id="@geondds_ru_RU_WaterlooON" geonode_id="@geonode_WaterlooON" language_id="&ru_RU;" name="Ватерлоо (Онтарио)" description="Ватерлоо (Онтарио)" />
+<geondds geondds_id="@geondds_ru_RU_Welland" geonode_id="@geonode_Welland" language_id="&ru_RU;" name="Уэлленд" description="Уэлленд" />
+<geondds geondds_id="@geondds_ru_RU_Whitby" geonode_id="@geonode_Whitby" language_id="&ru_RU;" name="Уитби" description="Уитби" />
+<geondds geondds_id="@geondds_ru_RU_Windsor" geonode_id="@geonode_Windsor" language_id="&ru_RU;" name="Виндзор" description="Виндзор" />
+<geondds geondds_id="@geondds_ru_RU_PrinceEdwardIsland" geonode_id="@geonode_PrinceEdwardIsland" language_id="&ru_RU;" name="Остров Принца Эдуарда" description="Остров Принца Эдуарда" />
+<geondds geondds_id="@geondds_ru_RU_Charlottetown" geonode_id="@geonode_Charlottetown" language_id="&ru_RU;" name="Шарлоттаун" description="Шарлоттаун" />
+<geondds geondds_id="@geondds_ru_RU_Quebec" geonode_id="@geonode_Quebec" language_id="&ru_RU;" name="Квебек" description="Квебек" />
+<geondds geondds_id="@geondds_ru_RU_Montreal" geonode_id="@geonode_Montreal" language_id="&ru_RU;" name="Монреаль" description="Монреаль" />
+<geondds geondds_id="@geondds_ru_RU_Drummondville" geonode_id="@geonode_Drummondville" language_id="&ru_RU;" name="Драммондвилль" description="Драммондвилль" />
+<geondds geondds_id="@geondds_ru_RU_Gatineau" geonode_id="@geonode_Gatineau" language_id="&ru_RU;" name="Гэтино" description="Гэтино" />
+<geondds geondds_id="@geondds_ru_RU_Granby" geonode_id="@geonode_Granby" language_id="&ru_RU;" name="Гранби" description="Гранби" />
+<geondds geondds_id="@geondds_ru_RU_Laval" geonode_id="@geonode_Laval" language_id="&ru_RU;" name="Лаваль" description="Лаваль" />
+<geondds geondds_id="@geondds_ru_RU_Levis" geonode_id="@geonode_Levis" language_id="&ru_RU;" name="Левис" description="Левис" />
+<geondds geondds_id="@geondds_ru_RU_Longueuil" geonode_id="@geonode_Longueuil" language_id="&ru_RU;" name="Лонгвилль" description="Лонгвилль" />
+<geondds geondds_id="@geondds_ru_RU_QuebecCity" geonode_id="@geonode_QuebecCity" language_id="&ru_RU;" name="Квебек-Сити" description="Квебек-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Repentigny" geonode_id="@geonode_Repentigny" language_id="&ru_RU;" name="Репентигни" description="Репентигни" />
+<geondds geondds_id="@geondds_ru_RU_Rimouski" geonode_id="@geonode_Rimouski" language_id="&ru_RU;" name="Римоуски" description="Римоуски" />
+<geondds geondds_id="@geondds_ru_RU_Saguenay" geonode_id="@geonode_Saguenay" language_id="&ru_RU;" name="Сагеней" description="Сагеней" />
+<geondds geondds_id="@geondds_ru_RU_SaintHyacinthe" geonode_id="@geonode_SaintHyacinthe" language_id="&ru_RU;" name="Сент-Гиацинт" description="Сент-Гиацинт" />
+<geondds geondds_id="@geondds_ru_RU_SaintJeansurRichelieu" geonode_id="@geonode_SaintJeansurRichelieu" language_id="&ru_RU;" name="Сан-Жан-сюр-Ришелье" description="Сан-Жан-сюр-Ришелье" />
+<geondds geondds_id="@geondds_ru_RU_SaintJerome" geonode_id="@geonode_SaintJerome" language_id="&ru_RU;" name="Сен-Жером" description="Сен-Жером" />
+<geondds geondds_id="@geondds_ru_RU_Shawinigan" geonode_id="@geonode_Shawinigan" language_id="&ru_RU;" name="Шоиниган" description="Шоиниган" />
+<geondds geondds_id="@geondds_ru_RU_Sherbrooke" geonode_id="@geonode_Sherbrooke" language_id="&ru_RU;" name="Шербрук" description="Шербрук" />
+<geondds geondds_id="@geondds_ru_RU_Terrebonne" geonode_id="@geonode_Terrebonne" language_id="&ru_RU;" name="Терребонн" description="Терребонн" />
+<geondds geondds_id="@geondds_ru_RU_TroisRivieres" geonode_id="@geonode_TroisRivieres" language_id="&ru_RU;" name="Труа-Ривьер" description="Труа-Ривьер" />
+<geondds geondds_id="@geondds_ru_RU_Saskatchewan" geonode_id="@geonode_Saskatchewan" language_id="&ru_RU;" name="Саскачеван" description="Саскачеван" />
+<geondds geondds_id="@geondds_ru_RU_Regina" geonode_id="@geonode_Regina" language_id="&ru_RU;" name="Регина" description="Регина" />
+<geondds geondds_id="@geondds_ru_RU_Saskatoon" geonode_id="@geonode_Saskatoon" language_id="&ru_RU;" name="Саскатун" description="Саскатун" />
+<geondds geondds_id="@geondds_ru_RU_Alabama" geonode_id="@geonode_Alabama" language_id="&ru_RU;" name="Алабама" description="Алабама" />
+<geondds geondds_id="@geondds_ru_RU_Anniston" geonode_id="@geonode_Anniston" language_id="&ru_RU;" name="Аннистон" description="Аннистон" />
+<geondds geondds_id="@geondds_ru_RU_Auburn" geonode_id="@geonode_Auburn" language_id="&ru_RU;" name="Оберн" description="Оберн" />
+<geondds geondds_id="@geondds_ru_RU_Bessemer" geonode_id="@geonode_Bessemer" language_id="&ru_RU;" name="Бессемер" description="Бессемер" />
+<geondds geondds_id="@geondds_ru_RU_Birmingham" geonode_id="@geonode_Birmingham" language_id="&ru_RU;" name="Бирмингем" description="Бирмингем" />
+<geondds geondds_id="@geondds_ru_RU_DecaturAL" geonode_id="@geonode_DecaturAL" language_id="&ru_RU;" name="Декейтер (Алабама)" description="Декейтер (Алабама)" />
+<geondds geondds_id="@geondds_ru_RU_Demopolis" geonode_id="@geonode_Demopolis" language_id="&ru_RU;" name="Демополис" description="Демополис" />
+<geondds geondds_id="@geondds_ru_RU_Dothan" geonode_id="@geonode_Dothan" language_id="&ru_RU;" name="Дотан" description="Дотан" />
+<geondds geondds_id="@geondds_ru_RU_Eufaula" geonode_id="@geonode_Eufaula" language_id="&ru_RU;" name="Эуфола" description="Эуфола" />
+<geondds geondds_id="@geondds_ru_RU_FlorenceAL" geonode_id="@geonode_FlorenceAL" language_id="&ru_RU;" name="Флоренс (Алабама)" description="Флоренс (Алабама)" />
+<geondds geondds_id="@geondds_ru_RU_Gadsden" geonode_id="@geonode_Gadsden" language_id="&ru_RU;" name="Гедсден" description="Гедсден" />
+<geondds geondds_id="@geondds_ru_RU_GulfShores" geonode_id="@geonode_GulfShores" language_id="&ru_RU;" name="Галф Шорз" description="Галф Шорз" />
+<geondds geondds_id="@geondds_ru_RU_Hoover" geonode_id="@geonode_Hoover" language_id="&ru_RU;" name="Гувер" description="Гувер" />
+<geondds geondds_id="@geondds_ru_RU_Huntsville" geonode_id="@geonode_Huntsville" language_id="&ru_RU;" name="Хантсвилль" description="Хантсвилль" />
+<geondds geondds_id="@geondds_ru_RU_Mobile" geonode_id="@geonode_Mobile" language_id="&ru_RU;" name="Мобильное устройство" description="Мобильное устройство" />
+<geondds geondds_id="@geondds_ru_RU_Montgomery" geonode_id="@geonode_Montgomery" language_id="&ru_RU;" name="Монтгомери" description="Монтгомери" />
+<geondds geondds_id="@geondds_ru_RU_PhenixCity" geonode_id="@geonode_PhenixCity" language_id="&ru_RU;" name="Феникс" description="Феникс" />
+<geondds geondds_id="@geondds_ru_RU_Selma" geonode_id="@geonode_Selma" language_id="&ru_RU;" name="Селма" description="Селма" />
+<geondds geondds_id="@geondds_ru_RU_Troy" geonode_id="@geonode_Troy" language_id="&ru_RU;" name="Троя" description="Троя" />
+<geondds geondds_id="@geondds_ru_RU_Tuscaloosa" geonode_id="@geonode_Tuscaloosa" language_id="&ru_RU;" name="Таскалуза" description="Таскалуза" />
+<geondds geondds_id="@geondds_ru_RU_Tuskegee" geonode_id="@geonode_Tuskegee" language_id="&ru_RU;" name="Таскиги" description="Таскиги" />
+<geondds geondds_id="@geondds_ru_RU_Alaska" geonode_id="@geonode_Alaska" language_id="&ru_RU;" name="Аляска" description="Аляска" />
+<geondds geondds_id="@geondds_ru_RU_Anchorage" geonode_id="@geonode_Anchorage" language_id="&ru_RU;" name="Энкоридж" description="Энкоридж" />
+<geondds geondds_id="@geondds_ru_RU_Barrow" geonode_id="@geonode_Barrow" language_id="&ru_RU;" name="Барроу" description="Барроу" />
+<geondds geondds_id="@geondds_ru_RU_Fairbanks" geonode_id="@geonode_Fairbanks" language_id="&ru_RU;" name="Фэрбенкс" description="Фэрбенкс" />
+<geondds geondds_id="@geondds_ru_RU_Homer" geonode_id="@geonode_Homer" language_id="&ru_RU;" name="Хоумер" description="Хоумер" />
+<geondds geondds_id="@geondds_ru_RU_Juneau" geonode_id="@geonode_Juneau" language_id="&ru_RU;" name="Джуно" description="Джуно" />
+<geondds geondds_id="@geondds_ru_RU_Ketchikan" geonode_id="@geonode_Ketchikan" language_id="&ru_RU;" name="Кетчикан" description="Кетчикан" />
+<geondds geondds_id="@geondds_ru_RU_Nome" geonode_id="@geonode_Nome" language_id="&ru_RU;" name="Ном" description="Ном" />
+<geondds geondds_id="@geondds_ru_RU_Seward" geonode_id="@geonode_Seward" language_id="&ru_RU;" name="Севард" description="Севард" />
+<geondds geondds_id="@geondds_ru_RU_Sitka" geonode_id="@geonode_Sitka" language_id="&ru_RU;" name="Ситка" description="Ситка" />
+<geondds geondds_id="@geondds_ru_RU_Valdez" geonode_id="@geonode_Valdez" language_id="&ru_RU;" name="Вальдес" description="Вальдес" />
+<geondds geondds_id="@geondds_ru_RU_Arizona" geonode_id="@geonode_Arizona" language_id="&ru_RU;" name="Аризона" description="Аризона" />
+<geondds geondds_id="@geondds_ru_RU_Chandler" geonode_id="@geonode_Chandler" language_id="&ru_RU;" name="Чендлер" description="Чендлер" />
+<geondds geondds_id="@geondds_ru_RU_Flagstaff" geonode_id="@geonode_Flagstaff" language_id="&ru_RU;" name="Флагстафф" description="Флагстафф" />
+<geondds geondds_id="@geondds_ru_RU_Gilbert" geonode_id="@geonode_Gilbert" language_id="&ru_RU;" name="Джилберт" description="Джилберт" />
+<geondds geondds_id="@geondds_ru_RU_GlendaleAZ" geonode_id="@geonode_GlendaleAZ" language_id="&ru_RU;" name="Глендейл (Аризона)" description="Глендейл (Аризона)" />
+<geondds geondds_id="@geondds_ru_RU_Marana" geonode_id="@geonode_Marana" language_id="&ru_RU;" name="Марана" description="Марана" />
+<geondds geondds_id="@geondds_ru_RU_Mesa" geonode_id="@geonode_Mesa" language_id="&ru_RU;" name="Меса" description="Меса" />
+<geondds geondds_id="@geondds_ru_RU_Nogales" geonode_id="@geonode_Nogales" language_id="&ru_RU;" name="Ногалез" description="Ногалез" />
+<geondds geondds_id="@geondds_ru_RU_OroValley" geonode_id="@geonode_OroValley" language_id="&ru_RU;" name="Оро-Вэлли" description="Оро-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_PeoriaAZ" geonode_id="@geonode_PeoriaAZ" language_id="&ru_RU;" name="Пеория (Аризона)" description="Пеория (Аризона)" />
+<geondds geondds_id="@geondds_ru_RU_Phoenix" geonode_id="@geonode_Phoenix" language_id="&ru_RU;" name="Феникс" description="Феникс" />
+<geondds geondds_id="@geondds_ru_RU_Prescott" geonode_id="@geonode_Prescott" language_id="&ru_RU;" name="Прескотт" description="Прескотт" />
+<geondds geondds_id="@geondds_ru_RU_Sahuarita" geonode_id="@geonode_Sahuarita" language_id="&ru_RU;" name="Сахарита" description="Сахарита" />
+<geondds geondds_id="@geondds_ru_RU_Scottsdale" geonode_id="@geonode_Scottsdale" language_id="&ru_RU;" name="Скотсдейл" description="Скотсдейл" />
+<geondds geondds_id="@geondds_ru_RU_SierraVista" geonode_id="@geonode_SierraVista" language_id="&ru_RU;" name="Сьерра-Виста" description="Сьерра-Виста" />
+<geondds geondds_id="@geondds_ru_RU_Tempe" geonode_id="@geonode_Tempe" language_id="&ru_RU;" name="Темпл" description="Темпл" />
+<geondds geondds_id="@geondds_ru_RU_Tucson" geonode_id="@geonode_Tucson" language_id="&ru_RU;" name="Туксон" description="Туксон" />
+<geondds geondds_id="@geondds_ru_RU_Yuma" geonode_id="@geonode_Yuma" language_id="&ru_RU;" name="Юма" description="Юма" />
+<geondds geondds_id="@geondds_ru_RU_Arkansas" geonode_id="@geonode_Arkansas" language_id="&ru_RU;" name="Арканзас" description="Арканзас" />
+<geondds geondds_id="@geondds_ru_RU_Bentonville" geonode_id="@geonode_Bentonville" language_id="&ru_RU;" name="Бентонвилль" description="Бентонвилль" />
+<geondds geondds_id="@geondds_ru_RU_FayettevilleAR" geonode_id="@geonode_FayettevilleAR" language_id="&ru_RU;" name="Фейетвилл (Арканзас)" description="Фейетвилл (Арканзас)" />
+<geondds geondds_id="@geondds_ru_RU_FortSmith" geonode_id="@geonode_FortSmith" language_id="&ru_RU;" name="Форт-Смит" description="Форт-Смит" />
+<geondds geondds_id="@geondds_ru_RU_Hope" geonode_id="@geonode_Hope" language_id="&ru_RU;" name="Хоуп" description="Хоуп" />
+<geondds geondds_id="@geondds_ru_RU_HotSprings" geonode_id="@geonode_HotSprings" language_id="&ru_RU;" name="Хот-Спрингз" description="Хот-Спрингз" />
+<geondds geondds_id="@geondds_ru_RU_Jonesboro" geonode_id="@geonode_Jonesboro" language_id="&ru_RU;" name="Джонсборо" description="Джонсборо" />
+<geondds geondds_id="@geondds_ru_RU_LittleRock" geonode_id="@geonode_LittleRock" language_id="&ru_RU;" name="Литл-Рок" description="Литл-Рок" />
+<geondds geondds_id="@geondds_ru_RU_NorthLittleRock" geonode_id="@geonode_NorthLittleRock" language_id="&ru_RU;" name="Норт-Литл-Рок" description="Норт-Литл-Рок" />
+<geondds geondds_id="@geondds_ru_RU_PineBluff" geonode_id="@geonode_PineBluff" language_id="&ru_RU;" name="Пайн-Блафф" description="Пайн-Блафф" />
+<geondds geondds_id="@geondds_ru_RU_Springdale" geonode_id="@geonode_Springdale" language_id="&ru_RU;" name="Спрингдейл" description="Спрингдейл" />
+<geondds geondds_id="@geondds_ru_RU_Texarkana" geonode_id="@geonode_Texarkana" language_id="&ru_RU;" name="Тексаркана" description="Тексаркана" />
+<geondds geondds_id="@geondds_ru_RU_WestMemphis" geonode_id="@geonode_WestMemphis" language_id="&ru_RU;" name="Уэст-Мемфис" description="Уэст-Мемфис" />
+<geondds geondds_id="@geondds_ru_RU_California" geonode_id="@geonode_California" language_id="&ru_RU;" name="Калифорния" description="Калифорния" />
+<geondds geondds_id="@geondds_ru_RU_Alameda" geonode_id="@geonode_Alameda" language_id="&ru_RU;" name="Аламеда" description="Аламеда" />
+<geondds geondds_id="@geondds_ru_RU_Alhambra" geonode_id="@geonode_Alhambra" language_id="&ru_RU;" name="Альгамбра" description="Альгамбра" />
+<geondds geondds_id="@geondds_ru_RU_Anaheim" geonode_id="@geonode_Anaheim" language_id="&ru_RU;" name="Анахайм" description="Анахайм" />
+<geondds geondds_id="@geondds_ru_RU_AppleValley" geonode_id="@geonode_AppleValley" language_id="&ru_RU;" name="Эппл Вэлли" description="Эппл Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_Bakersfield" geonode_id="@geonode_Bakersfield" language_id="&ru_RU;" name="Бейкерсфилд" description="Бейкерсфилд" />
+<geondds geondds_id="@geondds_ru_RU_Berkeley" geonode_id="@geonode_Berkeley" language_id="&ru_RU;" name="Беркли" description="Беркли" />
+<geondds geondds_id="@geondds_ru_RU_BeverlyHills" geonode_id="@geonode_BeverlyHills" language_id="&ru_RU;" name="Беверли-Хиллз" description="Беверли-Хиллз" />
+<geondds geondds_id="@geondds_ru_RU_Cerritos" geonode_id="@geonode_Cerritos" language_id="&ru_RU;" name="Серритос" description="Серритос" />
+<geondds geondds_id="@geondds_ru_RU_Chico" geonode_id="@geonode_Chico" language_id="&ru_RU;" name="Чико" description="Чико" />
+<geondds geondds_id="@geondds_ru_RU_Chino" geonode_id="@geonode_Chino" language_id="&ru_RU;" name="Чайно" description="Чайно" />
+<geondds geondds_id="@geondds_ru_RU_ChinoHills" geonode_id="@geonode_ChinoHills" language_id="&ru_RU;" name="Чайно-Хиллз" description="Чайно-Хиллз" />
+<geondds geondds_id="@geondds_ru_RU_CitrusHeights" geonode_id="@geonode_CitrusHeights" language_id="&ru_RU;" name="Цитрус-Хайтс" description="Цитрус-Хайтс" />
+<geondds geondds_id="@geondds_ru_RU_Corona" geonode_id="@geonode_Corona" language_id="&ru_RU;" name="Корона" description="Корона" />
+<geondds geondds_id="@geondds_ru_RU_Compton" geonode_id="@geonode_Compton" language_id="&ru_RU;" name="Комптон" description="Комптон" />
+<geondds geondds_id="@geondds_ru_RU_DalyCity" geonode_id="@geonode_DalyCity" language_id="&ru_RU;" name="Дэли-Сити" description="Дэли-Сити" />
+<geondds geondds_id="@geondds_ru_RU_DiamondBar" geonode_id="@geonode_DiamondBar" language_id="&ru_RU;" name="Даймонд-Бар" description="Даймонд-Бар" />
+<geondds geondds_id="@geondds_ru_RU_Downey" geonode_id="@geonode_Downey" language_id="&ru_RU;" name="Дауни" description="Дауни" />
+<geondds geondds_id="@geondds_ru_RU_Escondido" geonode_id="@geonode_Escondido" language_id="&ru_RU;" name="Эскондидо" description="Эскондидо" />
+<geondds geondds_id="@geondds_ru_RU_Eureka" geonode_id="@geonode_Eureka" language_id="&ru_RU;" name="Эврика" description="Эврика" />
+<geondds geondds_id="@geondds_ru_RU_Fairfield" geonode_id="@geonode_Fairfield" language_id="&ru_RU;" name="Фэрфилд" description="Фэрфилд" />
+<geondds geondds_id="@geondds_ru_RU_Fremont" geonode_id="@geonode_Fremont" language_id="&ru_RU;" name="Фремонт" description="Фремонт" />
+<geondds geondds_id="@geondds_ru_RU_Fresno" geonode_id="@geonode_Fresno" language_id="&ru_RU;" name="Фресно" description="Фресно" />
+<geondds geondds_id="@geondds_ru_RU_Fullerton" geonode_id="@geonode_Fullerton" language_id="&ru_RU;" name="Фуллертон" description="Фуллертон" />
+<geondds geondds_id="@geondds_ru_RU_GardenGrove" geonode_id="@geonode_GardenGrove" language_id="&ru_RU;" name="Гарден-Гров" description="Гарден-Гров" />
+<geondds geondds_id="@geondds_ru_RU_GlendaleCA" geonode_id="@geonode_GlendaleCA" language_id="&ru_RU;" name="Глендейл (Калифорния)" description="Глендейл (Калифорния)" />
+<geondds geondds_id="@geondds_ru_RU_HalfMoonBay" geonode_id="@geonode_HalfMoonBay" language_id="&ru_RU;" name="Хаф-Мун-Бэй" description="Хаф-Мун-Бэй" />
+<geondds geondds_id="@geondds_ru_RU_HuntingtonBeach" geonode_id="@geonode_HuntingtonBeach" language_id="&ru_RU;" name="Хантингтон-Бич" description="Хантингтон-Бич" />
+<geondds geondds_id="@geondds_ru_RU_HuntingtonPark" geonode_id="@geonode_HuntingtonPark" language_id="&ru_RU;" name="Хантингтон-Парк" description="Хантингтон-Парк" />
+<geondds geondds_id="@geondds_ru_RU_LakewoodCA" geonode_id="@geonode_LakewoodCA" language_id="&ru_RU;" name="Лейквуд (Калифорния)" description="Лейквуд (Калифорния)" />
+<geondds geondds_id="@geondds_ru_RU_Lancaster" geonode_id="@geonode_Lancaster" language_id="&ru_RU;" name="Ланкастер" description="Ланкастер" />
+<geondds geondds_id="@geondds_ru_RU_Lodi" geonode_id="@geonode_Lodi" language_id="&ru_RU;" name="Лоди" description="Лоди" />
+<geondds geondds_id="@geondds_ru_RU_LongBeach" geonode_id="@geonode_LongBeach" language_id="&ru_RU;" name="Лонг-Бич" description="Лонг-Бич" />
+<geondds geondds_id="@geondds_ru_RU_LosAngeles" geonode_id="@geonode_LosAngeles" language_id="&ru_RU;" name="Лос-Анджелес" description="Лос-Анджелес" />
+<geondds geondds_id="@geondds_ru_RU_Merced" geonode_id="@geonode_Merced" language_id="&ru_RU;" name="Мерсед" description="Мерсед" />
+<geondds geondds_id="@geondds_ru_RU_Modesto" geonode_id="@geonode_Modesto" language_id="&ru_RU;" name="Модесто" description="Модесто" />
+<geondds geondds_id="@geondds_ru_RU_Monterey" geonode_id="@geonode_Monterey" language_id="&ru_RU;" name="Монтерей" description="Монтерей" />
+<geondds geondds_id="@geondds_ru_RU_MorenoValley" geonode_id="@geonode_MorenoValley" language_id="&ru_RU;" name="Морено-Вэлли" description="Морено-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_Moraga" geonode_id="@geonode_Moraga" language_id="&ru_RU;" name="Морага" description="Морага" />
+<geondds geondds_id="@geondds_ru_RU_Norwalk" geonode_id="@geonode_Norwalk" language_id="&ru_RU;" name="Норуок" description="Норуок" />
+<geondds geondds_id="@geondds_ru_RU_Oakland" geonode_id="@geonode_Oakland" language_id="&ru_RU;" name="Окленд" description="Окленд" />
+<geondds geondds_id="@geondds_ru_RU_OntarioCA" geonode_id="@geonode_OntarioCA" language_id="&ru_RU;" name="Онтарио (Калифорния)" description="Онтарио (Калифорния)" />
+<geondds geondds_id="@geondds_ru_RU_Orange" geonode_id="@geonode_Orange" language_id="&ru_RU;" name="Ориндж" description="Ориндж" />
+<geondds geondds_id="@geondds_ru_RU_Oxnard" geonode_id="@geonode_Oxnard" language_id="&ru_RU;" name="Окснард" description="Окснард" />
+<geondds geondds_id="@geondds_ru_RU_Palmdale" geonode_id="@geonode_Palmdale" language_id="&ru_RU;" name="Палмдейл" description="Палмдейл" />
+<geondds geondds_id="@geondds_ru_RU_PalmSprings" geonode_id="@geonode_PalmSprings" language_id="&ru_RU;" name="Палм-Спрингз" description="Палм-Спрингз" />
+<geondds geondds_id="@geondds_ru_RU_PaloAlto" geonode_id="@geonode_PaloAlto" language_id="&ru_RU;" name="Пало-Альто" description="Пало-Альто" />
+<geondds geondds_id="@geondds_ru_RU_Paramount" geonode_id="@geonode_Paramount" language_id="&ru_RU;" name="Парамаунт" description="Парамаунт" />
+<geondds geondds_id="@geondds_ru_RU_Pasadena" geonode_id="@geonode_Pasadena" language_id="&ru_RU;" name="Пасадена" description="Пасадена" />
+<geondds geondds_id="@geondds_ru_RU_Pomona" geonode_id="@geonode_Pomona" language_id="&ru_RU;" name="Помона" description="Помона" />
+<geondds geondds_id="@geondds_ru_RU_RanchoCordova" geonode_id="@geonode_RanchoCordova" language_id="&ru_RU;" name="Ранчо-Кордова" description="Ранчо-Кордова" />
+<geondds geondds_id="@geondds_ru_RU_RanchoCucamonga" geonode_id="@geonode_RanchoCucamonga" language_id="&ru_RU;" name="Ранчо-Кукамонга" description="Ранчо-Кукамонга" />
+<geondds geondds_id="@geondds_ru_RU_Redding" geonode_id="@geonode_Redding" language_id="&ru_RU;" name="Реддинг" description="Реддинг" />
+<geondds geondds_id="@geondds_ru_RU_Redlands" geonode_id="@geonode_Redlands" language_id="&ru_RU;" name="Редлендз" description="Редлендз" />
+<geondds geondds_id="@geondds_ru_RU_Rialto" geonode_id="@geonode_Rialto" language_id="&ru_RU;" name="Риальто" description="Риальто" />
+<geondds geondds_id="@geondds_ru_RU_Riverside" geonode_id="@geonode_Riverside" language_id="&ru_RU;" name="Риверсайд" description="Риверсайд" />
+<geondds geondds_id="@geondds_ru_RU_Sacramento" geonode_id="@geonode_Sacramento" language_id="&ru_RU;" name="Сакраменто" description="Сакраменто" />
+<geondds geondds_id="@geondds_ru_RU_Salinas" geonode_id="@geonode_Salinas" language_id="&ru_RU;" name="Салинас" description="Салинас" />
+<geondds geondds_id="@geondds_ru_RU_SanBernardino" geonode_id="@geonode_SanBernardino" language_id="&ru_RU;" name="Сан-Бернардино" description="Сан-Бернардино" />
+<geondds geondds_id="@geondds_ru_RU_SanDiego" geonode_id="@geonode_SanDiego" language_id="&ru_RU;" name="Сан-Диего" description="Сан-Диего" />
+<geondds geondds_id="@geondds_ru_RU_SanFrancisco" geonode_id="@geonode_SanFrancisco" language_id="&ru_RU;" name="Сан-Франциско" description="Сан-Франциско" />
+<geondds geondds_id="@geondds_ru_RU_SanJose" geonode_id="@geonode_SanJose" language_id="&ru_RU;" name="Сан-Хосе" description="Сан-Хосе" />
+<geondds geondds_id="@geondds_ru_RU_SanJuanCapistrano" geonode_id="@geonode_SanJuanCapistrano" language_id="&ru_RU;" name="Сан-Хуан-Капистрано" description="Сан-Хуан-Капистрано" />
+<geondds geondds_id="@geondds_ru_RU_SanLuisObispo" geonode_id="@geonode_SanLuisObispo" language_id="&ru_RU;" name="Сан-Луис-Обиспо" description="Сан-Луис-Обиспо" />
+<geondds geondds_id="@geondds_ru_RU_SanMateo" geonode_id="@geonode_SanMateo" language_id="&ru_RU;" name="Сан-Матео" description="Сан-Матео" />
+<geondds geondds_id="@geondds_ru_RU_SanRafael" geonode_id="@geonode_SanRafael" language_id="&ru_RU;" name="Сан-Рафаэль" description="Сан-Рафаэль" />
+<geondds geondds_id="@geondds_ru_RU_SantaAna" geonode_id="@geonode_SantaAna" language_id="&ru_RU;" name="Санта-Ана" description="Санта-Ана" />
+<geondds geondds_id="@geondds_ru_RU_SantaBarbara" geonode_id="@geonode_SantaBarbara" language_id="&ru_RU;" name="Санта-Барбара" description="Санта-Барбара" />
+<geondds geondds_id="@geondds_ru_RU_SantaCruz" geonode_id="@geonode_SantaCruz" language_id="&ru_RU;" name="Санта-Круз" description="Санта-Круз" />
+<geondds geondds_id="@geondds_ru_RU_SantaMonica" geonode_id="@geonode_SantaMonica" language_id="&ru_RU;" name="Санта-Моника" description="Санта-Моника" />
+<geondds geondds_id="@geondds_ru_RU_SimiValley" geonode_id="@geonode_SimiValley" language_id="&ru_RU;" name="Сими-Вэлли" description="Сими-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_Stockton" geonode_id="@geonode_Stockton" language_id="&ru_RU;" name="Стоктон" description="Стоктон" />
+<geondds geondds_id="@geondds_ru_RU_ThousandOaks" geonode_id="@geonode_ThousandOaks" language_id="&ru_RU;" name="Таузенд-Оукс" description="Таузенд-Оукс" />
+<geondds geondds_id="@geondds_ru_RU_Tustin" geonode_id="@geonode_Tustin" language_id="&ru_RU;" name="Тастин" description="Тастин" />
+<geondds geondds_id="@geondds_ru_RU_Sonoma" geonode_id="@geonode_Sonoma" language_id="&ru_RU;" name="Сонома" description="Сонома" />
+<geondds geondds_id="@geondds_ru_RU_Vallejo" geonode_id="@geonode_Vallejo" language_id="&ru_RU;" name="Валледжо" description="Валледжо" />
+<geondds geondds_id="@geondds_ru_RU_Visalia" geonode_id="@geonode_Visalia" language_id="&ru_RU;" name="Вайзалия" description="Вайзалия" />
+<geondds geondds_id="@geondds_ru_RU_WestCovina" geonode_id="@geonode_WestCovina" language_id="&ru_RU;" name="Уэст-Ковайна" description="Уэст-Ковайна" />
+<geondds geondds_id="@geondds_ru_RU_Whittier" geonode_id="@geonode_Whittier" language_id="&ru_RU;" name="Уиттье" description="Уиттье" />
+<geondds geondds_id="@geondds_ru_RU_Colorado" geonode_id="@geonode_Colorado" language_id="&ru_RU;" name="Колорадо" description="Колорадо" />
+<geondds geondds_id="@geondds_ru_RU_Aspen" geonode_id="@geonode_Aspen" language_id="&ru_RU;" name="Аспен" description="Аспен" />
+<geondds geondds_id="@geondds_ru_RU_AuroraCO" geonode_id="@geonode_AuroraCO" language_id="&ru_RU;" name="Орора (Колорадо)" description="Орора (Колорадо)" />
+<geondds geondds_id="@geondds_ru_RU_Boulder" geonode_id="@geonode_Boulder" language_id="&ru_RU;" name="Боулдер" description="Боулдер" />
+<geondds geondds_id="@geondds_ru_RU_Centennial" geonode_id="@geonode_Centennial" language_id="&ru_RU;" name="Сентенниал" description="Сентенниал" />
+<geondds geondds_id="@geondds_ru_RU_ColoradoSprings" geonode_id="@geonode_ColoradoSprings" language_id="&ru_RU;" name="Колорадо-Спрингс" description="Колорадо-Спрингс" />
+<geondds geondds_id="@geondds_ru_RU_Denver" geonode_id="@geonode_Denver" language_id="&ru_RU;" name="Денвер" description="Денвер" />
+<geondds geondds_id="@geondds_ru_RU_Durango" geonode_id="@geonode_Durango" language_id="&ru_RU;" name="Дуранго" description="Дуранго" />
+<geondds geondds_id="@geondds_ru_RU_FortCollins" geonode_id="@geonode_FortCollins" language_id="&ru_RU;" name="Форт-Коллинз" description="Форт-Коллинз" />
+<geondds geondds_id="@geondds_ru_RU_GrandJunction" geonode_id="@geonode_GrandJunction" language_id="&ru_RU;" name="Гранд-Джанкшен" description="Гранд-Джанкшен" />
+<geondds geondds_id="@geondds_ru_RU_LakewoodCO" geonode_id="@geonode_LakewoodCO" language_id="&ru_RU;" name="Лейквуд (Колорадо)" description="Лейквуд (Колорадо)" />
+<geondds geondds_id="@geondds_ru_RU_Littleton" geonode_id="@geonode_Littleton" language_id="&ru_RU;" name="Литтлтон" description="Литтлтон" />
+<geondds geondds_id="@geondds_ru_RU_Pueblo" geonode_id="@geonode_Pueblo" language_id="&ru_RU;" name="Пуэбло" description="Пуэбло" />
+<geondds geondds_id="@geondds_ru_RU_Vail" geonode_id="@geonode_Vail" language_id="&ru_RU;" name="Вейл" description="Вейл" />
+<geondds geondds_id="@geondds_ru_RU_Connecticut" geonode_id="@geonode_Connecticut" language_id="&ru_RU;" name="Коннектикут" description="Коннектикут" />
+<geondds geondds_id="@geondds_ru_RU_Bridgeport" geonode_id="@geonode_Bridgeport" language_id="&ru_RU;" name="Бриджпорт" description="Бриджпорт" />
+<geondds geondds_id="@geondds_ru_RU_Greenwich" geonode_id="@geonode_Greenwich" language_id="&ru_RU;" name="Гринвич" description="Гринвич" />
+<geondds geondds_id="@geondds_ru_RU_Hartford" geonode_id="@geonode_Hartford" language_id="&ru_RU;" name="Хартфорд" description="Хартфорд" />
+<geondds geondds_id="@geondds_ru_RU_MiddletownCT" geonode_id="@geonode_MiddletownCT" language_id="&ru_RU;" name="Мидлтаун (Коннектикут)" description="Мидлтаун (Коннектикут)" />
+<geondds geondds_id="@geondds_ru_RU_NewBritain" geonode_id="@geonode_NewBritain" language_id="&ru_RU;" name="Нью-Бритен" description="Нью-Бритен" />
+<geondds geondds_id="@geondds_ru_RU_NewHaven" geonode_id="@geonode_NewHaven" language_id="&ru_RU;" name="Нью-Хейвен" description="Нью-Хейвен" />
+<geondds geondds_id="@geondds_ru_RU_NewLondon" geonode_id="@geonode_NewLondon" language_id="&ru_RU;" name="Нью-Лондон" description="Нью-Лондон" />
+<geondds geondds_id="@geondds_ru_RU_Norwich" geonode_id="@geonode_Norwich" language_id="&ru_RU;" name="Норвич" description="Норвич" />
+<geondds geondds_id="@geondds_ru_RU_Stamford" geonode_id="@geonode_Stamford" language_id="&ru_RU;" name="Стамфорд" description="Стамфорд" />
+<geondds geondds_id="@geondds_ru_RU_Storrs" geonode_id="@geonode_Storrs" language_id="&ru_RU;" name="Сторрз" description="Сторрз" />
+<geondds geondds_id="@geondds_ru_RU_Delaware" geonode_id="@geonode_Delaware" language_id="&ru_RU;" name="Делавэр" description="Делавэр" />
+<geondds geondds_id="@geondds_ru_RU_DoverDE" geonode_id="@geonode_DoverDE" language_id="&ru_RU;" name="Дувр (Делавэр)" description="Дувр (Делавэр)" />
+<geondds geondds_id="@geondds_ru_RU_Elsmere" geonode_id="@geonode_Elsmere" language_id="&ru_RU;" name="Элсмир" description="Элсмир" />
+<geondds geondds_id="@geondds_ru_RU_Georgetown" geonode_id="@geonode_Georgetown" language_id="&ru_RU;" name="Джорджтаун" description="Джорджтаун" />
+<geondds geondds_id="@geondds_ru_RU_Milford" geonode_id="@geonode_Milford" language_id="&ru_RU;" name="Милфорд" description="Милфорд" />
+<geondds geondds_id="@geondds_ru_RU_NewCastle" geonode_id="@geonode_NewCastle" language_id="&ru_RU;" name="Нью-Касл" description="Нью-Касл" />
+<geondds geondds_id="@geondds_ru_RU_RehobothBeach" geonode_id="@geonode_RehobothBeach" language_id="&ru_RU;" name="Рехобот-Бич" description="Рехобот-Бич" />
+<geondds geondds_id="@geondds_ru_RU_Seaford" geonode_id="@geonode_Seaford" language_id="&ru_RU;" name="Сифорд" description="Сифорд" />
+<geondds geondds_id="@geondds_ru_RU_WilmingtonDE" geonode_id="@geonode_WilmingtonDE" language_id="&ru_RU;" name="Уилмингтон (Делавэр)" description="Уилмингтон (Делавэр)" />
+<geondds geondds_id="@geondds_ru_RU_DistrictofColumbia" geonode_id="@geonode_DistrictofColumbia" language_id="&ru_RU;" name="округ Колумбия" description="округ Колумбия" />
+<geondds geondds_id="@geondds_ru_RU_WashingtonDC" geonode_id="@geonode_WashingtonDC" language_id="&ru_RU;" name="Вашингтон (округ Колумбия)" description="Вашингтон (округ Колумбия)" />
+<geondds geondds_id="@geondds_ru_RU_Florida" geonode_id="@geonode_Florida" language_id="&ru_RU;" name="Флорида" description="Флорида" />
+<geondds geondds_id="@geondds_ru_RU_BocaRaton" geonode_id="@geonode_BocaRaton" language_id="&ru_RU;" name="Бока-Ратон" description="Бока-Ратон" />
+<geondds geondds_id="@geondds_ru_RU_Bradenton" geonode_id="@geonode_Bradenton" language_id="&ru_RU;" name="Брэдентон" description="Брэдентон" />
+<geondds geondds_id="@geondds_ru_RU_Brandon" geonode_id="@geonode_Brandon" language_id="&ru_RU;" name="Брэндон" description="Брэндон" />
+<geondds geondds_id="@geondds_ru_RU_CapeCoral" geonode_id="@geonode_CapeCoral" language_id="&ru_RU;" name="Кейп-Корал" description="Кейп-Корал" />
+<geondds geondds_id="@geondds_ru_RU_Clearwater" geonode_id="@geonode_Clearwater" language_id="&ru_RU;" name="Клеаруотер" description="Клеаруотер" />
+<geondds geondds_id="@geondds_ru_RU_CoralGables" geonode_id="@geonode_CoralGables" language_id="&ru_RU;" name="Корал-Гейблз" description="Корал-Гейблз" />
+<geondds geondds_id="@geondds_ru_RU_CoralSprings" geonode_id="@geonode_CoralSprings" language_id="&ru_RU;" name="Корал-Спрингз" description="Корал-Спрингз" />
+<geondds geondds_id="@geondds_ru_RU_DaytonaBeach" geonode_id="@geonode_DaytonaBeach" language_id="&ru_RU;" name="Дэйтона-Бич" description="Дэйтона-Бич" />
+<geondds geondds_id="@geondds_ru_RU_DelrayBeach" geonode_id="@geonode_DelrayBeach" language_id="&ru_RU;" name="Делрей-Бич" description="Делрей-Бич" />
+<geondds geondds_id="@geondds_ru_RU_Deltona" geonode_id="@geonode_Deltona" language_id="&ru_RU;" name="Дельтона" description="Дельтона" />
+<geondds geondds_id="@geondds_ru_RU_FortLauderdale" geonode_id="@geonode_FortLauderdale" language_id="&ru_RU;" name="Форт-Лодердейл" description="Форт-Лодердейл" />
+<geondds geondds_id="@geondds_ru_RU_FortMyers" geonode_id="@geonode_FortMyers" language_id="&ru_RU;" name="Форт-Майерз" description="Форт-Майерз" />
+<geondds geondds_id="@geondds_ru_RU_GainesvilleFL" geonode_id="@geonode_GainesvilleFL" language_id="&ru_RU;" name="Гейнсвилль (Флорида)" description="Гейнсвилль (Флорида)" />
+<geondds geondds_id="@geondds_ru_RU_Hialeah" geonode_id="@geonode_Hialeah" language_id="&ru_RU;" name="Хайалиа" description="Хайалиа" />
+<geondds geondds_id="@geondds_ru_RU_Hollywood" geonode_id="@geonode_Hollywood" language_id="&ru_RU;" name="Голливуд" description="Голливуд" />
+<geondds geondds_id="@geondds_ru_RU_JacksonvilleFL" geonode_id="@geonode_JacksonvilleFL" language_id="&ru_RU;" name="Джэксонвилль (Флорида)" description="Джэксонвилль (Флорида)" />
+<geondds geondds_id="@geondds_ru_RU_Kendall" geonode_id="@geonode_Kendall" language_id="&ru_RU;" name="Кендалл" description="Кендалл" />
+<geondds geondds_id="@geondds_ru_RU_KeyWest" geonode_id="@geonode_KeyWest" language_id="&ru_RU;" name="Ки-Уэст" description="Ки-Уэст" />
+<geondds geondds_id="@geondds_ru_RU_Kissimmee" geonode_id="@geonode_Kissimmee" language_id="&ru_RU;" name="Киссимми" description="Киссимми" />
+<geondds geondds_id="@geondds_ru_RU_Lakeland" geonode_id="@geonode_Lakeland" language_id="&ru_RU;" name="Лейкленд" description="Лейкленд" />
+<geondds geondds_id="@geondds_ru_RU_Melbourne" geonode_id="@geonode_Melbourne" language_id="&ru_RU;" name="Мельбурн" description="Мельбурн" />
+<geondds geondds_id="@geondds_ru_RU_Miami" geonode_id="@geonode_Miami" language_id="&ru_RU;" name="Майами" description="Майами" />
+<geondds geondds_id="@geondds_ru_RU_MiamiBeach" geonode_id="@geonode_MiamiBeach" language_id="&ru_RU;" name="Майами-Бич" description="Майами-Бич" />
+<geondds geondds_id="@geondds_ru_RU_MiamiGardens" geonode_id="@geonode_MiamiGardens" language_id="&ru_RU;" name="Майами-Гарденс" description="Майами-Гарденс" />
+<geondds geondds_id="@geondds_ru_RU_NorthMiami" geonode_id="@geonode_NorthMiami" language_id="&ru_RU;" name="Норт-Майами" description="Норт-Майами" />
+<geondds geondds_id="@geondds_ru_RU_Ocala" geonode_id="@geonode_Ocala" language_id="&ru_RU;" name="Окала" description="Окала" />
+<geondds geondds_id="@geondds_ru_RU_Orlando" geonode_id="@geonode_Orlando" language_id="&ru_RU;" name="Орландо" description="Орландо" />
+<geondds geondds_id="@geondds_ru_RU_PalmBeach" geonode_id="@geonode_PalmBeach" language_id="&ru_RU;" name="Палм-Бич" description="Палм-Бич" />
+<geondds geondds_id="@geondds_ru_RU_PanamaCity" geonode_id="@geonode_PanamaCity" language_id="&ru_RU;" name="Панама-Сити" description="Панама-Сити" />
+<geondds geondds_id="@geondds_ru_RU_PembrokePines" geonode_id="@geonode_PembrokePines" language_id="&ru_RU;" name="Пемброук-Пайнз" description="Пемброук-Пайнз" />
+<geondds geondds_id="@geondds_ru_RU_Pensacola" geonode_id="@geonode_Pensacola" language_id="&ru_RU;" name="Пенсакола" description="Пенсакола" />
+<geondds geondds_id="@geondds_ru_RU_Plantation" geonode_id="@geonode_Plantation" language_id="&ru_RU;" name="Плантейшен" description="Плантейшен" />
+<geondds geondds_id="@geondds_ru_RU_PompanoBeach" geonode_id="@geonode_PompanoBeach" language_id="&ru_RU;" name="Помпано-Бич" description="Помпано-Бич" />
+<geondds geondds_id="@geondds_ru_RU_PortStLucie" geonode_id="@geonode_PortStLucie" language_id="&ru_RU;" name="Порт-Сент-Люси" description="Порт-Сент-Люси" />
+<geondds geondds_id="@geondds_ru_RU_SaintAugustine" geonode_id="@geonode_SaintAugustine" language_id="&ru_RU;" name="Сент-Августин" description="Сент-Августин" />
+<geondds geondds_id="@geondds_ru_RU_SaintPetersburg" geonode_id="@geonode_SaintPetersburg" language_id="&ru_RU;" name="Сент-Питерзберг" description="Сент-Питерзберг" />
+<geondds geondds_id="@geondds_ru_RU_Sarasota" geonode_id="@geonode_Sarasota" language_id="&ru_RU;" name="Сарасота" description="Сарасота" />
+<geondds geondds_id="@geondds_ru_RU_Sunrise" geonode_id="@geonode_Sunrise" language_id="&ru_RU;" name="Санрайз" description="Санрайз" />
+<geondds geondds_id="@geondds_ru_RU_Tallahassee" geonode_id="@geonode_Tallahassee" language_id="&ru_RU;" name="Таллахасси" description="Таллахасси" />
+<geondds geondds_id="@geondds_ru_RU_Tampa" geonode_id="@geonode_Tampa" language_id="&ru_RU;" name="Тампа" description="Тампа" />
+<geondds geondds_id="@geondds_ru_RU_WestPalmBeach" geonode_id="@geonode_WestPalmBeach" language_id="&ru_RU;" name="Уэст-Палм-Бич" description="Уэст-Палм-Бич" />
+<geondds geondds_id="@geondds_ru_RU_Georgia" geonode_id="@geonode_Georgia" language_id="&ru_RU;" name="Georgia" description="Georgia" />
+<geondds geondds_id="@geondds_ru_RU_Alpharetta" geonode_id="@geonode_Alpharetta" language_id="&ru_RU;" name="Альфаретта" description="Альфаретта" />
+<geondds geondds_id="@geondds_ru_RU_AthensGA" geonode_id="@geonode_AthensGA" language_id="&ru_RU;" name="Афины (Джорджия)" description="Афины (Джорджия)" />
+<geondds geondds_id="@geondds_ru_RU_Atlanta" geonode_id="@geonode_Atlanta" language_id="&ru_RU;" name="Атланта" description="Атланта" />
+<geondds geondds_id="@geondds_ru_RU_AugustaGA" geonode_id="@geonode_AugustaGA" language_id="&ru_RU;" name="Огаста (Джорджия)" description="Огаста (Джорджия)" />
+<geondds geondds_id="@geondds_ru_RU_Brunswick" geonode_id="@geonode_Brunswick" language_id="&ru_RU;" name="Брюнсвик" description="Брюнсвик" />
+<geondds geondds_id="@geondds_ru_RU_ColumbusGA" geonode_id="@geonode_ColumbusGA" language_id="&ru_RU;" name="Колумбус (Джорджия)" description="Колумбус (Джорджия)" />
+<geondds geondds_id="@geondds_ru_RU_Dalton" geonode_id="@geonode_Dalton" language_id="&ru_RU;" name="Далтон" description="Далтон" />
+<geondds geondds_id="@geondds_ru_RU_GainesvilleGA" geonode_id="@geonode_GainesvilleGA" language_id="&ru_RU;" name="Гейнсвилль (Джорджия)" description="Гейнсвилль (Джорджия)" />
+<geondds geondds_id="@geondds_ru_RU_Kennesaw" geonode_id="@geonode_Kennesaw" language_id="&ru_RU;" name="Кеннесо" description="Кеннесо" />
+<geondds geondds_id="@geondds_ru_RU_LaGrange" geonode_id="@geonode_LaGrange" language_id="&ru_RU;" name="Ла-Гранж" description="Ла-Гранж" />
+<geondds geondds_id="@geondds_ru_RU_Macon" geonode_id="@geonode_Macon" language_id="&ru_RU;" name="Мейкон" description="Мейкон" />
+<geondds geondds_id="@geondds_ru_RU_Marietta" geonode_id="@geonode_Marietta" language_id="&ru_RU;" name="Мариетта" description="Мариетта" />
+<geondds geondds_id="@geondds_ru_RU_Rome" geonode_id="@geonode_Rome" language_id="&ru_RU;" name="Роум" description="Роум" />
+<geondds geondds_id="@geondds_ru_RU_RoswellGA" geonode_id="@geonode_RoswellGA" language_id="&ru_RU;" name="Розуэлл (Джорджия)" description="Розуэлл (Джорджия)" />
+<geondds geondds_id="@geondds_ru_RU_SandySprings" geonode_id="@geonode_SandySprings" language_id="&ru_RU;" name="Сэнди-Спрингз" description="Сэнди-Спрингз" />
+<geondds geondds_id="@geondds_ru_RU_Savannah" geonode_id="@geonode_Savannah" language_id="&ru_RU;" name="Саванна" description="Саванна" />
+<geondds geondds_id="@geondds_ru_RU_Statesboro" geonode_id="@geonode_Statesboro" language_id="&ru_RU;" name="Стейтсборо" description="Стейтсборо" />
+<geondds geondds_id="@geondds_ru_RU_Thomasville" geonode_id="@geonode_Thomasville" language_id="&ru_RU;" name="Томасвилль" description="Томасвилль" />
+<geondds geondds_id="@geondds_ru_RU_Valdosta" geonode_id="@geonode_Valdosta" language_id="&ru_RU;" name="Вальдоста" description="Вальдоста" />
+<geondds geondds_id="@geondds_ru_RU_WarnerRobins" geonode_id="@geonode_WarnerRobins" language_id="&ru_RU;" name="Уорнер-Робинс" description="Уорнер-Робинс" />
+<geondds geondds_id="@geondds_ru_RU_Waycross" geonode_id="@geonode_Waycross" language_id="&ru_RU;" name="Уэйкросс" description="Уэйкросс" />
+<geondds geondds_id="@geondds_ru_RU_Hawaii" geonode_id="@geonode_Hawaii" language_id="&ru_RU;" name="Гавайи" description="Гавайи" />
+<geondds geondds_id="@geondds_ru_RU_Hilo" geonode_id="@geonode_Hilo" language_id="&ru_RU;" name="Хайлоу" description="Хайлоу" />
+<geondds geondds_id="@geondds_ru_RU_Honolulu" geonode_id="@geonode_Honolulu" language_id="&ru_RU;" name="Гонолулу" description="Гонолулу" />
+<geondds geondds_id="@geondds_ru_RU_Kailua" geonode_id="@geonode_Kailua" language_id="&ru_RU;" name="Каилуа" description="Каилуа" />
+<geondds geondds_id="@geondds_ru_RU_KailuaKona" geonode_id="@geonode_KailuaKona" language_id="&ru_RU;" name="Каилуа-Кона" description="Каилуа-Кона" />
+<geondds geondds_id="@geondds_ru_RU_Lahaina" geonode_id="@geonode_Lahaina" language_id="&ru_RU;" name="Лахаина" description="Лахаина" />
+<geondds geondds_id="@geondds_ru_RU_Lihue" geonode_id="@geonode_Lihue" language_id="&ru_RU;" name="Лихуэ" description="Лихуэ" />
+<geondds geondds_id="@geondds_ru_RU_PearlCity" geonode_id="@geonode_PearlCity" language_id="&ru_RU;" name="Перл-Сити" description="Перл-Сити" />
+<geondds geondds_id="@geondds_ru_RU_SchofieldBarracks" geonode_id="@geonode_SchofieldBarracks" language_id="&ru_RU;" name="Шофилд-Бэрекс" description="Шофилд-Бэрекс" />
+<geondds geondds_id="@geondds_ru_RU_Wahiawa" geonode_id="@geonode_Wahiawa" language_id="&ru_RU;" name="Вахиава" description="Вахиава" />
+<geondds geondds_id="@geondds_ru_RU_Waipahu" geonode_id="@geonode_Waipahu" language_id="&ru_RU;" name="Ваипаху" description="Ваипаху" />
+<geondds geondds_id="@geondds_ru_RU_Idaho" geonode_id="@geonode_Idaho" language_id="&ru_RU;" name="Айдахо" description="Айдахо" />
+<geondds geondds_id="@geondds_ru_RU_Boise" geonode_id="@geonode_Boise" language_id="&ru_RU;" name="Боизе" description="Боизе" />
+<geondds geondds_id="@geondds_ru_RU_CoeurdAlene" geonode_id="@geonode_CoeurdAlene" language_id="&ru_RU;" name="Кер д''Ален" description="Кер д''Ален" />
+<geondds geondds_id="@geondds_ru_RU_IdahoFalls" geonode_id="@geonode_IdahoFalls" language_id="&ru_RU;" name="Айдахо-Фоллз" description="Айдахо-Фоллз" />
+<geondds geondds_id="@geondds_ru_RU_LewistonID" geonode_id="@geonode_LewistonID" language_id="&ru_RU;" name="Льюистон (Айдахо)" description="Льюистон (Айдахо)" />
+<geondds geondds_id="@geondds_ru_RU_Moscow" geonode_id="@geonode_Moscow" language_id="&ru_RU;" name="Москоу" description="Москоу" />
+<geondds geondds_id="@geondds_ru_RU_Nampa" geonode_id="@geonode_Nampa" language_id="&ru_RU;" name="Нампа" description="Нампа" />
+<geondds geondds_id="@geondds_ru_RU_Pocatello" geonode_id="@geonode_Pocatello" language_id="&ru_RU;" name="Покателло" description="Покателло" />
+<geondds geondds_id="@geondds_ru_RU_Sandpoint" geonode_id="@geonode_Sandpoint" language_id="&ru_RU;" name="Сэндпойнт" description="Сэндпойнт" />
+<geondds geondds_id="@geondds_ru_RU_SunValley" geonode_id="@geonode_SunValley" language_id="&ru_RU;" name="Сан-Вэлли" description="Сан-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_TwinFalls" geonode_id="@geonode_TwinFalls" language_id="&ru_RU;" name="Твин-Фоллз" description="Твин-Фоллз" />
+<geondds geondds_id="@geondds_ru_RU_Illinois" geonode_id="@geonode_Illinois" language_id="&ru_RU;" name="Иллинойс" description="Иллинойс" />
+<geondds geondds_id="@geondds_ru_RU_AuroraIL" geonode_id="@geonode_AuroraIL" language_id="&ru_RU;" name="Орора (Иллинойс)" description="Орора (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_BellevilleIL" geonode_id="@geonode_BellevilleIL" language_id="&ru_RU;" name="Белвилл (Иллинойс)" description="Белвилл (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_BloomingtonIL" geonode_id="@geonode_BloomingtonIL" language_id="&ru_RU;" name="Блумингтон (Иллинойс)" description="Блумингтон (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_Cairo" geonode_id="@geonode_Cairo" language_id="&ru_RU;" name="Каир" description="Каир" />
+<geondds geondds_id="@geondds_ru_RU_CalumetCity" geonode_id="@geonode_CalumetCity" language_id="&ru_RU;" name="Калумет-Сити" description="Калумет-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Carbondale" geonode_id="@geonode_Carbondale" language_id="&ru_RU;" name="Карбондейл" description="Карбондейл" />
+<geondds geondds_id="@geondds_ru_RU_Champaign" geonode_id="@geonode_Champaign" language_id="&ru_RU;" name="Шампейн" description="Шампейн" />
+<geondds geondds_id="@geondds_ru_RU_CharlestonIL" geonode_id="@geonode_CharlestonIL" language_id="&ru_RU;" name="Чарлстон (Иллинойс)" description="Чарлстон (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_Chicago" geonode_id="@geonode_Chicago" language_id="&ru_RU;" name="Чикаго" description="Чикаго" />
+<geondds geondds_id="@geondds_ru_RU_ChicagoHeights" geonode_id="@geonode_ChicagoHeights" language_id="&ru_RU;" name="Чикаго-Хайтс" description="Чикаго-Хайтс" />
+<geondds geondds_id="@geondds_ru_RU_Cicero" geonode_id="@geonode_Cicero" language_id="&ru_RU;" name="Цицеро" description="Цицеро" />
+<geondds geondds_id="@geondds_ru_RU_DanvilleIL" geonode_id="@geonode_DanvilleIL" language_id="&ru_RU;" name="Дэнвилл (Иллинойс)" description="Дэнвилл (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_DecaturIL" geonode_id="@geonode_DecaturIL" language_id="&ru_RU;" name="Декатур (Иллинойс)" description="Декатур (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_DeKalb" geonode_id="@geonode_DeKalb" language_id="&ru_RU;" name="Лекалб" description="Лекалб" />
+<geondds geondds_id="@geondds_ru_RU_EastStLouis" geonode_id="@geonode_EastStLouis" language_id="&ru_RU;" name="Ист-Сент-Льюис" description="Ист-Сент-Льюис" />
+<geondds geondds_id="@geondds_ru_RU_EvanstonIL" geonode_id="@geonode_EvanstonIL" language_id="&ru_RU;" name="Эванстон (Иллинойс)" description="Эванстон (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_Galesburg" geonode_id="@geonode_Galesburg" language_id="&ru_RU;" name="Гейлсберг" description="Гейлсберг" />
+<geondds geondds_id="@geondds_ru_RU_HighlandPark" geonode_id="@geonode_HighlandPark" language_id="&ru_RU;" name="Хайленд-Парк" description="Хайленд-Парк" />
+<geondds geondds_id="@geondds_ru_RU_Joliet" geonode_id="@geonode_Joliet" language_id="&ru_RU;" name="Джолиет" description="Джолиет" />
+<geondds geondds_id="@geondds_ru_RU_Kankakee" geonode_id="@geonode_Kankakee" language_id="&ru_RU;" name="Канкакее" description="Канкакее" />
+<geondds geondds_id="@geondds_ru_RU_Macomb" geonode_id="@geonode_Macomb" language_id="&ru_RU;" name="Мейком" description="Мейком" />
+<geondds geondds_id="@geondds_ru_RU_Moline" geonode_id="@geonode_Moline" language_id="&ru_RU;" name="Молине" description="Молине" />
+<geondds geondds_id="@geondds_ru_RU_Naperville" geonode_id="@geonode_Naperville" language_id="&ru_RU;" name="Нейпервилль" description="Нейпервилль" />
+<geondds geondds_id="@geondds_ru_RU_Normal" geonode_id="@geonode_Normal" language_id="&ru_RU;" name="Обычный" description="Обычный" />
+<geondds geondds_id="@geondds_ru_RU_NorthChicago" geonode_id="@geonode_NorthChicago" language_id="&ru_RU;" name="Норт-Чикаго" description="Норт-Чикаго" />
+<geondds geondds_id="@geondds_ru_RU_PeoriaIL" geonode_id="@geonode_PeoriaIL" language_id="&ru_RU;" name="Пеория (Иллинойс)" description="Пеория (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_QuincyIL" geonode_id="@geonode_QuincyIL" language_id="&ru_RU;" name="Куинси (Иллинойс)" description="Куинси (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_RockIsland" geonode_id="@geonode_RockIsland" language_id="&ru_RU;" name="Рок-Айленд" description="Рок-Айленд" />
+<geondds geondds_id="@geondds_ru_RU_Rockford" geonode_id="@geonode_Rockford" language_id="&ru_RU;" name="Рокфорд" description="Рокфорд" />
+<geondds geondds_id="@geondds_ru_RU_SpringfieldIL" geonode_id="@geonode_SpringfieldIL" language_id="&ru_RU;" name="Спрингфилд (Иллинойс)" description="Спрингфилд (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_Urbana" geonode_id="@geonode_Urbana" language_id="&ru_RU;" name="Урбана" description="Урбана" />
+<geondds geondds_id="@geondds_ru_RU_Waukegan" geonode_id="@geonode_Waukegan" language_id="&ru_RU;" name="Уокиган" description="Уокиган" />
+<geondds geondds_id="@geondds_ru_RU_WheatonIL" geonode_id="@geonode_WheatonIL" language_id="&ru_RU;" name="Уитон (Иллинойс)" description="Уитон (Иллинойс)" />
+<geondds geondds_id="@geondds_ru_RU_Indiana" geonode_id="@geonode_Indiana" language_id="&ru_RU;" name="Индиана" description="Индиана" />
+<geondds geondds_id="@geondds_ru_RU_BloomingtonIN" geonode_id="@geonode_BloomingtonIN" language_id="&ru_RU;" name="Блумингтон (Индиана)" description="Блумингтон (Индиана)" />
+<geondds geondds_id="@geondds_ru_RU_Elkhart" geonode_id="@geonode_Elkhart" language_id="&ru_RU;" name="Элкхарт" description="Элкхарт" />
+<geondds geondds_id="@geondds_ru_RU_Evansville" geonode_id="@geonode_Evansville" language_id="&ru_RU;" name="Эвансвилл" description="Эвансвилл" />
+<geondds geondds_id="@geondds_ru_RU_FortWayne" geonode_id="@geonode_FortWayne" language_id="&ru_RU;" name="Форт-Уэйн" description="Форт-Уэйн" />
+<geondds geondds_id="@geondds_ru_RU_Gary" geonode_id="@geonode_Gary" language_id="&ru_RU;" name="Гэри" description="Гэри" />
+<geondds geondds_id="@geondds_ru_RU_HammondIN" geonode_id="@geonode_HammondIN" language_id="&ru_RU;" name="Хаммонд (Индиана)" description="Хаммонд (Индиана)" />
+<geondds geondds_id="@geondds_ru_RU_Indianapolis" geonode_id="@geonode_Indianapolis" language_id="&ru_RU;" name="Индианаполис" description="Индианаполис" />
+<geondds geondds_id="@geondds_ru_RU_Kokomo" geonode_id="@geonode_Kokomo" language_id="&ru_RU;" name="Кокомо" description="Кокомо" />
+<geondds geondds_id="@geondds_ru_RU_LafayetteIN" geonode_id="@geonode_LafayetteIN" language_id="&ru_RU;" name="Лафейетт (Индиана)" description="Лафейетт (Индиана)" />
+<geondds geondds_id="@geondds_ru_RU_Muncie" geonode_id="@geonode_Muncie" language_id="&ru_RU;" name="Манси" description="Манси" />
+<geondds geondds_id="@geondds_ru_RU_NotreDame" geonode_id="@geonode_NotreDame" language_id="&ru_RU;" name="Нотр-Дам" description="Нотр-Дам" />
+<geondds geondds_id="@geondds_ru_RU_SouthBend" geonode_id="@geonode_SouthBend" language_id="&ru_RU;" name="Саут-Бенд" description="Саут-Бенд" />
+<geondds geondds_id="@geondds_ru_RU_TerreHaute" geonode_id="@geonode_TerreHaute" language_id="&ru_RU;" name="Терре-От" description="Терре-От" />
+<geondds geondds_id="@geondds_ru_RU_Valparaiso" geonode_id="@geonode_Valparaiso" language_id="&ru_RU;" name="Вальпараисо" description="Вальпараисо" />
+<geondds geondds_id="@geondds_ru_RU_Vincennes" geonode_id="@geonode_Vincennes" language_id="&ru_RU;" name="Винсеннез" description="Винсеннез" />
+<geondds geondds_id="@geondds_ru_RU_WestLafayette" geonode_id="@geonode_WestLafayette" language_id="&ru_RU;" name="Вест-Лафайетт" description="Вест-Лафайетт" />
+<geondds geondds_id="@geondds_ru_RU_Iowa" geonode_id="@geonode_Iowa" language_id="&ru_RU;" name="Айова" description="Айова" />
+<geondds geondds_id="@geondds_ru_RU_Ames" geonode_id="@geonode_Ames" language_id="&ru_RU;" name="Эймз" description="Эймз" />
+<geondds geondds_id="@geondds_ru_RU_CedarFalls" geonode_id="@geonode_CedarFalls" language_id="&ru_RU;" name="Сидэ-Фоллз" description="Сидэ-Фоллз" />
+<geondds geondds_id="@geondds_ru_RU_CedarRapids" geonode_id="@geonode_CedarRapids" language_id="&ru_RU;" name="Сидэ-Рэпидз" description="Сидэ-Рэпидз" />
+<geondds geondds_id="@geondds_ru_RU_CouncilBluffs" geonode_id="@geonode_CouncilBluffs" language_id="&ru_RU;" name="Каунсил-Блаффс" description="Каунсил-Блаффс" />
+<geondds geondds_id="@geondds_ru_RU_Davenport" geonode_id="@geonode_Davenport" language_id="&ru_RU;" name="Давенпорт" description="Давенпорт" />
+<geondds geondds_id="@geondds_ru_RU_DesMoines" geonode_id="@geonode_DesMoines" language_id="&ru_RU;" name="Де-Моин" description="Де-Моин" />
+<geondds geondds_id="@geondds_ru_RU_Dubuque" geonode_id="@geonode_Dubuque" language_id="&ru_RU;" name="Дубьюк" description="Дубьюк" />
+<geondds geondds_id="@geondds_ru_RU_FortDodge" geonode_id="@geonode_FortDodge" language_id="&ru_RU;" name="Форт-Додж" description="Форт-Додж" />
+<geondds geondds_id="@geondds_ru_RU_IowaCity" geonode_id="@geonode_IowaCity" language_id="&ru_RU;" name="Айова-Сити" description="Айова-Сити" />
+<geondds geondds_id="@geondds_ru_RU_MasonCity" geonode_id="@geonode_MasonCity" language_id="&ru_RU;" name="Мэйсон-Сити" description="Мэйсон-Сити" />
+<geondds geondds_id="@geondds_ru_RU_SiouxCity" geonode_id="@geonode_SiouxCity" language_id="&ru_RU;" name="Сиу-Сити" description="Сиу-Сити" />
+<geondds geondds_id="@geondds_ru_RU_WaterlooIA" geonode_id="@geonode_WaterlooIA" language_id="&ru_RU;" name="Уотерлу (Айова)" description="Уотерлу (Айова)" />
+<geondds geondds_id="@geondds_ru_RU_Kansas" geonode_id="@geonode_Kansas" language_id="&ru_RU;" name="Канзас" description="Канзас" />
+<geondds geondds_id="@geondds_ru_RU_AbileneKS" geonode_id="@geonode_AbileneKS" language_id="&ru_RU;" name="Абилин (Канзас)" description="Абилин (Канзас)" />
+<geondds geondds_id="@geondds_ru_RU_DodgeCity" geonode_id="@geonode_DodgeCity" language_id="&ru_RU;" name="Додж-Сити" description="Додж-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Hutchinson" geonode_id="@geonode_Hutchinson" language_id="&ru_RU;" name="Хатчинсон" description="Хатчинсон" />
+<geondds geondds_id="@geondds_ru_RU_KansasCityKS" geonode_id="@geonode_KansasCityKS" language_id="&ru_RU;" name="Канзас-Сити (Канзас)" description="Канзас-Сити (Канзас)" />
+<geondds geondds_id="@geondds_ru_RU_Lawrence" geonode_id="@geonode_Lawrence" language_id="&ru_RU;" name="Лоренс" description="Лоренс" />
+<geondds geondds_id="@geondds_ru_RU_Liberal" geonode_id="@geonode_Liberal" language_id="&ru_RU;" name="Либерал" description="Либерал" />
+<geondds geondds_id="@geondds_ru_RU_Manhattan" geonode_id="@geonode_Manhattan" language_id="&ru_RU;" name="Манхэттен" description="Манхэттен" />
+<geondds geondds_id="@geondds_ru_RU_OverlandParksas" geonode_id="@geonode_OverlandParksas" language_id="&ru_RU;" name="Оверленд-Парк" description="Оверленд-Парк" />
+<geondds geondds_id="@geondds_ru_RU_Topeka" geonode_id="@geonode_Topeka" language_id="&ru_RU;" name="Топика" description="Топика" />
+<geondds geondds_id="@geondds_ru_RU_Wichita" geonode_id="@geonode_Wichita" language_id="&ru_RU;" name="Уичита" description="Уичита" />
+<geondds geondds_id="@geondds_ru_RU_Kentucky" geonode_id="@geonode_Kentucky" language_id="&ru_RU;" name="Кентукки" description="Кентукки" />
+<geondds geondds_id="@geondds_ru_RU_BowlingGreenKY" geonode_id="@geonode_BowlingGreenKY" language_id="&ru_RU;" name="Боулинг-Грин (Кентукки)" description="Боулинг-Грин (Кентукки)" />
+<geondds geondds_id="@geondds_ru_RU_Covington" geonode_id="@geonode_Covington" language_id="&ru_RU;" name="Ковингтон" description="Ковингтон" />
+<geondds geondds_id="@geondds_ru_RU_DanvilleKY" geonode_id="@geonode_DanvilleKY" language_id="&ru_RU;" name="Дэнвилл (Кентукки)" description="Дэнвилл (Кентукки)" />
+<geondds geondds_id="@geondds_ru_RU_FlorenceKY" geonode_id="@geonode_FlorenceKY" language_id="&ru_RU;" name="Флоренс (Кентукки)" description="Флоренс (Кентукки)" />
+<geondds geondds_id="@geondds_ru_RU_Frankfort" geonode_id="@geonode_Frankfort" language_id="&ru_RU;" name="Франкфорт" description="Франкфорт" />
+<geondds geondds_id="@geondds_ru_RU_Hopkinsville" geonode_id="@geonode_Hopkinsville" language_id="&ru_RU;" name="Хопкинсвилль" description="Хопкинсвилль" />
+<geondds geondds_id="@geondds_ru_RU_Jeffersontown" geonode_id="@geonode_Jeffersontown" language_id="&ru_RU;" name="Джефферсонтаун" description="Джефферсонтаун" />
+<geondds geondds_id="@geondds_ru_RU_LexingtonKY" geonode_id="@geonode_LexingtonKY" language_id="&ru_RU;" name="Лексингтон (Кентукки)" description="Лексингтон (Кентукки)" />
+<geondds geondds_id="@geondds_ru_RU_Louisville" geonode_id="@geonode_Louisville" language_id="&ru_RU;" name="Луисвилль" description="Луисвилль" />
+<geondds geondds_id="@geondds_ru_RU_Murray" geonode_id="@geonode_Murray" language_id="&ru_RU;" name="Муррей" description="Муррей" />
+<geondds geondds_id="@geondds_ru_RU_Owensboro" geonode_id="@geonode_Owensboro" language_id="&ru_RU;" name="Оуэнсборо" description="Оуэнсборо" />
+<geondds geondds_id="@geondds_ru_RU_Paducah" geonode_id="@geonode_Paducah" language_id="&ru_RU;" name="Падьюка" description="Падьюка" />
+<geondds geondds_id="@geondds_ru_RU_RichmondKY" geonode_id="@geonode_RichmondKY" language_id="&ru_RU;" name="Ричмонд (Кентукки)" description="Ричмонд (Кентукки)" />
+<geondds geondds_id="@geondds_ru_RU_Louisiana" geonode_id="@geonode_Louisiana" language_id="&ru_RU;" name="Луизиана" description="Луизиана" />
+<geondds geondds_id="@geondds_ru_RU_AlexandriaLA" geonode_id="@geonode_AlexandriaLA" language_id="&ru_RU;" name="Александрия (Луизиана)" description="Александрия (Луизиана)" />
+<geondds geondds_id="@geondds_ru_RU_BatonRouge" geonode_id="@geonode_BatonRouge" language_id="&ru_RU;" name="Батон-Руж" description="Батон-Руж" />
+<geondds geondds_id="@geondds_ru_RU_BossierCity" geonode_id="@geonode_BossierCity" language_id="&ru_RU;" name="Боссье-Сити" description="Боссье-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Grambling" geonode_id="@geonode_Grambling" language_id="&ru_RU;" name="Грэмблинг" description="Грэмблинг" />
+<geondds geondds_id="@geondds_ru_RU_HammondLA" geonode_id="@geonode_HammondLA" language_id="&ru_RU;" name="Хаммонд (Луизиана)" description="Хаммонд (Луизиана)" />
+<geondds geondds_id="@geondds_ru_RU_Houma" geonode_id="@geonode_Houma" language_id="&ru_RU;" name="Хоума" description="Хоума" />
+<geondds geondds_id="@geondds_ru_RU_Kenner" geonode_id="@geonode_Kenner" language_id="&ru_RU;" name="Кеннер" description="Кеннер" />
+<geondds geondds_id="@geondds_ru_RU_LafayetteLA" geonode_id="@geonode_LafayetteLA" language_id="&ru_RU;" name="Лафайетт (Луизиана)" description="Лафайетт (Луизиана)" />
+<geondds geondds_id="@geondds_ru_RU_LakeCharles" geonode_id="@geonode_LakeCharles" language_id="&ru_RU;" name="Лейк-Чарльз" description="Лейк-Чарльз" />
+<geondds geondds_id="@geondds_ru_RU_Metairie" geonode_id="@geonode_Metairie" language_id="&ru_RU;" name="Метаири" description="Метаири" />
+<geondds geondds_id="@geondds_ru_RU_Monroe" geonode_id="@geonode_Monroe" language_id="&ru_RU;" name="Монро" description="Монро" />
+<geondds geondds_id="@geondds_ru_RU_MorganCity" geonode_id="@geonode_MorganCity" language_id="&ru_RU;" name="Морган-Сити" description="Морган-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Natchitoches" geonode_id="@geonode_Natchitoches" language_id="&ru_RU;" name="Натчиточес" description="Натчиточес" />
+<geondds geondds_id="@geondds_ru_RU_NewIberia" geonode_id="@geonode_NewIberia" language_id="&ru_RU;" name="Нью-Иберия" description="Нью-Иберия" />
+<geondds geondds_id="@geondds_ru_RU_NewOrleans" geonode_id="@geonode_NewOrleans" language_id="&ru_RU;" name="Новый Орлеан" description="Новый Орлеан" />
+<geondds geondds_id="@geondds_ru_RU_Opelousas" geonode_id="@geonode_Opelousas" language_id="&ru_RU;" name="Опелузас" description="Опелузас" />
+<geondds geondds_id="@geondds_ru_RU_Ruston" geonode_id="@geonode_Ruston" language_id="&ru_RU;" name="Растон" description="Растон" />
+<geondds geondds_id="@geondds_ru_RU_Shreveport" geonode_id="@geonode_Shreveport" language_id="&ru_RU;" name="Шривпорт" description="Шривпорт" />
+<geondds geondds_id="@geondds_ru_RU_Slidell" geonode_id="@geonode_Slidell" language_id="&ru_RU;" name="Слайделл" description="Слайделл" />
+<geondds geondds_id="@geondds_ru_RU_Thibodaux" geonode_id="@geonode_Thibodaux" language_id="&ru_RU;" name="Тибодо" description="Тибодо" />
+<geondds geondds_id="@geondds_ru_RU_Maine" geonode_id="@geonode_Maine" language_id="&ru_RU;" name="Мэн" description="Мэн" />
+<geondds geondds_id="@geondds_ru_RU_AugustaME" geonode_id="@geonode_AugustaME" language_id="&ru_RU;" name="Огаста (Мэн)" description="Огаста (Мэн)" />
+<geondds geondds_id="@geondds_ru_RU_Bangor" geonode_id="@geonode_Bangor" language_id="&ru_RU;" name="Бангор" description="Бангор" />
+<geondds geondds_id="@geondds_ru_RU_BarHarbor" geonode_id="@geonode_BarHarbor" language_id="&ru_RU;" name="Бар-Харбор" description="Бар-Харбор" />
+<geondds geondds_id="@geondds_ru_RU_Caribou" geonode_id="@geonode_Caribou" language_id="&ru_RU;" name="Карибу" description="Карибу" />
+<geondds geondds_id="@geondds_ru_RU_Freeport" geonode_id="@geonode_Freeport" language_id="&ru_RU;" name="Фрипорт" description="Фрипорт" />
+<geondds geondds_id="@geondds_ru_RU_Kennebunk" geonode_id="@geonode_Kennebunk" language_id="&ru_RU;" name="Кеннебанк" description="Кеннебанк" />
+<geondds geondds_id="@geondds_ru_RU_LewistonME" geonode_id="@geonode_LewistonME" language_id="&ru_RU;" name="Льюистон (Мэн)" description="Льюистон (Мэн)" />
+<geondds geondds_id="@geondds_ru_RU_Orono" geonode_id="@geonode_Orono" language_id="&ru_RU;" name="Ороно" description="Ороно" />
+<geondds geondds_id="@geondds_ru_RU_PortlandME" geonode_id="@geonode_PortlandME" language_id="&ru_RU;" name="Портленд (Мэн)" description="Портленд (Мэн)" />
+<geondds geondds_id="@geondds_ru_RU_PresqueIsle" geonode_id="@geonode_PresqueIsle" language_id="&ru_RU;" name="Преск-Айл" description="Преск-Айл" />
+<geondds geondds_id="@geondds_ru_RU_Maryland" geonode_id="@geonode_Maryland" language_id="&ru_RU;" name="Мэриленд" description="Мэриленд" />
+<geondds geondds_id="@geondds_ru_RU_Annapolis" geonode_id="@geonode_Annapolis" language_id="&ru_RU;" name="Аннаполис (Мэриленд)" description="Аннаполис (Мэриленд)" />
+<geondds geondds_id="@geondds_ru_RU_Baltimore" geonode_id="@geonode_Baltimore" language_id="&ru_RU;" name="Балтимор" description="Балтимор" />
+<geondds geondds_id="@geondds_ru_RU_Bethesda" geonode_id="@geonode_Bethesda" language_id="&ru_RU;" name="Бетесда" description="Бетесда" />
+<geondds geondds_id="@geondds_ru_RU_Bowie" geonode_id="@geonode_Bowie" language_id="&ru_RU;" name="Боуи" description="Боуи" />
+<geondds geondds_id="@geondds_ru_RU_CollegePark" geonode_id="@geonode_CollegePark" language_id="&ru_RU;" name="Колледж-Парк" description="Колледж-Парк" />
+<geondds geondds_id="@geondds_ru_RU_Dundalk" geonode_id="@geonode_Dundalk" language_id="&ru_RU;" name="Дандолк" description="Дандолк" />
+<geondds geondds_id="@geondds_ru_RU_Cumberland" geonode_id="@geonode_Cumberland" language_id="&ru_RU;" name="Камберленд" description="Камберленд" />
+<geondds geondds_id="@geondds_ru_RU_Frederick" geonode_id="@geonode_Frederick" language_id="&ru_RU;" name="Фредерик" description="Фредерик" />
+<geondds geondds_id="@geondds_ru_RU_Gaithersburg" geonode_id="@geonode_Gaithersburg" language_id="&ru_RU;" name="Гейтерсберг" description="Гейтерсберг" />
+<geondds geondds_id="@geondds_ru_RU_Germantown" geonode_id="@geonode_Germantown" language_id="&ru_RU;" name="Джермантаун" description="Джермантаун" />
+<geondds geondds_id="@geondds_ru_RU_Hagerstown" geonode_id="@geonode_Hagerstown" language_id="&ru_RU;" name="Хейгерстаун" description="Хейгерстаун" />
+<geondds geondds_id="@geondds_ru_RU_LaurelMD" geonode_id="@geonode_LaurelMD" language_id="&ru_RU;" name="Лорел (Мэриленд)" description="Лорел (Мэриленд)" />
+<geondds geondds_id="@geondds_ru_RU_OceanCity" geonode_id="@geonode_OceanCity" language_id="&ru_RU;" name="Оушен-Сити" description="Оушен-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Rockville" geonode_id="@geonode_Rockville" language_id="&ru_RU;" name="Роквилль" description="Роквилль" />
+<geondds geondds_id="@geondds_ru_RU_Salisbury" geonode_id="@geonode_Salisbury" language_id="&ru_RU;" name="Солсбери" description="Солсбери" />
+<geondds geondds_id="@geondds_ru_RU_SilverSpring" geonode_id="@geonode_SilverSpring" language_id="&ru_RU;" name="Силвер-Спринг" description="Силвер-Спринг" />
+<geondds geondds_id="@geondds_ru_RU_Towson" geonode_id="@geonode_Towson" language_id="&ru_RU;" name="Тоусон" description="Тоусон" />
+<geondds geondds_id="@geondds_ru_RU_Waldorf" geonode_id="@geonode_Waldorf" language_id="&ru_RU;" name="Уолдорф" description="Уолдорф" />
+<geondds geondds_id="@geondds_ru_RU_WheatonMD" geonode_id="@geonode_WheatonMD" language_id="&ru_RU;" name="Уитон (Мэриленд)" description="Уитон (Мэриленд)" />
+<geondds geondds_id="@geondds_ru_RU_Massachusetts" geonode_id="@geonode_Massachusetts" language_id="&ru_RU;" name="Массачусетс" description="Массачусетс" />
+<geondds geondds_id="@geondds_ru_RU_Andover" geonode_id="@geonode_Andover" language_id="&ru_RU;" name="Эндовер" description="Эндовер" />
+<geondds geondds_id="@geondds_ru_RU_Boston" geonode_id="@geonode_Boston" language_id="&ru_RU;" name="Бостон" description="Бостон" />
+<geondds geondds_id="@geondds_ru_RU_Braintree" geonode_id="@geonode_Braintree" language_id="&ru_RU;" name="Брэйнтри" description="Брэйнтри" />
+<geondds geondds_id="@geondds_ru_RU_CambridgeMA" geonode_id="@geonode_CambridgeMA" language_id="&ru_RU;" name="Кембридж (Массачусетс)" description="Кембридж (Массачусетс)" />
+<geondds geondds_id="@geondds_ru_RU_Chelsea" geonode_id="@geonode_Chelsea" language_id="&ru_RU;" name="Челси" description="Челси" />
+<geondds geondds_id="@geondds_ru_RU_ChestnutHill" geonode_id="@geonode_ChestnutHill" language_id="&ru_RU;" name="Чеснат-Хилл" description="Чеснат-Хилл" />
+<geondds geondds_id="@geondds_ru_RU_Danvers" geonode_id="@geonode_Danvers" language_id="&ru_RU;" name="Дэнверз" description="Дэнверз" />
+<geondds geondds_id="@geondds_ru_RU_Dorchester" geonode_id="@geonode_Dorchester" language_id="&ru_RU;" name="Дорчестер" description="Дорчестер" />
+<geondds geondds_id="@geondds_ru_RU_FallRiver" geonode_id="@geonode_FallRiver" language_id="&ru_RU;" name="Фолл-Ривер" description="Фолл-Ривер" />
+<geondds geondds_id="@geondds_ru_RU_Framingham" geonode_id="@geonode_Framingham" language_id="&ru_RU;" name="Фрэмингэм" description="Фрэмингэм" />
+<geondds geondds_id="@geondds_ru_RU_Lowell" geonode_id="@geonode_Lowell" language_id="&ru_RU;" name="Лоуэлл" description="Лоуэлл" />
+<geondds geondds_id="@geondds_ru_RU_Nantucket" geonode_id="@geonode_Nantucket" language_id="&ru_RU;" name="Нэнтакет" description="Нэнтакет" />
+<geondds geondds_id="@geondds_ru_RU_Newburyport" geonode_id="@geonode_Newburyport" language_id="&ru_RU;" name="Ньюберипорт" description="Ньюберипорт" />
+<geondds geondds_id="@geondds_ru_RU_NorthAndover" geonode_id="@geonode_NorthAndover" language_id="&ru_RU;" name="Норт-Эндовер" description="Норт-Эндовер" />
+<geondds geondds_id="@geondds_ru_RU_Pittsfield" geonode_id="@geonode_Pittsfield" language_id="&ru_RU;" name="Питсфилд" description="Питсфилд" />
+<geondds geondds_id="@geondds_ru_RU_Plymouth" geonode_id="@geonode_Plymouth" language_id="&ru_RU;" name="Плимут" description="Плимут" />
+<geondds geondds_id="@geondds_ru_RU_QuincyMA" geonode_id="@geonode_QuincyMA" language_id="&ru_RU;" name="Куинси (Массачусетс)" description="Куинси (Массачусетс)" />
+<geondds geondds_id="@geondds_ru_RU_Revere" geonode_id="@geonode_Revere" language_id="&ru_RU;" name="Ревери" description="Ревери" />
+<geondds geondds_id="@geondds_ru_RU_Roxbury" geonode_id="@geonode_Roxbury" language_id="&ru_RU;" name="Роксбери" description="Роксбери" />
+<geondds geondds_id="@geondds_ru_RU_SpringfieldMA" geonode_id="@geonode_SpringfieldMA" language_id="&ru_RU;" name="Спрингфилд (Массачусетс)" description="Спрингфилд (Массачусетс)" />
+<geondds geondds_id="@geondds_ru_RU_Taunton" geonode_id="@geonode_Taunton" language_id="&ru_RU;" name="Тонтон" description="Тонтон" />
+<geondds geondds_id="@geondds_ru_RU_Worcester" geonode_id="@geonode_Worcester" language_id="&ru_RU;" name="Вустер" description="Вустер" />
+<geondds geondds_id="@geondds_ru_RU_Michigan" geonode_id="@geonode_Michigan" language_id="&ru_RU;" name="Мичиган" description="Мичиган" />
+<geondds geondds_id="@geondds_ru_RU_AnnArbor" geonode_id="@geonode_AnnArbor" language_id="&ru_RU;" name="Энн-Арбор" description="Энн-Арбор" />
+<geondds geondds_id="@geondds_ru_RU_AuburnHills" geonode_id="@geonode_AuburnHills" language_id="&ru_RU;" name="Оберн-Хиллз" description="Оберн-Хиллз" />
+<geondds geondds_id="@geondds_ru_RU_BattleCreek" geonode_id="@geonode_BattleCreek" language_id="&ru_RU;" name="Бэттл-Крик" description="Бэттл-Крик" />
+<geondds geondds_id="@geondds_ru_RU_BayCity" geonode_id="@geonode_BayCity" language_id="&ru_RU;" name="Бэй-Сити" description="Бэй-Сити" />
+<geondds geondds_id="@geondds_ru_RU_BentonHarbor" geonode_id="@geonode_BentonHarbor" language_id="&ru_RU;" name="Бентон-Харбор" description="Бентон-Харбор" />
+<geondds geondds_id="@geondds_ru_RU_Dearborn" geonode_id="@geonode_Dearborn" language_id="&ru_RU;" name="Дирборн" description="Дирборн" />
+<geondds geondds_id="@geondds_ru_RU_Detroit" geonode_id="@geonode_Detroit" language_id="&ru_RU;" name="Детройт" description="Детройт" />
+<geondds geondds_id="@geondds_ru_RU_EastLansing" geonode_id="@geonode_EastLansing" language_id="&ru_RU;" name="Ист-Лэнзинг" description="Ист-Лэнзинг" />
+<geondds geondds_id="@geondds_ru_RU_Flint" geonode_id="@geonode_Flint" language_id="&ru_RU;" name="Флинт" description="Флинт" />
+<geondds geondds_id="@geondds_ru_RU_GrandRapids" geonode_id="@geonode_GrandRapids" language_id="&ru_RU;" name="Гранд-Рапидс" description="Гранд-Рапидс" />
+<geondds geondds_id="@geondds_ru_RU_Kalamazoo" geonode_id="@geonode_Kalamazoo" language_id="&ru_RU;" name="Каламазу" description="Каламазу" />
+<geondds geondds_id="@geondds_ru_RU_Lansing" geonode_id="@geonode_Lansing" language_id="&ru_RU;" name="Лансинг" description="Лансинг" />
+<geondds geondds_id="@geondds_ru_RU_Marquette" geonode_id="@geonode_Marquette" language_id="&ru_RU;" name="Маркетт" description="Маркетт" />
+<geondds geondds_id="@geondds_ru_RU_MidlandMI" geonode_id="@geonode_MidlandMI" language_id="&ru_RU;" name="Мидленд (Мичиган)" description="Мидленд (Мичиган)" />
+<geondds geondds_id="@geondds_ru_RU_MountPleasant" geonode_id="@geonode_MountPleasant" language_id="&ru_RU;" name="Маунт-Плезент" description="Маунт-Плезент" />
+<geondds geondds_id="@geondds_ru_RU_Muskegon" geonode_id="@geonode_Muskegon" language_id="&ru_RU;" name="Маскигон" description="Маскигон" />
+<geondds geondds_id="@geondds_ru_RU_PortHuron" geonode_id="@geonode_PortHuron" language_id="&ru_RU;" name="Порт-Гурон" description="Порт-Гурон" />
+<geondds geondds_id="@geondds_ru_RU_Saginaw" geonode_id="@geonode_Saginaw" language_id="&ru_RU;" name="Сагино" description="Сагино" />
+<geondds geondds_id="@geondds_ru_RU_SaultSteMarieMI" geonode_id="@geonode_SaultSteMarieMI" language_id="&ru_RU;" name="Су-Сент-Мари (Мичиган)" description="Су-Сент-Мари (Мичиган)" />
+<geondds geondds_id="@geondds_ru_RU_Warren" geonode_id="@geonode_Warren" language_id="&ru_RU;" name="Уоррен" description="Уоррен" />
+<geondds geondds_id="@geondds_ru_RU_Ypsilanti" geonode_id="@geonode_Ypsilanti" language_id="&ru_RU;" name="Ипсиланти" description="Ипсиланти" />
+<geondds geondds_id="@geondds_ru_RU_Minnesota" geonode_id="@geonode_Minnesota" language_id="&ru_RU;" name="Миннесота" description="Миннесота" />
+<geondds geondds_id="@geondds_ru_RU_BloomingtonMN" geonode_id="@geonode_BloomingtonMN" language_id="&ru_RU;" name="Блумингтон (Миннесота)" description="Блумингтон (Миннесота)" />
+<geondds geondds_id="@geondds_ru_RU_BrooklynPark" geonode_id="@geonode_BrooklynPark" language_id="&ru_RU;" name="Бруклин-Парк" description="Бруклин-Парк" />
+<geondds geondds_id="@geondds_ru_RU_Duluth" geonode_id="@geonode_Duluth" language_id="&ru_RU;" name="Дулут" description="Дулут" />
+<geondds geondds_id="@geondds_ru_RU_ForestLake" geonode_id="@geonode_ForestLake" language_id="&ru_RU;" name="Форест-Лейк" description="Форест-Лейк" />
+<geondds geondds_id="@geondds_ru_RU_InternationalFalls" geonode_id="@geonode_InternationalFalls" language_id="&ru_RU;" name="Интернэшнел-Фаллз" description="Интернэшнел-Фаллз" />
+<geondds geondds_id="@geondds_ru_RU_Mankato" geonode_id="@geonode_Mankato" language_id="&ru_RU;" name="Мэнкато" description="Мэнкато" />
+<geondds geondds_id="@geondds_ru_RU_Minneapolis" geonode_id="@geonode_Minneapolis" language_id="&ru_RU;" name="Миннеаполис" description="Миннеаполис" />
+<geondds geondds_id="@geondds_ru_RU_Minnetonka" geonode_id="@geonode_Minnetonka" language_id="&ru_RU;" name="Миннетонка" description="Миннетонка" />
+<geondds geondds_id="@geondds_ru_RU_Moorhead" geonode_id="@geonode_Moorhead" language_id="&ru_RU;" name="Мурхед" description="Мурхед" />
+<geondds geondds_id="@geondds_ru_RU_RochesterMN" geonode_id="@geonode_RochesterMN" language_id="&ru_RU;" name="Рочестер (Миннесота)" description="Рочестер (Миннесота)" />
+<geondds geondds_id="@geondds_ru_RU_SaintCloud" geonode_id="@geonode_SaintCloud" language_id="&ru_RU;" name="Сент-Клод" description="Сент-Клод" />
+<geondds geondds_id="@geondds_ru_RU_SaintPaul" geonode_id="@geonode_SaintPaul" language_id="&ru_RU;" name="Сент-Пол" description="Сент-Пол" />
+<geondds geondds_id="@geondds_ru_RU_Mississippi" geonode_id="@geonode_Mississippi" language_id="&ru_RU;" name="Миссисипи" description="Миссисипи" />
+<geondds geondds_id="@geondds_ru_RU_BayStLouis" geonode_id="@geonode_BayStLouis" language_id="&ru_RU;" name="Бэй-Сент-Луис" description="Бэй-Сент-Луис" />
+<geondds geondds_id="@geondds_ru_RU_Biloxi" geonode_id="@geonode_Biloxi" language_id="&ru_RU;" name="Билокси" description="Билокси" />
+<geondds geondds_id="@geondds_ru_RU_ColumbusMS" geonode_id="@geonode_ColumbusMS" language_id="&ru_RU;" name="Коламбус (Миссисипи)" description="Коламбус (Миссисипи)" />
+<geondds geondds_id="@geondds_ru_RU_Corinth" geonode_id="@geonode_Corinth" language_id="&ru_RU;" name="Коринф" description="Коринф" />
+<geondds geondds_id="@geondds_ru_RU_GreenvilleMS" geonode_id="@geonode_GreenvilleMS" language_id="&ru_RU;" name="Гринвилль (Миссисипи)" description="Гринвилль (Миссисипи)" />
+<geondds geondds_id="@geondds_ru_RU_Gulfport" geonode_id="@geonode_Gulfport" language_id="&ru_RU;" name="Галфпорт" description="Галфпорт" />
+<geondds geondds_id="@geondds_ru_RU_Hattiesburg" geonode_id="@geonode_Hattiesburg" language_id="&ru_RU;" name="Хаттисберг" description="Хаттисберг" />
+<geondds geondds_id="@geondds_ru_RU_JacksonMS" geonode_id="@geonode_JacksonMS" language_id="&ru_RU;" name="Джексон (Миссисипи)" description="Джексон (Миссисипи)" />
+<geondds geondds_id="@geondds_ru_RU_LaurelMS" geonode_id="@geonode_LaurelMS" language_id="&ru_RU;" name="Лорел (Миссисипи)" description="Лорел (Миссисипи)" />
+<geondds geondds_id="@geondds_ru_RU_Meridian" geonode_id="@geonode_Meridian" language_id="&ru_RU;" name="Меридиан" description="Меридиан" />
+<geondds geondds_id="@geondds_ru_RU_Natchez" geonode_id="@geonode_Natchez" language_id="&ru_RU;" name="Натчез" description="Натчез" />
+<geondds geondds_id="@geondds_ru_RU_OxfordMS" geonode_id="@geonode_OxfordMS" language_id="&ru_RU;" name="Оксфорд (Миссисипи)" description="Оксфорд (Миссисипи)" />
+<geondds geondds_id="@geondds_ru_RU_Pascagoula" geonode_id="@geonode_Pascagoula" language_id="&ru_RU;" name="Паскагула" description="Паскагула" />
+<geondds geondds_id="@geondds_ru_RU_PassChristian" geonode_id="@geonode_PassChristian" language_id="&ru_RU;" name="Пас-Кристчен" description="Пас-Кристчен" />
+<geondds geondds_id="@geondds_ru_RU_Starkville" geonode_id="@geonode_Starkville" language_id="&ru_RU;" name="Старквилль" description="Старквилль" />
+<geondds geondds_id="@geondds_ru_RU_Tupelo" geonode_id="@geonode_Tupelo" language_id="&ru_RU;" name="Тупело" description="Тупело" />
+<geondds geondds_id="@geondds_ru_RU_Vicksburg" geonode_id="@geonode_Vicksburg" language_id="&ru_RU;" name="Виксберг" description="Виксберг" />
+<geondds geondds_id="@geondds_ru_RU_YazooCity" geonode_id="@geonode_YazooCity" language_id="&ru_RU;" name="Язу-Сити" description="Язу-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Missouri" geonode_id="@geonode_Missouri" language_id="&ru_RU;" name="Миссури" description="Миссури" />
+<geondds geondds_id="@geondds_ru_RU_Branson" geonode_id="@geonode_Branson" language_id="&ru_RU;" name="Брэнсон" description="Брэнсон" />
+<geondds geondds_id="@geondds_ru_RU_CapeGirardeau" geonode_id="@geonode_CapeGirardeau" language_id="&ru_RU;" name="Кейп-Жирардо" description="Кейп-Жирардо" />
+<geondds geondds_id="@geondds_ru_RU_ColumbiaMO" geonode_id="@geonode_ColumbiaMO" language_id="&ru_RU;" name="Коламбия (Миссури)" description="Коламбия (Миссури)" />
+<geondds geondds_id="@geondds_ru_RU_Fulton" geonode_id="@geonode_Fulton" language_id="&ru_RU;" name="Фултон" description="Фултон" />
+<geondds geondds_id="@geondds_ru_RU_Hannibal" geonode_id="@geonode_Hannibal" language_id="&ru_RU;" name="Ганнибал" description="Ганнибал" />
+<geondds geondds_id="@geondds_ru_RU_Independence" geonode_id="@geonode_Independence" language_id="&ru_RU;" name="Индепенденс" description="Индепенденс" />
+<geondds geondds_id="@geondds_ru_RU_JeffersonCity" geonode_id="@geonode_JeffersonCity" language_id="&ru_RU;" name="Джефферсон-Сити" description="Джефферсон-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Joplin" geonode_id="@geonode_Joplin" language_id="&ru_RU;" name="Джоплин" description="Джоплин" />
+<geondds geondds_id="@geondds_ru_RU_KansasCityMO" geonode_id="@geonode_KansasCityMO" language_id="&ru_RU;" name="Канзас-Сити (Миссури)" description="Канзас-Сити (Миссури)" />
+<geondds geondds_id="@geondds_ru_RU_NewMadrid" geonode_id="@geonode_NewMadrid" language_id="&ru_RU;" name="Нью-Мадрид" description="Нью-Мадрид" />
+<geondds geondds_id="@geondds_ru_RU_Rolla" geonode_id="@geonode_Rolla" language_id="&ru_RU;" name="Ролла" description="Ролла" />
+<geondds geondds_id="@geondds_ru_RU_SaintJoseph" geonode_id="@geonode_SaintJoseph" language_id="&ru_RU;" name="Сент-Джозеф" description="Сент-Джозеф" />
+<geondds geondds_id="@geondds_ru_RU_SaintLouis" geonode_id="@geonode_SaintLouis" language_id="&ru_RU;" name="Сент-Луис" description="Сент-Луис" />
+<geondds geondds_id="@geondds_ru_RU_Sedalia" geonode_id="@geonode_Sedalia" language_id="&ru_RU;" name="Седалиа" description="Седалиа" />
+<geondds geondds_id="@geondds_ru_RU_SpringfieldMO" geonode_id="@geonode_SpringfieldMO" language_id="&ru_RU;" name="Спрингфилд (Миссури)" description="Спрингфилд (Миссури)" />
+<geondds geondds_id="@geondds_ru_RU_WebsterGroves" geonode_id="@geonode_WebsterGroves" language_id="&ru_RU;" name="Вебстер-Грувз" description="Вебстер-Грувз" />
+<geondds geondds_id="@geondds_ru_RU_Montana" geonode_id="@geonode_Montana" language_id="&ru_RU;" name="Монтана" description="Монтана" />
+<geondds geondds_id="@geondds_ru_RU_Anaconda" geonode_id="@geonode_Anaconda" language_id="&ru_RU;" name="Анаконда" description="Анаконда" />
+<geondds geondds_id="@geondds_ru_RU_Billings" geonode_id="@geonode_Billings" language_id="&ru_RU;" name="Биллингс" description="Биллингс" />
+<geondds geondds_id="@geondds_ru_RU_Bozeman" geonode_id="@geonode_Bozeman" language_id="&ru_RU;" name="Боузмэн" description="Боузмэн" />
+<geondds geondds_id="@geondds_ru_RU_Butte" geonode_id="@geonode_Butte" language_id="&ru_RU;" name="Бьютт" description="Бьютт" />
+<geondds geondds_id="@geondds_ru_RU_GreatFalls" geonode_id="@geonode_GreatFalls" language_id="&ru_RU;" name="Грейт-Фолс" description="Грейт-Фолс" />
+<geondds geondds_id="@geondds_ru_RU_Helena" geonode_id="@geonode_Helena" language_id="&ru_RU;" name="Хелена" description="Хелена" />
+<geondds geondds_id="@geondds_ru_RU_Kalispell" geonode_id="@geonode_Kalispell" language_id="&ru_RU;" name="Калиспелл" description="Калиспелл" />
+<geondds geondds_id="@geondds_ru_RU_Missoula" geonode_id="@geonode_Missoula" language_id="&ru_RU;" name="Миссоула" description="Миссоула" />
+<geondds geondds_id="@geondds_ru_RU_Nebraska" geonode_id="@geonode_Nebraska" language_id="&ru_RU;" name="Небраска" description="Небраска" />
+<geondds geondds_id="@geondds_ru_RU_GrandIsland" geonode_id="@geonode_GrandIsland" language_id="&ru_RU;" name="Гранд-Айленд" description="Гранд-Айленд" />
+<geondds geondds_id="@geondds_ru_RU_Hastings" geonode_id="@geonode_Hastings" language_id="&ru_RU;" name="Хейстингс" description="Хейстингс" />
+<geondds geondds_id="@geondds_ru_RU_Kearney" geonode_id="@geonode_Kearney" language_id="&ru_RU;" name="Керни" description="Керни" />
+<geondds geondds_id="@geondds_ru_RU_Lincoln" geonode_id="@geonode_Lincoln" language_id="&ru_RU;" name="Линкольн" description="Линкольн" />
+<geondds geondds_id="@geondds_ru_RU_NorthPlatte" geonode_id="@geonode_NorthPlatte" language_id="&ru_RU;" name="Норт-Платт" description="Норт-Платт" />
+<geondds geondds_id="@geondds_ru_RU_Omaha" geonode_id="@geonode_Omaha" language_id="&ru_RU;" name="Омаха" description="Омаха" />
+<geondds geondds_id="@geondds_ru_RU_Scottsbluff" geonode_id="@geonode_Scottsbluff" language_id="&ru_RU;" name="Скоттсблафф" description="Скоттсблафф" />
+<geondds geondds_id="@geondds_ru_RU_Wahoo" geonode_id="@geonode_Wahoo" language_id="&ru_RU;" name="Гавайские острова" description="Гавайские острова" />
+<geondds geondds_id="@geondds_ru_RU_Nevada" geonode_id="@geonode_Nevada" language_id="&ru_RU;" name="Невада" description="Невада" />
+<geondds geondds_id="@geondds_ru_RU_BoulderCity" geonode_id="@geonode_BoulderCity" language_id="&ru_RU;" name="Боулдер-Сити" description="Боулдер-Сити" />
+<geondds geondds_id="@geondds_ru_RU_CarsonCity" geonode_id="@geonode_CarsonCity" language_id="&ru_RU;" name="Карсон-Сити" description="Карсон-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Elko" geonode_id="@geonode_Elko" language_id="&ru_RU;" name="Элько" description="Элько" />
+<geondds geondds_id="@geondds_ru_RU_Fallon" geonode_id="@geonode_Fallon" language_id="&ru_RU;" name="Фэллон" description="Фэллон" />
+<geondds geondds_id="@geondds_ru_RU_Fernley" geonode_id="@geonode_Fernley" language_id="&ru_RU;" name="Фернли" description="Фернли" />
+<geondds geondds_id="@geondds_ru_RU_Henderson" geonode_id="@geonode_Henderson" language_id="&ru_RU;" name="Хендерсон" description="Хендерсон" />
+<geondds geondds_id="@geondds_ru_RU_LasVegas" geonode_id="@geonode_LasVegas" language_id="&ru_RU;" name="Лас-Вегас" description="Лас-Вегас" />
+<geondds geondds_id="@geondds_ru_RU_Laughlin" geonode_id="@geonode_Laughlin" language_id="&ru_RU;" name="Лафлин" description="Лафлин" />
+<geondds geondds_id="@geondds_ru_RU_NorthLasVegas" geonode_id="@geonode_NorthLasVegas" language_id="&ru_RU;" name="Норт-Лас-Вегас" description="Норт-Лас-Вегас" />
+<geondds geondds_id="@geondds_ru_RU_Pahrump" geonode_id="@geonode_Pahrump" language_id="&ru_RU;" name="Парамп" description="Парамп" />
+<geondds geondds_id="@geondds_ru_RU_Reno" geonode_id="@geonode_Reno" language_id="&ru_RU;" name="Рино" description="Рино" />
+<geondds geondds_id="@geondds_ru_RU_Winnemucca" geonode_id="@geonode_Winnemucca" language_id="&ru_RU;" name="Уиннемукка" description="Уиннемукка" />
+<geondds geondds_id="@geondds_ru_RU_NewHampshire" geonode_id="@geonode_NewHampshire" language_id="&ru_RU;" name="Нью-Гемпшир" description="Нью-Гемпшир" />
+<geondds geondds_id="@geondds_ru_RU_Berlin" geonode_id="@geonode_Berlin" language_id="&ru_RU;" name="Берлин" description="Берлин" />
+<geondds geondds_id="@geondds_ru_RU_Claremont" geonode_id="@geonode_Claremont" language_id="&ru_RU;" name="Клермонт" description="Клермонт" />
+<geondds geondds_id="@geondds_ru_RU_ConcordNH" geonode_id="@geonode_ConcordNH" language_id="&ru_RU;" name="Конкорд (Нью-Гемпшир)" description="Конкорд (Нью-Гемпшир)" />
+<geondds geondds_id="@geondds_ru_RU_DoverNH" geonode_id="@geonode_DoverNH" language_id="&ru_RU;" name="Дувр (Нью-Гемпшир)" description="Дувр (Нью-Гемпшир)" />
+<geondds geondds_id="@geondds_ru_RU_FranklinNH" geonode_id="@geonode_FranklinNH" language_id="&ru_RU;" name="Франклин (Нью-Гемпшир)" description="Франклин (Нью-Гемпшир)" />
+<geondds geondds_id="@geondds_ru_RU_Keene" geonode_id="@geonode_Keene" language_id="&ru_RU;" name="Кини" description="Кини" />
+<geondds geondds_id="@geondds_ru_RU_Laconia" geonode_id="@geonode_Laconia" language_id="&ru_RU;" name="Лакония" description="Лакония" />
+<geondds geondds_id="@geondds_ru_RU_Lebanon" geonode_id="@geonode_Lebanon" language_id="&ru_RU;" name="Ливан" description="Ливан" />
+<geondds geondds_id="@geondds_ru_RU_Loudon" geonode_id="@geonode_Loudon" language_id="&ru_RU;" name="Лондон" description="Лондон" />
+<geondds geondds_id="@geondds_ru_RU_Manchester" geonode_id="@geonode_Manchester" language_id="&ru_RU;" name="Манчестер" description="Манчестер" />
+<geondds geondds_id="@geondds_ru_RU_Nashua" geonode_id="@geonode_Nashua" language_id="&ru_RU;" name="Нэшуа" description="Нэшуа" />
+<geondds geondds_id="@geondds_ru_RU_Portsmouth" geonode_id="@geonode_Portsmouth" language_id="&ru_RU;" name="Портсмут" description="Портсмут" />
+<geondds geondds_id="@geondds_ru_RU_RochesterNH" geonode_id="@geonode_RochesterNH" language_id="&ru_RU;" name="Рочестер (Нью-Гемпшир)" description="Рочестер (Нью-Гемпшир)" />
+<geondds geondds_id="@geondds_ru_RU_Somersworth" geonode_id="@geonode_Somersworth" language_id="&ru_RU;" name="Сомерсет" description="Сомерсет" />
+<geondds geondds_id="@geondds_ru_RU_NewJersey" geonode_id="@geonode_NewJersey" language_id="&ru_RU;" name="Нью-Джерси" description="Нью-Джерси" />
+<geondds geondds_id="@geondds_ru_RU_AsburyPark" geonode_id="@geonode_AsburyPark" language_id="&ru_RU;" name="Эшбери-Парк" description="Эшбери-Парк" />
+<geondds geondds_id="@geondds_ru_RU_AtlanticCity" geonode_id="@geonode_AtlanticCity" language_id="&ru_RU;" name="Атлантик-Сити" description="Атлантик-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Camden" geonode_id="@geonode_Camden" language_id="&ru_RU;" name="Камден" description="Камден" />
+<geondds geondds_id="@geondds_ru_RU_CapeMay" geonode_id="@geonode_CapeMay" language_id="&ru_RU;" name="Кейп-Мей" description="Кейп-Мей" />
+<geondds geondds_id="@geondds_ru_RU_EastRutherford" geonode_id="@geonode_EastRutherford" language_id="&ru_RU;" name="Ист-Резерфорд" description="Ист-Резерфорд" />
+<geondds geondds_id="@geondds_ru_RU_Hackensack" geonode_id="@geonode_Hackensack" language_id="&ru_RU;" name="Хэкенсэк" description="Хэкенсэк" />
+<geondds geondds_id="@geondds_ru_RU_Hoboken" geonode_id="@geonode_Hoboken" language_id="&ru_RU;" name="Хобокен" description="Хобокен" />
+<geondds geondds_id="@geondds_ru_RU_JerseyCity" geonode_id="@geonode_JerseyCity" language_id="&ru_RU;" name="Джерси-Сити" description="Джерси-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Newark" geonode_id="@geonode_Newark" language_id="&ru_RU;" name="Ньюарк" description="Ньюарк" />
+<geondds geondds_id="@geondds_ru_RU_NewBrunswickNJ" geonode_id="@geonode_NewBrunswickNJ" language_id="&ru_RU;" name="Нью-Брансуик (Нью-Джерси)" description="Нью-Брансуик (Нью-Джерси)" />
+<geondds geondds_id="@geondds_ru_RU_Passaic" geonode_id="@geonode_Passaic" language_id="&ru_RU;" name="Пассаик" description="Пассаик" />
+<geondds geondds_id="@geondds_ru_RU_Paterson" geonode_id="@geonode_Paterson" language_id="&ru_RU;" name="Патерсон" description="Патерсон" />
+<geondds geondds_id="@geondds_ru_RU_PerthAmboy" geonode_id="@geonode_PerthAmboy" language_id="&ru_RU;" name="Перт-Амбой" description="Перт-Амбой" />
+<geondds geondds_id="@geondds_ru_RU_Princeton" geonode_id="@geonode_Princeton" language_id="&ru_RU;" name="Принстон" description="Принстон" />
+<geondds geondds_id="@geondds_ru_RU_Trenton" geonode_id="@geonode_Trenton" language_id="&ru_RU;" name="Трентон" description="Трентон" />
+<geondds geondds_id="@geondds_ru_RU_Vineland" geonode_id="@geonode_Vineland" language_id="&ru_RU;" name="Вайнленд" description="Вайнленд" />
+<geondds geondds_id="@geondds_ru_RU_NewMexico" geonode_id="@geonode_NewMexico" language_id="&ru_RU;" name="Нью-Мексико" description="Нью-Мексико" />
+<geondds geondds_id="@geondds_ru_RU_Alamogordo" geonode_id="@geonode_Alamogordo" language_id="&ru_RU;" name="Аламогордо" description="Аламогордо" />
+<geondds geondds_id="@geondds_ru_RU_Albuquerque" geonode_id="@geonode_Albuquerque" language_id="&ru_RU;" name="Альбукерке" description="Альбукерке" />
+<geondds geondds_id="@geondds_ru_RU_Clovis" geonode_id="@geonode_Clovis" language_id="&ru_RU;" name="Кловис" description="Кловис" />
+<geondds geondds_id="@geondds_ru_RU_Farmington" geonode_id="@geonode_Farmington" language_id="&ru_RU;" name="Фармингтон" description="Фармингтон" />
+<geondds geondds_id="@geondds_ru_RU_Gallup" geonode_id="@geonode_Gallup" language_id="&ru_RU;" name="Гэллап" description="Гэллап" />
+<geondds geondds_id="@geondds_ru_RU_LasCruces" geonode_id="@geonode_LasCruces" language_id="&ru_RU;" name="Лас-Крусез" description="Лас-Крусез" />
+<geondds geondds_id="@geondds_ru_RU_LosAlamos" geonode_id="@geonode_LosAlamos" language_id="&ru_RU;" name="Лос-Аламос" description="Лос-Аламос" />
+<geondds geondds_id="@geondds_ru_RU_RoswellNM" geonode_id="@geonode_RoswellNM" language_id="&ru_RU;" name="Розуэлл (Нью-Мексико)" description="Розуэлл (Нью-Мексико)" />
+<geondds geondds_id="@geondds_ru_RU_SantaFe" geonode_id="@geonode_SantaFe" language_id="&ru_RU;" name="Санта-Фе" description="Санта-Фе" />
+<geondds geondds_id="@geondds_ru_RU_TruthorConsequences" geonode_id="@geonode_TruthorConsequences" language_id="&ru_RU;" name="Трут-ор-Консеквенс" description="Трут-ор-Консеквенс" />
+<geondds geondds_id="@geondds_ru_RU_NewYork" geonode_id="@geonode_NewYork" language_id="&ru_RU;" name="Нью-Йорк" description="Нью-Йорк" />
+<geondds geondds_id="@geondds_ru_RU_Albany" geonode_id="@geonode_Albany" language_id="&ru_RU;" name="Олбани" description="Олбани" />
+<geondds geondds_id="@geondds_ru_RU_Binghamton" geonode_id="@geonode_Binghamton" language_id="&ru_RU;" name="Бингемтон" description="Бингемтон" />
+<geondds geondds_id="@geondds_ru_RU_BuffaloNY" geonode_id="@geonode_BuffaloNY" language_id="&ru_RU;" name="Буффало (Нью-Йорк)" description="Буффало (Нью-Йорк)" />
+<geondds geondds_id="@geondds_ru_RU_Cooperstown" geonode_id="@geonode_Cooperstown" language_id="&ru_RU;" name="Куперстаун" description="Куперстаун" />
+<geondds geondds_id="@geondds_ru_RU_Elmira" geonode_id="@geonode_Elmira" language_id="&ru_RU;" name="Эльмира" description="Эльмира" />
+<geondds geondds_id="@geondds_ru_RU_GlensFalls" geonode_id="@geonode_GlensFalls" language_id="&ru_RU;" name="Гленз-Фоллз" description="Гленз-Фоллз" />
+<geondds geondds_id="@geondds_ru_RU_Ithaca" geonode_id="@geonode_Ithaca" language_id="&ru_RU;" name="Итака" description="Итака" />
+<geondds geondds_id="@geondds_ru_RU_Lockport" geonode_id="@geonode_Lockport" language_id="&ru_RU;" name="Локпорт" description="Локпорт" />
+<geondds geondds_id="@geondds_ru_RU_MountVernon" geonode_id="@geonode_MountVernon" language_id="&ru_RU;" name="Маунт-Вернон" description="Маунт-Вернон" />
+<geondds geondds_id="@geondds_ru_RU_NewYorkCity" geonode_id="@geonode_NewYorkCity" language_id="&ru_RU;" name="Нью-Йорк-Сити" description="Нью-Йорк-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Newburgh" geonode_id="@geonode_Newburgh" language_id="&ru_RU;" name="Ньюберг" description="Ньюберг" />
+<geondds geondds_id="@geondds_ru_RU_NewRochelle" geonode_id="@geonode_NewRochelle" language_id="&ru_RU;" name="Нью-Рошелл" description="Нью-Рошелл" />
+<geondds geondds_id="@geondds_ru_RU_NiagaraFallsNY" geonode_id="@geonode_NiagaraFallsNY" language_id="&ru_RU;" name="Ниагара-Фоллз (Нью-Йорк)" description="Ниагара-Фоллз (Нью-Йорк)" />
+<geondds geondds_id="@geondds_ru_RU_Oneonta" geonode_id="@geonode_Oneonta" language_id="&ru_RU;" name="Онеонта" description="Онеонта" />
+<geondds geondds_id="@geondds_ru_RU_Peekskill" geonode_id="@geonode_Peekskill" language_id="&ru_RU;" name="Пикскил" description="Пикскил" />
+<geondds geondds_id="@geondds_ru_RU_Poughkeepsie" geonode_id="@geonode_Poughkeepsie" language_id="&ru_RU;" name="Паукипси" description="Паукипси" />
+<geondds geondds_id="@geondds_ru_RU_RochesterNY" geonode_id="@geonode_RochesterNY" language_id="&ru_RU;" name="Рочестер (Нью-Йорк)" description="Рочестер (Нью-Йорк)" />
+<geondds geondds_id="@geondds_ru_RU_Schenectady" geonode_id="@geonode_Schenectady" language_id="&ru_RU;" name="Скенектади" description="Скенектади" />
+<geondds geondds_id="@geondds_ru_RU_Syracuse" geonode_id="@geonode_Syracuse" language_id="&ru_RU;" name="Сиракьюс" description="Сиракьюс" />
+<geondds geondds_id="@geondds_ru_RU_Utica" geonode_id="@geonode_Utica" language_id="&ru_RU;" name="Ютика" description="Ютика" />
+<geondds geondds_id="@geondds_ru_RU_WatertownNY" geonode_id="@geonode_WatertownNY" language_id="&ru_RU;" name="Уотертаун (Нью-Йорк)" description="Уотертаун (Нью-Йорк)" />
+<geondds geondds_id="@geondds_ru_RU_WestPoint" geonode_id="@geonode_WestPoint" language_id="&ru_RU;" name="Уэст-Пойнт" description="Уэст-Пойнт" />
+<geondds geondds_id="@geondds_ru_RU_WhitePlains" geonode_id="@geonode_WhitePlains" language_id="&ru_RU;" name="Уайт-Плейнз" description="Уайт-Плейнз" />
+<geondds geondds_id="@geondds_ru_RU_Yonkers" geonode_id="@geonode_Yonkers" language_id="&ru_RU;" name="Йонкерс" description="Йонкерс" />
+<geondds geondds_id="@geondds_ru_RU_NorthCarolina" geonode_id="@geonode_NorthCarolina" language_id="&ru_RU;" name="Северная Каролина" description="Северная Каролина" />
+<geondds geondds_id="@geondds_ru_RU_Asheville" geonode_id="@geonode_Asheville" language_id="&ru_RU;" name="Ашвилл" description="Ашвилл" />
+<geondds geondds_id="@geondds_ru_RU_BurlingtonNC" geonode_id="@geonode_BurlingtonNC" language_id="&ru_RU;" name="Берлингтон (Северная Каролина)" description="Берлингтон (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Cary" geonode_id="@geonode_Cary" language_id="&ru_RU;" name="Кэри" description="Кэри" />
+<geondds geondds_id="@geondds_ru_RU_ChapelHill" geonode_id="@geonode_ChapelHill" language_id="&ru_RU;" name="Чейпл-Хилл" description="Чейпл-Хилл" />
+<geondds geondds_id="@geondds_ru_RU_Charlotte" geonode_id="@geonode_Charlotte" language_id="&ru_RU;" name="Шарлотта" description="Шарлотта" />
+<geondds geondds_id="@geondds_ru_RU_ConcordNC" geonode_id="@geonode_ConcordNC" language_id="&ru_RU;" name="Конкорд (Северная Каролина)" description="Конкорд (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Durham" geonode_id="@geonode_Durham" language_id="&ru_RU;" name="Дарем" description="Дарем" />
+<geondds geondds_id="@geondds_ru_RU_ElizabethCity" geonode_id="@geonode_ElizabethCity" language_id="&ru_RU;" name="Элизабет-Сити" description="Элизабет-Сити" />
+<geondds geondds_id="@geondds_ru_RU_FayettevilleNC" geonode_id="@geonode_FayettevilleNC" language_id="&ru_RU;" name="Фейетвилл (Северная Каролина)" description="Фейетвилл (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Gastonia" geonode_id="@geonode_Gastonia" language_id="&ru_RU;" name="Гастония" description="Гастония" />
+<geondds geondds_id="@geondds_ru_RU_Greensboro" geonode_id="@geonode_Greensboro" language_id="&ru_RU;" name="Гринсборо" description="Гринсборо" />
+<geondds geondds_id="@geondds_ru_RU_GreenvilleNC" geonode_id="@geonode_GreenvilleNC" language_id="&ru_RU;" name="Гринвилль (Северная Каролина)" description="Гринвилль (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Hickory" geonode_id="@geonode_Hickory" language_id="&ru_RU;" name="Хикори" description="Хикори" />
+<geondds geondds_id="@geondds_ru_RU_HighPoint" geonode_id="@geonode_HighPoint" language_id="&ru_RU;" name="Хай-Пойнт" description="Хай-Пойнт" />
+<geondds geondds_id="@geondds_ru_RU_JacksonvilleNC" geonode_id="@geonode_JacksonvilleNC" language_id="&ru_RU;" name="Джексонвилль (Северная Каролина)" description="Джексонвилль (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_NewBern" geonode_id="@geonode_NewBern" language_id="&ru_RU;" name="Нью-Берн" description="Нью-Берн" />
+<geondds geondds_id="@geondds_ru_RU_Raleigh" geonode_id="@geonode_Raleigh" language_id="&ru_RU;" name="Роли" description="Роли" />
+<geondds geondds_id="@geondds_ru_RU_RockyMount" geonode_id="@geonode_RockyMount" language_id="&ru_RU;" name="Роки-Маунт" description="Роки-Маунт" />
+<geondds geondds_id="@geondds_ru_RU_WilmingtonNC" geonode_id="@geonode_WilmingtonNC" language_id="&ru_RU;" name="Уилмингтон (Северная Каролина)" description="Уилмингтон (Северная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_WinstonSalem" geonode_id="@geonode_WinstonSalem" language_id="&ru_RU;" name="Уинстон-Сейлем" description="Уинстон-Сейлем" />
+<geondds geondds_id="@geondds_ru_RU_NorthDakota" geonode_id="@geonode_NorthDakota" language_id="&ru_RU;" name="Северная Дакота" description="Северная Дакота" />
+<geondds geondds_id="@geondds_ru_RU_Bismarck" geonode_id="@geonode_Bismarck" language_id="&ru_RU;" name="Бисмарк" description="Бисмарк" />
+<geondds geondds_id="@geondds_ru_RU_Dickinson" geonode_id="@geonode_Dickinson" language_id="&ru_RU;" name="Дикинсон" description="Дикинсон" />
+<geondds geondds_id="@geondds_ru_RU_Fargo" geonode_id="@geonode_Fargo" language_id="&ru_RU;" name="Фарго" description="Фарго" />
+<geondds geondds_id="@geondds_ru_RU_GrandForks" geonode_id="@geonode_GrandForks" language_id="&ru_RU;" name="Гранд-Форкс" description="Гранд-Форкс" />
+<geondds geondds_id="@geondds_ru_RU_Jamestown" geonode_id="@geonode_Jamestown" language_id="&ru_RU;" name="Джеймстаун" description="Джеймстаун" />
+<geondds geondds_id="@geondds_ru_RU_Mandan" geonode_id="@geonode_Mandan" language_id="&ru_RU;" name="Мэндан" description="Мэндан" />
+<geondds geondds_id="@geondds_ru_RU_Minot" geonode_id="@geonode_Minot" language_id="&ru_RU;" name="Майнот" description="Майнот" />
+<geondds geondds_id="@geondds_ru_RU_Williston" geonode_id="@geonode_Williston" language_id="&ru_RU;" name="Уиллистон" description="Уиллистон" />
+<geondds geondds_id="@geondds_ru_RU_Ohio" geonode_id="@geonode_Ohio" language_id="&ru_RU;" name="Огайо" description="Огайо" />
+<geondds geondds_id="@geondds_ru_RU_Akron" geonode_id="@geonode_Akron" language_id="&ru_RU;" name="Акрон" description="Акрон" />
+<geondds geondds_id="@geondds_ru_RU_AthensOH" geonode_id="@geonode_AthensOH" language_id="&ru_RU;" name="Афины (Огайо)" description="Афины (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_BowlingGreenOH" geonode_id="@geonode_BowlingGreenOH" language_id="&ru_RU;" name="Боулинг-Грин (Огайо)" description="Боулинг-Грин (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Canton" geonode_id="@geonode_Canton" language_id="&ru_RU;" name="Кантон" description="Кантон" />
+<geondds geondds_id="@geondds_ru_RU_Cincinnati" geonode_id="@geonode_Cincinnati" language_id="&ru_RU;" name="Цинциннати" description="Цинциннати" />
+<geondds geondds_id="@geondds_ru_RU_Cleveland" geonode_id="@geonode_Cleveland" language_id="&ru_RU;" name="Кливленд" description="Кливленд" />
+<geondds geondds_id="@geondds_ru_RU_ColumbusOH" geonode_id="@geonode_ColumbusOH" language_id="&ru_RU;" name="Коламбус (Огайо)" description="Коламбус (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Dayton" geonode_id="@geonode_Dayton" language_id="&ru_RU;" name="Дейтон" description="Дейтон" />
+<geondds geondds_id="@geondds_ru_RU_HamiltonOH" geonode_id="@geonode_HamiltonOH" language_id="&ru_RU;" name="Хэмилтон (Огайо)" description="Хэмилтон (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Kent" geonode_id="@geonode_Kent" language_id="&ru_RU;" name="Кент" description="Кент" />
+<geondds geondds_id="@geondds_ru_RU_Kettering" geonode_id="@geonode_Kettering" language_id="&ru_RU;" name="Кеттеринг" description="Кеттеринг" />
+<geondds geondds_id="@geondds_ru_RU_LakewoodOH" geonode_id="@geonode_LakewoodOH" language_id="&ru_RU;" name="Лейквуд (Огайо)" description="Лейквуд (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Lima" geonode_id="@geonode_Lima" language_id="&ru_RU;" name="Лайма" description="Лайма" />
+<geondds geondds_id="@geondds_ru_RU_MiddletownOH" geonode_id="@geonode_MiddletownOH" language_id="&ru_RU;" name="Мидлтаун (Огайо)" description="Мидлтаун (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_OxfordOH" geonode_id="@geonode_OxfordOH" language_id="&ru_RU;" name="Оксфорд (Огайо)" description="Оксфорд (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Parma" geonode_id="@geonode_Parma" language_id="&ru_RU;" name="Парма" description="Парма" />
+<geondds geondds_id="@geondds_ru_RU_SpringfieldOH" geonode_id="@geonode_SpringfieldOH" language_id="&ru_RU;" name="Спрингфилд (Огайо)" description="Спрингфилд (Огайо)" />
+<geondds geondds_id="@geondds_ru_RU_Steubenville" geonode_id="@geonode_Steubenville" language_id="&ru_RU;" name="Стьюбенвилль" description="Стьюбенвилль" />
+<geondds geondds_id="@geondds_ru_RU_Toledo" geonode_id="@geonode_Toledo" language_id="&ru_RU;" name="Толидо" description="Толидо" />
+<geondds geondds_id="@geondds_ru_RU_Youngstown" geonode_id="@geonode_Youngstown" language_id="&ru_RU;" name="Янгстаун" description="Янгстаун" />
+<geondds geondds_id="@geondds_ru_RU_Oklahoma" geonode_id="@geonode_Oklahoma" language_id="&ru_RU;" name="Оклахома" description="Оклахома" />
+<geondds geondds_id="@geondds_ru_RU_Bartlesville" geonode_id="@geonode_Bartlesville" language_id="&ru_RU;" name="Бартлезвилль" description="Бартлезвилль" />
+<geondds geondds_id="@geondds_ru_RU_Bethany" geonode_id="@geonode_Bethany" language_id="&ru_RU;" name="Бетани" description="Бетани" />
+<geondds geondds_id="@geondds_ru_RU_BrokenArrow" geonode_id="@geonode_BrokenArrow" language_id="&ru_RU;" name="Броукен-Эрроу" description="Броукен-Эрроу" />
+<geondds geondds_id="@geondds_ru_RU_Edmond" geonode_id="@geonode_Edmond" language_id="&ru_RU;" name="Эдмонд" description="Эдмонд" />
+<geondds geondds_id="@geondds_ru_RU_Enid" geonode_id="@geonode_Enid" language_id="&ru_RU;" name="Инид" description="Инид" />
+<geondds geondds_id="@geondds_ru_RU_Lawton" geonode_id="@geonode_Lawton" language_id="&ru_RU;" name="Лотон" description="Лотон" />
+<geondds geondds_id="@geondds_ru_RU_MidwestCity" geonode_id="@geonode_MidwestCity" language_id="&ru_RU;" name="Мидвест-Сити" description="Мидвест-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Moore" geonode_id="@geonode_Moore" language_id="&ru_RU;" name="Мур" description="Мур" />
+<geondds geondds_id="@geondds_ru_RU_Muskogee" geonode_id="@geonode_Muskogee" language_id="&ru_RU;" name="Маскоги" description="Маскоги" />
+<geondds geondds_id="@geondds_ru_RU_NicholsHills" geonode_id="@geonode_NicholsHills" language_id="&ru_RU;" name="Никольз-Хиллз" description="Никольз-Хиллз" />
+<geondds geondds_id="@geondds_ru_RU_Norman" geonode_id="@geonode_Norman" language_id="&ru_RU;" name="Норман" description="Норман" />
+<geondds geondds_id="@geondds_ru_RU_OklahomaCity" geonode_id="@geonode_OklahomaCity" language_id="&ru_RU;" name="Оклахома-Сити" description="Оклахома-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Stillwater" geonode_id="@geonode_Stillwater" language_id="&ru_RU;" name="Стиллуотер" description="Стиллуотер" />
+<geondds geondds_id="@geondds_ru_RU_Tulsa" geonode_id="@geonode_Tulsa" language_id="&ru_RU;" name="Талса" description="Талса" />
+<geondds geondds_id="@geondds_ru_RU_Oregon" geonode_id="@geonode_Oregon" language_id="&ru_RU;" name="Орегон" description="Орегон" />
+<geondds geondds_id="@geondds_ru_RU_Astoria" geonode_id="@geonode_Astoria" language_id="&ru_RU;" name="Астория" description="Астория" />
+<geondds geondds_id="@geondds_ru_RU_Bend" geonode_id="@geonode_Bend" language_id="&ru_RU;" name="Бенд" description="Бенд" />
+<geondds geondds_id="@geondds_ru_RU_Corvallis" geonode_id="@geonode_Corvallis" language_id="&ru_RU;" name="Корваллиз" description="Корваллиз" />
+<geondds geondds_id="@geondds_ru_RU_TheDalles" geonode_id="@geonode_TheDalles" language_id="&ru_RU;" name="Даллес" description="Даллес" />
+<geondds geondds_id="@geondds_ru_RU_Eugene" geonode_id="@geonode_Eugene" language_id="&ru_RU;" name="Юджин" description="Юджин" />
+<geondds geondds_id="@geondds_ru_RU_JordanValley" geonode_id="@geonode_JordanValley" language_id="&ru_RU;" name="Джордан-Вэлли" description="Джордан-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_KlamathFalls" geonode_id="@geonode_KlamathFalls" language_id="&ru_RU;" name="Кламат-Фоллз" description="Кламат-Фоллз" />
+<geondds geondds_id="@geondds_ru_RU_Medford" geonode_id="@geonode_Medford" language_id="&ru_RU;" name="Медфорд" description="Медфорд" />
+<geondds geondds_id="@geondds_ru_RU_OntarioOR" geonode_id="@geonode_OntarioOR" language_id="&ru_RU;" name="Онтарио (Орегон)" description="Онтарио (Орегон)" />
+<geondds geondds_id="@geondds_ru_RU_Pendleton" geonode_id="@geonode_Pendleton" language_id="&ru_RU;" name="Пендлтон" description="Пендлтон" />
+<geondds geondds_id="@geondds_ru_RU_PortlandOR" geonode_id="@geonode_PortlandOR" language_id="&ru_RU;" name="Портланд (Орегон)" description="Портланд (Орегон)" />
+<geondds geondds_id="@geondds_ru_RU_SalemOR" geonode_id="@geonode_SalemOR" language_id="&ru_RU;" name="Сейлем (Орегон)" description="Сейлем (Орегон)" />
+<geondds geondds_id="@geondds_ru_RU_Pennsylvania" geonode_id="@geonode_Pennsylvania" language_id="&ru_RU;" name="Пенсильвания" description="Пенсильвания" />
+<geondds geondds_id="@geondds_ru_RU_Allentown" geonode_id="@geonode_Allentown" language_id="&ru_RU;" name="Аллентаун" description="Аллентаун" />
+<geondds geondds_id="@geondds_ru_RU_Altoona" geonode_id="@geonode_Altoona" language_id="&ru_RU;" name="Алтуна" description="Алтуна" />
+<geondds geondds_id="@geondds_ru_RU_Erie" geonode_id="@geonode_Erie" language_id="&ru_RU;" name="Эри" description="Эри" />
+<geondds geondds_id="@geondds_ru_RU_Gettysburg" geonode_id="@geonode_Gettysburg" language_id="&ru_RU;" name="Геттисберг" description="Геттисберг" />
+<geondds geondds_id="@geondds_ru_RU_Harrisburg" geonode_id="@geonode_Harrisburg" language_id="&ru_RU;" name="Харрисберг" description="Харрисберг" />
+<geondds geondds_id="@geondds_ru_RU_Hershey" geonode_id="@geonode_Hershey" language_id="&ru_RU;" name="Херши" description="Херши" />
+<geondds geondds_id="@geondds_ru_RU_Johnstown" geonode_id="@geonode_Johnstown" language_id="&ru_RU;" name="Джонстаун" description="Джонстаун" />
+<geondds geondds_id="@geondds_ru_RU_LockHaven" geonode_id="@geonode_LockHaven" language_id="&ru_RU;" name="Лок-Хевен" description="Лок-Хевен" />
+<geondds geondds_id="@geondds_ru_RU_Philadelphia" geonode_id="@geonode_Philadelphia" language_id="&ru_RU;" name="Филадельфия" description="Филадельфия" />
+<geondds geondds_id="@geondds_ru_RU_Pittsburgh" geonode_id="@geonode_Pittsburgh" language_id="&ru_RU;" name="Питтсберг" description="Питтсберг" />
+<geondds geondds_id="@geondds_ru_RU_Punxsutawney" geonode_id="@geonode_Punxsutawney" language_id="&ru_RU;" name="Панксунтони" description="Панксунтони" />
+<geondds geondds_id="@geondds_ru_RU_Reading" geonode_id="@geonode_Reading" language_id="&ru_RU;" name="Чтение" description="Чтение" />
+<geondds geondds_id="@geondds_ru_RU_Scranton" geonode_id="@geonode_Scranton" language_id="&ru_RU;" name="Скрантон" description="Скрантон" />
+<geondds geondds_id="@geondds_ru_RU_StateCollege" geonode_id="@geonode_StateCollege" language_id="&ru_RU;" name="Стейт-Колледж" description="Стейт-Колледж" />
+<geondds geondds_id="@geondds_ru_RU_Titusville" geonode_id="@geonode_Titusville" language_id="&ru_RU;" name="Титузвилль" description="Титузвилль" />
+<geondds geondds_id="@geondds_ru_RU_WilkesBarre" geonode_id="@geonode_WilkesBarre" language_id="&ru_RU;" name="Уилкс-Барре" description="Уилкс-Барре" />
+<geondds geondds_id="@geondds_ru_RU_Williamsport" geonode_id="@geonode_Williamsport" language_id="&ru_RU;" name="Уильямспорт" description="Уильямспорт" />
+<geondds geondds_id="@geondds_ru_RU_York" geonode_id="@geonode_York" language_id="&ru_RU;" name="Йорк" description="Йорк" />
+<geondds geondds_id="@geondds_ru_RU_RhodeIsland" geonode_id="@geonode_RhodeIsland" language_id="&ru_RU;" name="Род-Айленд" description="Род-Айленд" />
+<geondds geondds_id="@geondds_ru_RU_Cranston" geonode_id="@geonode_Cranston" language_id="&ru_RU;" name="Крэнстон" description="Крэнстон" />
+<geondds geondds_id="@geondds_ru_RU_Narragansett" geonode_id="@geonode_Narragansett" language_id="&ru_RU;" name="Наррагансет" description="Наррагансет" />
+<geondds geondds_id="@geondds_ru_RU_NewportRI" geonode_id="@geonode_NewportRI" language_id="&ru_RU;" name="Ньюпорт (Род-Айленд)" description="Ньюпорт (Род-Айленд)" />
+<geondds geondds_id="@geondds_ru_RU_Pawtucket" geonode_id="@geonode_Pawtucket" language_id="&ru_RU;" name="Потакет" description="Потакет" />
+<geondds geondds_id="@geondds_ru_RU_Providence" geonode_id="@geonode_Providence" language_id="&ru_RU;" name="Провиденс" description="Провиденс" />
+<geondds geondds_id="@geondds_ru_RU_Warwick" geonode_id="@geonode_Warwick" language_id="&ru_RU;" name="Уорик" description="Уорик" />
+<geondds geondds_id="@geondds_ru_RU_WestWarwick" geonode_id="@geonode_WestWarwick" language_id="&ru_RU;" name="Уэст-Уорик" description="Уэст-Уорик" />
+<geondds geondds_id="@geondds_ru_RU_Woonsocket" geonode_id="@geonode_Woonsocket" language_id="&ru_RU;" name="Вунсокет" description="Вунсокет" />
+<geondds geondds_id="@geondds_ru_RU_SouthCarolina" geonode_id="@geonode_SouthCarolina" language_id="&ru_RU;" name="Южная Каролина" description="Южная Каролина" />
+<geondds geondds_id="@geondds_ru_RU_Anderson" geonode_id="@geonode_Anderson" language_id="&ru_RU;" name="Андерсон" description="Андерсон" />
+<geondds geondds_id="@geondds_ru_RU_CharlestonSC" geonode_id="@geonode_CharlestonSC" language_id="&ru_RU;" name="Чарльстон (Южная Каролина)" description="Чарльстон (Южная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Clemson" geonode_id="@geonode_Clemson" language_id="&ru_RU;" name="Клемсон" description="Клемсон" />
+<geondds geondds_id="@geondds_ru_RU_ColumbiaSC" geonode_id="@geonode_ColumbiaSC" language_id="&ru_RU;" name="Коламбия (Южная Каролина)" description="Коламбия (Южная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_Darlington" geonode_id="@geonode_Darlington" language_id="&ru_RU;" name="Дарлингтон" description="Дарлингтон" />
+<geondds geondds_id="@geondds_ru_RU_FlorenceSC" geonode_id="@geonode_FlorenceSC" language_id="&ru_RU;" name="Флоренс (Южная Каролина)" description="Флоренс (Южная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_GreenvilleSC" geonode_id="@geonode_GreenvilleSC" language_id="&ru_RU;" name="Гринвилль (Южная Каролина)" description="Гринвилль (Южная Каролина)" />
+<geondds geondds_id="@geondds_ru_RU_MyrtleBeach" geonode_id="@geonode_MyrtleBeach" language_id="&ru_RU;" name="Миртл-Бич" description="Миртл-Бич" />
+<geondds geondds_id="@geondds_ru_RU_Orangeburg" geonode_id="@geonode_Orangeburg" language_id="&ru_RU;" name="Оринджберг" description="Оринджберг" />
+<geondds geondds_id="@geondds_ru_RU_Spartanburg" geonode_id="@geonode_Spartanburg" language_id="&ru_RU;" name="Спартанберг" description="Спартанберг" />
+<geondds geondds_id="@geondds_ru_RU_SouthDakota" geonode_id="@geonode_SouthDakota" language_id="&ru_RU;" name="Южная Дакота" description="Южная Дакота" />
+<geondds geondds_id="@geondds_ru_RU_AberdeenSD" geonode_id="@geonode_AberdeenSD" language_id="&ru_RU;" name="Абердин (Южная Дакота)" description="Абердин (Южная Дакота)" />
+<geondds geondds_id="@geondds_ru_RU_Deadwood" geonode_id="@geonode_Deadwood" language_id="&ru_RU;" name="Дедвуд" description="Дедвуд" />
+<geondds geondds_id="@geondds_ru_RU_Pierre" geonode_id="@geonode_Pierre" language_id="&ru_RU;" name="Пирр" description="Пирр" />
+<geondds geondds_id="@geondds_ru_RU_RapidCity" geonode_id="@geonode_RapidCity" language_id="&ru_RU;" name="Рапид-Сити" description="Рапид-Сити" />
+<geondds geondds_id="@geondds_ru_RU_SiouxFalls" geonode_id="@geonode_SiouxFalls" language_id="&ru_RU;" name="Су-Фолс" description="Су-Фолс" />
+<geondds geondds_id="@geondds_ru_RU_Sturgis" geonode_id="@geonode_Sturgis" language_id="&ru_RU;" name="Стуржис" description="Стуржис" />
+<geondds geondds_id="@geondds_ru_RU_Vermillion" geonode_id="@geonode_Vermillion" language_id="&ru_RU;" name="Вермиллион" description="Вермиллион" />
+<geondds geondds_id="@geondds_ru_RU_WatertownSD" geonode_id="@geonode_WatertownSD" language_id="&ru_RU;" name="Уотертаун (Южная Дакота)" description="Уотертаун (Южная Дакота)" />
+<geondds geondds_id="@geondds_ru_RU_Tennessee" geonode_id="@geonode_Tennessee" language_id="&ru_RU;" name="Теннесси" description="Теннесси" />
+<geondds geondds_id="@geondds_ru_RU_BristolTN" geonode_id="@geonode_BristolTN" language_id="&ru_RU;" name="Бристоль (Теннесси)" description="Бристоль (Теннесси)" />
+<geondds geondds_id="@geondds_ru_RU_Chattanooga" geonode_id="@geonode_Chattanooga" language_id="&ru_RU;" name="Чаттануга" description="Чаттануга" />
+<geondds geondds_id="@geondds_ru_RU_Clarksville" geonode_id="@geonode_Clarksville" language_id="&ru_RU;" name="Кларксвилль" description="Кларксвилль" />
+<geondds geondds_id="@geondds_ru_RU_FranklinTN" geonode_id="@geonode_FranklinTN" language_id="&ru_RU;" name="Франклин (Теннесси)" description="Франклин (Теннесси)" />
+<geondds geondds_id="@geondds_ru_RU_Gatlinburg" geonode_id="@geonode_Gatlinburg" language_id="&ru_RU;" name="Гэтлинберг" description="Гэтлинберг" />
+<geondds geondds_id="@geondds_ru_RU_JacksonTN" geonode_id="@geonode_JacksonTN" language_id="&ru_RU;" name="Джексон (Теннесси)" description="Джексон (Теннесси)" />
+<geondds geondds_id="@geondds_ru_RU_JohnsonCity" geonode_id="@geonode_JohnsonCity" language_id="&ru_RU;" name="Джонсон-Сити" description="Джонсон-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Kingsport" geonode_id="@geonode_Kingsport" language_id="&ru_RU;" name="Кингспорт" description="Кингспорт" />
+<geondds geondds_id="@geondds_ru_RU_Knoxville" geonode_id="@geonode_Knoxville" language_id="&ru_RU;" name="Ноксвилл" description="Ноксвилл" />
+<geondds geondds_id="@geondds_ru_RU_Memphis" geonode_id="@geonode_Memphis" language_id="&ru_RU;" name="Мемфис" description="Мемфис" />
+<geondds geondds_id="@geondds_ru_RU_Murfreesboro" geonode_id="@geonode_Murfreesboro" language_id="&ru_RU;" name="Мерфризборо" description="Мерфризборо" />
+<geondds geondds_id="@geondds_ru_RU_Nashville" geonode_id="@geonode_Nashville" language_id="&ru_RU;" name="Нашвилл" description="Нашвилл" />
+<geondds geondds_id="@geondds_ru_RU_OakRidge" geonode_id="@geonode_OakRidge" language_id="&ru_RU;" name="Ок-Ридж" description="Ок-Ридж" />
+<geondds geondds_id="@geondds_ru_RU_Pulaski" geonode_id="@geonode_Pulaski" language_id="&ru_RU;" name="Пуласки" description="Пуласки" />
+<geondds geondds_id="@geondds_ru_RU_Texas" geonode_id="@geonode_Texas" language_id="&ru_RU;" name="Техас" description="Техас" />
+<geondds geondds_id="@geondds_ru_RU_AbileneTX" geonode_id="@geonode_AbileneTX" language_id="&ru_RU;" name="Абилин (Техас)" description="Абилин (Техас)" />
+<geondds geondds_id="@geondds_ru_RU_Amarillo" geonode_id="@geonode_Amarillo" language_id="&ru_RU;" name="Амарилло" description="Амарилло" />
+<geondds geondds_id="@geondds_ru_RU_ArlingtonTX" geonode_id="@geonode_ArlingtonTX" language_id="&ru_RU;" name="Арлингтон (Техас)" description="Арлингтон (Техас)" />
+<geondds geondds_id="@geondds_ru_RU_Austin" geonode_id="@geonode_Austin" language_id="&ru_RU;" name="Остин" description="Остин" />
+<geondds geondds_id="@geondds_ru_RU_Baytown" geonode_id="@geonode_Baytown" language_id="&ru_RU;" name="Бэйтаун" description="Бэйтаун" />
+<geondds geondds_id="@geondds_ru_RU_Beaumont" geonode_id="@geonode_Beaumont" language_id="&ru_RU;" name="Бьюмонт" description="Бьюмонт" />
+<geondds geondds_id="@geondds_ru_RU_Brownsville" geonode_id="@geonode_Brownsville" language_id="&ru_RU;" name="Браунсвилль" description="Браунсвилль" />
+<geondds geondds_id="@geondds_ru_RU_CollegeStation" geonode_id="@geonode_CollegeStation" language_id="&ru_RU;" name="Колидж-Стейшн" description="Колидж-Стейшн" />
+<geondds geondds_id="@geondds_ru_RU_CorpusChristi" geonode_id="@geonode_CorpusChristi" language_id="&ru_RU;" name="Корпус-Кристи" description="Корпус-Кристи" />
+<geondds geondds_id="@geondds_ru_RU_Dallas" geonode_id="@geonode_Dallas" language_id="&ru_RU;" name="Даллас" description="Даллас" />
+<geondds geondds_id="@geondds_ru_RU_DelRio" geonode_id="@geonode_DelRio" language_id="&ru_RU;" name="Дель-Рио" description="Дель-Рио" />
+<geondds geondds_id="@geondds_ru_RU_Denton" geonode_id="@geonode_Denton" language_id="&ru_RU;" name="Дентон" description="Дентон" />
+<geondds geondds_id="@geondds_ru_RU_ElPaso" geonode_id="@geonode_ElPaso" language_id="&ru_RU;" name="Эль-Пасо" description="Эль-Пасо" />
+<geondds geondds_id="@geondds_ru_RU_FortWorth" geonode_id="@geonode_FortWorth" language_id="&ru_RU;" name="Форт-Уорт" description="Форт-Уорт" />
+<geondds geondds_id="@geondds_ru_RU_Galveston" geonode_id="@geonode_Galveston" language_id="&ru_RU;" name="Галвестон" description="Галвестон" />
+<geondds geondds_id="@geondds_ru_RU_Houston" geonode_id="@geonode_Houston" language_id="&ru_RU;" name="Хьюстон" description="Хьюстон" />
+<geondds geondds_id="@geondds_ru_RU_Laredo" geonode_id="@geonode_Laredo" language_id="&ru_RU;" name="Ларедо" description="Ларедо" />
+<geondds geondds_id="@geondds_ru_RU_Longview" geonode_id="@geonode_Longview" language_id="&ru_RU;" name="Лонгвью" description="Лонгвью" />
+<geondds geondds_id="@geondds_ru_RU_Lubbock" geonode_id="@geonode_Lubbock" language_id="&ru_RU;" name="Лаббок" description="Лаббок" />
+<geondds geondds_id="@geondds_ru_RU_Lufkin" geonode_id="@geonode_Lufkin" language_id="&ru_RU;" name="Лафкин" description="Лафкин" />
+<geondds geondds_id="@geondds_ru_RU_McAllen" geonode_id="@geonode_McAllen" language_id="&ru_RU;" name="Мак-Аллен" description="Мак-Аллен" />
+<geondds geondds_id="@geondds_ru_RU_Marshall" geonode_id="@geonode_Marshall" language_id="&ru_RU;" name="Маршалл" description="Маршалл" />
+<geondds geondds_id="@geondds_ru_RU_MidlandTX" geonode_id="@geonode_MidlandTX" language_id="&ru_RU;" name="Мидленд (Техас)" description="Мидленд (Техас)" />
+<geondds geondds_id="@geondds_ru_RU_Nacogdoches" geonode_id="@geonode_Nacogdoches" language_id="&ru_RU;" name="Накогдочес" description="Накогдочес" />
+<geondds geondds_id="@geondds_ru_RU_Odessa" geonode_id="@geonode_Odessa" language_id="&ru_RU;" name="Одесса" description="Одесса" />
+<geondds geondds_id="@geondds_ru_RU_Plano" geonode_id="@geonode_Plano" language_id="&ru_RU;" name="Плано" description="Плано" />
+<geondds geondds_id="@geondds_ru_RU_PortArthur" geonode_id="@geonode_PortArthur" language_id="&ru_RU;" name="Порт-Артур" description="Порт-Артур" />
+<geondds geondds_id="@geondds_ru_RU_SanAntonio" geonode_id="@geonode_SanAntonio" language_id="&ru_RU;" name="Сан-Антонио" description="Сан-Антонио" />
+<geondds geondds_id="@geondds_ru_RU_SugarLand" geonode_id="@geonode_SugarLand" language_id="&ru_RU;" name="Шугер-Ленд" description="Шугер-Ленд" />
+<geondds geondds_id="@geondds_ru_RU_Tyler" geonode_id="@geonode_Tyler" language_id="&ru_RU;" name="Тайлер" description="Тайлер" />
+<geondds geondds_id="@geondds_ru_RU_Waco" geonode_id="@geonode_Waco" language_id="&ru_RU;" name="Уако" description="Уако" />
+<geondds geondds_id="@geondds_ru_RU_WichitaFalls" geonode_id="@geonode_WichitaFalls" language_id="&ru_RU;" name="Уичито-Фолс" description="Уичито-Фолс" />
+<geondds geondds_id="@geondds_ru_RU_Utah" geonode_id="@geonode_Utah" language_id="&ru_RU;" name="Юта" description="Юта" />
+<geondds geondds_id="@geondds_ru_RU_CedarCity" geonode_id="@geonode_CedarCity" language_id="&ru_RU;" name="Сидэ-Сити" description="Сидэ-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Kearns" geonode_id="@geonode_Kearns" language_id="&ru_RU;" name="Кернз" description="Кернз" />
+<geondds geondds_id="@geondds_ru_RU_Layton" geonode_id="@geonode_Layton" language_id="&ru_RU;" name="Лейтон" description="Лейтон" />
+<geondds geondds_id="@geondds_ru_RU_Logan" geonode_id="@geonode_Logan" language_id="&ru_RU;" name="Логан" description="Логан" />
+<geondds geondds_id="@geondds_ru_RU_Ogden" geonode_id="@geonode_Ogden" language_id="&ru_RU;" name="Огден" description="Огден" />
+<geondds geondds_id="@geondds_ru_RU_Orem" geonode_id="@geonode_Orem" language_id="&ru_RU;" name="Орем" description="Орем" />
+<geondds geondds_id="@geondds_ru_RU_Provo" geonode_id="@geonode_Provo" language_id="&ru_RU;" name="Прово" description="Прово" />
+<geondds geondds_id="@geondds_ru_RU_StGeorge" geonode_id="@geonode_StGeorge" language_id="&ru_RU;" name="Сент-Джордж" description="Сент-Джордж" />
+<geondds geondds_id="@geondds_ru_RU_SaltLakeCity" geonode_id="@geonode_SaltLakeCity" language_id="&ru_RU;" name="Солт-Лейк-Сити" description="Солт-Лейк-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Sandy" geonode_id="@geonode_Sandy" language_id="&ru_RU;" name="Сэнди" description="Сэнди" />
+<geondds geondds_id="@geondds_ru_RU_Taylorsville" geonode_id="@geonode_Taylorsville" language_id="&ru_RU;" name="Тейлорзвилль" description="Тейлорзвилль" />
+<geondds geondds_id="@geondds_ru_RU_WestJordan" geonode_id="@geonode_WestJordan" language_id="&ru_RU;" name="Вест-Джордан" description="Вест-Джордан" />
+<geondds geondds_id="@geondds_ru_RU_WestValleyCity" geonode_id="@geonode_WestValleyCity" language_id="&ru_RU;" name="Вест-Вэлли-Сити" description="Вест-Вэлли-Сити" />
+<geondds geondds_id="@geondds_ru_RU_Vermont" geonode_id="@geonode_Vermont" language_id="&ru_RU;" name="Вермонт" description="Вермонт" />
+<geondds geondds_id="@geondds_ru_RU_BurlingtonVT" geonode_id="@geonode_BurlingtonVT" language_id="&ru_RU;" name="Берлингтон (Вермонт)" description="Берлингтон (Вермонт)" />
+<geondds geondds_id="@geondds_ru_RU_Barre" geonode_id="@geonode_Barre" language_id="&ru_RU;" name="Барре" description="Барре" />
+<geondds geondds_id="@geondds_ru_RU_Montpelier" geonode_id="@geonode_Montpelier" language_id="&ru_RU;" name="Монтпилиер" description="Монтпилиер" />
+<geondds geondds_id="@geondds_ru_RU_NewportVT" geonode_id="@geonode_NewportVT" language_id="&ru_RU;" name="Ньюпорт (Вермонт)" description="Ньюпорт (Вермонт)" />
+<geondds geondds_id="@geondds_ru_RU_Rutland" geonode_id="@geonode_Rutland" language_id="&ru_RU;" name="Ратленд" description="Ратленд" />
+<geondds geondds_id="@geondds_ru_RU_SaintAlbans" geonode_id="@geonode_SaintAlbans" language_id="&ru_RU;" name="Сент-Олбанс" description="Сент-Олбанс" />
+<geondds geondds_id="@geondds_ru_RU_SaintJohnsbury" geonode_id="@geonode_SaintJohnsbury" language_id="&ru_RU;" name="Сент-Джонсбери" description="Сент-Джонсбери" />
+<geondds geondds_id="@geondds_ru_RU_SouthBurlington" geonode_id="@geonode_SouthBurlington" language_id="&ru_RU;" name="Саут-Берлингтон" description="Саут-Берлингтон" />
+<geondds geondds_id="@geondds_ru_RU_Vergennes" geonode_id="@geonode_Vergennes" language_id="&ru_RU;" name="Вердженнес" description="Вердженнес" />
+<geondds geondds_id="@geondds_ru_RU_Winooski" geonode_id="@geonode_Winooski" language_id="&ru_RU;" name="Уинуски" description="Уинуски" />
+<geondds geondds_id="@geondds_ru_RU_Virginia" geonode_id="@geonode_Virginia" language_id="&ru_RU;" name="Вирджиния" description="Вирджиния" />
+<geondds geondds_id="@geondds_ru_RU_AlexandriaVA" geonode_id="@geonode_AlexandriaVA" language_id="&ru_RU;" name="Александрия (Вирджиния)" description="Александрия (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_ArlingtonVA" geonode_id="@geonode_ArlingtonVA" language_id="&ru_RU;" name="Арлингтон (Вирджиния)" description="Арлингтон (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Blacksburg" geonode_id="@geonode_Blacksburg" language_id="&ru_RU;" name="Блэксберг" description="Блэксберг" />
+<geondds geondds_id="@geondds_ru_RU_BristolVA" geonode_id="@geonode_BristolVA" language_id="&ru_RU;" name="Бристоль (Вирджиния)" description="Бристоль (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Charlottesville" geonode_id="@geonode_Charlottesville" language_id="&ru_RU;" name="Шарлоттсвилль" description="Шарлоттсвилль" />
+<geondds geondds_id="@geondds_ru_RU_Chesapeake" geonode_id="@geonode_Chesapeake" language_id="&ru_RU;" name="Чесапик" description="Чесапик" />
+<geondds geondds_id="@geondds_ru_RU_Fairfax" geonode_id="@geonode_Fairfax" language_id="&ru_RU;" name="Фэрфакс" description="Фэрфакс" />
+<geondds geondds_id="@geondds_ru_RU_Fredericksburg" geonode_id="@geonode_Fredericksburg" language_id="&ru_RU;" name="Фредериксберг" description="Фредериксберг" />
+<geondds geondds_id="@geondds_ru_RU_Hampton" geonode_id="@geonode_Hampton" language_id="&ru_RU;" name="Хэмптон" description="Хэмптон" />
+<geondds geondds_id="@geondds_ru_RU_LexingtonVA" geonode_id="@geonode_LexingtonVA" language_id="&ru_RU;" name="Лексингтон (Вирджиния)" description="Лексингтон (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Lynchburg" geonode_id="@geonode_Lynchburg" language_id="&ru_RU;" name="Линчберг" description="Линчберг" />
+<geondds geondds_id="@geondds_ru_RU_Manassas" geonode_id="@geonode_Manassas" language_id="&ru_RU;" name="Манассас" description="Манассас" />
+<geondds geondds_id="@geondds_ru_RU_NewportNews" geonode_id="@geonode_NewportNews" language_id="&ru_RU;" name="Ньюпорт-Ньюс" description="Ньюпорт-Ньюс" />
+<geondds geondds_id="@geondds_ru_RU_NorfolkVA" geonode_id="@geonode_NorfolkVA" language_id="&ru_RU;" name="Норфолк (Вирджиния)" description="Норфолк (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Radford" geonode_id="@geonode_Radford" language_id="&ru_RU;" name="Рэдфорд" description="Рэдфорд" />
+<geondds geondds_id="@geondds_ru_RU_Reston" geonode_id="@geonode_Reston" language_id="&ru_RU;" name="Рестон" description="Рестон" />
+<geondds geondds_id="@geondds_ru_RU_RichmondVA" geonode_id="@geonode_RichmondVA" language_id="&ru_RU;" name="Ричмонд (Вирджиния)" description="Ричмонд (Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Roanoke" geonode_id="@geonode_Roanoke" language_id="&ru_RU;" name="Роанок" description="Роанок" />
+<geondds geondds_id="@geondds_ru_RU_Stafford" geonode_id="@geonode_Stafford" language_id="&ru_RU;" name="Стаффорд" description="Стаффорд" />
+<geondds geondds_id="@geondds_ru_RU_Staunton" geonode_id="@geonode_Staunton" language_id="&ru_RU;" name="Стонтон" description="Стонтон" />
+<geondds geondds_id="@geondds_ru_RU_Suffolk" geonode_id="@geonode_Suffolk" language_id="&ru_RU;" name="Суффолк" description="Суффолк" />
+<geondds geondds_id="@geondds_ru_RU_TysonsCorner" geonode_id="@geonode_TysonsCorner" language_id="&ru_RU;" name="Тайсонс-Корнер" description="Тайсонс-Корнер" />
+<geondds geondds_id="@geondds_ru_RU_VirginiaBeach" geonode_id="@geonode_VirginiaBeach" language_id="&ru_RU;" name="Вирджиния-Бич" description="Вирджиния-Бич" />
+<geondds geondds_id="@geondds_ru_RU_Williamsburg" geonode_id="@geonode_Williamsburg" language_id="&ru_RU;" name="Уильямсберг" description="Уильямсберг" />
+<geondds geondds_id="@geondds_ru_RU_Washington" geonode_id="@geonode_Washington" language_id="&ru_RU;" name="Вашингтон" description="Вашингтон" />
+<geondds geondds_id="@geondds_ru_RU_AberdeenWA" geonode_id="@geonode_AberdeenWA" language_id="&ru_RU;" name="Абердин (Вашингтон)" description="Абердин (Вашингтон)" />
+<geondds geondds_id="@geondds_ru_RU_Bellingham" geonode_id="@geonode_Bellingham" language_id="&ru_RU;" name="Беллингем" description="Беллингем" />
+<geondds geondds_id="@geondds_ru_RU_Bremerton" geonode_id="@geonode_Bremerton" language_id="&ru_RU;" name="Бремертон" description="Бремертон" />
+<geondds geondds_id="@geondds_ru_RU_Kennewick" geonode_id="@geonode_Kennewick" language_id="&ru_RU;" name="Кенневик" description="Кенневик" />
+<geondds geondds_id="@geondds_ru_RU_Olympia" geonode_id="@geonode_Olympia" language_id="&ru_RU;" name="Олимпия" description="Олимпия" />
+<geondds geondds_id="@geondds_ru_RU_Pasco" geonode_id="@geonode_Pasco" language_id="&ru_RU;" name="Паско" description="Паско" />
+<geondds geondds_id="@geondds_ru_RU_Pullman" geonode_id="@geonode_Pullman" language_id="&ru_RU;" name="Пуллман" description="Пуллман" />
+<geondds geondds_id="@geondds_ru_RU_Richland" geonode_id="@geonode_Richland" language_id="&ru_RU;" name="Ричленд" description="Ричленд" />
+<geondds geondds_id="@geondds_ru_RU_Seattle" geonode_id="@geonode_Seattle" language_id="&ru_RU;" name="Сиэтл" description="Сиэтл" />
+<geondds geondds_id="@geondds_ru_RU_Spokane" geonode_id="@geonode_Spokane" language_id="&ru_RU;" name="Спокан" description="Спокан" />
+<geondds geondds_id="@geondds_ru_RU_SpokaneValley" geonode_id="@geonode_SpokaneValley" language_id="&ru_RU;" name="Спокан-Вэлли" description="Спокан-Вэлли" />
+<geondds geondds_id="@geondds_ru_RU_Tacoma" geonode_id="@geonode_Tacoma" language_id="&ru_RU;" name="Такома" description="Такома" />
+<geondds geondds_id="@geondds_ru_RU_VancouverWA" geonode_id="@geonode_VancouverWA" language_id="&ru_RU;" name="Ванкувер (Вашингтон)" description="Ванкувер (Вашингтон)" />
+<geondds geondds_id="@geondds_ru_RU_WallaWalla" geonode_id="@geonode_WallaWalla" language_id="&ru_RU;" name="Уолла-Уолла" description="Уолла-Уолла" />
+<geondds geondds_id="@geondds_ru_RU_Yakima" geonode_id="@geonode_Yakima" language_id="&ru_RU;" name="Якима" description="Якима" />
+<geondds geondds_id="@geondds_ru_RU_WestVirginia" geonode_id="@geonode_WestVirginia" language_id="&ru_RU;" name="Западная Виргиния" description="Западная Виргиния" />
+<geondds geondds_id="@geondds_ru_RU_Beckley" geonode_id="@geonode_Beckley" language_id="&ru_RU;" name="Бекли" description="Бекли" />
+<geondds geondds_id="@geondds_ru_RU_CharlestonWV" geonode_id="@geonode_CharlestonWV" language_id="&ru_RU;" name="Чарлстон (Западная Вирджиния)" description="Чарлстон (Западная Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Clarksburg" geonode_id="@geonode_Clarksburg" language_id="&ru_RU;" name="Кларксберг" description="Кларксберг" />
+<geondds geondds_id="@geondds_ru_RU_Fairmont" geonode_id="@geonode_Fairmont" language_id="&ru_RU;" name="Фэрмонт" description="Фэрмонт" />
+<geondds geondds_id="@geondds_ru_RU_HarpersFerry" geonode_id="@geonode_HarpersFerry" language_id="&ru_RU;" name="Харперс Ферри" description="Харперс Ферри" />
+<geondds geondds_id="@geondds_ru_RU_Huntington" geonode_id="@geonode_Huntington" language_id="&ru_RU;" name="Хантингтон" description="Хантингтон" />
+<geondds geondds_id="@geondds_ru_RU_Martinsburg" geonode_id="@geonode_Martinsburg" language_id="&ru_RU;" name="Мартинсберг" description="Мартинсберг" />
+<geondds geondds_id="@geondds_ru_RU_Morgantown" geonode_id="@geonode_Morgantown" language_id="&ru_RU;" name="Моргантаун" description="Моргантаун" />
+<geondds geondds_id="@geondds_ru_RU_Parkersburg" geonode_id="@geonode_Parkersburg" language_id="&ru_RU;" name="Паркерсберг" description="Паркерсберг" />
+<geondds geondds_id="@geondds_ru_RU_SalemWV" geonode_id="@geonode_SalemWV" language_id="&ru_RU;" name="Сейлем (Западная Вирджиния)" description="Сейлем (Западная Вирджиния)" />
+<geondds geondds_id="@geondds_ru_RU_Weirton" geonode_id="@geonode_Weirton" language_id="&ru_RU;" name="Уэйртон" description="Уэйртон" />
+<geondds geondds_id="@geondds_ru_RU_Wheeling" geonode_id="@geonode_Wheeling" language_id="&ru_RU;" name="Уилинг" description="Уилинг" />
+<geondds geondds_id="@geondds_ru_RU_Wisconsin" geonode_id="@geonode_Wisconsin" language_id="&ru_RU;" name="Висконсин" description="Висконсин" />
+<geondds geondds_id="@geondds_ru_RU_Appleton" geonode_id="@geonode_Appleton" language_id="&ru_RU;" name="Аплтон" description="Аплтон" />
+<geondds geondds_id="@geondds_ru_RU_Beloit" geonode_id="@geonode_Beloit" language_id="&ru_RU;" name="Белуэт" description="Белуэт" />
+<geondds geondds_id="@geondds_ru_RU_EauClaire" geonode_id="@geonode_EauClaire" language_id="&ru_RU;" name="О-Клэр" description="О-Клэр" />
+<geondds geondds_id="@geondds_ru_RU_FondduLac" geonode_id="@geonode_FondduLac" language_id="&ru_RU;" name="Фон-дю-Лак" description="Фон-дю-Лак" />
+<geondds geondds_id="@geondds_ru_RU_GreenBay" geonode_id="@geonode_GreenBay" language_id="&ru_RU;" name="Грин-Бей" description="Грин-Бей" />
+<geondds geondds_id="@geondds_ru_RU_Janesville" geonode_id="@geonode_Janesville" language_id="&ru_RU;" name="Джейнсвилль" description="Джейнсвилль" />
+<geondds geondds_id="@geondds_ru_RU_Kenosha" geonode_id="@geonode_Kenosha" language_id="&ru_RU;" name="Кеноша" description="Кеноша" />
+<geondds geondds_id="@geondds_ru_RU_LaCrosse" geonode_id="@geonode_LaCrosse" language_id="&ru_RU;" name="Ла-Кросс" description="Ла-Кросс" />
+<geondds geondds_id="@geondds_ru_RU_Madison" geonode_id="@geonode_Madison" language_id="&ru_RU;" name="Мэдисон" description="Мэдисон" />
+<geondds geondds_id="@geondds_ru_RU_Manitowoc" geonode_id="@geonode_Manitowoc" language_id="&ru_RU;" name="Манитовок" description="Манитовок" />
+<geondds geondds_id="@geondds_ru_RU_Marshfield" geonode_id="@geonode_Marshfield" language_id="&ru_RU;" name="Маршфилд" description="Маршфилд" />
+<geondds geondds_id="@geondds_ru_RU_Milwaukee" geonode_id="@geonode_Milwaukee" language_id="&ru_RU;" name="Милуоки" description="Милуоки" />
+<geondds geondds_id="@geondds_ru_RU_Oshkosh" geonode_id="@geonode_Oshkosh" language_id="&ru_RU;" name="Ошкош" description="Ошкош" />
+<geondds geondds_id="@geondds_ru_RU_Racine" geonode_id="@geonode_Racine" language_id="&ru_RU;" name="Расин" description="Расин" />
+<geondds geondds_id="@geondds_ru_RU_Sheboygan" geonode_id="@geonode_Sheboygan" language_id="&ru_RU;" name="Шебойган" description="Шебойган" />
+<geondds geondds_id="@geondds_ru_RU_StevensPoint" geonode_id="@geonode_StevensPoint" language_id="&ru_RU;" name="Стивенз-Пойнт" description="Стивенз-Пойнт" />
+<geondds geondds_id="@geondds_ru_RU_Superior" geonode_id="@geonode_Superior" language_id="&ru_RU;" name="Сьюпериор" description="Сьюпериор" />
+<geondds geondds_id="@geondds_ru_RU_Wausau" geonode_id="@geonode_Wausau" language_id="&ru_RU;" name="Уосо" description="Уосо" />
+<geondds geondds_id="@geondds_ru_RU_WestBend" geonode_id="@geonode_WestBend" language_id="&ru_RU;" name="Вест-Бенд" description="Вест-Бенд" />
+<geondds geondds_id="@geondds_ru_RU_WisconsinRapids" geonode_id="@geonode_WisconsinRapids" language_id="&ru_RU;" name="Висконсин-Рапидс" description="Висконсин-Рапидс" />
+<geondds geondds_id="@geondds_ru_RU_Wyoming" geonode_id="@geonode_Wyoming" language_id="&ru_RU;" name="Вайоминг" description="Вайоминг" />
+<geondds geondds_id="@geondds_ru_RU_Basin" geonode_id="@geonode_Basin" language_id="&ru_RU;" name="Бэйсн" description="Бэйсн" />
+<geondds geondds_id="@geondds_ru_RU_BuffaloWY" geonode_id="@geonode_BuffaloWY" language_id="&ru_RU;" name="Буффало(Вайоминг)" description="Буффало(Вайоминг)" />
+<geondds geondds_id="@geondds_ru_RU_Casper" geonode_id="@geonode_Casper" language_id="&ru_RU;" name="Каспер" description="Каспер" />
+<geondds geondds_id="@geondds_ru_RU_Cheyenne" geonode_id="@geonode_Cheyenne" language_id="&ru_RU;" name="Шайенн" description="Шайенн" />
+<geondds geondds_id="@geondds_ru_RU_Cody" geonode_id="@geonode_Cody" language_id="&ru_RU;" name="Коди" description="Коди" />
+<geondds geondds_id="@geondds_ru_RU_Douglas" geonode_id="@geonode_Douglas" language_id="&ru_RU;" name="Дуглас" description="Дуглас" />
+<geondds geondds_id="@geondds_ru_RU_EvanstonWY" geonode_id="@geonode_EvanstonWY" language_id="&ru_RU;" name="Эванстон (Вайоминг)" description="Эванстон (Вайоминг)" />
+<geondds geondds_id="@geondds_ru_RU_Gilette" geonode_id="@geonode_Gilette" language_id="&ru_RU;" name="Жилетт" description="Жилетт" />
+<geondds geondds_id="@geondds_ru_RU_GreenRiver" geonode_id="@geonode_GreenRiver" language_id="&ru_RU;" name="Грин-Ривер" description="Грин-Ривер" />
+<geondds geondds_id="@geondds_ru_RU_Kemmerer" geonode_id="@geonode_Kemmerer" language_id="&ru_RU;" name="Кеммерер" description="Кеммерер" />
+<geondds geondds_id="@geondds_ru_RU_Lander" geonode_id="@geonode_Lander" language_id="&ru_RU;" name="Лэндер" description="Лэндер" />
+<geondds geondds_id="@geondds_ru_RU_Laramie" geonode_id="@geonode_Laramie" language_id="&ru_RU;" name="Ларамье" description="Ларамье" />
+<geondds geondds_id="@geondds_ru_RU_Newcastle" geonode_id="@geonode_Newcastle" language_id="&ru_RU;" name="Ньюкасл" description="Ньюкасл" />
+<geondds geondds_id="@geondds_ru_RU_Powell" geonode_id="@geonode_Powell" language_id="&ru_RU;" name="Пауэлл" description="Пауэлл" />
+<geondds geondds_id="@geondds_ru_RU_Rawlins" geonode_id="@geonode_Rawlins" language_id="&ru_RU;" name="Роулинз" description="Роулинз" />
+<geondds geondds_id="@geondds_ru_RU_Riverton" geonode_id="@geonode_Riverton" language_id="&ru_RU;" name="Ривертон" description="Ривертон" />
+<geondds geondds_id="@geondds_ru_RU_RockSprings" geonode_id="@geonode_RockSprings" language_id="&ru_RU;" name="Рок-Спрингз" description="Рок-Спрингз" />
+<geondds geondds_id="@geondds_ru_RU_Sheridan" geonode_id="@geonode_Sheridan" language_id="&ru_RU;" name="Шеридан" description="Шеридан" />
+<geondds geondds_id="@geondds_ru_RU_Torrington" geonode_id="@geonode_Torrington" language_id="&ru_RU;" name="Торрингтон" description="Торрингтон" />
+<geondds geondds_id="@geondds_ru_RU_Worland" geonode_id="@geonode_Worland" language_id="&ru_RU;" name="Уорленд" description="Уорленд" />

@@ -1,0 +1,5 @@
+ShippingCode,,
+shippingCode,applyToAll,precedence,delete
+ShippingChargePerOrder,TRUE,0,0
+ShippingChargePerItem,TRUE,0,0
+ShippingChargeWithOverSize,FALSE,0,0

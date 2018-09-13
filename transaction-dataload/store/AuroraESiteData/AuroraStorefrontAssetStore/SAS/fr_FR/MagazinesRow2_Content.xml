@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_mag10001_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Magazines1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/084B_ENS_PhotoritzMag_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_mag10001_fr_FR"
+  atchtgt_id="@atchtgt_id_Magazines1001"
+  language_id="&fr_FR;"
+  name="Magazine Photoritz"
+  shortdescription="Magazine Photoritz Moins 50 % sur le renouvellement de votre abonnement"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_mag10001_fr_FR"
+  atchast_id="@atchast_id_mag10001_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_mag10001_fr_FR"
+  atchrel_id="@atchrel_id_Magazines1001"
+  language_id="&fr_FR;"
+  name="Magazine Photoritz"
+  shortdescription="Magazine Photoritz"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Magazines1001"
+	language_id="&fr_FR;"
+	marketingtext="Magazine Photoritz" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_mag10002_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Magazines1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/085B_ENS_SocietyTime_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_mag10002_fr_FR"
+  atchtgt_id="@atchtgt_id_Magazines1002"
+  language_id="&fr_FR;"
+  name="Magazine SocietyTime"
+  shortdescription="Magazine SocietyTime Moins 25 % sur votre abonnement de deux ans"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_mag10002_fr_FR"
+  atchast_id="@atchast_id_mag10002_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_mag10002_fr_FR"
+  atchrel_id="@atchrel_id_Magazines1002"
+  language_id="&fr_FR;"
+  name="Magazine SocietyTime"
+  shortdescription="Magazine SocietyTime"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Magazines1002"
+	language_id="&fr_FR;"
+	marketingtext="Magazine SocietyTime" 
+/>
+

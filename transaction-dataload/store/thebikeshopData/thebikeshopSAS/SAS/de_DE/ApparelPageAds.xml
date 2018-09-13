@@ -1,0 +1,77 @@
+
+<colldesc 
+	collateral_id="@collateral_id_apparel_sub_espot1"
+	language_id="&de_DE;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/deptSubESpot1/styles.css&quot; /&gt;
+					&lt;div id=&quot;deptSubESpot1&quot; class=&quot;container&quot;&gt;
+						&lt;div id=&quot;deptSubESpot1-bkgrd&quot;&gt;
+							&lt;div id=&quot;deptSubESpot1-bkgrd-handbag1&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+							&lt;div id=&quot;deptSubESpot1-container&quot; class=&quot;espotCont&quot;&gt;
+								&lt;div id=&quot;deptSubESpot1-multiImgCont&quot;&gt; 
+									&lt;div id=&quot;deptSubESpot1-bag1&quot;&gt;
+																				&lt;!--[if IE 8]&gt;
+										   &lt;img src=&quot;[imagePath]rwdWebAssets/deptSubESpot1/handbag1.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+								&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+										   &lt;div&gt;&lt;/div&gt;
+										&lt;!--&lt;![endif]--&gt;
+									&lt;/div&gt;
+									&lt;div id=&quot;deptSubESpot1-bag2&quot;&gt;
+																				&lt;!--[if IE 8]&gt;
+										   &lt;img src=&quot;[imagePath]rwdWebAssets/deptSubESpot1/handbag2.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+								&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+										   &lt;div&gt;&lt;/div&gt;
+										&lt;!--&lt;![endif]--&gt;
+									&lt;/div&gt;
+									&lt;div id=&quot;deptSubESpot1-bag3&quot;&gt;
+										&lt;div&gt;&lt;/div&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;div id=&quot;deptSubESpot1-titleCont&quot;&gt; 
+									&lt;div class=&quot;title1&quot;&gt;Designer-Handtaschen&lt;/div&gt;
+									&lt;div class=&quot;title2&quot;&gt;15 % auf Handtaschen bei &lt;br/&gt;Kauf eines Kleides&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_apparel_sub_espot2"
+	language_id="&de_DE;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/deptSubESpot2/styles.css&quot; /&gt;
+					&lt;div id=&quot;deptSubESpot2&quot; class=&quot;container&quot;&gt;
+						&lt;div id=&quot;deptSubESpot2-bkgrd&quot;&gt;
+							&lt;div id=&quot;deptSubESpot2-bkgrd-tie&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+							&lt;div id=&quot;deptSubESpot2-container&quot; class=&quot;espotCont&quot;&gt;
+								&lt;div id=&quot;deptSubESpot2-multiImgCont&quot;&gt; 
+									&lt;div id=&quot;deptSubESpot2-tie&quot;&gt;
+																				&lt;!--[if IE 8]&gt;
+										   &lt;img src=&quot;[imagePath]rwdWebAssets/deptSubESpot2/tie.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+								&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+										   &lt;div&gt;&lt;/div&gt;
+										&lt;!--&lt;![endif]--&gt;
+									&lt;/div&gt;
+									&lt;div id=&quot;deptSubESpot2-belt&quot;&gt;
+										&lt;div&gt;&lt;/div&gt;
+									&lt;/div&gt;
+									&lt;div id=&quot;deptSubESpot2-cuff&quot;&gt;
+																				&lt;!--[if IE 8]&gt;
+										   &lt;img src=&quot;[imagePath]rwdWebAssets/deptSubESpot2/cufflinks.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+								&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+										   &lt;div&gt;&lt;/div&gt;
+										&lt;!--&lt;![endif]--&gt;
+									&lt;/div&gt;
+								&lt;/div&gt;
+								&lt;div id=&quot;deptSubESpot2-titleCont&quot;&gt; 
+									&lt;div class=&quot;title1&quot;&gt;Accessoires für Herren&lt;/div&gt;
+									&lt;div class=&quot;title2&quot;&gt;25% auf Accessoires für Herren bei Kauf eines Anzugs&lt;/div&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;"
+/>
+

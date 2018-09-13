@@ -1,0 +1,126 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+apply plugin: 'com.moowork.grunt'
+node {
+	download = true
+}
+
+apply plugin: 'war'
+
+webAppDirName = 'WebContent'
+
+configurations { customweb }
+
+
+
+def renameCustomStores(storeName, storePath) {
+	def dirs = []
+	fileTree(storePath).visit { FileVisitDetails details ->
+		if (!details.isDirectory()) {
+			// rename
+		} else {
+			dirs.add(details.file)
+		}
+	}
+
+	dirs.each {filename ->
+		File oldFile = new File(filename.toString())
+		File newFile = new File(filename.toString().replace('StoreAssetsDir',storeName))
+		oldFile.renameTo(newFile)
+	}
+}
+
+// Determines if a file should be considered a static asset
+def isstatic(name) {
+	return name ==~ '(?i).*\\.((gif)|(jpe?g)|(js)|(json)|(swf)|(html?)|(png)|(bmp)|(css)|(doc)|(xls)|(ppt)|(ra)|(rpm)|(pdf)|(wav)|(te?xt)|(mpe?g)|(mov)|(avi)|(qt)|(ogg)|(mp4)|(map)|(ico)|(otf)|(ttf)|(woff)|(woff2)|(svg)|(eot))'
+}
+
+war {
+	dependsOn=['removeDefaultStoreFromXML']
+	manifest { attributes 'Class-Path': ' properties xml ' }
+	includeEmptyDirs = false
+	exclude '**/AuroraStorefrontAssetStore/**', '**/ExtendedSitesCatalogAssetStore/**', 'media/**'
+	rootSpec.exclude '**/AuroraStorefrontAssetStore/**', '**/AuroraB2BStorefrontAssetStore/**'
+	rootSpec.eachFile { 
+		if (isstatic(it.name)) {
+			it.exclude()
+		}
+	}
+	archiveName = 'crs-custom-web.war'
+}
+
+task removeDefaultStoreFromXML {
+	def defaultStores = ['AuroraStorefrontAssetStore', 'AuroraB2BStorefrontAssetStore']
+	defaultStores.each {
+		removeStoreFromXML(it)
+	}
+}
+
+def removeStoreFromXML(storeName){
+
+	def springConfigPath = "${project(':crs-custom-web').projectDir}/WebContent/WEB-INF/spring"
+	def controllersFilePath = springConfigPath + "/controllers.xml"
+	def viewsFilePath =springConfigPath + "/views.xml"
+
+	def XMLFiles = [ controllersFilePath, viewsFilePath ]
+
+	XMLFiles.each {
+		println it
+		Node beansExt = (new XmlParser()).parse(it)
+
+		def existingNode = beansExt.import.find { node -> node.'@resource'.contains(storeName) }
+		def newResource = "classpath:/WEB-INF/spring/$storeName" 
+
+		if (existingNode == null) {
+			logger.debug('No ' + storeName + ' node exist in ' + it)
+		} else {
+			def parent = existingNode.parent()
+			parent.remove(existingNode)
+
+			FileWriter fileWriter = new FileWriter(it)
+
+			XmlNodePrinter nodePrinter = new XmlNodePrinter(new PrintWriter(fileWriter))
+			nodePrinter.setPreserveWhitespace(true)
+			nodePrinter.print(beansExt)
+		}
+	}
+}
+
+task zipWeb(type: Zip) {
+	description = 'Zip custom store web project'
+	group = 'bundle'
+
+	from war
+	archiveName 'store-dynamic.zip'
+}
+
+task compileStore {
+	dependsOn = ['npmInstall','installGrunt']
+	finalizedBy = ['gruntBuildWithOpts']
+}
+
+task gruntBuildWithOpts(type: GruntTask) {
+	def compileTask = project.hasProperty('crsCompileTask') ? project.crsCompileTask : 'default'
+	def crsStoreName = project.hasProperty('crsStoreName') ? crsStoreName : crsESiteStoreName + 'SAS'
+	logger.debug("In gruntBuildWithOpts - storename=" + crsStoreName)
+	args = [compileTask, "-storename="+crsStoreName]
+}
+
+/* Task Ordering */
+installGrunt.mustRunAfter npmInstall
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

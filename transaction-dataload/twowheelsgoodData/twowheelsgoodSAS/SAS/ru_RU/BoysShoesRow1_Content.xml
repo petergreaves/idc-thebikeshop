@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_210002_ru_RU"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_21002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/ru_RU/053B_EBS_Tops_001.jpg"
+  directorypath="images/advertisements/ru_RU"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_210002_ru_RU"
+  atchtgt_id="@atchtgt_id_21002"
+  language_id="&ru_RU;"
+  name="Футболки"
+  shortdescription="Распродажа футболок: скидка 25 % на футболки для мальчиков"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_210002_ru_RU"
+  atchast_id="@atchast_id_210002_ru_RU"
+  language_id="&ru_RU;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_210002_ru_RU"
+  atchrel_id="@atchrel_id_21002"
+  language_id="&ru_RU;"
+  name="Футболки"
+  shortdescription="Футболки"
+/>
+<colldesc 
+	collateral_id="@collateral_id_21002"
+	language_id="&ru_RU;"
+	marketingtext="Футболки" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_220002_ru_RU"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_22002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/ru_RU/056B_EBS_ShoeSale_001.jpg"
+  directorypath="images/advertisements/ru_RU"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_220002_ru_RU"
+  atchtgt_id="@atchtgt_id_22002"
+  language_id="&ru_RU;"
+  name="Распродажа обуви"
+  shortdescription="Распродажа туфель для мальчиков: при покупке двух пар получаете третью в подарок"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_220002_ru_RU"
+  atchast_id="@atchast_id_220002_ru_RU"
+  language_id="&ru_RU;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_220002_ru_RU"
+  atchrel_id="@atchrel_id_22002"
+  language_id="&ru_RU;"
+  name="Распродажа обуви"
+  shortdescription="Распродажа обуви"
+/>
+<colldesc 
+	collateral_id="@collateral_id_22002"
+	language_id="&ru_RU;"
+	marketingtext="Распродажа обуви" 
+/>
+

@@ -1,0 +1,96 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenSuitsColor -->
+<attrdesc attr_id="@attribute_id_MenSuits_6" attrtype_id="STRING" language_id="&ro_RO;" name="Culoare" description="Culoare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_11" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&ro_RO;" sequence="1" value="Gri închis" integervalue="" floatvalue="" stringvalue="Gri închis" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_20" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&ro_RO;" sequence="2" value="Negru" integervalue="" floatvalue="" stringvalue="Negru" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_23" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&ro_RO;" sequence="3" value="Gri" integervalue="" floatvalue="" stringvalue="Gri" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_24" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&ro_RO;" sequence="4" value="Bleumarin" integervalue="" floatvalue="" stringvalue="Bleumarin" qtyunit_id="C62" />
+<!--END Defining attribute description  MenSuitsColor -->
+<!--BEGIN Defining attribute description  MenSuitsSize -->
+<attrdesc attr_id="@attribute_id_MenSuits_5" attrtype_id="STRING" language_id="&ro_RO;" name="Dimensiune" description="Dimensiune" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_5" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="1" value="38R" integervalue="" floatvalue="" stringvalue="38R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_6" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="2" value="40R" integervalue="" floatvalue="" stringvalue="40R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_7" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="3" value="42R" integervalue="" floatvalue="" stringvalue="42R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_8" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="4" value="42L" integervalue="" floatvalue="" stringvalue="42L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_9" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="5" value="44R" integervalue="" floatvalue="" stringvalue="44R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_10" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="6" value="44L" integervalue="" floatvalue="" stringvalue="44L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_14" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="7" value="38L" integervalue="" floatvalue="" stringvalue="38L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_15" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="8" value="46R" integervalue="" floatvalue="" stringvalue="46R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_16" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="9" value="46L" integervalue="" floatvalue="" stringvalue="46L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_17" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="10" value="50R" integervalue="" floatvalue="" stringvalue="50R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_18" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="11" value="50L" integervalue="" floatvalue="" stringvalue="50L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_19" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="12" value="52R" integervalue="" floatvalue="" stringvalue="52R" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_22" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="13" value="52L" integervalue="" floatvalue="" stringvalue="52L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_30" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="14" value="48L" integervalue="" floatvalue="" stringvalue="48L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_32" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&ro_RO;" sequence="15" value="40L" integervalue="" floatvalue="" stringvalue="40L" qtyunit_id="C62" />
+<!--END Defining attribute description  MenSuitsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenSuits_3" attrtype_id="STRING" language_id="&ro_RO;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0802" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0803" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0804" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0806" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0810" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0811" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0812" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0816" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0817" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0818" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_21_MCL008_0809" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="2" value="Lână mercerizată" integervalue="" floatvalue="" stringvalue="Lână mercerizată" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0813" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Amestec poliester bumbac" integervalue="" floatvalue="" stringvalue="Amestec poliester bumbac" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0819" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Amestec poliester bumbac" integervalue="" floatvalue="" stringvalue="Amestec poliester bumbac" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0820" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Amestec poliester bumbac" integervalue="" floatvalue="" stringvalue="Amestec poliester bumbac" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0822" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Amestec poliester bumbac" integervalue="" floatvalue="" stringvalue="Amestec poliester bumbac" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0825" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Amestec poliester bumbac" integervalue="" floatvalue="" stringvalue="Amestec poliester bumbac" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_29_MCL008_0815" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&ro_RO;" sequence="4" value="Amestec de lână" integervalue="" floatvalue="" stringvalue="Amestec de lână" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenSuits_2" attrtype_id="STRING" language_id="&ro_RO;" name="Stil" description="Stil" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0802" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0803" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0804" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0806" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0809" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0810" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0811" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0813" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0817" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0819" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0820" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0822" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0825" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Doi nasturi" integervalue="" floatvalue="" stringvalue="Doi nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0812" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Trei nasturi" integervalue="" floatvalue="" stringvalue="Trei nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0815" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Trei nasturi" integervalue="" floatvalue="" stringvalue="Trei nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0816" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Trei nasturi" integervalue="" floatvalue="" stringvalue="Trei nasturi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_31_MCL008_0818" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Doi nasturi şi dungi fine" integervalue="" floatvalue="" stringvalue="Doi nasturi şi dungi fine" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Pattern -->
+<attrdesc attr_id="@attribute_id_MenSuits_1" attrtype_id="STRING" language_id="&ro_RO;" name="Model" description="Model" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0802" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Cadrilat" integervalue="" floatvalue="" stringvalue="Cadrilat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0806" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Cadrilat" integervalue="" floatvalue="" stringvalue="Cadrilat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0819" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Cadrilat" integervalue="" floatvalue="" stringvalue="Cadrilat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0803" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0804" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0809" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0810" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0811" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0812" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0813" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0816" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0818" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0820" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0822" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0825" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Nimic" integervalue="" floatvalue="" stringvalue="Nimic" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_28_MCL008_0815" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Cu dungi fine" integervalue="" floatvalue="" stringvalue="Cu dungi fine" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_28_MCL008_0817" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Cu dungi fine" integervalue="" floatvalue="" stringvalue="Cu dungi fine" />
+<!--end of  Pattern -->
+<!-- END Writing descriptive attribute descriptions -->

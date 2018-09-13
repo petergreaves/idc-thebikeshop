@@ -1,0 +1,77 @@
+
+	<!-- Define contact information for the store.  Can be edited through WebSphere Commerce Accelerator. -->
+	<staddress
+	 staddress_id="@staddress_id_ru_RU_1"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; contact_ru_RU"
+	 address1="12xx Martindale Avenue"
+	 address2="Suite 9xx"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Clothesville"
+	 state="ON"
+	 zipcode="Lxx 1xx"
+	 country="CA"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<staddress
+	 staddress_id="@staddress_id_ru_RU_2"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; location_ru_RU"
+	 address1="12xx Martindale Avenue"
+	 address2="Suite 9xx"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Clothesville"
+	 state="ON"
+	 zipcode="Lxx 1xx"
+	 country="CA"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<!--STOREENTDS 
+	-->
+	<storeentds
+	 description="Commerce Model Store entity"
+	 language_id="&ru_RU;" 
+	 displayname="&STORE_IDENTIFIER;"
+	 storeent_id="@storeent_id_1"
+	 staddress_id_cont="@staddress_id_ru_RU_1"
+	 staddress_id_loc="@staddress_id_ru_RU_2"
+	/>
+	
+	<!-- Define store default language. -->
+	<storelang
+	language_id="&ru_RU;" 
+	storeent_id="@storeent_id_1"
+	/>
+
+	<!-- Description of the store language and fulfillment center. -->
+	
+	<storlangds
+	 description="США"
+	 language_id="&ru_RU;" 
+	 storeent_id="@storeent_id_1"
+    	 language_id_desc="&ru_RU;"
+	/>
+		
+	<shpmodedsc description="Самовывоз" shipmode_id="@pickup_shipmode_id" language_id="&ru_RU;"/>
+	
+	<invadjdesc
+	description="Физическое количество"
+	invadjcode_id="@invadjcode_id_1"
+	language_id="&ru_RU;" 
+   />
+	<invadjdesc
+	description="Брак"
+	invadjcode_id="@invadjcode_id_2"
+	language_id="&ru_RU;" 
+   />
+	<invadjdesc
+	description="Аннулировать"
+	invadjcode_id="@invadjcode_id_3"
+	language_id="&ru_RU;" 
+   />

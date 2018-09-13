@@ -1,0 +1,16 @@
+
+	<!-- e-Marketing spots for Intelligent Offer -->
+	<emspot emspot_id="@madisons_emspot_id_11" storeent_id="@storeent_id_1"  name="Product_ProductRec" description="Display catalog entry recommendations from Coremetrics Intelligent Offer on the product details page." usagetype="MARKETING" />	
+	<emspot emspot_id="@madisons_emspot_id_13" storeent_id="@storeent_id_1"  name="Category_ProductRec" description="Display catalog entry recommendations from Coremetrics Intelligent Offer on all category pages." usagetype="MARKETING" />
+	<emspot emspot_id="@madisons_emspot_id_14" storeent_id="@storeent_id_1"  name="ShoppingCart_ProductRec" description="Display catalog entry recommendations from Coremetrics Intelligent Offer on the shopping cart page." usagetype="MARKETING" />
+	<emspot emspot_id="@madisons_emspot_id_15" storeent_id="@storeent_id_1"  name="OrderConf_ProductRec" description="Display catalog entry recommendations from Coremetrics Intelligent Offer on the order confirmation page." usagetype="MARKETING" />
+	<emspot emspot_id="@madisons_emspot_id_16a" storeent_id="@storeent_id_1"  name="Home_ProductRec" description="Display catalog entry recommendations from Coremetrics Intelligent Offer on the home page." usagetype="MARKETING" />
+
+	<!-- e-Marketing spots for Search Results Page -->
+	<emspot emspot_id="@madisons_emspot_search_id_17" storeent_id="@storeent_id_1"  name="SearchResults_Content" description="Display ads on Search Results page" usagetype="MARKETING"/>
+	<emspot emspot_id="@madisons_emspot_search_id_18" storeent_id="@storeent_id_1"  name="SearchResults_CatEntries" description="Display catalog entry recommendations on Search Results page" usagetype="MARKETING"/>
+	
+	<!-- e-Marketing spots for Best Sellers, Top Browsed and Recently Viewed Catalog Entries -->
+	<emspot emspot_id="@aurora_emspot_prodrec_id_100" storeent_id="@storeent_id_1"  name="BestSellers_CatEntries" description="Display a list of the best selling catalog entries for a category. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries" usagetype="MARKETING" />
+	<emspot emspot_id="@aurora_emspot_prodrec_id_101" storeent_id="@storeent_id_1"  name="TopBrowsed_CatEntries" description="Display a list of the top browsed catalog entries for a category. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries" usagetype="MARKETING" />
+	<emspot emspot_id="@aurora_emspot_prodrec_id_102" storeent_id="@storeent_id_1"  name="RecViewed_CatEntries" description="Display a list of the catalog entries that the customer has recently viewed. This e-Marketing Spot can also display other types of catalog entry recommendations, just like any e-Marketing Spot with a name that ends with _CatEntries" usagetype="MARKETING" />

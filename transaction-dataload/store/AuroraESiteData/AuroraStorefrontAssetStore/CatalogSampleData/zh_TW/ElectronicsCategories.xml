@@ -1,0 +1,83 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Electronics"
+   name="電子產品"
+   shortdescription="電子產品"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="電子產品"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_ComputersLaptops"
+   name="筆記型電腦"
+   shortdescription="筆記型電腦"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cla_laptops.png"
+   fullimage="images/catalog/electronics/category/catr_cla_laptops.png"
+   keyword="筆記型電腦"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_ComputersTablets"
+   name="平板電腦"
+   shortdescription="平板電腦"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="平板電腦"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_ComputersAccessories"
+   name="配件"
+   shortdescription="配件"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cac_accessories.png"
+   fullimage="images/catalog/electronics/category/catr_cac_accessories.png"
+   keyword="配件"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_ComputersDesktops"
+   name="桌上型"
+   shortdescription="桌上型"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cde_desktops.png"
+   fullimage="images/catalog/electronics/category/catr_cde_desktops.png"
+   keyword="桌上型"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_ComputersComponents"
+   name="元件
+"
+   shortdescription="元件
+"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_ccm_components.png"
+   fullimage="images/catalog/electronics/category/catr_ccm_components.png"
+   keyword="元件
+"
+/>
+
+<!-- End of Category Descriptions -->
+
+

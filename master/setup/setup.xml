@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2016 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+
+<project name="setup" default="setup">
+
+  <target name="setup">
+    <echo message="Updating workspace" />
+
+    <createserver serverName="${serverName}" displayName="${serverDisplayName}" path="${libertyHome}" />
+
+    <importpreferences>
+      <preference pluginId="org.eclipse.jdt.core" key="org.eclipse.jdt.core.compiler.codegen.targetPlatform" value="1.8" />
+      <preference pluginId="org.eclipse.jdt.core" key="org.eclipse.jdt.core.compiler.compliance" value="1.8" />
+      <preference pluginId="org.eclipse.jdt.core" key="org.eclipse.jdt.core.compiler.source" value="1.8" />
+      <preference pluginId="com.ibm.ws.ast.st.core" key="isPublishWithErrors" value="true" />
+      <preference pluginId="com.ibm.ws.ast.st.core" key="wrd_APPDEPL_RELOADINTERVAL" value="0" />
+      <preference pluginId="com.ibm.ws.ast.st.core" key="IsNotCheckValidProfileAndServer" value="true" />
+      <preference pluginId="org.eclipse.wst.server.core" key="machine-speed" value="-1" />
+      <preference pluginId="org.eclipse.wst.validation/vals/org.eclipse.jst.jsp.core.JSPBatchValidator" key="global" value="FF01" />
+      <preference pluginId="org.eclipse.wst.validation/vals/org.eclipse.jst.jsp.core.JSPContentValidator" key="global" value="FF01" />
+      <preference pluginId="org.eclipse.wst.validation/vals/org.eclipse.wst.html.core.HTMLValidator" key="global" value="FF01" />
+    </importpreferences>
+
+    <importproject name="*" />
+    <eclipse.incrementalBuild kind="full" />
+
+    <antcall target="addear" />
+  </target>
+
+  <target name="addear" if="earName">
+    <addear displayName="${serverDisplayName}" ear="${earName}" failOnError="true" />
+  </target>
+
+</project>

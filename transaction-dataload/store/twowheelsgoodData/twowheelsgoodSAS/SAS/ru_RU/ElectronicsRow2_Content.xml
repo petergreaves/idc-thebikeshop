@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_elec0002_ru_RU"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_elec0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/ru_RU/0707B_EES_GetReadyForSchool_001.jpg"
+  directorypath="images/advertisements/ru_RU"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_elec0002_ru_RU"
+  atchtgt_id="@atchtgt_id_elec0002"
+  language_id="&ru_RU;"
+  name="Подготовьтесь к школе"
+  shortdescription="Подготовьтесь к школе - получите скидку 15 % на некоторые ноутбуки"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_elec0002_ru_RU"
+  atchast_id="@atchast_id_elec0002_ru_RU"
+  language_id="&ru_RU;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_elec0002_ru_RU"
+  atchrel_id="@atchrel_id_elec0002"
+  language_id="&ru_RU;"
+  name="Подготовьтесь к школе"
+  shortdescription="Подготовьтесь к школе"
+/>
+<colldesc 
+	collateral_id="@collateral_id_elec0002"
+	language_id="&ru_RU;"
+	marketingtext="Подготовьтесь к школе" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_elec0003_ru_RU"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_elec0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/ru_RU/0710B_EES_TabletPower_001.jpg"
+  directorypath="images/advertisements/ru_RU"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_elec0003_ru_RU"
+  atchtgt_id="@atchtgt_id_elec0003"
+  language_id="&ru_RU;"
+  name="Возможности, которые всегда с вами"
+  shortdescription="Возможности, которые всегда с вами - получите скидку 10 % на некоторые планшетные компьютеры"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_elec0003_ru_RU"
+  atchast_id="@atchast_id_elec0003_ru_RU"
+  language_id="&ru_RU;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_elec0003_ru_RU"
+  atchrel_id="@atchrel_id_elec0003"
+  language_id="&ru_RU;"
+  name="Возможности, которые всегда с вами"
+  shortdescription="Возможности, которые всегда с вами"
+/>
+<colldesc 
+	collateral_id="@collateral_id_elec0003"
+	language_id="&ru_RU;"
+	marketingtext="Возможности, которые всегда с вами" 
+/>
+
+
+
+

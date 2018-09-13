@@ -1,0 +1,14 @@
+	<!-- load Partner Org information 
+	<orgentity orgentity_id="@partner_orgentity_id" dn="&ORG_DN_RESELLER;" >
+		<isa>
+			<member member_id="@partner_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>
+	-->
+
+	<!-- load Manufacturer Org information -->
+	<orgentity orgentity_id="@manufacturer_orgentity_id" dn="&ORGANIZATION_DN;" >
+		<isa>
+			<member member_id="@manufacturer_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>

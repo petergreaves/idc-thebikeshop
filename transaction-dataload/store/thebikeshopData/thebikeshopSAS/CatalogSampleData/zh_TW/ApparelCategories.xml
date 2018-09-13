@@ -1,0 +1,304 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel"
+   name="服飾"
+   shortdescription="適合全家的新款式。"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="親子裝、衣服、襯衫、長褲、上衣、褲子/裙子、洋裝、裙裝"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="女裝"
+   shortdescription="女裝"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="休閒服、小禮服、裙裝、毛衣、晚宴洋裝"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="男裝"
+   shortdescription="男裝"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="休閒服、襯衫、毛衣、西裝、長褲、腰帶、領帶"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="女裝
+"
+   shortdescription="女裝
+"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="休閒服、運動服、裙子、毛衣、童裝"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="男裝
+"
+   shortdescription="男裝"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="休閒服、運動服、長褲、牛仔褲、毛衣、童裝"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="洋裝"
+   shortdescription="洋裝"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="休閒服、小禮服、裙裝、毛衣、晚宴洋裝"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="夾克"
+   shortdescription="夾克"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="休閒服、運動服、皮衣、輕裝、外套"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="襯衫"
+   shortdescription="襯衫"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="休閒、商務、亨利領、粗獷"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="西裝"
+   shortdescription="西裝"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="休閒、正式、扣式、羊毛"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="長褲"
+   shortdescription="長褲"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="休閒、牛仔褲、直筒合身、寬鬆合身、西裝褲"
+/>
+
+
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="配件"
+   shortdescription="配件"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="絲質、領帶、皮件、腰帶、帽子"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="鞋子"
+   shortdescription="鞋子"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="休閒鞋、牛津皮鞋、跑鞋、運動鞋、便鞋"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="上衣"
+   shortdescription="上衣"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="休閒服、小禮服、上衣、晚宴服"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="長褲"
+   shortdescription="長褲"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="丹寧、牛仔、童裝、女童"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="鞋子"
+   shortdescription="鞋子"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="芭蕾娃娃鞋、拖鞋、跑鞋、運動鞋"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="短衫"
+   shortdescription="短衫"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="休閒、商務、輕便、晚宴服"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="毛衣"
+   shortdescription="毛衣"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="休閒服、高領、設計師款上衣、套頭"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="裙子"
+   shortdescription="裙子"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="休閒、丹寧、迷你裙、緞面"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="長褲"
+   shortdescription="長褲"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="休閒、直筒、正式、丹寧"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="鞋子"
+   shortdescription="鞋子"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="休閒、平底、皮鞋、露趾、高跟、靴子"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="手提包"
+   shortdescription="手提包"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="休閒、大手提包、皮包、手拿包"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="配件"
+   shortdescription="配件"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="休閒、皮件、腰帶、手提包、帽子、眼鏡"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="長褲"
+   shortdescription="長褲"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="丹寧、靴形褲管、幼童、牛仔褲"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="裙子"
+   shortdescription="裙子"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="休閒服、小禮服、裙子、晚宴服"
+/>
+
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="上衣"
+   shortdescription="上衣"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="休閒、T 恤、背心、毛衣"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="鞋子"
+   shortdescription="鞋子"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="休閒鞋、帆布、跑鞋、皮鞋"
+/>
+
+<!-- End of Category Descriptions -->

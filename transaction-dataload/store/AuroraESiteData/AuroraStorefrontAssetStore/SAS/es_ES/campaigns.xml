@@ -1,0 +1,96 @@
+
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be mbrgrpdesc.displayname and mbrgrpdesc.description  -->
+<!-- That would be colldesc.marketingtext                             -->
+
+
+<!-- Customer Profile Descriptions -->
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_1"
+   language_id="&es_ES;"
+   displayname="Clientes registrados"
+   description="Clientes que se han registrado en la tienda"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_2"
+   language_id="&es_ES;"
+   displayname="Clientes habituales"
+   description="Clientes que han efectuado un pedido, como mínimo, en la tienda"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_3"
+   language_id="&es_ES;"
+   displayname="Compradores invitados"
+   description="Compradores que no se han registrado en la tienda"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_4"
+   language_id="&es_ES;"
+   displayname="Clientes de sexo masculino"
+   description="Clientes registrados que se han identificado como hombres"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_5"
+   language_id="&es_ES;"
+   displayname="Clientes de sexo femenino"
+   description="Clientes registrados que se han identificado como mujeres"
+/>
+
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_6"
+   language_id="&es_ES;"
+   displayname="Clientes que tienen menos de 40 años"
+   description="Clientes que tienen menos de 40 años"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_7"
+   language_id="&es_ES;"
+   displayname="Clientes que tienen 40 años o más"
+   description="Clientes que tienen 40 años o más"
+/>
+
+
+<!-- Ad Copy Descriptions -->
+<!-- The colldesc.marketingtext will be used for alt text with the Ad Copy image -->
+
+<colldesc
+   collateral_id="@collateral_id_1"
+   language_id="&es_ES;"
+   location="images/catalog/es_ES/BuyOneGetOneFree_WineGlasses.jpg"
+   marketingtext="Oferta en copas de vino, Compre una y llévese otra gratis"
+/>
+<colldesc
+   collateral_id="@collateral_id_2"
+   language_id="&es_ES;"
+   location="images/catalog/es_ES/TopSellingItem.jpg"
+   marketingtext="El artículo en línea más vendido actualmente"
+/>
+<colldesc
+   collateral_id="@collateral_id_3"
+   language_id="&es_ES;"
+   location="images/catalog/es_ES/CategoryDiscount_Furniture.jpg"
+   marketingtext="20% de descuento en todos los artículos de la categoría Muebles"
+/>
+<colldesc
+   collateral_id="@collateral_id_4"
+   language_id="&es_ES;"
+   location="images/catalog/es_ES/ShippingDiscount_FreeGroundShipping.jpg"
+   marketingtext="Envío gratuito por correo ordinario"
+/>
+
+<!-- The location and marketing text are intentionally left blank for collateral_id_5 -->
+<colldesc
+   collateral_id="@collateral_id_5"
+   language_id="&es_ES;"
+   location=""
+   marketingtext=" "
+/>
+

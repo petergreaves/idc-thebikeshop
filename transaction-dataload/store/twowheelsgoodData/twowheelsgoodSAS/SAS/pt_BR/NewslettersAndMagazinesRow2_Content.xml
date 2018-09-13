@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nam0002_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_nam0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/086B_ENS_SubscribeNews_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nam0002_pt_BR"
+  atchtgt_id="@atchtgt_id_nam0002"
+  language_id="&pt_BR;"
+  name="Assine os Newsletters"
+  shortdescription="Assine os NewsLetters Assine agora"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nam0002_pt_BR"
+  atchast_id="@atchast_id_nam0002_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nam0002_pt_BR"
+  atchrel_id="@atchrel_id_nam0002"
+  language_id="&pt_BR;"
+  name="Assine os Newsletters"
+  shortdescription="Assine os Newsletters"
+/>
+<colldesc 
+	collateral_id="@collateral_id_nam0002"
+	language_id="&pt_BR;"
+	marketingtext="Assine os Newsletters" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nam0003_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_nam0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/083B_ENS_EconoMag_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nam0003_pt_BR"
+  atchtgt_id="@atchtgt_id_nam0003"
+  language_id="&pt_BR;"
+  name="Revista Econo Sense"
+  shortdescription="Revista Econo Sense Por tempo limitado, pague por um ano e receba por dois anos"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nam0003_pt_BR"
+  atchast_id="@atchast_id_nam0003_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nam0003_pt_BR"
+  atchrel_id="@atchrel_id_nam0003"
+  language_id="&pt_BR;"
+  name="Revista Econo Sense"
+  shortdescription="Revista Econo Sense"
+/>
+<colldesc 
+	collateral_id="@collateral_id_nam0003"
+	language_id="&pt_BR;"
+	marketingtext="Revista Econo Sense" 
+/>
+
+
+
+

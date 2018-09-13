@@ -1,0 +1,5 @@
+CatalogFilterConditionGroup,,,,,,,,,,,,
+CatalogFilterName,StoreIdentifier,CatalogIdentifier,CatalogGroupIdentifier,ConditionGroupIdentifier,ConditionRelation,Delete,Field1,Field2,Field3,Field4,Field5
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Dresses,conditionDressesOr,Or,0,111,222,333,,555
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Dresses,conditionDressesAnd,And,0,,,,,
+CatalogFilterB,AuroraESite,ExtendedSitesCatalogAssetStore,Apparel,conditionApparelOr,Or,0,,,,,

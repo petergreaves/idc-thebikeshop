@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110004_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0411B_EMS_ShoeSale_002.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110004_pt_BR"
+  atchtgt_id="@atchtgt_id_11004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos"
+  shortdescription="Venda de Sapatos Masculinos Compre 2 pares, ganhe o terceiro grátis"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110004_pt_BR"
+  atchast_id="@atchast_id_110004_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110004_pt_BR"
+  atchrel_id="@atchrel_id_11004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos"
+  shortdescription="Venda de Sapatos"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11004"
+	language_id="&pt_BR;"
+	marketingtext="Venda de Sapatos" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120004_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0408B_EMS_LeatherBelts_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120004_pt_BR"
+  atchtgt_id="@atchtgt_id_12004"
+  language_id="&pt_BR;"
+  name="Cintos de Couro"
+  shortdescription="Cintos de Couro 20% de desconto em toda a nossa coleção"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120004_pt_BR"
+  atchast_id="@atchast_id_120004_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120004_pt_BR"
+  atchrel_id="@atchrel_id_12004"
+  language_id="&pt_BR;"
+  name="Cintos de Couro"
+  shortdescription="Cintos de Couro"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12004"
+	language_id="&pt_BR;"
+	marketingtext="Cintos de Couro" 
+/>
+

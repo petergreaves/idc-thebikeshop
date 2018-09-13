@@ -1,0 +1,160 @@
+<!-- Create 3 groups of promotions this store will support -->
+<px_group
+px_group_id="@px_group_id_1"
+storeent_id="@storeent_id_1"
+status="0"
+grpname="OrderLevelPromotion"
+xmlparam="&lt;PromotionGroup impl=&quot;com.ibm.commerce.marketing.promotion.group.PromotionGroup&quot;&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;OrderLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;Status&gt;active&lt;/Status&gt;&lt;AssociatedPromotionPolicies&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Order: One per group&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Order: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;/AssociatedPromotionPolicies&gt;&lt;/PromotionGroup&gt;"
+/>
+
+<px_group
+px_group_id="@px_group_id_2"
+storeent_id="@storeent_id_1"
+status="0"
+grpname="ProductLevelPromotion"
+xmlparam="&lt;PromotionGroup impl=&quot;com.ibm.commerce.marketing.promotion.group.PromotionGroup&quot;&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;ProductLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;Status&gt;active&lt;/Status&gt;&lt;AssociatedPromotionPolicies&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Enforce group level exclusiveness of promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Any order item can only participate in one promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;/AssociatedPromotionPolicies&gt;&lt;/PromotionGroup&gt;"
+/>
+
+<px_group
+px_group_id="@px_group_id_3"
+storeent_id="@storeent_id_1"
+status="0"
+grpname="ShippingPromotion"
+xmlparam="&lt;PromotionGroup impl=&quot;com.ibm.commerce.marketing.promotion.group.PromotionGroup&quot;&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;ShippingPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;Status&gt;active&lt;/Status&gt;&lt;AssociatedPromotionPolicies&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Enforce group level exclusiveness of promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Any order item can only participate in one promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;/AssociatedPromotionPolicies&gt;&lt;/PromotionGroup&gt;"
+/>
+
+
+
+<!-- Create 10 promotion policies for the store -->
+<px_policy
+px_policy_id="@px_policy_id_1"
+storeent_id="@storeent_id_1"
+status="0"
+name="Global: Global level exclusiveness enforcement policy"
+implcls="com.ibm.commerce.marketing.promotion.policy.GlobalExclusivenessEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.GlobalExclusivenessEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Global: Global level exclusiveness enforcement policy&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_2"
+storeent_id="@storeent_id_1"
+status="0"
+name="Global: RBD order level/poduct level combinability policy (backward compatibiliy)"
+implcls="com.ibm.commerce.marketing.promotion.policy.RBDOrderDiscountExclusivenessEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.RBDOrderDiscountExclusivenessEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Global: RBD order level/poduct level combinability policy (backward compatibiliy)&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_3"
+storeent_id="@storeent_id_1"
+status="0"
+name="Product: Any order item can only participate in one promotion"
+implcls="com.ibm.commerce.marketing.promotion.policy.EachItemCanParticipateInPromotionOncePolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.EachItemCanParticipateInPromotionOncePolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Any order item can only participate in one promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_4"
+storeent_id="@storeent_id_1"
+status="0"
+name="Product: Enforce group level exclusiveness of promotion"
+implcls="com.ibm.commerce.marketing.promotion.policy.GroupExclusivenessEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.GroupExclusivenessEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Enforce group level exclusiveness of promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_5"
+storeent_id="@storeent_id_1"
+status="0"
+name="Product: Enforce the redemption limit"
+implcls="com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Product: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_6"
+storeent_id="@storeent_id_1"
+status="0"
+name="Shipping: Any order item can only participate in one promotion"
+implcls="com.ibm.commerce.marketing.promotion.policy.EachItemCanParticipateInPromotionOncePolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.EachItemCanParticipateInPromotionOncePolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Any order item can only participate in one promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_7"
+storeent_id="@storeent_id_1"
+status="0"
+name="Shipping: Enforce group level exclusiveness of promotion"
+implcls="com.ibm.commerce.marketing.promotion.policy.GroupExclusivenessEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.GroupExclusivenessEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Enforce group level exclusiveness of promotion&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_8"
+storeent_id="@storeent_id_1"
+status="0"
+name="Shipping: Enforce the redemption limit"
+implcls="com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Shipping: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_9"
+storeent_id="@storeent_id_1"
+status="0"
+name="Order: One per group"
+implcls="com.ibm.commerce.marketing.promotion.policy.OnlyOnePromotionGovernedByThisPoliceAppliesPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.OnlyOnePromotionGovernedByThisPoliceAppliesPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Order: One per group&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+<px_policy
+px_policy_id="@px_policy_id_10"
+storeent_id="@storeent_id_1"
+status="0"
+name="Order: Enforce the redemption limit"
+implcls="com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy"
+xmlparam="&lt;PromotionPolicy impl=&quot;com.ibm.commerce.marketing.promotion.policy.RedemptionLimitEnforcementPolicy&quot;&gt;&lt;PromotionPolicyKey&gt;&lt;PolicyName&gt;Order: Enforce the redemption limit&lt;/PolicyName&gt;&lt;StoreKey&gt;&lt;DN&gt;ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionPolicyKey&gt;&lt;Status&gt;Active&lt;/Status&gt;&lt;/PromotionPolicy&gt;"
+/>
+
+
+<!-- Relate the 8 promotion policies to the 3 promotion groups. 
+     (2 policies are global policies so they are not related to a specific group) -->
+<px_grppolicy
+px_group_id="@px_group_id_1"
+px_policy_id="@px_policy_id_9"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_1"
+px_policy_id="@px_policy_id_10"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_2"
+px_policy_id="@px_policy_id_4"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_2"
+px_policy_id="@px_policy_id_5"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_2"
+px_policy_id="@px_policy_id_3"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_3"
+px_policy_id="@px_policy_id_7"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_3"
+px_policy_id="@px_policy_id_8"
+/>
+
+<px_grppolicy
+px_group_id="@px_group_id_3"
+px_policy_id="@px_policy_id_6"
+/>

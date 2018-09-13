@@ -1,0 +1,8 @@
+
+<!--start of Merchandising -->
+<attrdesc attr_id="@attribute_id_Merchandising_1" attrtype_id="STRING" language_id="&ru_RU;" name="Исключительный" description="Исключительный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Исключительный" integervalue="" floatvalue="" stringvalue="Исключительный" /> 
+
+<attrdesc attr_id="@attribute_id_Merchandising_2" attrtype_id="STRING" language_id="&ru_RU;" name="Распродажа остатков товара" description="Распродажа остатков товара" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Распродажа остатков товара" integervalue="" floatvalue="" stringvalue="Распродажа остатков товара" /> 
+<!--end of Merchandising -->

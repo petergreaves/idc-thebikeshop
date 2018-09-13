@@ -1,0 +1,4 @@
+<!-- Content Area ESpot for dresses hero image -->
+<collateral collateral_id="@collateral_id_styleguideattachment_hero" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="StyleGuideAttachmentHeroImage" />
+<emspot emspot_id="@madisons_emspot_id_14200" storeent_id="&MAR_STOREENT_ID;"  name="AuroraStyleGuidePageMainAd" description="Display the main ad on Style Guide page" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_styleguideattachment_hero" emspot_id="@madisons_emspot_id_14200" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_styleguideattachment_hero" />

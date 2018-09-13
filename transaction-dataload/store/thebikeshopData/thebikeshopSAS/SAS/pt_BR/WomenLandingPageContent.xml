@@ -1,0 +1,54 @@
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_styles"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/womenLandingPage/styles.css&quot; type=&quot;text/css&quot;/&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/styles.css&quot; /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_video"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;div id=&quot;searchLandSlot4&quot;&gt;
+   &lt;div id=&quot;videoContainer&quot; tabindex=&quot;0&quot; title=&quot;Summer by Design video. Watch video for the promo code to get 40% off designer hats and sunglasses.&quot;&gt;
+      &lt;img id=&quot;videoFrame&quot; alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/TVScreen.png&quot;&gt;   
+      &lt;video id=&quot;videoScreen&quot; title=&quot;Vídeo de anúncio de chapéus femininos, o código de promoção é SUN725&quot; style=&quot;height:83%; width:96%;&quot; width=&quot;96%&quot; height=&quot;83%&quot; poster=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/poster.jpg&quot; controls&gt;
+         &lt;source id=&quot;videoScreen_mp4&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/acc_usl.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+         &lt;source id=&quot;videoScreen_ogg&quot; src=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/acc_usl.ogg&quot; type=&quot;video/ogg&quot; /&gt;
+         &lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/player_r.swf&quot; width=&quot;96%&quot; height=&quot;84%&quot; id=&quot;videoScreen_flash&quot; align=&quot;middle&quot; wmode=&quot;transparent&quot;&gt;
+            &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
+			&lt;param name=&quot;movie&quot; value=&quot;[imagePath]rwdWebAssets/womenLandingPage/heroSpotVideo/media/[langlocale]/player_r.swf&quot; /&gt;
+            &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;
+            &lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;
+         &lt;/object&gt;
+      &lt;/video&gt;
+      &lt;div id=&quot;videoFinished&quot;&gt;
+         &lt;div class=&quot;content&quot;&gt;
+            &lt;div class=&quot;textContainer&quot;&gt;
+               Insira o código da promoção &lt;br&gt;&lt;b&gt;SUN725&lt;/b&gt; durante a finalização da compra, &lt;br&gt;e
+               &lt;h5&gt;ganhe 25% de desconto &lt;/h5&gt;
+               em todos os&lt;br&gt; óculos de sol e chapéus femininos!                  
+            &lt;/div&gt;
+         &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;videoBackScreen&quot;&gt;&amp;nbsp;&lt;/div&gt;
+      &lt;div id=&quot;promotionTitle&quot;&gt;
+         Verão por Design
+         &lt;h1&gt;Assista para obter o código da promoção para &lt;b&gt;ganhar 40% de desconto&lt;/b&gt; em chapéus e óculos de sol do designer&lt;/h1&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_richtext"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;h1&gt;Comprar por Estilo&lt;/h1&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_womenlanding_richtext2"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;h1&gt;Comprar por Marca&lt;/h1&gt;"
+/>
+

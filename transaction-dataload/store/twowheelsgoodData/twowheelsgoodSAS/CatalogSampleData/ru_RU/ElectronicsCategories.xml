@@ -1,0 +1,80 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Electronics"
+   name="Электроника"
+   shortdescription="Электроника"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Электроника"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_ComputersLaptops"
+   name="Ноутбуки"
+   shortdescription="Ноутбуки"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cla_laptops.png"
+   fullimage="images/catalog/electronics/category/catr_cla_laptops.png"
+   keyword="Ноутбуки"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_ComputersTablets"
+   name="Планшеты"
+   shortdescription="Планшеты"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Планшеты"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_ComputersAccessories"
+   name="Аксессуары"
+   shortdescription="Аксессуары"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cac_accessories.png"
+   fullimage="images/catalog/electronics/category/catr_cac_accessories.png"
+   keyword="Аксессуары"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_ComputersDesktops"
+   name="Настольные компьютеры"
+   shortdescription="Настольные компьютеры"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cde_desktops.png"
+   fullimage="images/catalog/electronics/category/catr_cde_desktops.png"
+   keyword="Настольные компьютеры"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_ComputersComponents"
+   name="Компоненты"
+   shortdescription="Компоненты"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_ccm_components.png"
+   fullimage="images/catalog/electronics/category/catr_ccm_components.png"
+   keyword="Компоненты"
+/>
+
+<!-- End of Category Descriptions -->
+
+

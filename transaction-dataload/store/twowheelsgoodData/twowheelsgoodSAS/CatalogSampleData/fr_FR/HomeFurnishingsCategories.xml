@@ -1,0 +1,93 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_HomeFurnishings"
+   name="Maison &amp; Equipement"
+   shortdescription="Maison &amp; Equipement"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="Maison &amp; Equipement"
+/>
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_BathAccessories"
+   name="Accessoires de bain"
+   shortdescription="Accessoires de bain"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   keyword="Accessoires de bain"
+/>
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Appliances"
+   name="Electroménager"
+   shortdescription="Electroménager"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="Electroménager"
+/>
+
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Furniture"
+   name="Meubles"
+   shortdescription="Meubles"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   keyword="Meubles"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Lighting"
+   name="Eclairage"
+   shortdescription="Eclairage"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   keyword="Eclairage"
+/>
+
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Tableware"
+   name="Vaisselle"
+   shortdescription="Vaisselle"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   keyword="Vaisselle"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Kitchenware"
+   name="Matériel de cuisine"
+   shortdescription="Matériel de cuisine"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   keyword="Matériel de cuisine"
+/>
+

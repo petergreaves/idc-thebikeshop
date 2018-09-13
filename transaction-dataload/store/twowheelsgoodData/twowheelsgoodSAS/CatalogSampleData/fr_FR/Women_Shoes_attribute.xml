@@ -1,0 +1,92 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenShoesShoe Size -->
+<attrdesc attr_id="@attribute_id_WomenShoes_6" attrtype_id="STRING" language_id="&fr_FR;" name="Pointure" description="Pointure" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_6" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_7" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_8" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_9" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_15" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_32" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_33" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&fr_FR;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShoesShoe Size -->
+<!--BEGIN Defining attribute description  WomenShoesColor -->
+<attrdesc attr_id="@attribute_id_WomenShoes_5" attrtype_id="STRING" language_id="&fr_FR;" name="Couleur" description="Couleur" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_5" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Noir" integervalue="" floatvalue="" stringvalue="Noir" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_11" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="2" value="Multicolore" integervalue="" floatvalue="" stringvalue="Multicolore" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_18" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="3" value="Rouge" integervalue="" floatvalue="" stringvalue="Rouge" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_20" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="4" value="Argent" integervalue="" floatvalue="" stringvalue="Argent" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_23" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="5" value="Brun" integervalue="" floatvalue="" stringvalue="Brun" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_31" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&fr_FR;" sequence="6" value="Gris" integervalue="" floatvalue="" stringvalue="Gris" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShoesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Toe -->
+<attrdesc attr_id="@attribute_id_WomenShoes_4" attrtype_id="STRING" language_id="&fr_FR;" name="Pointe" description="Pointe" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0501" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Amande" integervalue="" floatvalue="" stringvalue="Amande" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0502" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Amande" integervalue="" floatvalue="" stringvalue="Amande" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0526" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Amande" integervalue="" floatvalue="" stringvalue="Amande" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0528" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Amande" integervalue="" floatvalue="" stringvalue="Amande" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0533" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Amande" integervalue="" floatvalue="" stringvalue="Amande" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0503" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Ouvert" integervalue="" floatvalue="" stringvalue="Ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0512" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Ouvert" integervalue="" floatvalue="" stringvalue="Ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0514" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Ouvert" integervalue="" floatvalue="" stringvalue="Ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0515" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Ouvert" integervalue="" floatvalue="" stringvalue="Ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0519" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Ouvert" integervalue="" floatvalue="" stringvalue="Ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_17_WSH005_0509" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Arrondi" integervalue="" floatvalue="" stringvalue="Arrondi" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_17_WSH005_0518" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Arrondi" integervalue="" floatvalue="" stringvalue="Arrondi" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_19_WSH005_0510" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="4" value="Pointu" integervalue="" floatvalue="" stringvalue="Pointu" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0524" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Plat" integervalue="" floatvalue="" stringvalue="Plat" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0525" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Plat" integervalue="" floatvalue="" stringvalue="Plat" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0527" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Plat" integervalue="" floatvalue="" stringvalue="Plat" />
+<!--end of  Toe -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenShoes_1" attrtype_id="STRING" language_id="&fr_FR;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0501" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Ballerines" integervalue="" floatvalue="" stringvalue="Ballerines" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0502" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Ballerines" integervalue="" floatvalue="" stringvalue="Ballerines" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0503" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Ballerines" integervalue="" floatvalue="" stringvalue="Ballerines" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0510" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Ballerines" integervalue="" floatvalue="" stringvalue="Ballerines" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_16_WSH005_0509" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Escarpins" integervalue="" floatvalue="" stringvalue="Escarpins" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_21_WSH005_0512" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Escarpins stiletto à bout ouvert" integervalue="" floatvalue="" stringvalue="Escarpins stiletto à bout ouvert" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0514" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Escarpins stiletto" integervalue="" floatvalue="" stringvalue="Escarpins stiletto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0518" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Escarpins stiletto" integervalue="" floatvalue="" stringvalue="Escarpins stiletto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0519" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Escarpins stiletto" integervalue="" floatvalue="" stringvalue="Escarpins stiletto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_25_WSH005_0515" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Escarpins à talon haut" integervalue="" floatvalue="" stringvalue="Escarpins à talon haut" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_28_WSH005_0524" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="6" value="Bottines" integervalue="" floatvalue="" stringvalue="Bottines" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_30_WSH005_0525" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="7" value="Bottes à talon" integervalue="" floatvalue="" stringvalue="Bottes à talon" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_34_WSH005_0526" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="8" value="Bottes stiletto mi-hauteur" integervalue="" floatvalue="" stringvalue="Bottes stiletto mi-hauteur" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_34_WSH005_0528" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="8" value="Bottes stiletto mi-hauteur" integervalue="" floatvalue="" stringvalue="Bottes stiletto mi-hauteur" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_35_WSH005_0527" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="9" value="Bottes basses" integervalue="" floatvalue="" stringvalue="Bottes basses" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_36_WSH005_0533" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&fr_FR;" sequence="10" value="Bottes stiletto" integervalue="" floatvalue="" stringvalue="Bottes stiletto" />
+<!--end of  Style -->
+<!--start of  Width -->
+<attrdesc attr_id="@attribute_id_WomenShoes_2" attrtype_id="STRING" language_id="&fr_FR;" name="Largeur" description="Largeur" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0501" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0502" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0503" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0509" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0510" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0512" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0514" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0515" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0518" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0519" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0524" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0525" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0526" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0527" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0528" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0533" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="1" value="8&quot;" integervalue="" floatvalue="" stringvalue="8&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_12" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="2" value="7.5&quot;" integervalue="" floatvalue="" stringvalue="7.5&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_22" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="3" value="7&quot;" integervalue="" floatvalue="" stringvalue="7&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_27" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="4" value="9&quot;" integervalue="" floatvalue="" stringvalue="9&quot;" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_37" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&fr_FR;" sequence="5" value="6&quot;" integervalue="" floatvalue="" stringvalue="6&quot;" />
+<!--end of  Width -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

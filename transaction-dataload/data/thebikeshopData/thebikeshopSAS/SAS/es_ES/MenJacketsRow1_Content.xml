@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0405B_EMS_CoolLeather_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110002_es_ES"
+  atchtgt_id="@atchtgt_id_11002"
+  language_id="&es_ES;"
+  name="Piel moderna"
+  shortdescription=" 20% de descuento en chaquetas de piel para hombre"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110002_es_ES"
+  atchast_id="@atchast_id_110002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110002_es_ES"
+  atchrel_id="@atchrel_id_11002"
+  language_id="&es_ES;"
+  name="Piel moderna"
+  shortdescription="Piel moderna"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11002"
+	language_id="&es_ES;"
+	marketingtext="Piel moderna" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0409B_EMS_LuxuriousCashmere_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120002_es_ES"
+  atchtgt_id="@atchtgt_id_12002"
+  language_id="&es_ES;"
+  name="Cachemir de lujo"
+  shortdescription=" 15% de descuento en abrigos de cachemir"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120002_es_ES"
+  atchast_id="@atchast_id_120002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120002_es_ES"
+  atchrel_id="@atchrel_id_12002"
+  language_id="&es_ES;"
+  name="Cachemir de lujo"
+  shortdescription="Cachemir de lujo"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12002"
+	language_id="&es_ES;"
+	marketingtext="Cachemir de lujo" 
+/>
+

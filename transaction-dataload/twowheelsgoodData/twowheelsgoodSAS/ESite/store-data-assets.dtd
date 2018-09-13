@@ -1,0 +1,90 @@
+<!--********************************************************************-->
+<!--  Licensed Materials - Property of IBM                              -->
+<!--                                                                    -->
+<!--  WebSphere Commerce                                                -->
+<!--                                                                    -->
+<!--  (c) Copyright IBM Corp. 2014                                      -->
+<!--                                                                    -->
+<!--  US Government Users Restricted Rights - Use, duplication or       -->
+<!--  disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+<!--                                                                    -->
+<!--********************************************************************-->
+
+<!ENTITY % wcs.dtd SYSTEM "wcs.dtd">
+%wcs.dtd;
+
+<!ENTITY % ForeignKeys.dtd SYSTEM "ForeignKeys.dtd">
+%ForeignKeys.dtd;
+
+<!ENTITY store-references.xml SYSTEM "store-references.xml">
+<!ENTITY catentry-references.xml SYSTEM "catentry-references.xml">
+<!ENTITY baseitem-references.xml SYSTEM "baseitem-references.xml">
+<!ENTITY itemspc-references.xml SYSTEM "itemspc-references.xml">
+<!ENTITY versionspc-references.xml SYSTEM "versionspc-references.xml">
+
+<!ENTITY geotree.xml SYSTEM "geotree.xml">
+
+<!ENTITY geonodes.xml SYSTEM "geonodes.xml">
+  <!ENTITY ar_EG_geonodes.xml SYSTEM "ar_EG/geonodes.xml">
+  <!ENTITY de_DE_geonodes.xml SYSTEM "de_DE/geonodes.xml">
+  <!ENTITY en_US_geonodes.xml SYSTEM "en_US/geonodes.xml">
+  <!ENTITY es_ES_geonodes.xml SYSTEM "es_ES/geonodes.xml">
+  <!ENTITY fr_FR_geonodes.xml SYSTEM "fr_FR/geonodes.xml">
+  <!ENTITY he_IL_geonodes.xml SYSTEM "he_IL/geonodes.xml">
+  <!ENTITY it_IT_geonodes.xml SYSTEM "it_IT/geonodes.xml">
+  <!ENTITY iw_IL_geonodes.xml SYSTEM "iw_IL/geonodes.xml">
+  <!ENTITY ja_JP_geonodes.xml SYSTEM "ja_JP/geonodes.xml">
+  <!ENTITY ko_KR_geonodes.xml SYSTEM "ko_KR/geonodes.xml">
+  <!ENTITY pl_PL_geonodes.xml SYSTEM "pl_PL/geonodes.xml">
+  <!ENTITY pt_BR_geonodes.xml SYSTEM "pt_BR/geonodes.xml">
+  <!ENTITY ro_RO_geonodes.xml SYSTEM "ro_RO/geonodes.xml">
+  <!ENTITY ru_RU_geonodes.xml SYSTEM "ru_RU/geonodes.xml">
+  <!ENTITY tr_TR_geonodes.xml SYSTEM "tr_TR/geonodes.xml">
+  <!ENTITY zh_CN_geonodes.xml SYSTEM "zh_CN/geonodes.xml">
+  <!ENTITY zh_TW_geonodes.xml SYSTEM "zh_TW/geonodes.xml">
+
+<!ENTITY storelocations.xml SYSTEM "storelocations.xml">
+  <!ENTITY ar_EG_storelocations.xml SYSTEM "ar_EG/storelocations.xml">
+  <!ENTITY de_DE_storelocations.xml SYSTEM "de_DE/storelocations.xml">
+  <!ENTITY en_US_storelocations.xml SYSTEM "en_US/storelocations.xml">
+  <!ENTITY es_ES_storelocations.xml SYSTEM "es_ES/storelocations.xml">
+  <!ENTITY fr_FR_storelocations.xml SYSTEM "fr_FR/storelocations.xml">
+  <!ENTITY he_IL_storelocations.xml SYSTEM "he_IL/storelocations.xml">
+  <!ENTITY it_IT_storelocations.xml SYSTEM "it_IT/storelocations.xml">
+  <!ENTITY iw_IL_storelocations.xml SYSTEM "iw_IL/storelocations.xml">
+  <!ENTITY ja_JP_storelocations.xml SYSTEM "ja_JP/storelocations.xml">
+  <!ENTITY ko_KR_storelocations.xml SYSTEM "ko_KR/storelocations.xml">
+  <!ENTITY pl_PL_storelocations.xml SYSTEM "pl_PL/storelocations.xml">
+  <!ENTITY pt_BR_storelocations.xml SYSTEM "pt_BR/storelocations.xml">
+  <!ENTITY ro_RO_storelocations.xml SYSTEM "ro_RO/storelocations.xml">
+  <!ENTITY ru_RU_storelocations.xml SYSTEM "ru_RU/storelocations.xml">
+  <!ENTITY tr_TR_storelocations.xml SYSTEM "tr_TR/storelocations.xml">
+  <!ENTITY zh_CN_storelocations.xml SYSTEM "zh_CN/storelocations.xml">
+  <!ENTITY zh_TW_storelocations.xml SYSTEM "zh_TW/storelocations.xml">
+    
+<!ENTITY ffmcenters.xml SYSTEM "ffmcenters.xml">
+  <!ENTITY ar_EG_ffmcenters.xml SYSTEM "ar_EG/ffmcenters.xml">
+  <!ENTITY de_DE_ffmcenters.xml SYSTEM "de_DE/ffmcenters.xml">
+  <!ENTITY en_US_ffmcenters.xml SYSTEM "en_US/ffmcenters.xml">
+  <!ENTITY es_ES_ffmcenters.xml SYSTEM "es_ES/ffmcenters.xml">
+  <!ENTITY fr_FR_ffmcenters.xml SYSTEM "fr_FR/ffmcenters.xml">
+  <!ENTITY he_IL_ffmcenters.xml SYSTEM "he_IL/ffmcenters.xml">
+  <!ENTITY it_IT_ffmcenters.xml SYSTEM "it_IT/ffmcenters.xml">
+  <!ENTITY iw_IL_ffmcenters.xml SYSTEM "iw_IL/ffmcenters.xml">
+  <!ENTITY ja_JP_ffmcenters.xml SYSTEM "ja_JP/ffmcenters.xml">
+  <!ENTITY ko_KR_ffmcenters.xml SYSTEM "ko_KR/ffmcenters.xml">
+  <!ENTITY pl_PL_ffmcenters.xml SYSTEM "pl_PL/ffmcenters.xml">
+  <!ENTITY pt_BR_ffmcenters.xml SYSTEM "pt_BR/ffmcenters.xml">
+  <!ENTITY ro_RO_ffmcenters.xml SYSTEM "ro_RO/ffmcenters.xml">
+  <!ENTITY ru_RU_ffmcenters.xml SYSTEM "ru_RU/ffmcenters.xml">
+  <!ENTITY tr_TR_ffmcenters.xml SYSTEM "tr_TR/ffmcenters.xml">
+  <!ENTITY zh_CN_ffmcenters.xml SYSTEM "zh_CN/ffmcenters.xml">
+  <!ENTITY zh_TW_ffmcenters.xml SYSTEM "zh_TW/ffmcenters.xml">
+
+<!ENTITY AuroraATPInventory.xml SYSTEM "AuroraATPInventory.xml">
+<!ENTITY AuroraInventory.xml SYSTEM "AuroraInventory.xml">
+<!ENTITY AuroraPhysicalStoreInventory.xml SYSTEM "AuroraPhysicalStoreInventory.xml">
+
+<!ENTITY DressATPInventory.xml SYSTEM "DressATPInventory.xml">
+<!ENTITY DressInventory.xml SYSTEM "DressInventory.xml">
+<!ENTITY DressPhysicalStoreInventory.xml SYSTEM "DressPhysicalStoreInventory.xml">

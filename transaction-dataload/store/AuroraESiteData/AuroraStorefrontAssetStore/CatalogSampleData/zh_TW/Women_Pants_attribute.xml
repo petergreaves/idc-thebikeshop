@@ -1,0 +1,125 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenPantsColor -->
+<attrdesc attr_id="@attribute_id_WomenPants_8" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_12" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&zh_TW;" sequence="1" value="藍色" integervalue="" floatvalue="" stringvalue="藍色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_17" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&zh_TW;" sequence="2" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_30" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&zh_TW;" sequence="3" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_32" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&zh_TW;" sequence="4" value="棕色" integervalue="" floatvalue="" stringvalue="棕色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_34" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&zh_TW;" sequence="5" value="灰棕色" integervalue="" floatvalue="" stringvalue="灰棕色" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenPantsColor -->
+<!--BEGIN Defining attribute description  WomenPantsSize -->
+<attrdesc attr_id="@attribute_id_WomenPants_7" attrtype_id="STRING" language_id="&zh_TW;" name="大小" description="大小" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_7" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&zh_TW;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_8" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&zh_TW;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_9" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&zh_TW;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_10" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&zh_TW;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_11" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&zh_TW;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenPantsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenPants_5" attrtype_id="STRING" language_id="&zh_TW;" name="清潔保養" description="清潔保養" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0401" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0402" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0405" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0406" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0407" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0408" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0410" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0412" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0413" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0414" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0415" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0416" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0417" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0418" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0419" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0420" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&zh_TW;" sequence="1" value="機洗" integervalue="" floatvalue="" stringvalue="機洗" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenPants_2" attrtype_id="STRING" language_id="&zh_TW;" name="布料" description="布料" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0401" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧布" integervalue="" floatvalue="" stringvalue="丹寧布" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0405" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧布" integervalue="" floatvalue="" stringvalue="丹寧布" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0406" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧布" integervalue="" floatvalue="" stringvalue="丹寧布" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0407" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧布" integervalue="" floatvalue="" stringvalue="丹寧布" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0420" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧布" integervalue="" floatvalue="" stringvalue="丹寧布" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0402" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0408" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0410" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0412" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0413" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0414" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0416" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0417" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0419" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="2" value="聚酯纖維" integervalue="" floatvalue="" stringvalue="聚酯纖維" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_33_WCL004_0415" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="3" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_38_WCL004_0418" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&zh_TW;" sequence="4" value="燈芯絨" integervalue="" floatvalue="" stringvalue="燈芯絨" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenPants_1" attrtype_id="STRING" language_id="&zh_TW;" name="樣式" description="樣式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_1_WCL004_0401" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="1" value="丹寧牛仔褲" integervalue="" floatvalue="" stringvalue="丹寧牛仔褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0402" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="2" value="西裝褲" integervalue="" floatvalue="" stringvalue="西裝褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0408" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="2" value="西裝褲" integervalue="" floatvalue="" stringvalue="西裝褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0414" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="2" value="西裝褲" integervalue="" floatvalue="" stringvalue="西裝褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0405" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="3" value="緊身牛仔褲" integervalue="" floatvalue="" stringvalue="緊身牛仔褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0407" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="3" value="緊身牛仔褲" integervalue="" floatvalue="" stringvalue="緊身牛仔褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0420" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="3" value="緊身牛仔褲" integervalue="" floatvalue="" stringvalue="緊身牛仔褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_21_WCL004_0406" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="4" value="寬筒牛仔褲" integervalue="" floatvalue="" stringvalue="寬筒牛仔褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_27_WCL004_0410" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="5" value="緊身褲" integervalue="" floatvalue="" stringvalue="緊身褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0412" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="6" value="休閒褲" integervalue="" floatvalue="" stringvalue="休閒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0413" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="6" value="休閒褲" integervalue="" floatvalue="" stringvalue="休閒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0415" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="6" value="休閒褲" integervalue="" floatvalue="" stringvalue="休閒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0419" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="6" value="休閒褲" integervalue="" floatvalue="" stringvalue="休閒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_35_WCL004_0416" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="7" value="喇叭褲" integervalue="" floatvalue="" stringvalue="喇叭褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_36_WCL004_0417" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="8" value="彈力褲" integervalue="" floatvalue="" stringvalue="彈力褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_37_WCL004_0418" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&zh_TW;" sequence="9" value="燈芯絨褲" integervalue="" floatvalue="" stringvalue="燈芯絨褲" />
+<!--end of  Style -->
+<!--start of  Leg -->
+<attrdesc attr_id="@attribute_id_WomenPants_6" attrtype_id="STRING" language_id="&zh_TW;" name="褲管" description="褲管" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0401" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0402" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0414" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0415" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0417" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0418" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0419" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="1" value="直筒褲" integervalue="" floatvalue="" stringvalue="直筒褲" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0405" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="2" value="緊身" integervalue="" floatvalue="" stringvalue="緊身" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0407" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="2" value="緊身" integervalue="" floatvalue="" stringvalue="緊身" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0410" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="2" value="緊身" integervalue="" floatvalue="" stringvalue="緊身" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0420" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="2" value="緊身" integervalue="" floatvalue="" stringvalue="緊身" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_23_WCL004_0406" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="3" value="寬筒" integervalue="" floatvalue="" stringvalue="寬筒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_26_WCL004_0408" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="4" value="喇叭" integervalue="" floatvalue="" stringvalue="喇叭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_26_WCL004_0416" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="4" value="喇叭" integervalue="" floatvalue="" stringvalue="喇叭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_29_WCL004_0412" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="5" value="靴型" integervalue="" floatvalue="" stringvalue="靴型" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_31_WCL004_0413" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&zh_TW;" sequence="6" value="喇叭靴型" integervalue="" floatvalue="" stringvalue="喇叭靴型" />
+<!--end of  Leg -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenPants_3" attrtype_id="STRING" language_id="&zh_TW;" name="場合" description="場合" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0401" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0405" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0406" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0407" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0410" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0415" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0416" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0417" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0418" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0420" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="1" value="休閒" integervalue="" floatvalue="" stringvalue="休閒" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0402" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0408" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0412" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0413" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0414" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0419" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&zh_TW;" sequence="2" value="上班服裝" integervalue="" floatvalue="" stringvalue="上班服裝" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

@@ -1,0 +1,74 @@
+<!-- Content Area ESpot for password reset notification -->
+<collateral collateral_id="@collateral_id_static_1" storeent_id="@storeent_id_1" colltype_id="2" name="PasswordResetNotifyCenter" />
+<emspot emspot_id="@emspot_id_static_1" storeent_id="@storeent_id_1" name="EmailPasswordReset_Content" description="Display content in the forgot password e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_1" emspot_id="@emspot_id_static_1" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_1" />
+
+<!-- Content Area ESpot for wishlist create notification -->
+<collateral collateral_id="@collateral_id_static_2" storeent_id="@storeent_id_1" colltype_id="2" name="WishlistCreateNotifyCenter" />
+<emspot emspot_id="@emspot_id_static_2" storeent_id="@storeent_id_1" name="EmailWishlist_Content" description="Display content in the wish list created e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_2" emspot_id="@emspot_id_static_2" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_2" />
+
+<!-- Content Area ESpot for Help Page -->
+<collateral collateral_id="@collateral_id_static_3" storeent_id="@storeent_id_1" colltype_id="2" name="HelpCenter" />
+<emspot emspot_id="@emspot_id_static_3" storeent_id="@storeent_id_1" name="HelpPageCenter_Content" description="Display content in the Help page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_3" emspot_id="@emspot_id_static_3" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_3" />
+
+<!-- Content Area ESpot for Contact Us Page -->
+<collateral collateral_id="@collateral_id_static_4" storeent_id="@storeent_id_1" colltype_id="2" name="ContactUsCenter" />
+<emspot emspot_id="@emspot_id_static_4" storeent_id="@storeent_id_1" name="ContactUsPageCenter_Content" description="Display content in the Contact Us page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_4" emspot_id="@emspot_id_static_4" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_4" />
+
+<!-- Content Area ESpot for Return Policy Page -->
+<collateral collateral_id="@collateral_id_static_5" storeent_id="@storeent_id_1" colltype_id="2" name="ReturnPolicyCenter" />
+<emspot emspot_id="@emspot_id_static_5" storeent_id="@storeent_id_1" name="ReturnPolicyPageCenter_Content" description="Display content in the Return Policy page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_5" emspot_id="@emspot_id_static_5" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_5" />
+
+<!-- Content Area ESpot for Privacy Policy Page -->
+<collateral collateral_id="@collateral_id_static_6" storeent_id="@storeent_id_1" colltype_id="2" name="PrivacyContentVersion1.0" />
+<emspot emspot_id="@emspot_id_static_6" storeent_id="@storeent_id_1" name="PrivacyPolicyPageCenter_Content" description="Display content in the Privacy Policy page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_6" emspot_id="@emspot_id_static_6" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_6" />
+
+<!-- Content Area ESpot for Corporate Info Page -->
+<collateral collateral_id="@collateral_id_static_7" storeent_id="@storeent_id_1" colltype_id="2" name="CorporateInfoCenter" />
+<emspot emspot_id="@emspot_id_static_7" storeent_id="@storeent_id_1" name="CorporateInfoPageCenter_Content" description="Display content in the Corporate Info - About Us page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_7" emspot_id="@emspot_id_static_7" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_7" />
+
+<!-- Content Area ESpot for Corporate ContactUs Page -->
+<collateral collateral_id="@collateral_id_static_8" storeent_id="@storeent_id_1" colltype_id="2" name="CorporateContactUsCenter" />
+<emspot emspot_id="@emspot_id_static_8" storeent_id="@storeent_id_1" name="CorporateContactUsPageCenter_Content" description="Display content in the Corporate Info - Contact Us page." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_8" emspot_id="@emspot_id_static_8" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_8" />
+
+<!-- Content Area ESpot for email header text message -->
+<collateral collateral_id="@collateral_id_static_9" storeent_id="@storeent_id_1" colltype_id="2" name="EmailHeader" />
+<emspot emspot_id="@emspot_id_static_9" storeent_id="@storeent_id_1" name="EmailHeader_Content" description="Display content in the header of all store marketing e-mail messages." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_9" emspot_id="@emspot_id_static_9" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_9" />
+
+<!-- Content Area ESpot for email footer text message -->
+<collateral collateral_id="@collateral_id_static_10" storeent_id="@storeent_id_1" colltype_id="2" name="EmailFooter" />
+<emspot emspot_id="@emspot_id_static_10" storeent_id="@storeent_id_1" name="EmailFooter_Content" description="Display content in the footer of all store marketing e-mail messages." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_10" emspot_id="@emspot_id_static_10" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_10" />
+
+<!-- Content Area ESpot for change password notification -->
+<collateral collateral_id="@collateral_id_static_11" storeent_id="@storeent_id_1" colltype_id="2" name="PasswordChangeNotifyCenter" />
+<emspot emspot_id="@emspot_id_static_11" storeent_id="@storeent_id_1" name="PasswordChangeNotifyCenter_Content" description="Email change password notification" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_11" emspot_id="@emspot_id_static_11" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_11" />
+
+<!-- Content Area ESpot for account activation notification -->
+<collateral collateral_id="@collateral_id_static_12" storeent_id="@storeent_id_1" colltype_id="2" name="AccountActivationCenter" />
+<emspot emspot_id="@emspot_id_static_12" storeent_id="@storeent_id_1" name="EmailAccountActivation_Content" description="Display content in the account activation e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_12" emspot_id="@emspot_id_static_12" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_12" />
+
+<!-- Content Area ESpot for order cancel notification -->
+<collateral collateral_id="@collateral_id_static_13" storeent_id="@storeent_id_1" colltype_id="2" name="OrderCancelNotifyRow1" />
+<emspot emspot_id="@emspot_id_static_13" storeent_id="@storeent_id_1" name="EmailOrderCancel_Content" description="Display content in the order cancellation e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_13" emspot_id="@emspot_id_static_13" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_13" />
+
+<!-- Content Area ESpot for order ship notification -->
+<collateral collateral_id="@collateral_id_static_14" storeent_id="@storeent_id_1" colltype_id="2" name="OrderShipNotifyRow1" />
+<emspot emspot_id="@emspot_id_static_14" storeent_id="@storeent_id_1" name="EmailOrderShip_Content" description="Display content in the order ship e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_14" emspot_id="@emspot_id_static_14" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_14" />
+
+<!-- Content Area ESpot for password reset notification initiated by Admin -->
+<collateral collateral_id="@collateral_id_static_15" storeent_id="@storeent_id_1" colltype_id="2" name="PasswordResetNotifyAdminContent" />
+<emspot emspot_id="@emspot_id_static_15" storeent_id="@storeent_id_1" name="EmailPasswordReset_AdminContent" description="Display content in the forgot password e-mail message." usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_static_15" emspot_id="@emspot_id_static_15" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_static_15" />

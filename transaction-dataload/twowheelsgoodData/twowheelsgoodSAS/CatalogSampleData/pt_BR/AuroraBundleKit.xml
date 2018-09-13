@@ -1,0 +1,61 @@
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Men_accessory_1"
+   language_id="&pt_BR;"
+   name="Uma Combinação Perfeita"
+   shortdescription="Conjunto de acessórios masculinos"
+   longdescription="Com uma aparência moderna e avançada, este cinto, de couro italiano importado, apresenta um fecho com placa dividida em níquel escovado. Complementado por uma gravata preta lisa e atraente, passada à mão e confeccionada em mescla de seda e poliéster, compõe uma grande afirmação de moda."
+   thumbnail="images/catalog/apparel/men/mac013_accessories/200x310/mac013_1333.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/men/mac013_accessories/646x1000/mac013_1333.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Stylish_latte_1"
+   language_id="&pt_BR;"
+   name="Feitos um para o Outro"
+   shortdescription="Elegante Conjunto de Latte"
+   longdescription="A Máquina de Espresso/Latte da Kitchenel com um par de xícaras de porcelana é a delícia de qualquer fã de café. A máquina de espresso e latte faz uma xícara de latte sem bagunça, com suas diversas opções. "
+   thumbnail="images/catalog/homefurnishings/hap027_appliances/200x310/hap027_2744.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hap027_appliances/646x1000/hap027_2744.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_CristieGlassware_1"
+   language_id="&pt_BR;"
+   name="Em Espíritos Verdadeiros"
+   shortdescription="Copo para vinho
+package"
+   longdescription="Como uma coleção de quatro taças, este conjunto clássico de taças de vinho é um acompanhamento perfeito para um jantar formal. Com boca larga e bojo oval, estas taças têm a forma perfeita para reter todo o sabor e o corpo do vinho"
+   thumbnail="images/catalog/homefurnishings/hta029_tableware/200x310/hta029_2932.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hta029_tableware/646x1000/hta029_2932.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_Casual_Yet_Classic_1"
+   language_id="&pt_BR;"
+   name="Informal, porém Clássico"
+   shortdescription="Conjunto de camisa de algodão branco e jeans carpinteiro azuis"
+   longdescription="Camisa de algodão branco e jeans de estilo carpinteiro, um traje clássico para um menino e adequado para todas as ocasiões. Os padrões geométricos em cinza e preto sobre o fundo branco tornam a camisa elegante e moderna. Os jeans de estilo carpinteiro completam a aparência"
+   thumbnail="images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1417.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1417.jpg"
+   available="1"
+   published="1"
+/>
+
+<!-- Dynamic Kit -->
+<catentdesc catentry_id="@catentry_dynamickit_id_computers_11" language_id="&pt_BR;" name="Desktop AXABC-E3062" shortdescription="O PC Aurora AXABC-E3062 All-In-One." longdescription="O PC Aurora AXABC-E3062 All-In-One com tela Full HD aprimora sua vida digital com um design que economiza espaço e usabilidade avançada. Inclui: Processador, Sistema Operacional, Disco Rígido, Memória, Unidade Ótica, Placa de Som, Modem e Wireless, Teclado, Monitor, Mouse e Alto-falantes." thumbnail="images/catalog/electronics/cde021_desktops/200x310/cde021_2104.jpg" fullimage="images/catalog/electronics/cde021_desktops/646x1000/cde021_2104.jpg" available="1" published="0"/>
+<baseitmdsc baseitem_id="@baseitem_dynamickit_id_computers_11" language_id="&pt_BR;" shortdescription="O PC Aurora AXABC-E3062 All-In-One." longdescription="O PC Aurora AXABC-E3062 All-In-One com tela Full HD aprimora sua vida digital com um design que economiza espaço e usabilidade avançada. Inclui: Processador, Sistema Operacional, Disco Rígido, Memória, Unidade Ótica, Placa de Som, Modem e Wireless, Teclado, Monitor, Mouse e Alto-falantes."/>
+<!-- End of Dynamic Kit -->
+
+
+

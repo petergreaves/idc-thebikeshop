@@ -1,0 +1,56 @@
+	
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_1"
+	 tokenusgtype="Language"
+	 primarytoken="LanguageToken"
+	 storeent_id="0"
+	 isstatic="0"
+	/>
+	
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_2"
+	 tokenusgtype="Store"
+	 primarytoken="StoreToken:CatalogToken"
+	 storeent_id="0"
+	 isstatic="0"
+	/>
+	
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_6"
+	 tokenusgtype="CatalogEntry"
+	 primarytoken="ProductToken"
+	 storeent_id="0"
+	 isstatic="0"
+	/>
+
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_7"
+	 tokenusgtype="CatalogGroup"
+	 primarytoken="CategoryToken"
+	 storeent_id="0"
+	 isstatic="0"
+	/>
+
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_8"
+	 tokenusgtype="Search"
+	 primarytoken="SearchTermToken"
+	 storeent_id="0"
+	 isstatic="0"
+	/>
+	
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_9"
+	 tokenusgtype="StaticContent"
+	 primarytoken="StaticContentToken"
+	 storeent_id="@storeent_id_1"
+	 isstatic="0"
+	/>
+	
+	<seotokenusgtype
+	 tokenusgtype_id="@tokenusgtype_id_10"
+	 tokenusgtype="StaticPages"
+	 primarytoken="StaticPagesToken"
+	 storeent_id="0"
+	 isstatic="1"
+	/>

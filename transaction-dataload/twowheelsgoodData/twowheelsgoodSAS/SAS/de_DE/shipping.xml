@@ -1,0 +1,44 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be shpmodedsc.description, shpmodedsc.field2          -->
+
+<!--
+Table name: SHPMODEDSC 
+Description of Shipping Mode - Language Specfic 
+-->
+
+<shpmodedsc 
+   description="Normale Zustellung" 
+   field2="5 bis 10 Werktage"
+   shipmode_id="@shipmode_id_1" 
+   language_id="&de_DE;" 
+/>
+
+<shpmodedsc 
+   description="Übernachtzustellung" 
+   field2="1 Werktag"
+   shipmode_id="@shipmode_id_2" 
+   language_id="&de_DE;" 
+/>
+
+<shpmodedsc 
+   description="2 Tage Expresszustellung" 
+   field2="2 Werktage"
+   shipmode_id="@shipmode_id_3" 
+   language_id="&de_DE;" 
+/>
+
+<shpmodedsc 
+   description="Internationale Priorität" 
+   field2="1 bis 3 Werktage"
+   shipmode_id="@shipmode_id_4" 
+   language_id="&de_DE;" 
+/>
+
+<shpmodedsc 
+   description="Internationale normale Zustellung" 
+   field2="7 bis 14 Werktage"
+   shipmode_id="@shipmode_id_5" 
+   language_id="&de_DE;" 
+/>
+

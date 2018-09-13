@@ -1,0 +1,1006 @@
+
+<geondds geondds_id="@geondds_de_DE_Canada" geonode_id="@geonode_Canada" language_id="&de_DE;" name="Canada" description="Canada" />
+<geondds geondds_id="@geondds_de_DE_UnitedStates" geonode_id="@geonode_UnitedStates" language_id="&de_DE;" name="United States" description="United States" />
+<geondds geondds_id="@geondds_de_DE_Alberta" geonode_id="@geonode_Alberta" language_id="&de_DE;" name="Alberta" description="Alberta" />
+<geondds geondds_id="@geondds_de_DE_Calgary" geonode_id="@geonode_Calgary" language_id="&de_DE;" name="Calgary" description="Calgary" />
+<geondds geondds_id="@geondds_de_DE_Edmonton" geonode_id="@geonode_Edmonton" language_id="&de_DE;" name="Edmonton" description="Edmonton" />
+<geondds geondds_id="@geondds_de_DE_Lethbridge" geonode_id="@geonode_Lethbridge" language_id="&de_DE;" name="Lethbridge" description="Lethbridge" />
+<geondds geondds_id="@geondds_de_DE_MedicineHat" geonode_id="@geonode_MedicineHat" language_id="&de_DE;" name="Medicine Hat" description="Medicine Hat" />
+<geondds geondds_id="@geondds_de_DE_RedDeer" geonode_id="@geonode_RedDeer" language_id="&de_DE;" name="Red Deer" description="Red Deer" />
+<geondds geondds_id="@geondds_de_DE_StAlbert" geonode_id="@geonode_StAlbert" language_id="&de_DE;" name="St. Albert" description="St. Albert" />
+<geondds geondds_id="@geondds_de_DE_StrathconaCounty" geonode_id="@geonode_StrathconaCounty" language_id="&de_DE;" name="Strathcona County" description="Strathcona County" />
+<geondds geondds_id="@geondds_de_DE_BritishColumbia" geonode_id="@geonode_BritishColumbia" language_id="&de_DE;" name="British Columbia" description="British Columbia" />
+<geondds geondds_id="@geondds_de_DE_Abbotsford" geonode_id="@geonode_Abbotsford" language_id="&de_DE;" name="Abbotsford" description="Abbotsford" />
+<geondds geondds_id="@geondds_de_DE_Burnaby" geonode_id="@geonode_Burnaby" language_id="&de_DE;" name="Burnaby" description="Burnaby" />
+<geondds geondds_id="@geondds_de_DE_Chilliwack" geonode_id="@geonode_Chilliwack" language_id="&de_DE;" name="Chilliwack" description="Chilliwack" />
+<geondds geondds_id="@geondds_de_DE_Coquitlam" geonode_id="@geonode_Coquitlam" language_id="&de_DE;" name="Coquitlam" description="Coquitlam" />
+<geondds geondds_id="@geondds_de_DE_Delta" geonode_id="@geonode_Delta" language_id="&de_DE;" name="Delta" description="Delta" />
+<geondds geondds_id="@geondds_de_DE_Kamloops" geonode_id="@geonode_Kamloops" language_id="&de_DE;" name="Kamloops" description="Kamloops" />
+<geondds geondds_id="@geondds_de_DE_Kelowna" geonode_id="@geonode_Kelowna" language_id="&de_DE;" name="Kelowna" description="Kelowna" />
+<geondds geondds_id="@geondds_de_DE_Langley" geonode_id="@geonode_Langley" language_id="&de_DE;" name="Langley" description="Langley" />
+<geondds geondds_id="@geondds_de_DE_MapleRidge" geonode_id="@geonode_MapleRidge" language_id="&de_DE;" name="Maple Ridge" description="Maple Ridge" />
+<geondds geondds_id="@geondds_de_DE_Nanaimo" geonode_id="@geonode_Nanaimo" language_id="&de_DE;" name="Nanaimo" description="Nanaimo" />
+<geondds geondds_id="@geondds_de_DE_NewWestminster" geonode_id="@geonode_NewWestminster" language_id="&de_DE;" name="New Westminster" description="New Westminster" />
+<geondds geondds_id="@geondds_de_DE_NorthVancouver" geonode_id="@geonode_NorthVancouver" language_id="&de_DE;" name="North Vancouver" description="North Vancouver" />
+<geondds geondds_id="@geondds_de_DE_PortCoquitlam" geonode_id="@geonode_PortCoquitlam" language_id="&de_DE;" name="Port Coquitlam" description="Port Coquitlam" />
+<geondds geondds_id="@geondds_de_DE_PrinceGeorge" geonode_id="@geonode_PrinceGeorge" language_id="&de_DE;" name="Prince George" description="Prince George" />
+<geondds geondds_id="@geondds_de_DE_RichmondBC" geonode_id="@geonode_RichmondBC" language_id="&de_DE;" name="Richmond-BC" description="Richmond-BC" />
+<geondds geondds_id="@geondds_de_DE_Saanich" geonode_id="@geonode_Saanich" language_id="&de_DE;" name="Saanich" description="Saanich" />
+<geondds geondds_id="@geondds_de_DE_Surrey" geonode_id="@geonode_Surrey" language_id="&de_DE;" name="Surrey" description="Surrey" />
+<geondds geondds_id="@geondds_de_DE_VancouverBC" geonode_id="@geonode_VancouverBC" language_id="&de_DE;" name="Vancouver-BC" description="Vancouver-BC" />
+<geondds geondds_id="@geondds_de_DE_Victoria" geonode_id="@geonode_Victoria" language_id="&de_DE;" name="Victoria" description="Victoria" />
+<geondds geondds_id="@geondds_de_DE_WestVancouver" geonode_id="@geonode_WestVancouver" language_id="&de_DE;" name="West Vancouver" description="West Vancouver" />
+<geondds geondds_id="@geondds_de_DE_Manitoba" geonode_id="@geonode_Manitoba" language_id="&de_DE;" name="Manitoba" description="Manitoba" />
+<geondds geondds_id="@geondds_de_DE_Winnipeg" geonode_id="@geonode_Winnipeg" language_id="&de_DE;" name="Winnipeg" description="Winnipeg" />
+<geondds geondds_id="@geondds_de_DE_NewBrunswick" geonode_id="@geonode_NewBrunswick" language_id="&de_DE;" name="New Brunswick" description="New Brunswick" />
+<geondds geondds_id="@geondds_de_DE_Fredericton" geonode_id="@geonode_Fredericton" language_id="&de_DE;" name="Fredericton" description="Fredericton" />
+<geondds geondds_id="@geondds_de_DE_Moncton" geonode_id="@geonode_Moncton" language_id="&de_DE;" name="Moncton" description="Moncton" />
+<geondds geondds_id="@geondds_de_DE_SaintJohn" geonode_id="@geonode_SaintJohn" language_id="&de_DE;" name="Saint John" description="Saint John" />
+<geondds geondds_id="@geondds_de_DE_NewfoundlandandLabrador" geonode_id="@geonode_NewfoundlandandLabrador" language_id="&de_DE;" name="Neufundland und Labrador" description="Neufundland und Labrador" />
+<geondds geondds_id="@geondds_de_DE_StJohns" geonode_id="@geonode_StJohns" language_id="&de_DE;" name="St. John's" description="St. John's" />
+<geondds geondds_id="@geondds_de_DE_NovaScotia" geonode_id="@geonode_NovaScotia" language_id="&de_DE;" name="Nova Scotia" description="Nova Scotia" />
+<geondds geondds_id="@geondds_de_DE_CapeBreton" geonode_id="@geonode_CapeBreton" language_id="&de_DE;" name="Cape Breton" description="Cape Breton" />
+<geondds geondds_id="@geondds_de_DE_Halifax" geonode_id="@geonode_Halifax" language_id="&de_DE;" name="Halifax" description="Halifax" />
+<geondds geondds_id="@geondds_de_DE_KingsCounty" geonode_id="@geonode_KingsCounty" language_id="&de_DE;" name="Kings County" description="Kings County" />
+<geondds geondds_id="@geondds_de_DE_Ontario" geonode_id="@geonode_Ontario" language_id="&de_DE;" name="Hessen" description="Hessen" />
+<geondds geondds_id="@geondds_de_DE_Ajax" geonode_id="@geonode_Ajax" language_id="&de_DE;" name="Ajax" description="Ajax" />
+<geondds geondds_id="@geondds_de_DE_Barrie" geonode_id="@geonode_Barrie" language_id="&de_DE;" name="Barrie" description="Barrie" />
+<geondds geondds_id="@geondds_de_DE_BellevilleON" geonode_id="@geonode_BellevilleON" language_id="&de_DE;" name="Belleville-ON" description="Belleville-ON" />
+<geondds geondds_id="@geondds_de_DE_Brampton" geonode_id="@geonode_Brampton" language_id="&de_DE;" name="Brampton" description="Brampton" />
+<geondds geondds_id="@geondds_de_DE_Brantford" geonode_id="@geonode_Brantford" language_id="&de_DE;" name="Brantford" description="Brantford" />
+<geondds geondds_id="@geondds_de_DE_BurlingtonON" geonode_id="@geonode_BurlingtonON" language_id="&de_DE;" name="Burlington-ON" description="Burlington-ON" />
+<geondds geondds_id="@geondds_de_DE_Caledon" geonode_id="@geonode_Caledon" language_id="&de_DE;" name="Caledon" description="Caledon" />
+<geondds geondds_id="@geondds_de_DE_CambridgeON" geonode_id="@geonode_CambridgeON" language_id="&de_DE;" name="Cambridge-ON" description="Cambridge-ON" />
+<geondds geondds_id="@geondds_de_DE_ChathamKent" geonode_id="@geonode_ChathamKent" language_id="&de_DE;" name="Chatham-Kent" description="Chatham-Kent" />
+<geondds geondds_id="@geondds_de_DE_Clarington" geonode_id="@geonode_Clarington" language_id="&de_DE;" name="Clarington" description="Clarington" />
+<geondds geondds_id="@geondds_de_DE_Cornwall" geonode_id="@geonode_Cornwall" language_id="&de_DE;" name="Cornwall" description="Cornwall" />
+<geondds geondds_id="@geondds_de_DE_GreaterSudbury" geonode_id="@geonode_GreaterSudbury" language_id="&de_DE;" name="Greater Sudbury" description="Greater Sudbury" />
+<geondds geondds_id="@geondds_de_DE_Guelph" geonode_id="@geonode_Guelph" language_id="&de_DE;" name="Guelph" description="Guelph" />
+<geondds geondds_id="@geondds_de_DE_Haldimand" geonode_id="@geonode_Haldimand" language_id="&de_DE;" name="Haldimand" description="Haldimand" />
+<geondds geondds_id="@geondds_de_DE_HaltonHills" geonode_id="@geonode_HaltonHills" language_id="&de_DE;" name="Halton Hills" description="Halton Hills" />
+<geondds geondds_id="@geondds_de_DE_HamiltonON" geonode_id="@geonode_HamiltonON" language_id="&de_DE;" name="Hamilton-ON" description="Hamilton-ON" />
+<geondds geondds_id="@geondds_de_DE_KawarthaLakes" geonode_id="@geonode_KawarthaLakes" language_id="&de_DE;" name="Kawartha Lakes" description="Kawartha Lakes" />
+<geondds geondds_id="@geondds_de_DE_Kingston" geonode_id="@geonode_Kingston" language_id="&de_DE;" name="Kingston" description="Kingston" />
+<geondds geondds_id="@geondds_de_DE_Kitchener" geonode_id="@geonode_Kitchener" language_id="&de_DE;" name="Kitchener" description="Kitchener" />
+<geondds geondds_id="@geondds_de_DE_London" geonode_id="@geonode_London" language_id="&de_DE;" name="London" description="London" />
+<geondds geondds_id="@geondds_de_DE_Markham" geonode_id="@geonode_Markham" language_id="&de_DE;" name="Markham" description="Markham" />
+<geondds geondds_id="@geondds_de_DE_Mississauga" geonode_id="@geonode_Mississauga" language_id="&de_DE;" name="Mississauga" description="Mississauga" />
+<geondds geondds_id="@geondds_de_DE_Newmarket" geonode_id="@geonode_Newmarket" language_id="&de_DE;" name="Newmarket" description="Newmarket" />
+<geondds geondds_id="@geondds_de_DE_NiagaraFallsON" geonode_id="@geonode_NiagaraFallsON" language_id="&de_DE;" name="Niagara Falls-ON" description="Niagara Falls-ON" />
+<geondds geondds_id="@geondds_de_DE_NorfolkON" geonode_id="@geonode_NorfolkON" language_id="&de_DE;" name="Norfolk-ON" description="Norfolk-ON" />
+<geondds geondds_id="@geondds_de_DE_NorthBay" geonode_id="@geonode_NorthBay" language_id="&de_DE;" name="North Bay" description="North Bay" />
+<geondds geondds_id="@geondds_de_DE_Oakville" geonode_id="@geonode_Oakville" language_id="&de_DE;" name="Oakville" description="Oakville" />
+<geondds geondds_id="@geondds_de_DE_Oshawa" geonode_id="@geonode_Oshawa" language_id="&de_DE;" name="Oshawa" description="Oshawa" />
+<geondds geondds_id="@geondds_de_DE_Ottawa" geonode_id="@geonode_Ottawa" language_id="&de_DE;" name="Ottawa" description="Ottawa" />
+<geondds geondds_id="@geondds_de_DE_Peterborough" geonode_id="@geonode_Peterborough" language_id="&de_DE;" name="Peterborough" description="Peterborough" />
+<geondds geondds_id="@geondds_de_DE_Pickering" geonode_id="@geonode_Pickering" language_id="&de_DE;" name="Pickering" description="Pickering" />
+<geondds geondds_id="@geondds_de_DE_RichmondHill" geonode_id="@geonode_RichmondHill" language_id="&de_DE;" name="Richmond Hill" description="Richmond Hill" />
+<geondds geondds_id="@geondds_de_DE_Sarnia" geonode_id="@geonode_Sarnia" language_id="&de_DE;" name="Sarnia" description="Sarnia" />
+<geondds geondds_id="@geondds_de_DE_SaultSteMarieON" geonode_id="@geonode_SaultSteMarieON" language_id="&de_DE;" name="Sault Ste. Marie-ON" description="Sault Ste. Marie-ON" />
+<geondds geondds_id="@geondds_de_DE_StCatharines" geonode_id="@geonode_StCatharines" language_id="&de_DE;" name="St. Catharines" description="St. Catharines" />
+<geondds geondds_id="@geondds_de_DE_ThunderBay" geonode_id="@geonode_ThunderBay" language_id="&de_DE;" name="Thunder Bay" description="Thunder Bay" />
+<geondds geondds_id="@geondds_de_DE_Timmins" geonode_id="@geonode_Timmins" language_id="&de_DE;" name="Timmins" description="Timmins" />
+<geondds geondds_id="@geondds_de_DE_Toronto" geonode_id="@geonode_Toronto" language_id="&de_DE;" name="Toronto" description="Toronto" />
+<geondds geondds_id="@geondds_de_DE_Vaughan" geonode_id="@geonode_Vaughan" language_id="&de_DE;" name="Vaughan" description="Vaughan" />
+<geondds geondds_id="@geondds_de_DE_WaterlooON" geonode_id="@geonode_WaterlooON" language_id="&de_DE;" name="Waterloo-ON" description="Waterloo-ON" />
+<geondds geondds_id="@geondds_de_DE_Welland" geonode_id="@geonode_Welland" language_id="&de_DE;" name="Welland" description="Welland" />
+<geondds geondds_id="@geondds_de_DE_Whitby" geonode_id="@geonode_Whitby" language_id="&de_DE;" name="Whitby" description="Whitby" />
+<geondds geondds_id="@geondds_de_DE_Windsor" geonode_id="@geonode_Windsor" language_id="&de_DE;" name="Windsor" description="Windsor" />
+<geondds geondds_id="@geondds_de_DE_PrinceEdwardIsland" geonode_id="@geonode_PrinceEdwardIsland" language_id="&de_DE;" name="Prince Edward Island" description="Prince Edward Island" />
+<geondds geondds_id="@geondds_de_DE_Charlottetown" geonode_id="@geonode_Charlottetown" language_id="&de_DE;" name="Charlottetown" description="Charlottetown" />
+<geondds geondds_id="@geondds_de_DE_Quebec" geonode_id="@geonode_Quebec" language_id="&de_DE;" name="Quebec" description="Quebec" />
+<geondds geondds_id="@geondds_de_DE_Montreal" geonode_id="@geonode_Montreal" language_id="&de_DE;" name="Montreal" description="Montreal" />
+<geondds geondds_id="@geondds_de_DE_Drummondville" geonode_id="@geonode_Drummondville" language_id="&de_DE;" name="Drummondville" description="Drummondville" />
+<geondds geondds_id="@geondds_de_DE_Gatineau" geonode_id="@geonode_Gatineau" language_id="&de_DE;" name="Gatineau" description="Gatineau" />
+<geondds geondds_id="@geondds_de_DE_Granby" geonode_id="@geonode_Granby" language_id="&de_DE;" name="Granby" description="Granby" />
+<geondds geondds_id="@geondds_de_DE_Laval" geonode_id="@geonode_Laval" language_id="&de_DE;" name="Laval" description="Laval" />
+<geondds geondds_id="@geondds_de_DE_Levis" geonode_id="@geonode_Levis" language_id="&de_DE;" name="Levis" description="Levis" />
+<geondds geondds_id="@geondds_de_DE_Longueuil" geonode_id="@geonode_Longueuil" language_id="&de_DE;" name="Longueuil" description="Longueuil" />
+<geondds geondds_id="@geondds_de_DE_QuebecCity" geonode_id="@geonode_QuebecCity" language_id="&de_DE;" name="Quebec City" description="Quebec City" />
+<geondds geondds_id="@geondds_de_DE_Repentigny" geonode_id="@geonode_Repentigny" language_id="&de_DE;" name="Repentigny" description="Repentigny" />
+<geondds geondds_id="@geondds_de_DE_Rimouski" geonode_id="@geonode_Rimouski" language_id="&de_DE;" name="Rimouski" description="Rimouski" />
+<geondds geondds_id="@geondds_de_DE_Saguenay" geonode_id="@geonode_Saguenay" language_id="&de_DE;" name="Saguenay" description="Saguenay" />
+<geondds geondds_id="@geondds_de_DE_SaintHyacinthe" geonode_id="@geonode_SaintHyacinthe" language_id="&de_DE;" name="Saint-Hyacinthe" description="Saint-Hyacinthe" />
+<geondds geondds_id="@geondds_de_DE_SaintJeansurRichelieu" geonode_id="@geonode_SaintJeansurRichelieu" language_id="&de_DE;" name="Saint-Jean-sur-Richelieu" description="Saint-Jean-sur-Richelieu" />
+<geondds geondds_id="@geondds_de_DE_SaintJerome" geonode_id="@geonode_SaintJerome" language_id="&de_DE;" name="Saint-Jerome" description="Saint-Jerome" />
+<geondds geondds_id="@geondds_de_DE_Shawinigan" geonode_id="@geonode_Shawinigan" language_id="&de_DE;" name="Shawinigan" description="Shawinigan" />
+<geondds geondds_id="@geondds_de_DE_Sherbrooke" geonode_id="@geonode_Sherbrooke" language_id="&de_DE;" name="Sherbrooke" description="Sherbrooke" />
+<geondds geondds_id="@geondds_de_DE_Terrebonne" geonode_id="@geonode_Terrebonne" language_id="&de_DE;" name="Terrebonne" description="Terrebonne" />
+<geondds geondds_id="@geondds_de_DE_TroisRivieres" geonode_id="@geonode_TroisRivieres" language_id="&de_DE;" name="Trois-Rivieres" description="Trois-Rivieres" />
+<geondds geondds_id="@geondds_de_DE_Saskatchewan" geonode_id="@geonode_Saskatchewan" language_id="&de_DE;" name="Saskatchewan" description="Saskatchewan" />
+<geondds geondds_id="@geondds_de_DE_Regina" geonode_id="@geonode_Regina" language_id="&de_DE;" name="Regina" description="Regina" />
+<geondds geondds_id="@geondds_de_DE_Saskatoon" geonode_id="@geonode_Saskatoon" language_id="&de_DE;" name="Saskatoon" description="Saskatoon" />
+<geondds geondds_id="@geondds_de_DE_Alabama" geonode_id="@geonode_Alabama" language_id="&de_DE;" name="Alabama" description="Alabama" />
+<geondds geondds_id="@geondds_de_DE_Anniston" geonode_id="@geonode_Anniston" language_id="&de_DE;" name="Anniston" description="Anniston" />
+<geondds geondds_id="@geondds_de_DE_Auburn" geonode_id="@geonode_Auburn" language_id="&de_DE;" name="Auburn" description="Auburn" />
+<geondds geondds_id="@geondds_de_DE_Bessemer" geonode_id="@geonode_Bessemer" language_id="&de_DE;" name="Bessemer" description="Bessemer" />
+<geondds geondds_id="@geondds_de_DE_Birmingham" geonode_id="@geonode_Birmingham" language_id="&de_DE;" name="Birmingham" description="Birmingham" />
+<geondds geondds_id="@geondds_de_DE_DecaturAL" geonode_id="@geonode_DecaturAL" language_id="&de_DE;" name="Decatur-AL" description="Decatur-AL" />
+<geondds geondds_id="@geondds_de_DE_Demopolis" geonode_id="@geonode_Demopolis" language_id="&de_DE;" name="Demopolis" description="Demopolis" />
+<geondds geondds_id="@geondds_de_DE_Dothan" geonode_id="@geonode_Dothan" language_id="&de_DE;" name="Dothan" description="Dothan" />
+<geondds geondds_id="@geondds_de_DE_Eufaula" geonode_id="@geonode_Eufaula" language_id="&de_DE;" name="Eufaula" description="Eufaula" />
+<geondds geondds_id="@geondds_de_DE_FlorenceAL" geonode_id="@geonode_FlorenceAL" language_id="&de_DE;" name="Florence-AL" description="Florence-AL" />
+<geondds geondds_id="@geondds_de_DE_Gadsden" geonode_id="@geonode_Gadsden" language_id="&de_DE;" name="Gadsden" description="Gadsden" />
+<geondds geondds_id="@geondds_de_DE_GulfShores" geonode_id="@geonode_GulfShores" language_id="&de_DE;" name="Gulf Shores" description="Gulf Shores" />
+<geondds geondds_id="@geondds_de_DE_Hoover" geonode_id="@geonode_Hoover" language_id="&de_DE;" name="Hoover" description="Hoover" />
+<geondds geondds_id="@geondds_de_DE_Huntsville" geonode_id="@geonode_Huntsville" language_id="&de_DE;" name="Huntsville" description="Huntsville" />
+<geondds geondds_id="@geondds_de_DE_Mobile" geonode_id="@geonode_Mobile" language_id="&de_DE;" name="Mobile" description="Mobile" />
+<geondds geondds_id="@geondds_de_DE_Montgomery" geonode_id="@geonode_Montgomery" language_id="&de_DE;" name="Montgomery" description="Montgomery" />
+<geondds geondds_id="@geondds_de_DE_PhenixCity" geonode_id="@geonode_PhenixCity" language_id="&de_DE;" name="Phenix City" description="Phenix City" />
+<geondds geondds_id="@geondds_de_DE_Selma" geonode_id="@geonode_Selma" language_id="&de_DE;" name="Selma" description="Selma" />
+<geondds geondds_id="@geondds_de_DE_Troy" geonode_id="@geonode_Troy" language_id="&de_DE;" name="Troy" description="Troy" />
+<geondds geondds_id="@geondds_de_DE_Tuscaloosa" geonode_id="@geonode_Tuscaloosa" language_id="&de_DE;" name="Tuscaloosa" description="Tuscaloosa" />
+<geondds geondds_id="@geondds_de_DE_Tuskegee" geonode_id="@geonode_Tuskegee" language_id="&de_DE;" name="Tuskegee" description="Tuskegee" />
+<geondds geondds_id="@geondds_de_DE_Alaska" geonode_id="@geonode_Alaska" language_id="&de_DE;" name="Alaska" description="Alaska" />
+<geondds geondds_id="@geondds_de_DE_Anchorage" geonode_id="@geonode_Anchorage" language_id="&de_DE;" name="Anchorage" description="Anchorage" />
+<geondds geondds_id="@geondds_de_DE_Barrow" geonode_id="@geonode_Barrow" language_id="&de_DE;" name="Barrow" description="Barrow" />
+<geondds geondds_id="@geondds_de_DE_Fairbanks" geonode_id="@geonode_Fairbanks" language_id="&de_DE;" name="Fairbanks" description="Fairbanks" />
+<geondds geondds_id="@geondds_de_DE_Homer" geonode_id="@geonode_Homer" language_id="&de_DE;" name="Homer" description="Homer" />
+<geondds geondds_id="@geondds_de_DE_Juneau" geonode_id="@geonode_Juneau" language_id="&de_DE;" name="Juneau" description="Juneau" />
+<geondds geondds_id="@geondds_de_DE_Ketchikan" geonode_id="@geonode_Ketchikan" language_id="&de_DE;" name="Ketchikan" description="Ketchikan" />
+<geondds geondds_id="@geondds_de_DE_Nome" geonode_id="@geonode_Nome" language_id="&de_DE;" name="Nome" description="Nome" />
+<geondds geondds_id="@geondds_de_DE_Seward" geonode_id="@geonode_Seward" language_id="&de_DE;" name="Seward" description="Seward" />
+<geondds geondds_id="@geondds_de_DE_Sitka" geonode_id="@geonode_Sitka" language_id="&de_DE;" name="Sitka" description="Sitka" />
+<geondds geondds_id="@geondds_de_DE_Valdez" geonode_id="@geonode_Valdez" language_id="&de_DE;" name="Valdez" description="Valdez" />
+<geondds geondds_id="@geondds_de_DE_Arizona" geonode_id="@geonode_Arizona" language_id="&de_DE;" name="Arizona" description="Arizona" />
+<geondds geondds_id="@geondds_de_DE_Chandler" geonode_id="@geonode_Chandler" language_id="&de_DE;" name="Chandler" description="Chandler" />
+<geondds geondds_id="@geondds_de_DE_Flagstaff" geonode_id="@geonode_Flagstaff" language_id="&de_DE;" name="Flagstaff" description="Flagstaff" />
+<geondds geondds_id="@geondds_de_DE_Gilbert" geonode_id="@geonode_Gilbert" language_id="&de_DE;" name="Gilbert" description="Gilbert" />
+<geondds geondds_id="@geondds_de_DE_GlendaleAZ" geonode_id="@geonode_GlendaleAZ" language_id="&de_DE;" name="Glendale-AZ" description="Glendale-AZ" />
+<geondds geondds_id="@geondds_de_DE_Marana" geonode_id="@geonode_Marana" language_id="&de_DE;" name="Marana" description="Marana" />
+<geondds geondds_id="@geondds_de_DE_Mesa" geonode_id="@geonode_Mesa" language_id="&de_DE;" name="Mesa" description="Mesa" />
+<geondds geondds_id="@geondds_de_DE_Nogales" geonode_id="@geonode_Nogales" language_id="&de_DE;" name="Nogales" description="Nogales" />
+<geondds geondds_id="@geondds_de_DE_OroValley" geonode_id="@geonode_OroValley" language_id="&de_DE;" name="Oro Valley" description="Oro Valley" />
+<geondds geondds_id="@geondds_de_DE_PeoriaAZ" geonode_id="@geonode_PeoriaAZ" language_id="&de_DE;" name="Peoria-AZ" description="Peoria-AZ" />
+<geondds geondds_id="@geondds_de_DE_Phoenix" geonode_id="@geonode_Phoenix" language_id="&de_DE;" name="Phoenix" description="Phoenix" />
+<geondds geondds_id="@geondds_de_DE_Prescott" geonode_id="@geonode_Prescott" language_id="&de_DE;" name="Prescott" description="Prescott" />
+<geondds geondds_id="@geondds_de_DE_Sahuarita" geonode_id="@geonode_Sahuarita" language_id="&de_DE;" name="Sahuarita" description="Sahuarita" />
+<geondds geondds_id="@geondds_de_DE_Scottsdale" geonode_id="@geonode_Scottsdale" language_id="&de_DE;" name="Scottsdale" description="Scottsdale" />
+<geondds geondds_id="@geondds_de_DE_SierraVista" geonode_id="@geonode_SierraVista" language_id="&de_DE;" name="Sierra Vista" description="Sierra Vista" />
+<geondds geondds_id="@geondds_de_DE_Tempe" geonode_id="@geonode_Tempe" language_id="&de_DE;" name="Tempe" description="Tempe" />
+<geondds geondds_id="@geondds_de_DE_Tucson" geonode_id="@geonode_Tucson" language_id="&de_DE;" name="Tucson" description="Tucson" />
+<geondds geondds_id="@geondds_de_DE_Yuma" geonode_id="@geonode_Yuma" language_id="&de_DE;" name="Yuma" description="Yuma" />
+<geondds geondds_id="@geondds_de_DE_Arkansas" geonode_id="@geonode_Arkansas" language_id="&de_DE;" name="Arkansas" description="Arkansas" />
+<geondds geondds_id="@geondds_de_DE_Bentonville" geonode_id="@geonode_Bentonville" language_id="&de_DE;" name="Bentonville" description="Bentonville" />
+<geondds geondds_id="@geondds_de_DE_FayettevilleAR" geonode_id="@geonode_FayettevilleAR" language_id="&de_DE;" name="Fayetteville-AR" description="Fayetteville-AR" />
+<geondds geondds_id="@geondds_de_DE_FortSmith" geonode_id="@geonode_FortSmith" language_id="&de_DE;" name="Fort Smith" description="Fort Smith" />
+<geondds geondds_id="@geondds_de_DE_Hope" geonode_id="@geonode_Hope" language_id="&de_DE;" name="Hope" description="Hope" />
+<geondds geondds_id="@geondds_de_DE_HotSprings" geonode_id="@geonode_HotSprings" language_id="&de_DE;" name="Hot Springs" description="Hot Springs" />
+<geondds geondds_id="@geondds_de_DE_Jonesboro" geonode_id="@geonode_Jonesboro" language_id="&de_DE;" name="Jonesboro" description="Jonesboro" />
+<geondds geondds_id="@geondds_de_DE_LittleRock" geonode_id="@geonode_LittleRock" language_id="&de_DE;" name="Little Rock" description="Little Rock" />
+<geondds geondds_id="@geondds_de_DE_NorthLittleRock" geonode_id="@geonode_NorthLittleRock" language_id="&de_DE;" name="North Little Rock" description="North Little Rock" />
+<geondds geondds_id="@geondds_de_DE_PineBluff" geonode_id="@geonode_PineBluff" language_id="&de_DE;" name="Pine Bluff" description="Pine Bluff" />
+<geondds geondds_id="@geondds_de_DE_Springdale" geonode_id="@geonode_Springdale" language_id="&de_DE;" name="Springdale" description="Springdale" />
+<geondds geondds_id="@geondds_de_DE_Texarkana" geonode_id="@geonode_Texarkana" language_id="&de_DE;" name="Texarkana" description="Texarkana" />
+<geondds geondds_id="@geondds_de_DE_WestMemphis" geonode_id="@geonode_WestMemphis" language_id="&de_DE;" name="West Memphis" description="West Memphis" />
+<geondds geondds_id="@geondds_de_DE_California" geonode_id="@geonode_California" language_id="&de_DE;" name="Kalifornien" description="Kalifornien" />
+<geondds geondds_id="@geondds_de_DE_Alameda" geonode_id="@geonode_Alameda" language_id="&de_DE;" name="Alameda" description="Alameda" />
+<geondds geondds_id="@geondds_de_DE_Alhambra" geonode_id="@geonode_Alhambra" language_id="&de_DE;" name="Alhambra" description="Alhambra" />
+<geondds geondds_id="@geondds_de_DE_Anaheim" geonode_id="@geonode_Anaheim" language_id="&de_DE;" name="Anaheim" description="Anaheim" />
+<geondds geondds_id="@geondds_de_DE_AppleValley" geonode_id="@geonode_AppleValley" language_id="&de_DE;" name="Apple Valley" description="Apple Valley" />
+<geondds geondds_id="@geondds_de_DE_Bakersfield" geonode_id="@geonode_Bakersfield" language_id="&de_DE;" name="Bakersfield" description="Bakersfield" />
+<geondds geondds_id="@geondds_de_DE_Berkeley" geonode_id="@geonode_Berkeley" language_id="&de_DE;" name="Berkeley" description="Berkeley" />
+<geondds geondds_id="@geondds_de_DE_BeverlyHills" geonode_id="@geonode_BeverlyHills" language_id="&de_DE;" name="Beverly Hills" description="Beverly Hills" />
+<geondds geondds_id="@geondds_de_DE_Cerritos" geonode_id="@geonode_Cerritos" language_id="&de_DE;" name="Cerritos" description="Cerritos" />
+<geondds geondds_id="@geondds_de_DE_Chico" geonode_id="@geonode_Chico" language_id="&de_DE;" name="Chico" description="Chico" />
+<geondds geondds_id="@geondds_de_DE_Chino" geonode_id="@geonode_Chino" language_id="&de_DE;" name="Chino" description="Chino" />
+<geondds geondds_id="@geondds_de_DE_ChinoHills" geonode_id="@geonode_ChinoHills" language_id="&de_DE;" name="Chino Hills" description="Chino Hills" />
+<geondds geondds_id="@geondds_de_DE_CitrusHeights" geonode_id="@geonode_CitrusHeights" language_id="&de_DE;" name="Citrus Heights" description="Citrus Heights" />
+<geondds geondds_id="@geondds_de_DE_Corona" geonode_id="@geonode_Corona" language_id="&de_DE;" name="Corona" description="Corona" />
+<geondds geondds_id="@geondds_de_DE_Compton" geonode_id="@geonode_Compton" language_id="&de_DE;" name="Compton" description="Compton" />
+<geondds geondds_id="@geondds_de_DE_DalyCity" geonode_id="@geonode_DalyCity" language_id="&de_DE;" name="Daly City" description="Daly City" />
+<geondds geondds_id="@geondds_de_DE_DiamondBar" geonode_id="@geonode_DiamondBar" language_id="&de_DE;" name="Diamond Bar" description="Diamond Bar" />
+<geondds geondds_id="@geondds_de_DE_Downey" geonode_id="@geonode_Downey" language_id="&de_DE;" name="Downey" description="Downey" />
+<geondds geondds_id="@geondds_de_DE_Escondido" geonode_id="@geonode_Escondido" language_id="&de_DE;" name="Escondido" description="Escondido" />
+<geondds geondds_id="@geondds_de_DE_Eureka" geonode_id="@geonode_Eureka" language_id="&de_DE;" name="Eureka" description="Eureka" />
+<geondds geondds_id="@geondds_de_DE_Fairfield" geonode_id="@geonode_Fairfield" language_id="&de_DE;" name="Fairfield" description="Fairfield" />
+<geondds geondds_id="@geondds_de_DE_Fremont" geonode_id="@geonode_Fremont" language_id="&de_DE;" name="Fremont" description="Fremont" />
+<geondds geondds_id="@geondds_de_DE_Fresno" geonode_id="@geonode_Fresno" language_id="&de_DE;" name="Fresno" description="Fresno" />
+<geondds geondds_id="@geondds_de_DE_Fullerton" geonode_id="@geonode_Fullerton" language_id="&de_DE;" name="Fullerton" description="Fullerton" />
+<geondds geondds_id="@geondds_de_DE_GardenGrove" geonode_id="@geonode_GardenGrove" language_id="&de_DE;" name="Garden Grove" description="Garden Grove" />
+<geondds geondds_id="@geondds_de_DE_GlendaleCA" geonode_id="@geonode_GlendaleCA" language_id="&de_DE;" name="Glendale-CA" description="Glendale-CA" />
+<geondds geondds_id="@geondds_de_DE_HalfMoonBay" geonode_id="@geonode_HalfMoonBay" language_id="&de_DE;" name="Half Moon Bay" description="Half Moon Bay" />
+<geondds geondds_id="@geondds_de_DE_HuntingtonBeach" geonode_id="@geonode_HuntingtonBeach" language_id="&de_DE;" name="Huntington Beach" description="Huntington Beach" />
+<geondds geondds_id="@geondds_de_DE_HuntingtonPark" geonode_id="@geonode_HuntingtonPark" language_id="&de_DE;" name="Huntington Park" description="Huntington Park" />
+<geondds geondds_id="@geondds_de_DE_LakewoodCA" geonode_id="@geonode_LakewoodCA" language_id="&de_DE;" name="Lakewood-CA" description="Lakewood-CA" />
+<geondds geondds_id="@geondds_de_DE_Lancaster" geonode_id="@geonode_Lancaster" language_id="&de_DE;" name="Lancaster" description="Lancaster" />
+<geondds geondds_id="@geondds_de_DE_Lodi" geonode_id="@geonode_Lodi" language_id="&de_DE;" name="Lodi" description="Lodi" />
+<geondds geondds_id="@geondds_de_DE_LongBeach" geonode_id="@geonode_LongBeach" language_id="&de_DE;" name="Long Beach" description="Long Beach" />
+<geondds geondds_id="@geondds_de_DE_LosAngeles" geonode_id="@geonode_LosAngeles" language_id="&de_DE;" name="Los Angeles" description="Los Angeles" />
+<geondds geondds_id="@geondds_de_DE_Merced" geonode_id="@geonode_Merced" language_id="&de_DE;" name="Merced" description="Merced" />
+<geondds geondds_id="@geondds_de_DE_Modesto" geonode_id="@geonode_Modesto" language_id="&de_DE;" name="Modesto" description="Modesto" />
+<geondds geondds_id="@geondds_de_DE_Monterey" geonode_id="@geonode_Monterey" language_id="&de_DE;" name="Monterey" description="Monterey" />
+<geondds geondds_id="@geondds_de_DE_MorenoValley" geonode_id="@geonode_MorenoValley" language_id="&de_DE;" name="Moreno Valley" description="Moreno Valley" />
+<geondds geondds_id="@geondds_de_DE_Moraga" geonode_id="@geonode_Moraga" language_id="&de_DE;" name="Moraga" description="Moraga" />
+<geondds geondds_id="@geondds_de_DE_Norwalk" geonode_id="@geonode_Norwalk" language_id="&de_DE;" name="Norwalk" description="Norwalk" />
+<geondds geondds_id="@geondds_de_DE_Oakland" geonode_id="@geonode_Oakland" language_id="&de_DE;" name="Oakland" description="Oakland" />
+<geondds geondds_id="@geondds_de_DE_OntarioCA" geonode_id="@geonode_OntarioCA" language_id="&de_DE;" name="Ontario-CA" description="Ontario-CA" />
+<geondds geondds_id="@geondds_de_DE_Orange" geonode_id="@geonode_Orange" language_id="&de_DE;" name="Orange" description="Orange" />
+<geondds geondds_id="@geondds_de_DE_Oxnard" geonode_id="@geonode_Oxnard" language_id="&de_DE;" name="Oxnard" description="Oxnard" />
+<geondds geondds_id="@geondds_de_DE_Palmdale" geonode_id="@geonode_Palmdale" language_id="&de_DE;" name="Palmdale" description="Palmdale" />
+<geondds geondds_id="@geondds_de_DE_PalmSprings" geonode_id="@geonode_PalmSprings" language_id="&de_DE;" name="Palm Springs" description="Palm Springs" />
+<geondds geondds_id="@geondds_de_DE_PaloAlto" geonode_id="@geonode_PaloAlto" language_id="&de_DE;" name="Palo Alto" description="Palo Alto" />
+<geondds geondds_id="@geondds_de_DE_Paramount" geonode_id="@geonode_Paramount" language_id="&de_DE;" name="Paramount" description="Paramount" />
+<geondds geondds_id="@geondds_de_DE_Pasadena" geonode_id="@geonode_Pasadena" language_id="&de_DE;" name="Pasadena" description="Pasadena" />
+<geondds geondds_id="@geondds_de_DE_Pomona" geonode_id="@geonode_Pomona" language_id="&de_DE;" name="Pomona" description="Pomona" />
+<geondds geondds_id="@geondds_de_DE_RanchoCordova" geonode_id="@geonode_RanchoCordova" language_id="&de_DE;" name="Rancho Cordova" description="Rancho Cordova" />
+<geondds geondds_id="@geondds_de_DE_RanchoCucamonga" geonode_id="@geonode_RanchoCucamonga" language_id="&de_DE;" name="Rancho Cucamonga" description="Rancho Cucamonga" />
+<geondds geondds_id="@geondds_de_DE_Redding" geonode_id="@geonode_Redding" language_id="&de_DE;" name="Redding" description="Redding" />
+<geondds geondds_id="@geondds_de_DE_Redlands" geonode_id="@geonode_Redlands" language_id="&de_DE;" name="Redlands" description="Redlands" />
+<geondds geondds_id="@geondds_de_DE_Rialto" geonode_id="@geonode_Rialto" language_id="&de_DE;" name="Rialto" description="Rialto" />
+<geondds geondds_id="@geondds_de_DE_Riverside" geonode_id="@geonode_Riverside" language_id="&de_DE;" name="Riverside" description="Riverside" />
+<geondds geondds_id="@geondds_de_DE_Sacramento" geonode_id="@geonode_Sacramento" language_id="&de_DE;" name="Sacramento" description="Sacramento" />
+<geondds geondds_id="@geondds_de_DE_Salinas" geonode_id="@geonode_Salinas" language_id="&de_DE;" name="Salinas" description="Salinas" />
+<geondds geondds_id="@geondds_de_DE_SanBernardino" geonode_id="@geonode_SanBernardino" language_id="&de_DE;" name="San Bernardino" description="San Bernardino" />
+<geondds geondds_id="@geondds_de_DE_SanDiego" geonode_id="@geonode_SanDiego" language_id="&de_DE;" name="San Diego" description="San Diego" />
+<geondds geondds_id="@geondds_de_DE_SanFrancisco" geonode_id="@geonode_SanFrancisco" language_id="&de_DE;" name="San Francisco" description="San Francisco" />
+<geondds geondds_id="@geondds_de_DE_SanJose" geonode_id="@geonode_SanJose" language_id="&de_DE;" name="San Jose" description="San Jose" />
+<geondds geondds_id="@geondds_de_DE_SanJuanCapistrano" geonode_id="@geonode_SanJuanCapistrano" language_id="&de_DE;" name="San Juan Capistrano" description="San Juan Capistrano" />
+<geondds geondds_id="@geondds_de_DE_SanLuisObispo" geonode_id="@geonode_SanLuisObispo" language_id="&de_DE;" name="San Luis Obispo" description="San Luis Obispo" />
+<geondds geondds_id="@geondds_de_DE_SanMateo" geonode_id="@geonode_SanMateo" language_id="&de_DE;" name="San Mateo" description="San Mateo" />
+<geondds geondds_id="@geondds_de_DE_SanRafael" geonode_id="@geonode_SanRafael" language_id="&de_DE;" name="San Rafael" description="San Rafael" />
+<geondds geondds_id="@geondds_de_DE_SantaAna" geonode_id="@geonode_SantaAna" language_id="&de_DE;" name="Santa Ana" description="Santa Ana" />
+<geondds geondds_id="@geondds_de_DE_SantaBarbara" geonode_id="@geonode_SantaBarbara" language_id="&de_DE;" name="Santa Barbara" description="Santa Barbara" />
+<geondds geondds_id="@geondds_de_DE_SantaCruz" geonode_id="@geonode_SantaCruz" language_id="&de_DE;" name="Santa Cruz" description="Santa Cruz" />
+<geondds geondds_id="@geondds_de_DE_SantaMonica" geonode_id="@geonode_SantaMonica" language_id="&de_DE;" name="Santa Monica" description="Santa Monica" />
+<geondds geondds_id="@geondds_de_DE_SimiValley" geonode_id="@geonode_SimiValley" language_id="&de_DE;" name="Simi Valley" description="Simi Valley" />
+<geondds geondds_id="@geondds_de_DE_Stockton" geonode_id="@geonode_Stockton" language_id="&de_DE;" name="Stockton" description="Stockton" />
+<geondds geondds_id="@geondds_de_DE_ThousandOaks" geonode_id="@geonode_ThousandOaks" language_id="&de_DE;" name="Thousand Oaks" description="Thousand Oaks" />
+<geondds geondds_id="@geondds_de_DE_Tustin" geonode_id="@geonode_Tustin" language_id="&de_DE;" name="Tustin" description="Tustin" />
+<geondds geondds_id="@geondds_de_DE_Sonoma" geonode_id="@geonode_Sonoma" language_id="&de_DE;" name="Sonoma" description="Sonoma" />
+<geondds geondds_id="@geondds_de_DE_Vallejo" geonode_id="@geonode_Vallejo" language_id="&de_DE;" name="Vallejo" description="Vallejo" />
+<geondds geondds_id="@geondds_de_DE_Visalia" geonode_id="@geonode_Visalia" language_id="&de_DE;" name="Visalia" description="Visalia" />
+<geondds geondds_id="@geondds_de_DE_WestCovina" geonode_id="@geonode_WestCovina" language_id="&de_DE;" name="West Covina" description="West Covina" />
+<geondds geondds_id="@geondds_de_DE_Whittier" geonode_id="@geonode_Whittier" language_id="&de_DE;" name="Whittier" description="Whittier" />
+<geondds geondds_id="@geondds_de_DE_Colorado" geonode_id="@geonode_Colorado" language_id="&de_DE;" name="Colorado" description="Colorado" />
+<geondds geondds_id="@geondds_de_DE_Aspen" geonode_id="@geonode_Aspen" language_id="&de_DE;" name="Aspen" description="Aspen" />
+<geondds geondds_id="@geondds_de_DE_AuroraCO" geonode_id="@geonode_AuroraCO" language_id="&de_DE;" name="Aurora-CO" description="Aurora-CO" />
+<geondds geondds_id="@geondds_de_DE_Boulder" geonode_id="@geonode_Boulder" language_id="&de_DE;" name="Boulder" description="Boulder" />
+<geondds geondds_id="@geondds_de_DE_Centennial" geonode_id="@geonode_Centennial" language_id="&de_DE;" name="Centennial" description="Centennial" />
+<geondds geondds_id="@geondds_de_DE_ColoradoSprings" geonode_id="@geonode_ColoradoSprings" language_id="&de_DE;" name="Colorado Springs" description="Colorado Springs" />
+<geondds geondds_id="@geondds_de_DE_Denver" geonode_id="@geonode_Denver" language_id="&de_DE;" name="Denver" description="Denver" />
+<geondds geondds_id="@geondds_de_DE_Durango" geonode_id="@geonode_Durango" language_id="&de_DE;" name="Durango" description="Durango" />
+<geondds geondds_id="@geondds_de_DE_FortCollins" geonode_id="@geonode_FortCollins" language_id="&de_DE;" name="Fort Collins" description="Fort Collins" />
+<geondds geondds_id="@geondds_de_DE_GrandJunction" geonode_id="@geonode_GrandJunction" language_id="&de_DE;" name="Grand Junction" description="Grand Junction" />
+<geondds geondds_id="@geondds_de_DE_LakewoodCO" geonode_id="@geonode_LakewoodCO" language_id="&de_DE;" name="Lakewood-CO" description="Lakewood-CO" />
+<geondds geondds_id="@geondds_de_DE_Littleton" geonode_id="@geonode_Littleton" language_id="&de_DE;" name="Littleton" description="Littleton" />
+<geondds geondds_id="@geondds_de_DE_Pueblo" geonode_id="@geonode_Pueblo" language_id="&de_DE;" name="Pueblo" description="Pueblo" />
+<geondds geondds_id="@geondds_de_DE_Vail" geonode_id="@geonode_Vail" language_id="&de_DE;" name="Vail" description="Vail" />
+<geondds geondds_id="@geondds_de_DE_Connecticut" geonode_id="@geonode_Connecticut" language_id="&de_DE;" name="Connecticut" description="Connecticut" />
+<geondds geondds_id="@geondds_de_DE_Bridgeport" geonode_id="@geonode_Bridgeport" language_id="&de_DE;" name="Bridgeport" description="Bridgeport" />
+<geondds geondds_id="@geondds_de_DE_Greenwich" geonode_id="@geonode_Greenwich" language_id="&de_DE;" name="Greenwich" description="Greenwich" />
+<geondds geondds_id="@geondds_de_DE_Hartford" geonode_id="@geonode_Hartford" language_id="&de_DE;" name="Hartford" description="Hartford" />
+<geondds geondds_id="@geondds_de_DE_MiddletownCT" geonode_id="@geonode_MiddletownCT" language_id="&de_DE;" name="Middletown-CT" description="Middletown-CT" />
+<geondds geondds_id="@geondds_de_DE_NewBritain" geonode_id="@geonode_NewBritain" language_id="&de_DE;" name="New Britain" description="New Britain" />
+<geondds geondds_id="@geondds_de_DE_NewHaven" geonode_id="@geonode_NewHaven" language_id="&de_DE;" name="New Haven" description="New Haven" />
+<geondds geondds_id="@geondds_de_DE_NewLondon" geonode_id="@geonode_NewLondon" language_id="&de_DE;" name="New London" description="New London" />
+<geondds geondds_id="@geondds_de_DE_Norwich" geonode_id="@geonode_Norwich" language_id="&de_DE;" name="Norwich" description="Norwich" />
+<geondds geondds_id="@geondds_de_DE_Stamford" geonode_id="@geonode_Stamford" language_id="&de_DE;" name="Stamford" description="Stamford" />
+<geondds geondds_id="@geondds_de_DE_Storrs" geonode_id="@geonode_Storrs" language_id="&de_DE;" name="Storrs" description="Storrs" />
+<geondds geondds_id="@geondds_de_DE_Delaware" geonode_id="@geonode_Delaware" language_id="&de_DE;" name="Delaware" description="Delaware" />
+<geondds geondds_id="@geondds_de_DE_DoverDE" geonode_id="@geonode_DoverDE" language_id="&de_DE;" name="Dover-DE" description="Dover-DE" />
+<geondds geondds_id="@geondds_de_DE_Elsmere" geonode_id="@geonode_Elsmere" language_id="&de_DE;" name="Elsmere" description="Elsmere" />
+<geondds geondds_id="@geondds_de_DE_Georgetown" geonode_id="@geonode_Georgetown" language_id="&de_DE;" name="Georgetown" description="Georgetown" />
+<geondds geondds_id="@geondds_de_DE_Milford" geonode_id="@geonode_Milford" language_id="&de_DE;" name="Milford" description="Milford" />
+<geondds geondds_id="@geondds_de_DE_NewCastle" geonode_id="@geonode_NewCastle" language_id="&de_DE;" name="New Castle" description="New Castle" />
+<geondds geondds_id="@geondds_de_DE_RehobothBeach" geonode_id="@geonode_RehobothBeach" language_id="&de_DE;" name="Rehoboth Beach" description="Rehoboth Beach" />
+<geondds geondds_id="@geondds_de_DE_Seaford" geonode_id="@geonode_Seaford" language_id="&de_DE;" name="Seaford" description="Seaford" />
+<geondds geondds_id="@geondds_de_DE_WilmingtonDE" geonode_id="@geonode_WilmingtonDE" language_id="&de_DE;" name="Wilmington-DE" description="Wilmington-DE" />
+<geondds geondds_id="@geondds_de_DE_DistrictofColumbia" geonode_id="@geonode_DistrictofColumbia" language_id="&de_DE;" name="Distrikt Columbia" description="Distrikt Columbia" />
+<geondds geondds_id="@geondds_de_DE_WashingtonDC" geonode_id="@geonode_WashingtonDC" language_id="&de_DE;" name="Washington-DC" description="Washington-DC" />
+<geondds geondds_id="@geondds_de_DE_Florida" geonode_id="@geonode_Florida" language_id="&de_DE;" name="Florida" description="Florida" />
+<geondds geondds_id="@geondds_de_DE_BocaRaton" geonode_id="@geonode_BocaRaton" language_id="&de_DE;" name="Boca Raton" description="Boca Raton" />
+<geondds geondds_id="@geondds_de_DE_Bradenton" geonode_id="@geonode_Bradenton" language_id="&de_DE;" name="Bradenton" description="Bradenton" />
+<geondds geondds_id="@geondds_de_DE_Brandon" geonode_id="@geonode_Brandon" language_id="&de_DE;" name="Brandon" description="Brandon" />
+<geondds geondds_id="@geondds_de_DE_CapeCoral" geonode_id="@geonode_CapeCoral" language_id="&de_DE;" name="Cape Coral" description="Cape Coral" />
+<geondds geondds_id="@geondds_de_DE_Clearwater" geonode_id="@geonode_Clearwater" language_id="&de_DE;" name="Clearwater" description="Clearwater" />
+<geondds geondds_id="@geondds_de_DE_CoralGables" geonode_id="@geonode_CoralGables" language_id="&de_DE;" name="Coral Gables" description="Coral Gables" />
+<geondds geondds_id="@geondds_de_DE_CoralSprings" geonode_id="@geonode_CoralSprings" language_id="&de_DE;" name="Coral Springs" description="Coral Springs" />
+<geondds geondds_id="@geondds_de_DE_DaytonaBeach" geonode_id="@geonode_DaytonaBeach" language_id="&de_DE;" name="Daytona Beach" description="Daytona Beach" />
+<geondds geondds_id="@geondds_de_DE_DelrayBeach" geonode_id="@geonode_DelrayBeach" language_id="&de_DE;" name="Delray Beach" description="Delray Beach" />
+<geondds geondds_id="@geondds_de_DE_Deltona" geonode_id="@geonode_Deltona" language_id="&de_DE;" name="Deltona" description="Deltona" />
+<geondds geondds_id="@geondds_de_DE_FortLauderdale" geonode_id="@geonode_FortLauderdale" language_id="&de_DE;" name="Fort Lauderdale" description="Fort Lauderdale" />
+<geondds geondds_id="@geondds_de_DE_FortMyers" geonode_id="@geonode_FortMyers" language_id="&de_DE;" name="Fort Myers" description="Fort Myers" />
+<geondds geondds_id="@geondds_de_DE_GainesvilleFL" geonode_id="@geonode_GainesvilleFL" language_id="&de_DE;" name="Gainesville-FL" description="Gainesville-FL" />
+<geondds geondds_id="@geondds_de_DE_Hialeah" geonode_id="@geonode_Hialeah" language_id="&de_DE;" name="Hialeah" description="Hialeah" />
+<geondds geondds_id="@geondds_de_DE_Hollywood" geonode_id="@geonode_Hollywood" language_id="&de_DE;" name="Hollywood" description="Hollywood" />
+<geondds geondds_id="@geondds_de_DE_JacksonvilleFL" geonode_id="@geonode_JacksonvilleFL" language_id="&de_DE;" name="Jacksonville-FL" description="Jacksonville-FL" />
+<geondds geondds_id="@geondds_de_DE_Kendall" geonode_id="@geonode_Kendall" language_id="&de_DE;" name="Kendall" description="Kendall" />
+<geondds geondds_id="@geondds_de_DE_KeyWest" geonode_id="@geonode_KeyWest" language_id="&de_DE;" name="Key West" description="Key West" />
+<geondds geondds_id="@geondds_de_DE_Kissimmee" geonode_id="@geonode_Kissimmee" language_id="&de_DE;" name="Kissimmee" description="Kissimmee" />
+<geondds geondds_id="@geondds_de_DE_Lakeland" geonode_id="@geonode_Lakeland" language_id="&de_DE;" name="Lakeland" description="Lakeland" />
+<geondds geondds_id="@geondds_de_DE_Melbourne" geonode_id="@geonode_Melbourne" language_id="&de_DE;" name="Melbourne" description="Melbourne" />
+<geondds geondds_id="@geondds_de_DE_Miami" geonode_id="@geonode_Miami" language_id="&de_DE;" name="Miami" description="Miami" />
+<geondds geondds_id="@geondds_de_DE_MiamiBeach" geonode_id="@geonode_MiamiBeach" language_id="&de_DE;" name="Miami Beach" description="Miami Beach" />
+<geondds geondds_id="@geondds_de_DE_MiamiGardens" geonode_id="@geonode_MiamiGardens" language_id="&de_DE;" name="Miami Gardens" description="Miami Gardens" />
+<geondds geondds_id="@geondds_de_DE_NorthMiami" geonode_id="@geonode_NorthMiami" language_id="&de_DE;" name="North Miami" description="North Miami" />
+<geondds geondds_id="@geondds_de_DE_Ocala" geonode_id="@geonode_Ocala" language_id="&de_DE;" name="Ocala" description="Ocala" />
+<geondds geondds_id="@geondds_de_DE_Orlando" geonode_id="@geonode_Orlando" language_id="&de_DE;" name="Orlando" description="Orlando" />
+<geondds geondds_id="@geondds_de_DE_PalmBeach" geonode_id="@geonode_PalmBeach" language_id="&de_DE;" name="Palm Beach" description="Palm Beach" />
+<geondds geondds_id="@geondds_de_DE_PanamaCity" geonode_id="@geonode_PanamaCity" language_id="&de_DE;" name="Panama City" description="Panama City" />
+<geondds geondds_id="@geondds_de_DE_PembrokePines" geonode_id="@geonode_PembrokePines" language_id="&de_DE;" name="Pembroke Pines" description="Pembroke Pines" />
+<geondds geondds_id="@geondds_de_DE_Pensacola" geonode_id="@geonode_Pensacola" language_id="&de_DE;" name="Pensacola" description="Pensacola" />
+<geondds geondds_id="@geondds_de_DE_Plantation" geonode_id="@geonode_Plantation" language_id="&de_DE;" name="Plantation" description="Plantation" />
+<geondds geondds_id="@geondds_de_DE_PompanoBeach" geonode_id="@geonode_PompanoBeach" language_id="&de_DE;" name="Pompano Beach" description="Pompano Beach" />
+<geondds geondds_id="@geondds_de_DE_PortStLucie" geonode_id="@geonode_PortStLucie" language_id="&de_DE;" name="Port St. Lucie" description="Port St. Lucie" />
+<geondds geondds_id="@geondds_de_DE_SaintAugustine" geonode_id="@geonode_SaintAugustine" language_id="&de_DE;" name="Saint Augustine" description="Saint Augustine" />
+<geondds geondds_id="@geondds_de_DE_SaintPetersburg" geonode_id="@geonode_SaintPetersburg" language_id="&de_DE;" name="Saint Petersburg" description="Saint Petersburg" />
+<geondds geondds_id="@geondds_de_DE_Sarasota" geonode_id="@geonode_Sarasota" language_id="&de_DE;" name="Sarasota" description="Sarasota" />
+<geondds geondds_id="@geondds_de_DE_Sunrise" geonode_id="@geonode_Sunrise" language_id="&de_DE;" name="Sunrise" description="Sunrise" />
+<geondds geondds_id="@geondds_de_DE_Tallahassee" geonode_id="@geonode_Tallahassee" language_id="&de_DE;" name="Tallahassee" description="Tallahassee" />
+<geondds geondds_id="@geondds_de_DE_Tampa" geonode_id="@geonode_Tampa" language_id="&de_DE;" name="Tampa" description="Tampa" />
+<geondds geondds_id="@geondds_de_DE_WestPalmBeach" geonode_id="@geonode_WestPalmBeach" language_id="&de_DE;" name="West Palm Beach" description="West Palm Beach" />
+<geondds geondds_id="@geondds_de_DE_Georgia" geonode_id="@geonode_Georgia" language_id="&de_DE;" name="Georgia" description="Georgia" />
+<geondds geondds_id="@geondds_de_DE_Alpharetta" geonode_id="@geonode_Alpharetta" language_id="&de_DE;" name="Alpharetta" description="Alpharetta" />
+<geondds geondds_id="@geondds_de_DE_AthensGA" geonode_id="@geonode_AthensGA" language_id="&de_DE;" name="Athens-GA" description="Athens-GA" />
+<geondds geondds_id="@geondds_de_DE_Atlanta" geonode_id="@geonode_Atlanta" language_id="&de_DE;" name="Atlanta" description="Atlanta" />
+<geondds geondds_id="@geondds_de_DE_AugustaGA" geonode_id="@geonode_AugustaGA" language_id="&de_DE;" name="Augusta-GA" description="Augusta-GA" />
+<geondds geondds_id="@geondds_de_DE_Brunswick" geonode_id="@geonode_Brunswick" language_id="&de_DE;" name="Brunswick" description="Brunswick" />
+<geondds geondds_id="@geondds_de_DE_ColumbusGA" geonode_id="@geonode_ColumbusGA" language_id="&de_DE;" name="Columbus-GA" description="Columbus-GA" />
+<geondds geondds_id="@geondds_de_DE_Dalton" geonode_id="@geonode_Dalton" language_id="&de_DE;" name="Dalton" description="Dalton" />
+<geondds geondds_id="@geondds_de_DE_GainesvilleGA" geonode_id="@geonode_GainesvilleGA" language_id="&de_DE;" name="Gainesville-GA" description="Gainesville-GA" />
+<geondds geondds_id="@geondds_de_DE_Kennesaw" geonode_id="@geonode_Kennesaw" language_id="&de_DE;" name="Kennesaw" description="Kennesaw" />
+<geondds geondds_id="@geondds_de_DE_LaGrange" geonode_id="@geonode_LaGrange" language_id="&de_DE;" name="LaGrange" description="LaGrange" />
+<geondds geondds_id="@geondds_de_DE_Macon" geonode_id="@geonode_Macon" language_id="&de_DE;" name="Macon" description="Macon" />
+<geondds geondds_id="@geondds_de_DE_Marietta" geonode_id="@geonode_Marietta" language_id="&de_DE;" name="Marietta" description="Marietta" />
+<geondds geondds_id="@geondds_de_DE_Rome" geonode_id="@geonode_Rome" language_id="&de_DE;" name="Rome" description="Rome" />
+<geondds geondds_id="@geondds_de_DE_RoswellGA" geonode_id="@geonode_RoswellGA" language_id="&de_DE;" name="Roswell-GA" description="Roswell-GA" />
+<geondds geondds_id="@geondds_de_DE_SandySprings" geonode_id="@geonode_SandySprings" language_id="&de_DE;" name="Sandy Springs" description="Sandy Springs" />
+<geondds geondds_id="@geondds_de_DE_Savannah" geonode_id="@geonode_Savannah" language_id="&de_DE;" name="Savannah" description="Savannah" />
+<geondds geondds_id="@geondds_de_DE_Statesboro" geonode_id="@geonode_Statesboro" language_id="&de_DE;" name="Statesboro" description="Statesboro" />
+<geondds geondds_id="@geondds_de_DE_Thomasville" geonode_id="@geonode_Thomasville" language_id="&de_DE;" name="Thomasville" description="Thomasville" />
+<geondds geondds_id="@geondds_de_DE_Valdosta" geonode_id="@geonode_Valdosta" language_id="&de_DE;" name="Valdosta" description="Valdosta" />
+<geondds geondds_id="@geondds_de_DE_WarnerRobins" geonode_id="@geonode_WarnerRobins" language_id="&de_DE;" name="Warner Robins" description="Warner Robins" />
+<geondds geondds_id="@geondds_de_DE_Waycross" geonode_id="@geonode_Waycross" language_id="&de_DE;" name="Waycross" description="Waycross" />
+<geondds geondds_id="@geondds_de_DE_Hawaii" geonode_id="@geonode_Hawaii" language_id="&de_DE;" name="Hawaii" description="Hawaii" />
+<geondds geondds_id="@geondds_de_DE_Hilo" geonode_id="@geonode_Hilo" language_id="&de_DE;" name="Hilo" description="Hilo" />
+<geondds geondds_id="@geondds_de_DE_Honolulu" geonode_id="@geonode_Honolulu" language_id="&de_DE;" name="Honolulu" description="Honolulu" />
+<geondds geondds_id="@geondds_de_DE_Kailua" geonode_id="@geonode_Kailua" language_id="&de_DE;" name="Kailua" description="Kailua" />
+<geondds geondds_id="@geondds_de_DE_KailuaKona" geonode_id="@geonode_KailuaKona" language_id="&de_DE;" name="Kailua-Kona" description="Kailua-Kona" />
+<geondds geondds_id="@geondds_de_DE_Lahaina" geonode_id="@geonode_Lahaina" language_id="&de_DE;" name="Lahaina" description="Lahaina" />
+<geondds geondds_id="@geondds_de_DE_Lihue" geonode_id="@geonode_Lihue" language_id="&de_DE;" name="Lihue" description="Lihue" />
+<geondds geondds_id="@geondds_de_DE_PearlCity" geonode_id="@geonode_PearlCity" language_id="&de_DE;" name="Pearl City" description="Pearl City" />
+<geondds geondds_id="@geondds_de_DE_SchofieldBarracks" geonode_id="@geonode_SchofieldBarracks" language_id="&de_DE;" name="Schofield Barracks" description="Schofield Barracks" />
+<geondds geondds_id="@geondds_de_DE_Wahiawa" geonode_id="@geonode_Wahiawa" language_id="&de_DE;" name="Wahiawa" description="Wahiawa" />
+<geondds geondds_id="@geondds_de_DE_Waipahu" geonode_id="@geonode_Waipahu" language_id="&de_DE;" name="Waipahu" description="Waipahu" />
+<geondds geondds_id="@geondds_de_DE_Idaho" geonode_id="@geonode_Idaho" language_id="&de_DE;" name="Idaho" description="Idaho" />
+<geondds geondds_id="@geondds_de_DE_Boise" geonode_id="@geonode_Boise" language_id="&de_DE;" name="Boise" description="Boise" />
+<geondds geondds_id="@geondds_de_DE_CoeurdAlene" geonode_id="@geonode_CoeurdAlene" language_id="&de_DE;" name="Coeur d''Alene" description="Coeur d''Alene" />
+<geondds geondds_id="@geondds_de_DE_IdahoFalls" geonode_id="@geonode_IdahoFalls" language_id="&de_DE;" name="Idaho Falls" description="Idaho Falls" />
+<geondds geondds_id="@geondds_de_DE_LewistonID" geonode_id="@geonode_LewistonID" language_id="&de_DE;" name="Lewiston-ID" description="Lewiston-ID" />
+<geondds geondds_id="@geondds_de_DE_Moscow" geonode_id="@geonode_Moscow" language_id="&de_DE;" name="Moscow" description="Moscow" />
+<geondds geondds_id="@geondds_de_DE_Nampa" geonode_id="@geonode_Nampa" language_id="&de_DE;" name="Nampa" description="Nampa" />
+<geondds geondds_id="@geondds_de_DE_Pocatello" geonode_id="@geonode_Pocatello" language_id="&de_DE;" name="Pocatello" description="Pocatello" />
+<geondds geondds_id="@geondds_de_DE_Sandpoint" geonode_id="@geonode_Sandpoint" language_id="&de_DE;" name="Sandpoint" description="Sandpoint" />
+<geondds geondds_id="@geondds_de_DE_SunValley" geonode_id="@geonode_SunValley" language_id="&de_DE;" name="Sun Valley" description="Sun Valley" />
+<geondds geondds_id="@geondds_de_DE_TwinFalls" geonode_id="@geonode_TwinFalls" language_id="&de_DE;" name="Twin Falls" description="Twin Falls" />
+<geondds geondds_id="@geondds_de_DE_Illinois" geonode_id="@geonode_Illinois" language_id="&de_DE;" name="Illinois" description="Illinois" />
+<geondds geondds_id="@geondds_de_DE_AuroraIL" geonode_id="@geonode_AuroraIL" language_id="&de_DE;" name="Aurora-IL" description="Aurora-IL" />
+<geondds geondds_id="@geondds_de_DE_BellevilleIL" geonode_id="@geonode_BellevilleIL" language_id="&de_DE;" name="Belleville-IL" description="Belleville-IL" />
+<geondds geondds_id="@geondds_de_DE_BloomingtonIL" geonode_id="@geonode_BloomingtonIL" language_id="&de_DE;" name="Bloomington-IL" description="Bloomington-IL" />
+<geondds geondds_id="@geondds_de_DE_Cairo" geonode_id="@geonode_Cairo" language_id="&de_DE;" name="Cairo" description="Cairo" />
+<geondds geondds_id="@geondds_de_DE_CalumetCity" geonode_id="@geonode_CalumetCity" language_id="&de_DE;" name="Calumet City" description="Calumet City" />
+<geondds geondds_id="@geondds_de_DE_Carbondale" geonode_id="@geonode_Carbondale" language_id="&de_DE;" name="Carbondale" description="Carbondale" />
+<geondds geondds_id="@geondds_de_DE_Champaign" geonode_id="@geonode_Champaign" language_id="&de_DE;" name="Champaign" description="Champaign" />
+<geondds geondds_id="@geondds_de_DE_CharlestonIL" geonode_id="@geonode_CharlestonIL" language_id="&de_DE;" name="Charleston-IL" description="Charleston-IL" />
+<geondds geondds_id="@geondds_de_DE_Chicago" geonode_id="@geonode_Chicago" language_id="&de_DE;" name="Chicago" description="Chicago" />
+<geondds geondds_id="@geondds_de_DE_ChicagoHeights" geonode_id="@geonode_ChicagoHeights" language_id="&de_DE;" name="Chicago Heights" description="Chicago Heights" />
+<geondds geondds_id="@geondds_de_DE_Cicero" geonode_id="@geonode_Cicero" language_id="&de_DE;" name="Cicero" description="Cicero" />
+<geondds geondds_id="@geondds_de_DE_DanvilleIL" geonode_id="@geonode_DanvilleIL" language_id="&de_DE;" name="Danville-IL" description="Danville-IL" />
+<geondds geondds_id="@geondds_de_DE_DecaturIL" geonode_id="@geonode_DecaturIL" language_id="&de_DE;" name="Decatur-IL" description="Decatur-IL" />
+<geondds geondds_id="@geondds_de_DE_DeKalb" geonode_id="@geonode_DeKalb" language_id="&de_DE;" name="DeKalb" description="DeKalb" />
+<geondds geondds_id="@geondds_de_DE_EastStLouis" geonode_id="@geonode_EastStLouis" language_id="&de_DE;" name="East St. Louis" description="East St. Louis" />
+<geondds geondds_id="@geondds_de_DE_EvanstonIL" geonode_id="@geonode_EvanstonIL" language_id="&de_DE;" name="Evanston-IL" description="Evanston-IL" />
+<geondds geondds_id="@geondds_de_DE_Galesburg" geonode_id="@geonode_Galesburg" language_id="&de_DE;" name="Galesburg" description="Galesburg" />
+<geondds geondds_id="@geondds_de_DE_HighlandPark" geonode_id="@geonode_HighlandPark" language_id="&de_DE;" name="Highland Park" description="Highland Park" />
+<geondds geondds_id="@geondds_de_DE_Joliet" geonode_id="@geonode_Joliet" language_id="&de_DE;" name="Joliet" description="Joliet" />
+<geondds geondds_id="@geondds_de_DE_Kankakee" geonode_id="@geonode_Kankakee" language_id="&de_DE;" name="Kankakee" description="Kankakee" />
+<geondds geondds_id="@geondds_de_DE_Macomb" geonode_id="@geonode_Macomb" language_id="&de_DE;" name="Macomb" description="Macomb" />
+<geondds geondds_id="@geondds_de_DE_Moline" geonode_id="@geonode_Moline" language_id="&de_DE;" name="Moline" description="Moline" />
+<geondds geondds_id="@geondds_de_DE_Naperville" geonode_id="@geonode_Naperville" language_id="&de_DE;" name="Naperville" description="Naperville" />
+<geondds geondds_id="@geondds_de_DE_Normal" geonode_id="@geonode_Normal" language_id="&de_DE;" name="Normal" description="Normal" />
+<geondds geondds_id="@geondds_de_DE_NorthChicago" geonode_id="@geonode_NorthChicago" language_id="&de_DE;" name="North Chicago" description="North Chicago" />
+<geondds geondds_id="@geondds_de_DE_PeoriaIL" geonode_id="@geonode_PeoriaIL" language_id="&de_DE;" name="Peoria-IL" description="Peoria-IL" />
+<geondds geondds_id="@geondds_de_DE_QuincyIL" geonode_id="@geonode_QuincyIL" language_id="&de_DE;" name="Quincy-IL" description="Quincy-IL" />
+<geondds geondds_id="@geondds_de_DE_RockIsland" geonode_id="@geonode_RockIsland" language_id="&de_DE;" name="Rock Island" description="Rock Island" />
+<geondds geondds_id="@geondds_de_DE_Rockford" geonode_id="@geonode_Rockford" language_id="&de_DE;" name="Rockford" description="Rockford" />
+<geondds geondds_id="@geondds_de_DE_SpringfieldIL" geonode_id="@geonode_SpringfieldIL" language_id="&de_DE;" name="Springfield-IL" description="Springfield-IL" />
+<geondds geondds_id="@geondds_de_DE_Urbana" geonode_id="@geonode_Urbana" language_id="&de_DE;" name="Urbana" description="Urbana" />
+<geondds geondds_id="@geondds_de_DE_Waukegan" geonode_id="@geonode_Waukegan" language_id="&de_DE;" name="Waukegan" description="Waukegan" />
+<geondds geondds_id="@geondds_de_DE_WheatonIL" geonode_id="@geonode_WheatonIL" language_id="&de_DE;" name="Wheaton-IL" description="Wheaton-IL" />
+<geondds geondds_id="@geondds_de_DE_Indiana" geonode_id="@geonode_Indiana" language_id="&de_DE;" name="Indiana" description="Indiana" />
+<geondds geondds_id="@geondds_de_DE_BloomingtonIN" geonode_id="@geonode_BloomingtonIN" language_id="&de_DE;" name="Bloomington-IN" description="Bloomington-IN" />
+<geondds geondds_id="@geondds_de_DE_Elkhart" geonode_id="@geonode_Elkhart" language_id="&de_DE;" name="Elkhart" description="Elkhart" />
+<geondds geondds_id="@geondds_de_DE_Evansville" geonode_id="@geonode_Evansville" language_id="&de_DE;" name="Evansville" description="Evansville" />
+<geondds geondds_id="@geondds_de_DE_FortWayne" geonode_id="@geonode_FortWayne" language_id="&de_DE;" name="Fort Wayne" description="Fort Wayne" />
+<geondds geondds_id="@geondds_de_DE_Gary" geonode_id="@geonode_Gary" language_id="&de_DE;" name="Gary" description="Gary" />
+<geondds geondds_id="@geondds_de_DE_HammondIN" geonode_id="@geonode_HammondIN" language_id="&de_DE;" name="Hammond-IN" description="Hammond-IN" />
+<geondds geondds_id="@geondds_de_DE_Indianapolis" geonode_id="@geonode_Indianapolis" language_id="&de_DE;" name="Indianapolis" description="Indianapolis" />
+<geondds geondds_id="@geondds_de_DE_Kokomo" geonode_id="@geonode_Kokomo" language_id="&de_DE;" name="Kokomo" description="Kokomo" />
+<geondds geondds_id="@geondds_de_DE_LafayetteIN" geonode_id="@geonode_LafayetteIN" language_id="&de_DE;" name="Lafayette-IN" description="Lafayette-IN" />
+<geondds geondds_id="@geondds_de_DE_Muncie" geonode_id="@geonode_Muncie" language_id="&de_DE;" name="Muncie" description="Muncie" />
+<geondds geondds_id="@geondds_de_DE_NotreDame" geonode_id="@geonode_NotreDame" language_id="&de_DE;" name="Notre Dame" description="Notre Dame" />
+<geondds geondds_id="@geondds_de_DE_SouthBend" geonode_id="@geonode_SouthBend" language_id="&de_DE;" name="South Bend" description="South Bend" />
+<geondds geondds_id="@geondds_de_DE_TerreHaute" geonode_id="@geonode_TerreHaute" language_id="&de_DE;" name="Terre Haute" description="Terre Haute" />
+<geondds geondds_id="@geondds_de_DE_Valparaiso" geonode_id="@geonode_Valparaiso" language_id="&de_DE;" name="Valparaiso" description="Valparaiso" />
+<geondds geondds_id="@geondds_de_DE_Vincennes" geonode_id="@geonode_Vincennes" language_id="&de_DE;" name="Vincennes" description="Vincennes" />
+<geondds geondds_id="@geondds_de_DE_WestLafayette" geonode_id="@geonode_WestLafayette" language_id="&de_DE;" name="West Lafayette" description="West Lafayette" />
+<geondds geondds_id="@geondds_de_DE_Iowa" geonode_id="@geonode_Iowa" language_id="&de_DE;" name="Iowa" description="Iowa" />
+<geondds geondds_id="@geondds_de_DE_Ames" geonode_id="@geonode_Ames" language_id="&de_DE;" name="Ames" description="Ames" />
+<geondds geondds_id="@geondds_de_DE_CedarFalls" geonode_id="@geonode_CedarFalls" language_id="&de_DE;" name="Cedar Falls" description="Cedar Falls" />
+<geondds geondds_id="@geondds_de_DE_CedarRapids" geonode_id="@geonode_CedarRapids" language_id="&de_DE;" name="Cedar Rapids" description="Cedar Rapids" />
+<geondds geondds_id="@geondds_de_DE_CouncilBluffs" geonode_id="@geonode_CouncilBluffs" language_id="&de_DE;" name="Council Bluffs" description="Council Bluffs" />
+<geondds geondds_id="@geondds_de_DE_Davenport" geonode_id="@geonode_Davenport" language_id="&de_DE;" name="Davenport" description="Davenport" />
+<geondds geondds_id="@geondds_de_DE_DesMoines" geonode_id="@geonode_DesMoines" language_id="&de_DE;" name="Des Moines" description="Des Moines" />
+<geondds geondds_id="@geondds_de_DE_Dubuque" geonode_id="@geonode_Dubuque" language_id="&de_DE;" name="Dubuque" description="Dubuque" />
+<geondds geondds_id="@geondds_de_DE_FortDodge" geonode_id="@geonode_FortDodge" language_id="&de_DE;" name="Fort Dodge" description="Fort Dodge" />
+<geondds geondds_id="@geondds_de_DE_IowaCity" geonode_id="@geonode_IowaCity" language_id="&de_DE;" name="Iowa City" description="Iowa City" />
+<geondds geondds_id="@geondds_de_DE_MasonCity" geonode_id="@geonode_MasonCity" language_id="&de_DE;" name="Mason City" description="Mason City" />
+<geondds geondds_id="@geondds_de_DE_SiouxCity" geonode_id="@geonode_SiouxCity" language_id="&de_DE;" name="Sioux City" description="Sioux City" />
+<geondds geondds_id="@geondds_de_DE_WaterlooIA" geonode_id="@geonode_WaterlooIA" language_id="&de_DE;" name="Waterloo-IA" description="Waterloo-IA" />
+<geondds geondds_id="@geondds_de_DE_Kansas" geonode_id="@geonode_Kansas" language_id="&de_DE;" name="Kansas" description="Kansas" />
+<geondds geondds_id="@geondds_de_DE_AbileneKS" geonode_id="@geonode_AbileneKS" language_id="&de_DE;" name="Abilene-KS" description="Abilene-KS" />
+<geondds geondds_id="@geondds_de_DE_DodgeCity" geonode_id="@geonode_DodgeCity" language_id="&de_DE;" name="Dodge City" description="Dodge City" />
+<geondds geondds_id="@geondds_de_DE_Hutchinson" geonode_id="@geonode_Hutchinson" language_id="&de_DE;" name="Hutchinson" description="Hutchinson" />
+<geondds geondds_id="@geondds_de_DE_KansasCityKS" geonode_id="@geonode_KansasCityKS" language_id="&de_DE;" name="Kansas City-KS" description="Kansas City-KS" />
+<geondds geondds_id="@geondds_de_DE_Lawrence" geonode_id="@geonode_Lawrence" language_id="&de_DE;" name="Lawrence" description="Lawrence" />
+<geondds geondds_id="@geondds_de_DE_Liberal" geonode_id="@geonode_Liberal" language_id="&de_DE;" name="Liberal" description="Liberal" />
+<geondds geondds_id="@geondds_de_DE_Manhattan" geonode_id="@geonode_Manhattan" language_id="&de_DE;" name="Manhattan" description="Manhattan" />
+<geondds geondds_id="@geondds_de_DE_OverlandParksas" geonode_id="@geonode_OverlandParksas" language_id="&de_DE;" name="Overland Parksas" description="Overland Parksas" />
+<geondds geondds_id="@geondds_de_DE_Topeka" geonode_id="@geonode_Topeka" language_id="&de_DE;" name="Topeka" description="Topeka" />
+<geondds geondds_id="@geondds_de_DE_Wichita" geonode_id="@geonode_Wichita" language_id="&de_DE;" name="Wichita" description="Wichita" />
+<geondds geondds_id="@geondds_de_DE_Kentucky" geonode_id="@geonode_Kentucky" language_id="&de_DE;" name="Kentucky" description="Kentucky" />
+<geondds geondds_id="@geondds_de_DE_BowlingGreenKY" geonode_id="@geonode_BowlingGreenKY" language_id="&de_DE;" name="Bowling Green-KY" description="Bowling Green-KY" />
+<geondds geondds_id="@geondds_de_DE_Covington" geonode_id="@geonode_Covington" language_id="&de_DE;" name="Covington" description="Covington" />
+<geondds geondds_id="@geondds_de_DE_DanvilleKY" geonode_id="@geonode_DanvilleKY" language_id="&de_DE;" name="Danville-KY" description="Danville-KY" />
+<geondds geondds_id="@geondds_de_DE_FlorenceKY" geonode_id="@geonode_FlorenceKY" language_id="&de_DE;" name="Florence-KY" description="Florence-KY" />
+<geondds geondds_id="@geondds_de_DE_Frankfort" geonode_id="@geonode_Frankfort" language_id="&de_DE;" name="Frankfort" description="Frankfort" />
+<geondds geondds_id="@geondds_de_DE_Hopkinsville" geonode_id="@geonode_Hopkinsville" language_id="&de_DE;" name="Hopkinsville" description="Hopkinsville" />
+<geondds geondds_id="@geondds_de_DE_Jeffersontown" geonode_id="@geonode_Jeffersontown" language_id="&de_DE;" name="Jeffersontown" description="Jeffersontown" />
+<geondds geondds_id="@geondds_de_DE_LexingtonKY" geonode_id="@geonode_LexingtonKY" language_id="&de_DE;" name="Lexington-KY" description="Lexington-KY" />
+<geondds geondds_id="@geondds_de_DE_Louisville" geonode_id="@geonode_Louisville" language_id="&de_DE;" name="Louisville" description="Louisville" />
+<geondds geondds_id="@geondds_de_DE_Murray" geonode_id="@geonode_Murray" language_id="&de_DE;" name="Murray" description="Murray" />
+<geondds geondds_id="@geondds_de_DE_Owensboro" geonode_id="@geonode_Owensboro" language_id="&de_DE;" name="Owensboro" description="Owensboro" />
+<geondds geondds_id="@geondds_de_DE_Paducah" geonode_id="@geonode_Paducah" language_id="&de_DE;" name="Paducah" description="Paducah" />
+<geondds geondds_id="@geondds_de_DE_RichmondKY" geonode_id="@geonode_RichmondKY" language_id="&de_DE;" name="Richmond-KY" description="Richmond-KY" />
+<geondds geondds_id="@geondds_de_DE_Louisiana" geonode_id="@geonode_Louisiana" language_id="&de_DE;" name="Louisiana" description="Louisiana" />
+<geondds geondds_id="@geondds_de_DE_AlexandriaLA" geonode_id="@geonode_AlexandriaLA" language_id="&de_DE;" name="Alexandria-LA" description="Alexandria-LA" />
+<geondds geondds_id="@geondds_de_DE_BatonRouge" geonode_id="@geonode_BatonRouge" language_id="&de_DE;" name="Baton Rouge" description="Baton Rouge" />
+<geondds geondds_id="@geondds_de_DE_BossierCity" geonode_id="@geonode_BossierCity" language_id="&de_DE;" name="Bossier City" description="Bossier City" />
+<geondds geondds_id="@geondds_de_DE_Grambling" geonode_id="@geonode_Grambling" language_id="&de_DE;" name="Grambling" description="Grambling" />
+<geondds geondds_id="@geondds_de_DE_HammondLA" geonode_id="@geonode_HammondLA" language_id="&de_DE;" name="Hammond-LA" description="Hammond-LA" />
+<geondds geondds_id="@geondds_de_DE_Houma" geonode_id="@geonode_Houma" language_id="&de_DE;" name="Houma" description="Houma" />
+<geondds geondds_id="@geondds_de_DE_Kenner" geonode_id="@geonode_Kenner" language_id="&de_DE;" name="Kenner" description="Kenner" />
+<geondds geondds_id="@geondds_de_DE_LafayetteLA" geonode_id="@geonode_LafayetteLA" language_id="&de_DE;" name="Lafayette-LA" description="Lafayette-LA" />
+<geondds geondds_id="@geondds_de_DE_LakeCharles" geonode_id="@geonode_LakeCharles" language_id="&de_DE;" name="Lake Charles" description="Lake Charles" />
+<geondds geondds_id="@geondds_de_DE_Metairie" geonode_id="@geonode_Metairie" language_id="&de_DE;" name="Metairie" description="Metairie" />
+<geondds geondds_id="@geondds_de_DE_Monroe" geonode_id="@geonode_Monroe" language_id="&de_DE;" name="Monroe" description="Monroe" />
+<geondds geondds_id="@geondds_de_DE_MorganCity" geonode_id="@geonode_MorganCity" language_id="&de_DE;" name="Morgan City" description="Morgan City" />
+<geondds geondds_id="@geondds_de_DE_Natchitoches" geonode_id="@geonode_Natchitoches" language_id="&de_DE;" name="Natchitoches" description="Natchitoches" />
+<geondds geondds_id="@geondds_de_DE_NewIberia" geonode_id="@geonode_NewIberia" language_id="&de_DE;" name="New Iberia" description="New Iberia" />
+<geondds geondds_id="@geondds_de_DE_NewOrleans" geonode_id="@geonode_NewOrleans" language_id="&de_DE;" name="New Orleans" description="New Orleans" />
+<geondds geondds_id="@geondds_de_DE_Opelousas" geonode_id="@geonode_Opelousas" language_id="&de_DE;" name="Opelousas" description="Opelousas" />
+<geondds geondds_id="@geondds_de_DE_Ruston" geonode_id="@geonode_Ruston" language_id="&de_DE;" name="Ruston" description="Ruston" />
+<geondds geondds_id="@geondds_de_DE_Shreveport" geonode_id="@geonode_Shreveport" language_id="&de_DE;" name="Shreveport" description="Shreveport" />
+<geondds geondds_id="@geondds_de_DE_Slidell" geonode_id="@geonode_Slidell" language_id="&de_DE;" name="Slidell" description="Slidell" />
+<geondds geondds_id="@geondds_de_DE_Thibodaux" geonode_id="@geonode_Thibodaux" language_id="&de_DE;" name="Thibodaux" description="Thibodaux" />
+<geondds geondds_id="@geondds_de_DE_Maine" geonode_id="@geonode_Maine" language_id="&de_DE;" name="Maine" description="Maine" />
+<geondds geondds_id="@geondds_de_DE_AugustaME" geonode_id="@geonode_AugustaME" language_id="&de_DE;" name="Augusta-ME" description="Augusta-ME" />
+<geondds geondds_id="@geondds_de_DE_Bangor" geonode_id="@geonode_Bangor" language_id="&de_DE;" name="Bangor" description="Bangor" />
+<geondds geondds_id="@geondds_de_DE_BarHarbor" geonode_id="@geonode_BarHarbor" language_id="&de_DE;" name="Bar Harbor" description="Bar Harbor" />
+<geondds geondds_id="@geondds_de_DE_Caribou" geonode_id="@geonode_Caribou" language_id="&de_DE;" name="Caribou" description="Caribou" />
+<geondds geondds_id="@geondds_de_DE_Freeport" geonode_id="@geonode_Freeport" language_id="&de_DE;" name="Freeport" description="Freeport" />
+<geondds geondds_id="@geondds_de_DE_Kennebunk" geonode_id="@geonode_Kennebunk" language_id="&de_DE;" name="Kennebunk" description="Kennebunk" />
+<geondds geondds_id="@geondds_de_DE_LewistonME" geonode_id="@geonode_LewistonME" language_id="&de_DE;" name="Lewiston-ME" description="Lewiston-ME" />
+<geondds geondds_id="@geondds_de_DE_Orono" geonode_id="@geonode_Orono" language_id="&de_DE;" name="Orono" description="Orono" />
+<geondds geondds_id="@geondds_de_DE_PortlandME" geonode_id="@geonode_PortlandME" language_id="&de_DE;" name="Portland-ME" description="Portland-ME" />
+<geondds geondds_id="@geondds_de_DE_PresqueIsle" geonode_id="@geonode_PresqueIsle" language_id="&de_DE;" name="Presque Isle" description="Presque Isle" />
+<geondds geondds_id="@geondds_de_DE_Maryland" geonode_id="@geonode_Maryland" language_id="&de_DE;" name="Maryland" description="Maryland" />
+<geondds geondds_id="@geondds_de_DE_Annapolis" geonode_id="@geonode_Annapolis" language_id="&de_DE;" name="Annapolis" description="Annapolis" />
+<geondds geondds_id="@geondds_de_DE_Baltimore" geonode_id="@geonode_Baltimore" language_id="&de_DE;" name="Baltimore" description="Baltimore" />
+<geondds geondds_id="@geondds_de_DE_Bethesda" geonode_id="@geonode_Bethesda" language_id="&de_DE;" name="Bethesda" description="Bethesda" />
+<geondds geondds_id="@geondds_de_DE_Bowie" geonode_id="@geonode_Bowie" language_id="&de_DE;" name="Bowie" description="Bowie" />
+<geondds geondds_id="@geondds_de_DE_CollegePark" geonode_id="@geonode_CollegePark" language_id="&de_DE;" name="College Park" description="College Park" />
+<geondds geondds_id="@geondds_de_DE_Dundalk" geonode_id="@geonode_Dundalk" language_id="&de_DE;" name="Dundalk" description="Dundalk" />
+<geondds geondds_id="@geondds_de_DE_Cumberland" geonode_id="@geonode_Cumberland" language_id="&de_DE;" name="Cumberland" description="Cumberland" />
+<geondds geondds_id="@geondds_de_DE_Frederick" geonode_id="@geonode_Frederick" language_id="&de_DE;" name="Frederick" description="Frederick" />
+<geondds geondds_id="@geondds_de_DE_Gaithersburg" geonode_id="@geonode_Gaithersburg" language_id="&de_DE;" name="Gaithersburg" description="Gaithersburg" />
+<geondds geondds_id="@geondds_de_DE_Germantown" geonode_id="@geonode_Germantown" language_id="&de_DE;" name="Germantown" description="Germantown" />
+<geondds geondds_id="@geondds_de_DE_Hagerstown" geonode_id="@geonode_Hagerstown" language_id="&de_DE;" name="Hagerstown" description="Hagerstown" />
+<geondds geondds_id="@geondds_de_DE_LaurelMD" geonode_id="@geonode_LaurelMD" language_id="&de_DE;" name="Laurel-MD" description="Laurel-MD" />
+<geondds geondds_id="@geondds_de_DE_OceanCity" geonode_id="@geonode_OceanCity" language_id="&de_DE;" name="Ocean City" description="Ocean City" />
+<geondds geondds_id="@geondds_de_DE_Rockville" geonode_id="@geonode_Rockville" language_id="&de_DE;" name="Rockville" description="Rockville" />
+<geondds geondds_id="@geondds_de_DE_Salisbury" geonode_id="@geonode_Salisbury" language_id="&de_DE;" name="Salisbury" description="Salisbury" />
+<geondds geondds_id="@geondds_de_DE_SilverSpring" geonode_id="@geonode_SilverSpring" language_id="&de_DE;" name="Silver Spring" description="Silver Spring" />
+<geondds geondds_id="@geondds_de_DE_Towson" geonode_id="@geonode_Towson" language_id="&de_DE;" name="Towson" description="Towson" />
+<geondds geondds_id="@geondds_de_DE_Waldorf" geonode_id="@geonode_Waldorf" language_id="&de_DE;" name="Waldorf" description="Waldorf" />
+<geondds geondds_id="@geondds_de_DE_WheatonMD" geonode_id="@geonode_WheatonMD" language_id="&de_DE;" name="Wheaton-MD" description="Wheaton-MD" />
+<geondds geondds_id="@geondds_de_DE_Massachusetts" geonode_id="@geonode_Massachusetts" language_id="&de_DE;" name="Massachusetts" description="Massachusetts" />
+<geondds geondds_id="@geondds_de_DE_Andover" geonode_id="@geonode_Andover" language_id="&de_DE;" name="Andover" description="Andover" />
+<geondds geondds_id="@geondds_de_DE_Boston" geonode_id="@geonode_Boston" language_id="&de_DE;" name="Boston" description="Boston" />
+<geondds geondds_id="@geondds_de_DE_Braintree" geonode_id="@geonode_Braintree" language_id="&de_DE;" name="Braintree" description="Braintree" />
+<geondds geondds_id="@geondds_de_DE_CambridgeMA" geonode_id="@geonode_CambridgeMA" language_id="&de_DE;" name="Cambridge-MA" description="Cambridge-MA" />
+<geondds geondds_id="@geondds_de_DE_Chelsea" geonode_id="@geonode_Chelsea" language_id="&de_DE;" name="Chelsea" description="Chelsea" />
+<geondds geondds_id="@geondds_de_DE_ChestnutHill" geonode_id="@geonode_ChestnutHill" language_id="&de_DE;" name="Chestnut Hill" description="Chestnut Hill" />
+<geondds geondds_id="@geondds_de_DE_Danvers" geonode_id="@geonode_Danvers" language_id="&de_DE;" name="Danvers" description="Danvers" />
+<geondds geondds_id="@geondds_de_DE_Dorchester" geonode_id="@geonode_Dorchester" language_id="&de_DE;" name="Dorchester" description="Dorchester" />
+<geondds geondds_id="@geondds_de_DE_FallRiver" geonode_id="@geonode_FallRiver" language_id="&de_DE;" name="Fall River" description="Fall River" />
+<geondds geondds_id="@geondds_de_DE_Framingham" geonode_id="@geonode_Framingham" language_id="&de_DE;" name="Framingham" description="Framingham" />
+<geondds geondds_id="@geondds_de_DE_Lowell" geonode_id="@geonode_Lowell" language_id="&de_DE;" name="Lowell" description="Lowell" />
+<geondds geondds_id="@geondds_de_DE_Nantucket" geonode_id="@geonode_Nantucket" language_id="&de_DE;" name="Nantucket" description="Nantucket" />
+<geondds geondds_id="@geondds_de_DE_Newburyport" geonode_id="@geonode_Newburyport" language_id="&de_DE;" name="Newburyport" description="Newburyport" />
+<geondds geondds_id="@geondds_de_DE_NorthAndover" geonode_id="@geonode_NorthAndover" language_id="&de_DE;" name="North Andover" description="North Andover" />
+<geondds geondds_id="@geondds_de_DE_Pittsfield" geonode_id="@geonode_Pittsfield" language_id="&de_DE;" name="Pittsfield" description="Pittsfield" />
+<geondds geondds_id="@geondds_de_DE_Plymouth" geonode_id="@geonode_Plymouth" language_id="&de_DE;" name="Plymouth" description="Plymouth" />
+<geondds geondds_id="@geondds_de_DE_QuincyMA" geonode_id="@geonode_QuincyMA" language_id="&de_DE;" name="Quincy-MA" description="Quincy-MA" />
+<geondds geondds_id="@geondds_de_DE_Revere" geonode_id="@geonode_Revere" language_id="&de_DE;" name="Revere" description="Revere" />
+<geondds geondds_id="@geondds_de_DE_Roxbury" geonode_id="@geonode_Roxbury" language_id="&de_DE;" name="Roxbury" description="Roxbury" />
+<geondds geondds_id="@geondds_de_DE_SpringfieldMA" geonode_id="@geonode_SpringfieldMA" language_id="&de_DE;" name="Springfield-MA" description="Springfield-MA" />
+<geondds geondds_id="@geondds_de_DE_Taunton" geonode_id="@geonode_Taunton" language_id="&de_DE;" name="Taunton" description="Taunton" />
+<geondds geondds_id="@geondds_de_DE_Worcester" geonode_id="@geonode_Worcester" language_id="&de_DE;" name="Worcester" description="Worcester" />
+<geondds geondds_id="@geondds_de_DE_Michigan" geonode_id="@geonode_Michigan" language_id="&de_DE;" name="Michigan" description="Michigan" />
+<geondds geondds_id="@geondds_de_DE_AnnArbor" geonode_id="@geonode_AnnArbor" language_id="&de_DE;" name="Ann Arbor" description="Ann Arbor" />
+<geondds geondds_id="@geondds_de_DE_AuburnHills" geonode_id="@geonode_AuburnHills" language_id="&de_DE;" name="Auburn Hills" description="Auburn Hills" />
+<geondds geondds_id="@geondds_de_DE_BattleCreek" geonode_id="@geonode_BattleCreek" language_id="&de_DE;" name="Battle Creek" description="Battle Creek" />
+<geondds geondds_id="@geondds_de_DE_BayCity" geonode_id="@geonode_BayCity" language_id="&de_DE;" name="Bay City" description="Bay City" />
+<geondds geondds_id="@geondds_de_DE_BentonHarbor" geonode_id="@geonode_BentonHarbor" language_id="&de_DE;" name="Benton Harbor" description="Benton Harbor" />
+<geondds geondds_id="@geondds_de_DE_Dearborn" geonode_id="@geonode_Dearborn" language_id="&de_DE;" name="Dearborn" description="Dearborn" />
+<geondds geondds_id="@geondds_de_DE_Detroit" geonode_id="@geonode_Detroit" language_id="&de_DE;" name="Detroit" description="Detroit" />
+<geondds geondds_id="@geondds_de_DE_EastLansing" geonode_id="@geonode_EastLansing" language_id="&de_DE;" name="East Lansing" description="East Lansing" />
+<geondds geondds_id="@geondds_de_DE_Flint" geonode_id="@geonode_Flint" language_id="&de_DE;" name="Flint" description="Flint" />
+<geondds geondds_id="@geondds_de_DE_GrandRapids" geonode_id="@geonode_GrandRapids" language_id="&de_DE;" name="Grand Rapids" description="Grand Rapids" />
+<geondds geondds_id="@geondds_de_DE_Kalamazoo" geonode_id="@geonode_Kalamazoo" language_id="&de_DE;" name="Kalamazoo" description="Kalamazoo" />
+<geondds geondds_id="@geondds_de_DE_Lansing" geonode_id="@geonode_Lansing" language_id="&de_DE;" name="Lansing" description="Lansing" />
+<geondds geondds_id="@geondds_de_DE_Marquette" geonode_id="@geonode_Marquette" language_id="&de_DE;" name="Marquette" description="Marquette" />
+<geondds geondds_id="@geondds_de_DE_MidlandMI" geonode_id="@geonode_MidlandMI" language_id="&de_DE;" name="Midland-MI" description="Midland-MI" />
+<geondds geondds_id="@geondds_de_DE_MountPleasant" geonode_id="@geonode_MountPleasant" language_id="&de_DE;" name="Mount Pleasant" description="Mount Pleasant" />
+<geondds geondds_id="@geondds_de_DE_Muskegon" geonode_id="@geonode_Muskegon" language_id="&de_DE;" name="Muskegon" description="Muskegon" />
+<geondds geondds_id="@geondds_de_DE_PortHuron" geonode_id="@geonode_PortHuron" language_id="&de_DE;" name="Port Huron" description="Port Huron" />
+<geondds geondds_id="@geondds_de_DE_Saginaw" geonode_id="@geonode_Saginaw" language_id="&de_DE;" name="Saginaw" description="Saginaw" />
+<geondds geondds_id="@geondds_de_DE_SaultSteMarieMI" geonode_id="@geonode_SaultSteMarieMI" language_id="&de_DE;" name="Sault Ste. Marie-MI" description="Sault Ste. Marie-MI" />
+<geondds geondds_id="@geondds_de_DE_Warren" geonode_id="@geonode_Warren" language_id="&de_DE;" name="Warren" description="Warren" />
+<geondds geondds_id="@geondds_de_DE_Ypsilanti" geonode_id="@geonode_Ypsilanti" language_id="&de_DE;" name="Ypsilanti" description="Ypsilanti" />
+<geondds geondds_id="@geondds_de_DE_Minnesota" geonode_id="@geonode_Minnesota" language_id="&de_DE;" name="Minnesota" description="Minnesota" />
+<geondds geondds_id="@geondds_de_DE_BloomingtonMN" geonode_id="@geonode_BloomingtonMN" language_id="&de_DE;" name="Bloomington-MN" description="Bloomington-MN" />
+<geondds geondds_id="@geondds_de_DE_BrooklynPark" geonode_id="@geonode_BrooklynPark" language_id="&de_DE;" name="Brooklyn Park" description="Brooklyn Park" />
+<geondds geondds_id="@geondds_de_DE_Duluth" geonode_id="@geonode_Duluth" language_id="&de_DE;" name="Duluth" description="Duluth" />
+<geondds geondds_id="@geondds_de_DE_ForestLake" geonode_id="@geonode_ForestLake" language_id="&de_DE;" name="Forest Lake" description="Forest Lake" />
+<geondds geondds_id="@geondds_de_DE_InternationalFalls" geonode_id="@geonode_InternationalFalls" language_id="&de_DE;" name="International Falls" description="International Falls" />
+<geondds geondds_id="@geondds_de_DE_Mankato" geonode_id="@geonode_Mankato" language_id="&de_DE;" name="Mankato" description="Mankato" />
+<geondds geondds_id="@geondds_de_DE_Minneapolis" geonode_id="@geonode_Minneapolis" language_id="&de_DE;" name="Minneapolis" description="Minneapolis" />
+<geondds geondds_id="@geondds_de_DE_Minnetonka" geonode_id="@geonode_Minnetonka" language_id="&de_DE;" name="Minnetonka" description="Minnetonka" />
+<geondds geondds_id="@geondds_de_DE_Moorhead" geonode_id="@geonode_Moorhead" language_id="&de_DE;" name="Moorhead" description="Moorhead" />
+<geondds geondds_id="@geondds_de_DE_RochesterMN" geonode_id="@geonode_RochesterMN" language_id="&de_DE;" name="Rochester-MN" description="Rochester-MN" />
+<geondds geondds_id="@geondds_de_DE_SaintCloud" geonode_id="@geonode_SaintCloud" language_id="&de_DE;" name="Saint Cloud" description="Saint Cloud" />
+<geondds geondds_id="@geondds_de_DE_SaintPaul" geonode_id="@geonode_SaintPaul" language_id="&de_DE;" name="Saint Paul" description="Saint Paul" />
+<geondds geondds_id="@geondds_de_DE_Mississippi" geonode_id="@geonode_Mississippi" language_id="&de_DE;" name="Mississippi" description="Mississippi" />
+<geondds geondds_id="@geondds_de_DE_BayStLouis" geonode_id="@geonode_BayStLouis" language_id="&de_DE;" name="Bay St. Louis" description="Bay St. Louis" />
+<geondds geondds_id="@geondds_de_DE_Biloxi" geonode_id="@geonode_Biloxi" language_id="&de_DE;" name="Biloxi" description="Biloxi" />
+<geondds geondds_id="@geondds_de_DE_ColumbusMS" geonode_id="@geonode_ColumbusMS" language_id="&de_DE;" name="Columbus-MS" description="Columbus-MS" />
+<geondds geondds_id="@geondds_de_DE_Corinth" geonode_id="@geonode_Corinth" language_id="&de_DE;" name="Corinth" description="Corinth" />
+<geondds geondds_id="@geondds_de_DE_GreenvilleMS" geonode_id="@geonode_GreenvilleMS" language_id="&de_DE;" name="Greenville-MS" description="Greenville-MS" />
+<geondds geondds_id="@geondds_de_DE_Gulfport" geonode_id="@geonode_Gulfport" language_id="&de_DE;" name="Gulfport" description="Gulfport" />
+<geondds geondds_id="@geondds_de_DE_Hattiesburg" geonode_id="@geonode_Hattiesburg" language_id="&de_DE;" name="Hattiesburg" description="Hattiesburg" />
+<geondds geondds_id="@geondds_de_DE_JacksonMS" geonode_id="@geonode_JacksonMS" language_id="&de_DE;" name="Jackson-MS" description="Jackson-MS" />
+<geondds geondds_id="@geondds_de_DE_LaurelMS" geonode_id="@geonode_LaurelMS" language_id="&de_DE;" name="Laurel-MS" description="Laurel-MS" />
+<geondds geondds_id="@geondds_de_DE_Meridian" geonode_id="@geonode_Meridian" language_id="&de_DE;" name="Meridian" description="Meridian" />
+<geondds geondds_id="@geondds_de_DE_Natchez" geonode_id="@geonode_Natchez" language_id="&de_DE;" name="Natchez" description="Natchez" />
+<geondds geondds_id="@geondds_de_DE_OxfordMS" geonode_id="@geonode_OxfordMS" language_id="&de_DE;" name="Oxford-MS" description="Oxford-MS" />
+<geondds geondds_id="@geondds_de_DE_Pascagoula" geonode_id="@geonode_Pascagoula" language_id="&de_DE;" name="Pascagoula" description="Pascagoula" />
+<geondds geondds_id="@geondds_de_DE_PassChristian" geonode_id="@geonode_PassChristian" language_id="&de_DE;" name="Pass Christian" description="Pass Christian" />
+<geondds geondds_id="@geondds_de_DE_Starkville" geonode_id="@geonode_Starkville" language_id="&de_DE;" name="Starkville" description="Starkville" />
+<geondds geondds_id="@geondds_de_DE_Tupelo" geonode_id="@geonode_Tupelo" language_id="&de_DE;" name="Tupelo" description="Tupelo" />
+<geondds geondds_id="@geondds_de_DE_Vicksburg" geonode_id="@geonode_Vicksburg" language_id="&de_DE;" name="Vicksburg" description="Vicksburg" />
+<geondds geondds_id="@geondds_de_DE_YazooCity" geonode_id="@geonode_YazooCity" language_id="&de_DE;" name="Yazoo City" description="Yazoo City" />
+<geondds geondds_id="@geondds_de_DE_Missouri" geonode_id="@geonode_Missouri" language_id="&de_DE;" name="Missouri" description="Missouri" />
+<geondds geondds_id="@geondds_de_DE_Branson" geonode_id="@geonode_Branson" language_id="&de_DE;" name="Branson" description="Branson" />
+<geondds geondds_id="@geondds_de_DE_CapeGirardeau" geonode_id="@geonode_CapeGirardeau" language_id="&de_DE;" name="Cape Girardeau" description="Cape Girardeau" />
+<geondds geondds_id="@geondds_de_DE_ColumbiaMO" geonode_id="@geonode_ColumbiaMO" language_id="&de_DE;" name="Columbia-MO" description="Columbia-MO" />
+<geondds geondds_id="@geondds_de_DE_Fulton" geonode_id="@geonode_Fulton" language_id="&de_DE;" name="Fulton" description="Fulton" />
+<geondds geondds_id="@geondds_de_DE_Hannibal" geonode_id="@geonode_Hannibal" language_id="&de_DE;" name="Hannibal" description="Hannibal" />
+<geondds geondds_id="@geondds_de_DE_Independence" geonode_id="@geonode_Independence" language_id="&de_DE;" name="Independence" description="Independence" />
+<geondds geondds_id="@geondds_de_DE_JeffersonCity" geonode_id="@geonode_JeffersonCity" language_id="&de_DE;" name="Jefferson City" description="Jefferson City" />
+<geondds geondds_id="@geondds_de_DE_Joplin" geonode_id="@geonode_Joplin" language_id="&de_DE;" name="Joplin" description="Joplin" />
+<geondds geondds_id="@geondds_de_DE_KansasCityMO" geonode_id="@geonode_KansasCityMO" language_id="&de_DE;" name="Kansas City-MO" description="Kansas City-MO" />
+<geondds geondds_id="@geondds_de_DE_NewMadrid" geonode_id="@geonode_NewMadrid" language_id="&de_DE;" name="New Madrid" description="New Madrid" />
+<geondds geondds_id="@geondds_de_DE_Rolla" geonode_id="@geonode_Rolla" language_id="&de_DE;" name="Rolla" description="Rolla" />
+<geondds geondds_id="@geondds_de_DE_SaintJoseph" geonode_id="@geonode_SaintJoseph" language_id="&de_DE;" name="Saint Joseph" description="Saint Joseph" />
+<geondds geondds_id="@geondds_de_DE_SaintLouis" geonode_id="@geonode_SaintLouis" language_id="&de_DE;" name="Saint Louis" description="Saint Louis" />
+<geondds geondds_id="@geondds_de_DE_Sedalia" geonode_id="@geonode_Sedalia" language_id="&de_DE;" name="Sedalia" description="Sedalia" />
+<geondds geondds_id="@geondds_de_DE_SpringfieldMO" geonode_id="@geonode_SpringfieldMO" language_id="&de_DE;" name="Springfield-MO" description="Springfield-MO" />
+<geondds geondds_id="@geondds_de_DE_WebsterGroves" geonode_id="@geonode_WebsterGroves" language_id="&de_DE;" name="Webster Groves" description="Webster Groves" />
+<geondds geondds_id="@geondds_de_DE_Montana" geonode_id="@geonode_Montana" language_id="&de_DE;" name="Montana" description="Montana" />
+<geondds geondds_id="@geondds_de_DE_Anaconda" geonode_id="@geonode_Anaconda" language_id="&de_DE;" name="Anaconda" description="Anaconda" />
+<geondds geondds_id="@geondds_de_DE_Billings" geonode_id="@geonode_Billings" language_id="&de_DE;" name="Billings" description="Billings" />
+<geondds geondds_id="@geondds_de_DE_Bozeman" geonode_id="@geonode_Bozeman" language_id="&de_DE;" name="Bozeman" description="Bozeman" />
+<geondds geondds_id="@geondds_de_DE_Butte" geonode_id="@geonode_Butte" language_id="&de_DE;" name="Butte" description="Butte" />
+<geondds geondds_id="@geondds_de_DE_GreatFalls" geonode_id="@geonode_GreatFalls" language_id="&de_DE;" name="Great Falls" description="Great Falls" />
+<geondds geondds_id="@geondds_de_DE_Helena" geonode_id="@geonode_Helena" language_id="&de_DE;" name="Helena" description="Helena" />
+<geondds geondds_id="@geondds_de_DE_Kalispell" geonode_id="@geonode_Kalispell" language_id="&de_DE;" name="Kalispell" description="Kalispell" />
+<geondds geondds_id="@geondds_de_DE_Missoula" geonode_id="@geonode_Missoula" language_id="&de_DE;" name="Missoula" description="Missoula" />
+<geondds geondds_id="@geondds_de_DE_Nebraska" geonode_id="@geonode_Nebraska" language_id="&de_DE;" name="Nebraska" description="Nebraska" />
+<geondds geondds_id="@geondds_de_DE_GrandIsland" geonode_id="@geonode_GrandIsland" language_id="&de_DE;" name="Grand Island" description="Grand Island" />
+<geondds geondds_id="@geondds_de_DE_Hastings" geonode_id="@geonode_Hastings" language_id="&de_DE;" name="Hastings" description="Hastings" />
+<geondds geondds_id="@geondds_de_DE_Kearney" geonode_id="@geonode_Kearney" language_id="&de_DE;" name="Kearney" description="Kearney" />
+<geondds geondds_id="@geondds_de_DE_Lincoln" geonode_id="@geonode_Lincoln" language_id="&de_DE;" name="Lincoln" description="Lincoln" />
+<geondds geondds_id="@geondds_de_DE_NorthPlatte" geonode_id="@geonode_NorthPlatte" language_id="&de_DE;" name="North Platte" description="North Platte" />
+<geondds geondds_id="@geondds_de_DE_Omaha" geonode_id="@geonode_Omaha" language_id="&de_DE;" name="Omaha" description="Omaha" />
+<geondds geondds_id="@geondds_de_DE_Scottsbluff" geonode_id="@geonode_Scottsbluff" language_id="&de_DE;" name="Scottsbluff" description="Scottsbluff" />
+<geondds geondds_id="@geondds_de_DE_Wahoo" geonode_id="@geonode_Wahoo" language_id="&de_DE;" name="Wahoo" description="Wahoo" />
+<geondds geondds_id="@geondds_de_DE_Nevada" geonode_id="@geonode_Nevada" language_id="&de_DE;" name="Nevada" description="Nevada" />
+<geondds geondds_id="@geondds_de_DE_BoulderCity" geonode_id="@geonode_BoulderCity" language_id="&de_DE;" name="Boulder City" description="Boulder City" />
+<geondds geondds_id="@geondds_de_DE_CarsonCity" geonode_id="@geonode_CarsonCity" language_id="&de_DE;" name="Carson City" description="Carson City" />
+<geondds geondds_id="@geondds_de_DE_Elko" geonode_id="@geonode_Elko" language_id="&de_DE;" name="Elko" description="Elko" />
+<geondds geondds_id="@geondds_de_DE_Fallon" geonode_id="@geonode_Fallon" language_id="&de_DE;" name="Fallon" description="Fallon" />
+<geondds geondds_id="@geondds_de_DE_Fernley" geonode_id="@geonode_Fernley" language_id="&de_DE;" name="Fernley" description="Fernley" />
+<geondds geondds_id="@geondds_de_DE_Henderson" geonode_id="@geonode_Henderson" language_id="&de_DE;" name="Henderson" description="Henderson" />
+<geondds geondds_id="@geondds_de_DE_LasVegas" geonode_id="@geonode_LasVegas" language_id="&de_DE;" name="Las Vegas" description="Las Vegas" />
+<geondds geondds_id="@geondds_de_DE_Laughlin" geonode_id="@geonode_Laughlin" language_id="&de_DE;" name="Laughlin" description="Laughlin" />
+<geondds geondds_id="@geondds_de_DE_NorthLasVegas" geonode_id="@geonode_NorthLasVegas" language_id="&de_DE;" name="North Las Vegas" description="North Las Vegas" />
+<geondds geondds_id="@geondds_de_DE_Pahrump" geonode_id="@geonode_Pahrump" language_id="&de_DE;" name="Pahrump" description="Pahrump" />
+<geondds geondds_id="@geondds_de_DE_Reno" geonode_id="@geonode_Reno" language_id="&de_DE;" name="Reno" description="Reno" />
+<geondds geondds_id="@geondds_de_DE_Winnemucca" geonode_id="@geonode_Winnemucca" language_id="&de_DE;" name="Winnemucca" description="Winnemucca" />
+<geondds geondds_id="@geondds_de_DE_NewHampshire" geonode_id="@geonode_NewHampshire" language_id="&de_DE;" name="New Hampshire" description="New Hampshire" />
+<geondds geondds_id="@geondds_de_DE_Berlin" geonode_id="@geonode_Berlin" language_id="&de_DE;" name="Berlin" description="Berlin" />
+<geondds geondds_id="@geondds_de_DE_Claremont" geonode_id="@geonode_Claremont" language_id="&de_DE;" name="Claremont" description="Claremont" />
+<geondds geondds_id="@geondds_de_DE_ConcordNH" geonode_id="@geonode_ConcordNH" language_id="&de_DE;" name="Concord-NH" description="Concord-NH" />
+<geondds geondds_id="@geondds_de_DE_DoverNH" geonode_id="@geonode_DoverNH" language_id="&de_DE;" name="Dover-NH" description="Dover-NH" />
+<geondds geondds_id="@geondds_de_DE_FranklinNH" geonode_id="@geonode_FranklinNH" language_id="&de_DE;" name="Franklin-NH" description="Franklin-NH" />
+<geondds geondds_id="@geondds_de_DE_Keene" geonode_id="@geonode_Keene" language_id="&de_DE;" name="Keene" description="Keene" />
+<geondds geondds_id="@geondds_de_DE_Laconia" geonode_id="@geonode_Laconia" language_id="&de_DE;" name="Laconia" description="Laconia" />
+<geondds geondds_id="@geondds_de_DE_Lebanon" geonode_id="@geonode_Lebanon" language_id="&de_DE;" name="Libanon" description="Libanon" />
+<geondds geondds_id="@geondds_de_DE_Loudon" geonode_id="@geonode_Loudon" language_id="&de_DE;" name="Loudon" description="Loudon" />
+<geondds geondds_id="@geondds_de_DE_Manchester" geonode_id="@geonode_Manchester" language_id="&de_DE;" name="Manchester" description="Manchester" />
+<geondds geondds_id="@geondds_de_DE_Nashua" geonode_id="@geonode_Nashua" language_id="&de_DE;" name="Nashua" description="Nashua" />
+<geondds geondds_id="@geondds_de_DE_Portsmouth" geonode_id="@geonode_Portsmouth" language_id="&de_DE;" name="Portsmouth" description="Portsmouth" />
+<geondds geondds_id="@geondds_de_DE_RochesterNH" geonode_id="@geonode_RochesterNH" language_id="&de_DE;" name="Rochester-NH" description="Rochester-NH" />
+<geondds geondds_id="@geondds_de_DE_Somersworth" geonode_id="@geonode_Somersworth" language_id="&de_DE;" name="Somersworth" description="Somersworth" />
+<geondds geondds_id="@geondds_de_DE_NewJersey" geonode_id="@geonode_NewJersey" language_id="&de_DE;" name="New Jersey" description="New Jersey" />
+<geondds geondds_id="@geondds_de_DE_AsburyPark" geonode_id="@geonode_AsburyPark" language_id="&de_DE;" name="Asbury Park" description="Asbury Park" />
+<geondds geondds_id="@geondds_de_DE_AtlanticCity" geonode_id="@geonode_AtlanticCity" language_id="&de_DE;" name="Atlantic City" description="Atlantic City" />
+<geondds geondds_id="@geondds_de_DE_Camden" geonode_id="@geonode_Camden" language_id="&de_DE;" name="Camden" description="Camden" />
+<geondds geondds_id="@geondds_de_DE_CapeMay" geonode_id="@geonode_CapeMay" language_id="&de_DE;" name="Cape May" description="Cape May" />
+<geondds geondds_id="@geondds_de_DE_EastRutherford" geonode_id="@geonode_EastRutherford" language_id="&de_DE;" name="East Rutherford" description="East Rutherford" />
+<geondds geondds_id="@geondds_de_DE_Hackensack" geonode_id="@geonode_Hackensack" language_id="&de_DE;" name="Hackensack" description="Hackensack" />
+<geondds geondds_id="@geondds_de_DE_Hoboken" geonode_id="@geonode_Hoboken" language_id="&de_DE;" name="Hoboken" description="Hoboken" />
+<geondds geondds_id="@geondds_de_DE_JerseyCity" geonode_id="@geonode_JerseyCity" language_id="&de_DE;" name="Jersey City" description="Jersey City" />
+<geondds geondds_id="@geondds_de_DE_Newark" geonode_id="@geonode_Newark" language_id="&de_DE;" name="Newark" description="Newark" />
+<geondds geondds_id="@geondds_de_DE_NewBrunswickNJ" geonode_id="@geonode_NewBrunswickNJ" language_id="&de_DE;" name="New Brunswick-NJ" description="New Brunswick-NJ" />
+<geondds geondds_id="@geondds_de_DE_Passaic" geonode_id="@geonode_Passaic" language_id="&de_DE;" name="Passaic" description="Passaic" />
+<geondds geondds_id="@geondds_de_DE_Paterson" geonode_id="@geonode_Paterson" language_id="&de_DE;" name="Paterson" description="Paterson" />
+<geondds geondds_id="@geondds_de_DE_PerthAmboy" geonode_id="@geonode_PerthAmboy" language_id="&de_DE;" name="Perth Amboy" description="Perth Amboy" />
+<geondds geondds_id="@geondds_de_DE_Princeton" geonode_id="@geonode_Princeton" language_id="&de_DE;" name="Princeton" description="Princeton" />
+<geondds geondds_id="@geondds_de_DE_Trenton" geonode_id="@geonode_Trenton" language_id="&de_DE;" name="Trenton" description="Trenton" />
+<geondds geondds_id="@geondds_de_DE_Vineland" geonode_id="@geonode_Vineland" language_id="&de_DE;" name="Vineland" description="Vineland" />
+<geondds geondds_id="@geondds_de_DE_NewMexico" geonode_id="@geonode_NewMexico" language_id="&de_DE;" name="New Mexico" description="New Mexico" />
+<geondds geondds_id="@geondds_de_DE_Alamogordo" geonode_id="@geonode_Alamogordo" language_id="&de_DE;" name="Alamogordo" description="Alamogordo" />
+<geondds geondds_id="@geondds_de_DE_Albuquerque" geonode_id="@geonode_Albuquerque" language_id="&de_DE;" name="Albuquerque" description="Albuquerque" />
+<geondds geondds_id="@geondds_de_DE_Clovis" geonode_id="@geonode_Clovis" language_id="&de_DE;" name="Clovis" description="Clovis" />
+<geondds geondds_id="@geondds_de_DE_Farmington" geonode_id="@geonode_Farmington" language_id="&de_DE;" name="Farmington" description="Farmington" />
+<geondds geondds_id="@geondds_de_DE_Gallup" geonode_id="@geonode_Gallup" language_id="&de_DE;" name="Gallup" description="Gallup" />
+<geondds geondds_id="@geondds_de_DE_LasCruces" geonode_id="@geonode_LasCruces" language_id="&de_DE;" name="Las Cruces" description="Las Cruces" />
+<geondds geondds_id="@geondds_de_DE_LosAlamos" geonode_id="@geonode_LosAlamos" language_id="&de_DE;" name="Los Alamos" description="Los Alamos" />
+<geondds geondds_id="@geondds_de_DE_RoswellNM" geonode_id="@geonode_RoswellNM" language_id="&de_DE;" name="Roswell-NM" description="Roswell-NM" />
+<geondds geondds_id="@geondds_de_DE_SantaFe" geonode_id="@geonode_SantaFe" language_id="&de_DE;" name="Santa Fe" description="Santa Fe" />
+<geondds geondds_id="@geondds_de_DE_TruthorConsequences" geonode_id="@geonode_TruthorConsequences" language_id="&de_DE;" name="Truth or Consequences" description="Truth or Consequences" />
+<geondds geondds_id="@geondds_de_DE_NewYork" geonode_id="@geonode_NewYork" language_id="&de_DE;" name="New York" description="New York" />
+<geondds geondds_id="@geondds_de_DE_Albany" geonode_id="@geonode_Albany" language_id="&de_DE;" name="Albany" description="Albany" />
+<geondds geondds_id="@geondds_de_DE_Binghamton" geonode_id="@geonode_Binghamton" language_id="&de_DE;" name="Binghamton" description="Binghamton" />
+<geondds geondds_id="@geondds_de_DE_BuffaloNY" geonode_id="@geonode_BuffaloNY" language_id="&de_DE;" name="Buffalo-NY" description="Buffalo-NY" />
+<geondds geondds_id="@geondds_de_DE_Cooperstown" geonode_id="@geonode_Cooperstown" language_id="&de_DE;" name="Cooperstown" description="Cooperstown" />
+<geondds geondds_id="@geondds_de_DE_Elmira" geonode_id="@geonode_Elmira" language_id="&de_DE;" name="Elmira" description="Elmira" />
+<geondds geondds_id="@geondds_de_DE_GlensFalls" geonode_id="@geonode_GlensFalls" language_id="&de_DE;" name="Glens Falls" description="Glens Falls" />
+<geondds geondds_id="@geondds_de_DE_Ithaca" geonode_id="@geonode_Ithaca" language_id="&de_DE;" name="Ithaca" description="Ithaca" />
+<geondds geondds_id="@geondds_de_DE_Lockport" geonode_id="@geonode_Lockport" language_id="&de_DE;" name="Lockport" description="Lockport" />
+<geondds geondds_id="@geondds_de_DE_MountVernon" geonode_id="@geonode_MountVernon" language_id="&de_DE;" name="Mount Vernon" description="Mount Vernon" />
+<geondds geondds_id="@geondds_de_DE_NewYorkCity" geonode_id="@geonode_NewYorkCity" language_id="&de_DE;" name="New York City" description="New York City" />
+<geondds geondds_id="@geondds_de_DE_Newburgh" geonode_id="@geonode_Newburgh" language_id="&de_DE;" name="Newburgh" description="Newburgh" />
+<geondds geondds_id="@geondds_de_DE_NewRochelle" geonode_id="@geonode_NewRochelle" language_id="&de_DE;" name="New Rochelle" description="New Rochelle" />
+<geondds geondds_id="@geondds_de_DE_NiagaraFallsNY" geonode_id="@geonode_NiagaraFallsNY" language_id="&de_DE;" name="Niagara Falls-NY" description="Niagara Falls-NY" />
+<geondds geondds_id="@geondds_de_DE_Oneonta" geonode_id="@geonode_Oneonta" language_id="&de_DE;" name="Oneonta" description="Oneonta" />
+<geondds geondds_id="@geondds_de_DE_Peekskill" geonode_id="@geonode_Peekskill" language_id="&de_DE;" name="Peekskill" description="Peekskill" />
+<geondds geondds_id="@geondds_de_DE_Poughkeepsie" geonode_id="@geonode_Poughkeepsie" language_id="&de_DE;" name="Poughkeepsie" description="Poughkeepsie" />
+<geondds geondds_id="@geondds_de_DE_RochesterNY" geonode_id="@geonode_RochesterNY" language_id="&de_DE;" name="Rochester-NY" description="Rochester-NY" />
+<geondds geondds_id="@geondds_de_DE_Schenectady" geonode_id="@geonode_Schenectady" language_id="&de_DE;" name="Schenectady" description="Schenectady" />
+<geondds geondds_id="@geondds_de_DE_Syracuse" geonode_id="@geonode_Syracuse" language_id="&de_DE;" name="Syracuse" description="Syracuse" />
+<geondds geondds_id="@geondds_de_DE_Utica" geonode_id="@geonode_Utica" language_id="&de_DE;" name="Utica" description="Utica" />
+<geondds geondds_id="@geondds_de_DE_WatertownNY" geonode_id="@geonode_WatertownNY" language_id="&de_DE;" name="Watertown-NY" description="Watertown-NY" />
+<geondds geondds_id="@geondds_de_DE_WestPoint" geonode_id="@geonode_WestPoint" language_id="&de_DE;" name="West Point" description="West Point" />
+<geondds geondds_id="@geondds_de_DE_WhitePlains" geonode_id="@geonode_WhitePlains" language_id="&de_DE;" name="White Plains" description="White Plains" />
+<geondds geondds_id="@geondds_de_DE_Yonkers" geonode_id="@geonode_Yonkers" language_id="&de_DE;" name="Yonkers" description="Yonkers" />
+<geondds geondds_id="@geondds_de_DE_NorthCarolina" geonode_id="@geonode_NorthCarolina" language_id="&de_DE;" name="North Carolina" description="North Carolina" />
+<geondds geondds_id="@geondds_de_DE_Asheville" geonode_id="@geonode_Asheville" language_id="&de_DE;" name="Asheville" description="Asheville" />
+<geondds geondds_id="@geondds_de_DE_BurlingtonNC" geonode_id="@geonode_BurlingtonNC" language_id="&de_DE;" name="Burlington-NC" description="Burlington-NC" />
+<geondds geondds_id="@geondds_de_DE_Cary" geonode_id="@geonode_Cary" language_id="&de_DE;" name="Cary" description="Cary" />
+<geondds geondds_id="@geondds_de_DE_ChapelHill" geonode_id="@geonode_ChapelHill" language_id="&de_DE;" name="Chapel Hill" description="Chapel Hill" />
+<geondds geondds_id="@geondds_de_DE_Charlotte" geonode_id="@geonode_Charlotte" language_id="&de_DE;" name="Charlotte" description="Charlotte" />
+<geondds geondds_id="@geondds_de_DE_ConcordNC" geonode_id="@geonode_ConcordNC" language_id="&de_DE;" name="Concord-NC" description="Concord-NC" />
+<geondds geondds_id="@geondds_de_DE_Durham" geonode_id="@geonode_Durham" language_id="&de_DE;" name="Durham" description="Durham" />
+<geondds geondds_id="@geondds_de_DE_ElizabethCity" geonode_id="@geonode_ElizabethCity" language_id="&de_DE;" name="Elizabeth City" description="Elizabeth City" />
+<geondds geondds_id="@geondds_de_DE_FayettevilleNC" geonode_id="@geonode_FayettevilleNC" language_id="&de_DE;" name="Fayetteville-NC" description="Fayetteville-NC" />
+<geondds geondds_id="@geondds_de_DE_Gastonia" geonode_id="@geonode_Gastonia" language_id="&de_DE;" name="Gastonia" description="Gastonia" />
+<geondds geondds_id="@geondds_de_DE_Greensboro" geonode_id="@geonode_Greensboro" language_id="&de_DE;" name="Greensboro" description="Greensboro" />
+<geondds geondds_id="@geondds_de_DE_GreenvilleNC" geonode_id="@geonode_GreenvilleNC" language_id="&de_DE;" name="Greenville-NC" description="Greenville-NC" />
+<geondds geondds_id="@geondds_de_DE_Hickory" geonode_id="@geonode_Hickory" language_id="&de_DE;" name="Hickory" description="Hickory" />
+<geondds geondds_id="@geondds_de_DE_HighPoint" geonode_id="@geonode_HighPoint" language_id="&de_DE;" name="High Point" description="High Point" />
+<geondds geondds_id="@geondds_de_DE_JacksonvilleNC" geonode_id="@geonode_JacksonvilleNC" language_id="&de_DE;" name="Jacksonville-NC" description="Jacksonville-NC" />
+<geondds geondds_id="@geondds_de_DE_NewBern" geonode_id="@geonode_NewBern" language_id="&de_DE;" name="New Bern" description="New Bern" />
+<geondds geondds_id="@geondds_de_DE_Raleigh" geonode_id="@geonode_Raleigh" language_id="&de_DE;" name="Raleigh" description="Raleigh" />
+<geondds geondds_id="@geondds_de_DE_RockyMount" geonode_id="@geonode_RockyMount" language_id="&de_DE;" name="Rocky Mount" description="Rocky Mount" />
+<geondds geondds_id="@geondds_de_DE_WilmingtonNC" geonode_id="@geonode_WilmingtonNC" language_id="&de_DE;" name="Wilmington-NC" description="Wilmington-NC" />
+<geondds geondds_id="@geondds_de_DE_WinstonSalem" geonode_id="@geonode_WinstonSalem" language_id="&de_DE;" name="Winston-Salem" description="Winston-Salem" />
+<geondds geondds_id="@geondds_de_DE_NorthDakota" geonode_id="@geonode_NorthDakota" language_id="&de_DE;" name="North Dakota" description="North Dakota" />
+<geondds geondds_id="@geondds_de_DE_Bismarck" geonode_id="@geonode_Bismarck" language_id="&de_DE;" name="Bismarck" description="Bismarck" />
+<geondds geondds_id="@geondds_de_DE_Dickinson" geonode_id="@geonode_Dickinson" language_id="&de_DE;" name="Dickinson" description="Dickinson" />
+<geondds geondds_id="@geondds_de_DE_Fargo" geonode_id="@geonode_Fargo" language_id="&de_DE;" name="Fargo" description="Fargo" />
+<geondds geondds_id="@geondds_de_DE_GrandForks" geonode_id="@geonode_GrandForks" language_id="&de_DE;" name="Grand Forks" description="Grand Forks" />
+<geondds geondds_id="@geondds_de_DE_Jamestown" geonode_id="@geonode_Jamestown" language_id="&de_DE;" name="Jamestown" description="Jamestown" />
+<geondds geondds_id="@geondds_de_DE_Mandan" geonode_id="@geonode_Mandan" language_id="&de_DE;" name="Mandan" description="Mandan" />
+<geondds geondds_id="@geondds_de_DE_Minot" geonode_id="@geonode_Minot" language_id="&de_DE;" name="Minot" description="Minot" />
+<geondds geondds_id="@geondds_de_DE_Williston" geonode_id="@geonode_Williston" language_id="&de_DE;" name="Williston" description="Williston" />
+<geondds geondds_id="@geondds_de_DE_Ohio" geonode_id="@geonode_Ohio" language_id="&de_DE;" name="Ohio" description="Ohio" />
+<geondds geondds_id="@geondds_de_DE_Akron" geonode_id="@geonode_Akron" language_id="&de_DE;" name="Akron" description="Akron" />
+<geondds geondds_id="@geondds_de_DE_AthensOH" geonode_id="@geonode_AthensOH" language_id="&de_DE;" name="Athens-OH" description="Athens-OH" />
+<geondds geondds_id="@geondds_de_DE_BowlingGreenOH" geonode_id="@geonode_BowlingGreenOH" language_id="&de_DE;" name="Bowling Green-OH" description="Bowling Green-OH" />
+<geondds geondds_id="@geondds_de_DE_Canton" geonode_id="@geonode_Canton" language_id="&de_DE;" name="Canton" description="Canton" />
+<geondds geondds_id="@geondds_de_DE_Cincinnati" geonode_id="@geonode_Cincinnati" language_id="&de_DE;" name="Cincinnati" description="Cincinnati" />
+<geondds geondds_id="@geondds_de_DE_Cleveland" geonode_id="@geonode_Cleveland" language_id="&de_DE;" name="Cleveland" description="Cleveland" />
+<geondds geondds_id="@geondds_de_DE_ColumbusOH" geonode_id="@geonode_ColumbusOH" language_id="&de_DE;" name="Columbus-OH" description="Columbus-OH" />
+<geondds geondds_id="@geondds_de_DE_Dayton" geonode_id="@geonode_Dayton" language_id="&de_DE;" name="Dayton" description="Dayton" />
+<geondds geondds_id="@geondds_de_DE_HamiltonOH" geonode_id="@geonode_HamiltonOH" language_id="&de_DE;" name="Hamilton-OH" description="Hamilton-OH" />
+<geondds geondds_id="@geondds_de_DE_Kent" geonode_id="@geonode_Kent" language_id="&de_DE;" name="Kent" description="Kent" />
+<geondds geondds_id="@geondds_de_DE_Kettering" geonode_id="@geonode_Kettering" language_id="&de_DE;" name="Kettering" description="Kettering" />
+<geondds geondds_id="@geondds_de_DE_LakewoodOH" geonode_id="@geonode_LakewoodOH" language_id="&de_DE;" name="Lakewood-OH" description="Lakewood-OH" />
+<geondds geondds_id="@geondds_de_DE_Lima" geonode_id="@geonode_Lima" language_id="&de_DE;" name="Lima" description="Lima" />
+<geondds geondds_id="@geondds_de_DE_MiddletownOH" geonode_id="@geonode_MiddletownOH" language_id="&de_DE;" name="Middletown-OH" description="Middletown-OH" />
+<geondds geondds_id="@geondds_de_DE_OxfordOH" geonode_id="@geonode_OxfordOH" language_id="&de_DE;" name="Oxford-OH" description="Oxford-OH" />
+<geondds geondds_id="@geondds_de_DE_Parma" geonode_id="@geonode_Parma" language_id="&de_DE;" name="Parma" description="Parma" />
+<geondds geondds_id="@geondds_de_DE_SpringfieldOH" geonode_id="@geonode_SpringfieldOH" language_id="&de_DE;" name="Springfield-OH" description="Springfield-OH" />
+<geondds geondds_id="@geondds_de_DE_Steubenville" geonode_id="@geonode_Steubenville" language_id="&de_DE;" name="Steubenville" description="Steubenville" />
+<geondds geondds_id="@geondds_de_DE_Toledo" geonode_id="@geonode_Toledo" language_id="&de_DE;" name="Toledo" description="Toledo" />
+<geondds geondds_id="@geondds_de_DE_Youngstown" geonode_id="@geonode_Youngstown" language_id="&de_DE;" name="Youngstown" description="Youngstown" />
+<geondds geondds_id="@geondds_de_DE_Oklahoma" geonode_id="@geonode_Oklahoma" language_id="&de_DE;" name="Oklahoma" description="Oklahoma" />
+<geondds geondds_id="@geondds_de_DE_Bartlesville" geonode_id="@geonode_Bartlesville" language_id="&de_DE;" name="Bartlesville" description="Bartlesville" />
+<geondds geondds_id="@geondds_de_DE_Bethany" geonode_id="@geonode_Bethany" language_id="&de_DE;" name="Bethany" description="Bethany" />
+<geondds geondds_id="@geondds_de_DE_BrokenArrow" geonode_id="@geonode_BrokenArrow" language_id="&de_DE;" name="Broken Arrow" description="Broken Arrow" />
+<geondds geondds_id="@geondds_de_DE_Edmond" geonode_id="@geonode_Edmond" language_id="&de_DE;" name="Edmond" description="Edmond" />
+<geondds geondds_id="@geondds_de_DE_Enid" geonode_id="@geonode_Enid" language_id="&de_DE;" name="Enid" description="Enid" />
+<geondds geondds_id="@geondds_de_DE_Lawton" geonode_id="@geonode_Lawton" language_id="&de_DE;" name="Lawton" description="Lawton" />
+<geondds geondds_id="@geondds_de_DE_MidwestCity" geonode_id="@geonode_MidwestCity" language_id="&de_DE;" name="Midwest City" description="Midwest City" />
+<geondds geondds_id="@geondds_de_DE_Moore" geonode_id="@geonode_Moore" language_id="&de_DE;" name="Moore" description="Moore" />
+<geondds geondds_id="@geondds_de_DE_Muskogee" geonode_id="@geonode_Muskogee" language_id="&de_DE;" name="Muskogee" description="Muskogee" />
+<geondds geondds_id="@geondds_de_DE_NicholsHills" geonode_id="@geonode_NicholsHills" language_id="&de_DE;" name="Nichols Hills" description="Nichols Hills" />
+<geondds geondds_id="@geondds_de_DE_Norman" geonode_id="@geonode_Norman" language_id="&de_DE;" name="Norman" description="Norman" />
+<geondds geondds_id="@geondds_de_DE_OklahomaCity" geonode_id="@geonode_OklahomaCity" language_id="&de_DE;" name="Oklahoma City" description="Oklahoma City" />
+<geondds geondds_id="@geondds_de_DE_Stillwater" geonode_id="@geonode_Stillwater" language_id="&de_DE;" name="Stillwater" description="Stillwater" />
+<geondds geondds_id="@geondds_de_DE_Tulsa" geonode_id="@geonode_Tulsa" language_id="&de_DE;" name="Tulsa" description="Tulsa" />
+<geondds geondds_id="@geondds_de_DE_Oregon" geonode_id="@geonode_Oregon" language_id="&de_DE;" name="Oregon" description="Oregon" />
+<geondds geondds_id="@geondds_de_DE_Astoria" geonode_id="@geonode_Astoria" language_id="&de_DE;" name="Astoria" description="Astoria" />
+<geondds geondds_id="@geondds_de_DE_Bend" geonode_id="@geonode_Bend" language_id="&de_DE;" name="Bend" description="Bend" />
+<geondds geondds_id="@geondds_de_DE_Corvallis" geonode_id="@geonode_Corvallis" language_id="&de_DE;" name="Corvallis" description="Corvallis" />
+<geondds geondds_id="@geondds_de_DE_TheDalles" geonode_id="@geonode_TheDalles" language_id="&de_DE;" name="The Dalles" description="The Dalles" />
+<geondds geondds_id="@geondds_de_DE_Eugene" geonode_id="@geonode_Eugene" language_id="&de_DE;" name="Eugene" description="Eugene" />
+<geondds geondds_id="@geondds_de_DE_JordanValley" geonode_id="@geonode_JordanValley" language_id="&de_DE;" name="Jordan Valley" description="Jordan Valley" />
+<geondds geondds_id="@geondds_de_DE_KlamathFalls" geonode_id="@geonode_KlamathFalls" language_id="&de_DE;" name="Klamath Falls" description="Klamath Falls" />
+<geondds geondds_id="@geondds_de_DE_Medford" geonode_id="@geonode_Medford" language_id="&de_DE;" name="Medford" description="Medford" />
+<geondds geondds_id="@geondds_de_DE_OntarioOR" geonode_id="@geonode_OntarioOR" language_id="&de_DE;" name="Ontario-OR" description="Ontario-OR" />
+<geondds geondds_id="@geondds_de_DE_Pendleton" geonode_id="@geonode_Pendleton" language_id="&de_DE;" name="Pendleton" description="Pendleton" />
+<geondds geondds_id="@geondds_de_DE_PortlandOR" geonode_id="@geonode_PortlandOR" language_id="&de_DE;" name="Portland-OR" description="Portland-OR" />
+<geondds geondds_id="@geondds_de_DE_SalemOR" geonode_id="@geonode_SalemOR" language_id="&de_DE;" name="Salem-OR" description="Salem-OR" />
+<geondds geondds_id="@geondds_de_DE_Pennsylvania" geonode_id="@geonode_Pennsylvania" language_id="&de_DE;" name="Pennsylvania" description="Pennsylvania" />
+<geondds geondds_id="@geondds_de_DE_Allentown" geonode_id="@geonode_Allentown" language_id="&de_DE;" name="Allentown" description="Allentown" />
+<geondds geondds_id="@geondds_de_DE_Altoona" geonode_id="@geonode_Altoona" language_id="&de_DE;" name="Altoona" description="Altoona" />
+<geondds geondds_id="@geondds_de_DE_Erie" geonode_id="@geonode_Erie" language_id="&de_DE;" name="Erie" description="Erie" />
+<geondds geondds_id="@geondds_de_DE_Gettysburg" geonode_id="@geonode_Gettysburg" language_id="&de_DE;" name="Gettysburg" description="Gettysburg" />
+<geondds geondds_id="@geondds_de_DE_Harrisburg" geonode_id="@geonode_Harrisburg" language_id="&de_DE;" name="Harrisburg" description="Harrisburg" />
+<geondds geondds_id="@geondds_de_DE_Hershey" geonode_id="@geonode_Hershey" language_id="&de_DE;" name="Hershey" description="Hershey" />
+<geondds geondds_id="@geondds_de_DE_Johnstown" geonode_id="@geonode_Johnstown" language_id="&de_DE;" name="Johnstown" description="Johnstown" />
+<geondds geondds_id="@geondds_de_DE_LockHaven" geonode_id="@geonode_LockHaven" language_id="&de_DE;" name="Lock Haven" description="Lock Haven" />
+<geondds geondds_id="@geondds_de_DE_Philadelphia" geonode_id="@geonode_Philadelphia" language_id="&de_DE;" name="Philadelphia" description="Philadelphia" />
+<geondds geondds_id="@geondds_de_DE_Pittsburgh" geonode_id="@geonode_Pittsburgh" language_id="&de_DE;" name="Pittsburgh" description="Pittsburgh" />
+<geondds geondds_id="@geondds_de_DE_Punxsutawney" geonode_id="@geonode_Punxsutawney" language_id="&de_DE;" name="Punxsutawney" description="Punxsutawney" />
+<geondds geondds_id="@geondds_de_DE_Reading" geonode_id="@geonode_Reading" language_id="&de_DE;" name="Reading" description="Reading" />
+<geondds geondds_id="@geondds_de_DE_Scranton" geonode_id="@geonode_Scranton" language_id="&de_DE;" name="Scranton" description="Scranton" />
+<geondds geondds_id="@geondds_de_DE_StateCollege" geonode_id="@geonode_StateCollege" language_id="&de_DE;" name="State College" description="State College" />
+<geondds geondds_id="@geondds_de_DE_Titusville" geonode_id="@geonode_Titusville" language_id="&de_DE;" name="Titusville" description="Titusville" />
+<geondds geondds_id="@geondds_de_DE_WilkesBarre" geonode_id="@geonode_WilkesBarre" language_id="&de_DE;" name="Wilkes-Barre" description="Wilkes-Barre" />
+<geondds geondds_id="@geondds_de_DE_Williamsport" geonode_id="@geonode_Williamsport" language_id="&de_DE;" name="Williamsport" description="Williamsport" />
+<geondds geondds_id="@geondds_de_DE_York" geonode_id="@geonode_York" language_id="&de_DE;" name="York" description="York" />
+<geondds geondds_id="@geondds_de_DE_RhodeIsland" geonode_id="@geonode_RhodeIsland" language_id="&de_DE;" name="Rhode Island" description="Rhode Island" />
+<geondds geondds_id="@geondds_de_DE_Cranston" geonode_id="@geonode_Cranston" language_id="&de_DE;" name="Cranston" description="Cranston" />
+<geondds geondds_id="@geondds_de_DE_Narragansett" geonode_id="@geonode_Narragansett" language_id="&de_DE;" name="Narragansett" description="Narragansett" />
+<geondds geondds_id="@geondds_de_DE_NewportRI" geonode_id="@geonode_NewportRI" language_id="&de_DE;" name="Newport-RI" description="Newport-RI" />
+<geondds geondds_id="@geondds_de_DE_Pawtucket" geonode_id="@geonode_Pawtucket" language_id="&de_DE;" name="Pawtucket" description="Pawtucket" />
+<geondds geondds_id="@geondds_de_DE_Providence" geonode_id="@geonode_Providence" language_id="&de_DE;" name="Providence" description="Providence" />
+<geondds geondds_id="@geondds_de_DE_Warwick" geonode_id="@geonode_Warwick" language_id="&de_DE;" name="Warwick" description="Warwick" />
+<geondds geondds_id="@geondds_de_DE_WestWarwick" geonode_id="@geonode_WestWarwick" language_id="&de_DE;" name="West Warwick" description="West Warwick" />
+<geondds geondds_id="@geondds_de_DE_Woonsocket" geonode_id="@geonode_Woonsocket" language_id="&de_DE;" name="Woonsocket" description="Woonsocket" />
+<geondds geondds_id="@geondds_de_DE_SouthCarolina" geonode_id="@geonode_SouthCarolina" language_id="&de_DE;" name="South Carolina" description="South Carolina" />
+<geondds geondds_id="@geondds_de_DE_Anderson" geonode_id="@geonode_Anderson" language_id="&de_DE;" name="Anderson" description="Anderson" />
+<geondds geondds_id="@geondds_de_DE_CharlestonSC" geonode_id="@geonode_CharlestonSC" language_id="&de_DE;" name="Charleston-SC" description="Charleston-SC" />
+<geondds geondds_id="@geondds_de_DE_Clemson" geonode_id="@geonode_Clemson" language_id="&de_DE;" name="Clemson" description="Clemson" />
+<geondds geondds_id="@geondds_de_DE_ColumbiaSC" geonode_id="@geonode_ColumbiaSC" language_id="&de_DE;" name="Columbia-SC" description="Columbia-SC" />
+<geondds geondds_id="@geondds_de_DE_Darlington" geonode_id="@geonode_Darlington" language_id="&de_DE;" name="Darlington" description="Darlington" />
+<geondds geondds_id="@geondds_de_DE_FlorenceSC" geonode_id="@geonode_FlorenceSC" language_id="&de_DE;" name="Florence-SC" description="Florence-SC" />
+<geondds geondds_id="@geondds_de_DE_GreenvilleSC" geonode_id="@geonode_GreenvilleSC" language_id="&de_DE;" name="Greenville-SC" description="Greenville-SC" />
+<geondds geondds_id="@geondds_de_DE_MyrtleBeach" geonode_id="@geonode_MyrtleBeach" language_id="&de_DE;" name="Myrtle Beach" description="Myrtle Beach" />
+<geondds geondds_id="@geondds_de_DE_Orangeburg" geonode_id="@geonode_Orangeburg" language_id="&de_DE;" name="Orangeburg" description="Orangeburg" />
+<geondds geondds_id="@geondds_de_DE_Spartanburg" geonode_id="@geonode_Spartanburg" language_id="&de_DE;" name="Spartanburg" description="Spartanburg" />
+<geondds geondds_id="@geondds_de_DE_SouthDakota" geonode_id="@geonode_SouthDakota" language_id="&de_DE;" name="South Dakota" description="South Dakota" />
+<geondds geondds_id="@geondds_de_DE_AberdeenSD" geonode_id="@geonode_AberdeenSD" language_id="&de_DE;" name="Aberdeen-SD" description="Aberdeen-SD" />
+<geondds geondds_id="@geondds_de_DE_Deadwood" geonode_id="@geonode_Deadwood" language_id="&de_DE;" name="Deadwood" description="Deadwood" />
+<geondds geondds_id="@geondds_de_DE_Pierre" geonode_id="@geonode_Pierre" language_id="&de_DE;" name="Pierre" description="Pierre" />
+<geondds geondds_id="@geondds_de_DE_RapidCity" geonode_id="@geonode_RapidCity" language_id="&de_DE;" name="Rapid City" description="Rapid City" />
+<geondds geondds_id="@geondds_de_DE_SiouxFalls" geonode_id="@geonode_SiouxFalls" language_id="&de_DE;" name="Sioux Falls" description="Sioux Falls" />
+<geondds geondds_id="@geondds_de_DE_Sturgis" geonode_id="@geonode_Sturgis" language_id="&de_DE;" name="Sturgis" description="Sturgis" />
+<geondds geondds_id="@geondds_de_DE_Vermillion" geonode_id="@geonode_Vermillion" language_id="&de_DE;" name="Vermillion" description="Vermillion" />
+<geondds geondds_id="@geondds_de_DE_WatertownSD" geonode_id="@geonode_WatertownSD" language_id="&de_DE;" name="Watertown-SD" description="Watertown-SD" />
+<geondds geondds_id="@geondds_de_DE_Tennessee" geonode_id="@geonode_Tennessee" language_id="&de_DE;" name="Tennessee" description="Tennessee" />
+<geondds geondds_id="@geondds_de_DE_BristolTN" geonode_id="@geonode_BristolTN" language_id="&de_DE;" name="Bristol-TN" description="Bristol-TN" />
+<geondds geondds_id="@geondds_de_DE_Chattanooga" geonode_id="@geonode_Chattanooga" language_id="&de_DE;" name="Chattanooga" description="Chattanooga" />
+<geondds geondds_id="@geondds_de_DE_Clarksville" geonode_id="@geonode_Clarksville" language_id="&de_DE;" name="Clarksville" description="Clarksville" />
+<geondds geondds_id="@geondds_de_DE_FranklinTN" geonode_id="@geonode_FranklinTN" language_id="&de_DE;" name="Franklin-TN" description="Franklin-TN" />
+<geondds geondds_id="@geondds_de_DE_Gatlinburg" geonode_id="@geonode_Gatlinburg" language_id="&de_DE;" name="Gatlinburg" description="Gatlinburg" />
+<geondds geondds_id="@geondds_de_DE_JacksonTN" geonode_id="@geonode_JacksonTN" language_id="&de_DE;" name="Jackson-TN" description="Jackson-TN" />
+<geondds geondds_id="@geondds_de_DE_JohnsonCity" geonode_id="@geonode_JohnsonCity" language_id="&de_DE;" name="Johnson City" description="Johnson City" />
+<geondds geondds_id="@geondds_de_DE_Kingsport" geonode_id="@geonode_Kingsport" language_id="&de_DE;" name="Kingsport" description="Kingsport" />
+<geondds geondds_id="@geondds_de_DE_Knoxville" geonode_id="@geonode_Knoxville" language_id="&de_DE;" name="Knoxville" description="Knoxville" />
+<geondds geondds_id="@geondds_de_DE_Memphis" geonode_id="@geonode_Memphis" language_id="&de_DE;" name="Memphis" description="Memphis" />
+<geondds geondds_id="@geondds_de_DE_Murfreesboro" geonode_id="@geonode_Murfreesboro" language_id="&de_DE;" name="Murfreesboro" description="Murfreesboro" />
+<geondds geondds_id="@geondds_de_DE_Nashville" geonode_id="@geonode_Nashville" language_id="&de_DE;" name="Nashville" description="Nashville" />
+<geondds geondds_id="@geondds_de_DE_OakRidge" geonode_id="@geonode_OakRidge" language_id="&de_DE;" name="Oak Ridge" description="Oak Ridge" />
+<geondds geondds_id="@geondds_de_DE_Pulaski" geonode_id="@geonode_Pulaski" language_id="&de_DE;" name="Pulaski" description="Pulaski" />
+<geondds geondds_id="@geondds_de_DE_Texas" geonode_id="@geonode_Texas" language_id="&de_DE;" name="Texas" description="Texas" />
+<geondds geondds_id="@geondds_de_DE_AbileneTX" geonode_id="@geonode_AbileneTX" language_id="&de_DE;" name="Abilene-TX" description="Abilene-TX" />
+<geondds geondds_id="@geondds_de_DE_Amarillo" geonode_id="@geonode_Amarillo" language_id="&de_DE;" name="Amarillo" description="Amarillo" />
+<geondds geondds_id="@geondds_de_DE_ArlingtonTX" geonode_id="@geonode_ArlingtonTX" language_id="&de_DE;" name="Arlington-TX" description="Arlington-TX" />
+<geondds geondds_id="@geondds_de_DE_Austin" geonode_id="@geonode_Austin" language_id="&de_DE;" name="Austin" description="Austin" />
+<geondds geondds_id="@geondds_de_DE_Baytown" geonode_id="@geonode_Baytown" language_id="&de_DE;" name="Baytown" description="Baytown" />
+<geondds geondds_id="@geondds_de_DE_Beaumont" geonode_id="@geonode_Beaumont" language_id="&de_DE;" name="Beaumont" description="Beaumont" />
+<geondds geondds_id="@geondds_de_DE_Brownsville" geonode_id="@geonode_Brownsville" language_id="&de_DE;" name="Brownsville" description="Brownsville" />
+<geondds geondds_id="@geondds_de_DE_CollegeStation" geonode_id="@geonode_CollegeStation" language_id="&de_DE;" name="College Station" description="College Station" />
+<geondds geondds_id="@geondds_de_DE_CorpusChristi" geonode_id="@geonode_CorpusChristi" language_id="&de_DE;" name="Corpus Christi" description="Corpus Christi" />
+<geondds geondds_id="@geondds_de_DE_Dallas" geonode_id="@geonode_Dallas" language_id="&de_DE;" name="Dallas" description="Dallas" />
+<geondds geondds_id="@geondds_de_DE_DelRio" geonode_id="@geonode_DelRio" language_id="&de_DE;" name="Del Rio" description="Del Rio" />
+<geondds geondds_id="@geondds_de_DE_Denton" geonode_id="@geonode_Denton" language_id="&de_DE;" name="Denton" description="Denton" />
+<geondds geondds_id="@geondds_de_DE_ElPaso" geonode_id="@geonode_ElPaso" language_id="&de_DE;" name="El Paso" description="El Paso" />
+<geondds geondds_id="@geondds_de_DE_FortWorth" geonode_id="@geonode_FortWorth" language_id="&de_DE;" name="Fort Worth" description="Fort Worth" />
+<geondds geondds_id="@geondds_de_DE_Galveston" geonode_id="@geonode_Galveston" language_id="&de_DE;" name="Galveston" description="Galveston" />
+<geondds geondds_id="@geondds_de_DE_Houston" geonode_id="@geonode_Houston" language_id="&de_DE;" name="Houston" description="Houston" />
+<geondds geondds_id="@geondds_de_DE_Laredo" geonode_id="@geonode_Laredo" language_id="&de_DE;" name="Laredo" description="Laredo" />
+<geondds geondds_id="@geondds_de_DE_Longview" geonode_id="@geonode_Longview" language_id="&de_DE;" name="Longview" description="Longview" />
+<geondds geondds_id="@geondds_de_DE_Lubbock" geonode_id="@geonode_Lubbock" language_id="&de_DE;" name="Lubbock" description="Lubbock" />
+<geondds geondds_id="@geondds_de_DE_Lufkin" geonode_id="@geonode_Lufkin" language_id="&de_DE;" name="Lufkin" description="Lufkin" />
+<geondds geondds_id="@geondds_de_DE_McAllen" geonode_id="@geonode_McAllen" language_id="&de_DE;" name="McAllen" description="McAllen" />
+<geondds geondds_id="@geondds_de_DE_Marshall" geonode_id="@geonode_Marshall" language_id="&de_DE;" name="Marshall" description="Marshall" />
+<geondds geondds_id="@geondds_de_DE_MidlandTX" geonode_id="@geonode_MidlandTX" language_id="&de_DE;" name="Midland-TX" description="Midland-TX" />
+<geondds geondds_id="@geondds_de_DE_Nacogdoches" geonode_id="@geonode_Nacogdoches" language_id="&de_DE;" name="Nacogdoches" description="Nacogdoches" />
+<geondds geondds_id="@geondds_de_DE_Odessa" geonode_id="@geonode_Odessa" language_id="&de_DE;" name="Odessa" description="Odessa" />
+<geondds geondds_id="@geondds_de_DE_Plano" geonode_id="@geonode_Plano" language_id="&de_DE;" name="Plano" description="Plano" />
+<geondds geondds_id="@geondds_de_DE_PortArthur" geonode_id="@geonode_PortArthur" language_id="&de_DE;" name="Port Arthur" description="Port Arthur" />
+<geondds geondds_id="@geondds_de_DE_SanAntonio" geonode_id="@geonode_SanAntonio" language_id="&de_DE;" name="San Antonio" description="San Antonio" />
+<geondds geondds_id="@geondds_de_DE_SugarLand" geonode_id="@geonode_SugarLand" language_id="&de_DE;" name="Sugar Land" description="Sugar Land" />
+<geondds geondds_id="@geondds_de_DE_Tyler" geonode_id="@geonode_Tyler" language_id="&de_DE;" name="Tyler" description="Tyler" />
+<geondds geondds_id="@geondds_de_DE_Waco" geonode_id="@geonode_Waco" language_id="&de_DE;" name="Waco" description="Waco" />
+<geondds geondds_id="@geondds_de_DE_WichitaFalls" geonode_id="@geonode_WichitaFalls" language_id="&de_DE;" name="Wichita Falls" description="Wichita Falls" />
+<geondds geondds_id="@geondds_de_DE_Utah" geonode_id="@geonode_Utah" language_id="&de_DE;" name="Utah" description="Utah" />
+<geondds geondds_id="@geondds_de_DE_CedarCity" geonode_id="@geonode_CedarCity" language_id="&de_DE;" name="Cedar City" description="Cedar City" />
+<geondds geondds_id="@geondds_de_DE_Kearns" geonode_id="@geonode_Kearns" language_id="&de_DE;" name="Kearns" description="Kearns" />
+<geondds geondds_id="@geondds_de_DE_Layton" geonode_id="@geonode_Layton" language_id="&de_DE;" name="Layton" description="Layton" />
+<geondds geondds_id="@geondds_de_DE_Logan" geonode_id="@geonode_Logan" language_id="&de_DE;" name="Logan" description="Logan" />
+<geondds geondds_id="@geondds_de_DE_Ogden" geonode_id="@geonode_Ogden" language_id="&de_DE;" name="Ogden" description="Ogden" />
+<geondds geondds_id="@geondds_de_DE_Orem" geonode_id="@geonode_Orem" language_id="&de_DE;" name="Orem" description="Orem" />
+<geondds geondds_id="@geondds_de_DE_Provo" geonode_id="@geonode_Provo" language_id="&de_DE;" name="Provo" description="Provo" />
+<geondds geondds_id="@geondds_de_DE_StGeorge" geonode_id="@geonode_StGeorge" language_id="&de_DE;" name="St. George" description="St. George" />
+<geondds geondds_id="@geondds_de_DE_SaltLakeCity" geonode_id="@geonode_SaltLakeCity" language_id="&de_DE;" name="Salt Lake City" description="Salt Lake City" />
+<geondds geondds_id="@geondds_de_DE_Sandy" geonode_id="@geonode_Sandy" language_id="&de_DE;" name="Sandy" description="Sandy" />
+<geondds geondds_id="@geondds_de_DE_Taylorsville" geonode_id="@geonode_Taylorsville" language_id="&de_DE;" name="Taylorsville" description="Taylorsville" />
+<geondds geondds_id="@geondds_de_DE_WestJordan" geonode_id="@geonode_WestJordan" language_id="&de_DE;" name="West Jordan" description="West Jordan" />
+<geondds geondds_id="@geondds_de_DE_WestValleyCity" geonode_id="@geonode_WestValleyCity" language_id="&de_DE;" name="West Valley City" description="West Valley City" />
+<geondds geondds_id="@geondds_de_DE_Vermont" geonode_id="@geonode_Vermont" language_id="&de_DE;" name="Vermont" description="Vermont" />
+<geondds geondds_id="@geondds_de_DE_BurlingtonVT" geonode_id="@geonode_BurlingtonVT" language_id="&de_DE;" name="Burlington-VT" description="Burlington-VT" />
+<geondds geondds_id="@geondds_de_DE_Barre" geonode_id="@geonode_Barre" language_id="&de_DE;" name="Barre" description="Barre" />
+<geondds geondds_id="@geondds_de_DE_Montpelier" geonode_id="@geonode_Montpelier" language_id="&de_DE;" name="Montpelier" description="Montpelier" />
+<geondds geondds_id="@geondds_de_DE_NewportVT" geonode_id="@geonode_NewportVT" language_id="&de_DE;" name="Newport-VT" description="Newport-VT" />
+<geondds geondds_id="@geondds_de_DE_Rutland" geonode_id="@geonode_Rutland" language_id="&de_DE;" name="Rutland" description="Rutland" />
+<geondds geondds_id="@geondds_de_DE_SaintAlbans" geonode_id="@geonode_SaintAlbans" language_id="&de_DE;" name="Saint Albans" description="Saint Albans" />
+<geondds geondds_id="@geondds_de_DE_SaintJohnsbury" geonode_id="@geonode_SaintJohnsbury" language_id="&de_DE;" name="Saint Johnsbury" description="Saint Johnsbury" />
+<geondds geondds_id="@geondds_de_DE_SouthBurlington" geonode_id="@geonode_SouthBurlington" language_id="&de_DE;" name="South Burlington" description="South Burlington" />
+<geondds geondds_id="@geondds_de_DE_Vergennes" geonode_id="@geonode_Vergennes" language_id="&de_DE;" name="Vergennes" description="Vergennes" />
+<geondds geondds_id="@geondds_de_DE_Winooski" geonode_id="@geonode_Winooski" language_id="&de_DE;" name="Winooski" description="Winooski" />
+<geondds geondds_id="@geondds_de_DE_Virginia" geonode_id="@geonode_Virginia" language_id="&de_DE;" name="Virginia" description="Virginia" />
+<geondds geondds_id="@geondds_de_DE_AlexandriaVA" geonode_id="@geonode_AlexandriaVA" language_id="&de_DE;" name="Alexandria-VA" description="Alexandria-VA" />
+<geondds geondds_id="@geondds_de_DE_ArlingtonVA" geonode_id="@geonode_ArlingtonVA" language_id="&de_DE;" name="Arlington-VA" description="Arlington-VA" />
+<geondds geondds_id="@geondds_de_DE_Blacksburg" geonode_id="@geonode_Blacksburg" language_id="&de_DE;" name="Blacksburg" description="Blacksburg" />
+<geondds geondds_id="@geondds_de_DE_BristolVA" geonode_id="@geonode_BristolVA" language_id="&de_DE;" name="Bristol-VA" description="Bristol-VA" />
+<geondds geondds_id="@geondds_de_DE_Charlottesville" geonode_id="@geonode_Charlottesville" language_id="&de_DE;" name="Charlottesville" description="Charlottesville" />
+<geondds geondds_id="@geondds_de_DE_Chesapeake" geonode_id="@geonode_Chesapeake" language_id="&de_DE;" name="Chesapeake" description="Chesapeake" />
+<geondds geondds_id="@geondds_de_DE_Fairfax" geonode_id="@geonode_Fairfax" language_id="&de_DE;" name="Fairfax" description="Fairfax" />
+<geondds geondds_id="@geondds_de_DE_Fredericksburg" geonode_id="@geonode_Fredericksburg" language_id="&de_DE;" name="Fredericksburg" description="Fredericksburg" />
+<geondds geondds_id="@geondds_de_DE_Hampton" geonode_id="@geonode_Hampton" language_id="&de_DE;" name="Hampton" description="Hampton" />
+<geondds geondds_id="@geondds_de_DE_LexingtonVA" geonode_id="@geonode_LexingtonVA" language_id="&de_DE;" name="Lexington-VA" description="Lexington-VA" />
+<geondds geondds_id="@geondds_de_DE_Lynchburg" geonode_id="@geonode_Lynchburg" language_id="&de_DE;" name="Lynchburg" description="Lynchburg" />
+<geondds geondds_id="@geondds_de_DE_Manassas" geonode_id="@geonode_Manassas" language_id="&de_DE;" name="Manassas" description="Manassas" />
+<geondds geondds_id="@geondds_de_DE_NewportNews" geonode_id="@geonode_NewportNews" language_id="&de_DE;" name="Newport News" description="Newport News" />
+<geondds geondds_id="@geondds_de_DE_NorfolkVA" geonode_id="@geonode_NorfolkVA" language_id="&de_DE;" name="Norfolk-VA" description="Norfolk-VA" />
+<geondds geondds_id="@geondds_de_DE_Radford" geonode_id="@geonode_Radford" language_id="&de_DE;" name="Radford" description="Radford" />
+<geondds geondds_id="@geondds_de_DE_Reston" geonode_id="@geonode_Reston" language_id="&de_DE;" name="Reston" description="Reston" />
+<geondds geondds_id="@geondds_de_DE_RichmondVA" geonode_id="@geonode_RichmondVA" language_id="&de_DE;" name="Richmond-VA" description="Richmond-VA" />
+<geondds geondds_id="@geondds_de_DE_Roanoke" geonode_id="@geonode_Roanoke" language_id="&de_DE;" name="Roanoke" description="Roanoke" />
+<geondds geondds_id="@geondds_de_DE_Stafford" geonode_id="@geonode_Stafford" language_id="&de_DE;" name="Stafford" description="Stafford" />
+<geondds geondds_id="@geondds_de_DE_Staunton" geonode_id="@geonode_Staunton" language_id="&de_DE;" name="Staunton" description="Staunton" />
+<geondds geondds_id="@geondds_de_DE_Suffolk" geonode_id="@geonode_Suffolk" language_id="&de_DE;" name="Suffolk" description="Suffolk" />
+<geondds geondds_id="@geondds_de_DE_TysonsCorner" geonode_id="@geonode_TysonsCorner" language_id="&de_DE;" name="Tysons Corner" description="Tysons Corner" />
+<geondds geondds_id="@geondds_de_DE_VirginiaBeach" geonode_id="@geonode_VirginiaBeach" language_id="&de_DE;" name="Virginia Beach" description="Virginia Beach" />
+<geondds geondds_id="@geondds_de_DE_Williamsburg" geonode_id="@geonode_Williamsburg" language_id="&de_DE;" name="Williamsburg" description="Williamsburg" />
+<geondds geondds_id="@geondds_de_DE_Washington" geonode_id="@geonode_Washington" language_id="&de_DE;" name="Washington" description="Washington" />
+<geondds geondds_id="@geondds_de_DE_AberdeenWA" geonode_id="@geonode_AberdeenWA" language_id="&de_DE;" name="Aberdeen-WA" description="Aberdeen-WA" />
+<geondds geondds_id="@geondds_de_DE_Bellingham" geonode_id="@geonode_Bellingham" language_id="&de_DE;" name="Bellingham" description="Bellingham" />
+<geondds geondds_id="@geondds_de_DE_Bremerton" geonode_id="@geonode_Bremerton" language_id="&de_DE;" name="Bremerton" description="Bremerton" />
+<geondds geondds_id="@geondds_de_DE_Kennewick" geonode_id="@geonode_Kennewick" language_id="&de_DE;" name="Kennewick" description="Kennewick" />
+<geondds geondds_id="@geondds_de_DE_Olympia" geonode_id="@geonode_Olympia" language_id="&de_DE;" name="Olympia" description="Olympia" />
+<geondds geondds_id="@geondds_de_DE_Pasco" geonode_id="@geonode_Pasco" language_id="&de_DE;" name="Pasco" description="Pasco" />
+<geondds geondds_id="@geondds_de_DE_Pullman" geonode_id="@geonode_Pullman" language_id="&de_DE;" name="Pullman" description="Pullman" />
+<geondds geondds_id="@geondds_de_DE_Richland" geonode_id="@geonode_Richland" language_id="&de_DE;" name="Richland" description="Richland" />
+<geondds geondds_id="@geondds_de_DE_Seattle" geonode_id="@geonode_Seattle" language_id="&de_DE;" name="Seattle" description="Seattle" />
+<geondds geondds_id="@geondds_de_DE_Spokane" geonode_id="@geonode_Spokane" language_id="&de_DE;" name="Spokane" description="Spokane" />
+<geondds geondds_id="@geondds_de_DE_SpokaneValley" geonode_id="@geonode_SpokaneValley" language_id="&de_DE;" name="Spokane Valley" description="Spokane Valley" />
+<geondds geondds_id="@geondds_de_DE_Tacoma" geonode_id="@geonode_Tacoma" language_id="&de_DE;" name="Tacoma" description="Tacoma" />
+<geondds geondds_id="@geondds_de_DE_VancouverWA" geonode_id="@geonode_VancouverWA" language_id="&de_DE;" name="Vancouver-WA" description="Vancouver-WA" />
+<geondds geondds_id="@geondds_de_DE_WallaWalla" geonode_id="@geonode_WallaWalla" language_id="&de_DE;" name="Walla Walla" description="Walla Walla" />
+<geondds geondds_id="@geondds_de_DE_Yakima" geonode_id="@geonode_Yakima" language_id="&de_DE;" name="Yakima" description="Yakima" />
+<geondds geondds_id="@geondds_de_DE_WestVirginia" geonode_id="@geonode_WestVirginia" language_id="&de_DE;" name="West Virginia" description="West Virginia" />
+<geondds geondds_id="@geondds_de_DE_Beckley" geonode_id="@geonode_Beckley" language_id="&de_DE;" name="Beckley" description="Beckley" />
+<geondds geondds_id="@geondds_de_DE_CharlestonWV" geonode_id="@geonode_CharlestonWV" language_id="&de_DE;" name="Charleston-WV" description="Charleston-WV" />
+<geondds geondds_id="@geondds_de_DE_Clarksburg" geonode_id="@geonode_Clarksburg" language_id="&de_DE;" name="Clarksburg" description="Clarksburg" />
+<geondds geondds_id="@geondds_de_DE_Fairmont" geonode_id="@geonode_Fairmont" language_id="&de_DE;" name="Fairmont" description="Fairmont" />
+<geondds geondds_id="@geondds_de_DE_HarpersFerry" geonode_id="@geonode_HarpersFerry" language_id="&de_DE;" name="Harper''s Ferry" description="Harper''s Ferry" />
+<geondds geondds_id="@geondds_de_DE_Huntington" geonode_id="@geonode_Huntington" language_id="&de_DE;" name="Huntington" description="Huntington" />
+<geondds geondds_id="@geondds_de_DE_Martinsburg" geonode_id="@geonode_Martinsburg" language_id="&de_DE;" name="Martinsburg" description="Martinsburg" />
+<geondds geondds_id="@geondds_de_DE_Morgantown" geonode_id="@geonode_Morgantown" language_id="&de_DE;" name="Morgantown" description="Morgantown" />
+<geondds geondds_id="@geondds_de_DE_Parkersburg" geonode_id="@geonode_Parkersburg" language_id="&de_DE;" name="Parkersburg" description="Parkersburg" />
+<geondds geondds_id="@geondds_de_DE_SalemWV" geonode_id="@geonode_SalemWV" language_id="&de_DE;" name="Salem-WV" description="Salem-WV" />
+<geondds geondds_id="@geondds_de_DE_Weirton" geonode_id="@geonode_Weirton" language_id="&de_DE;" name="Weirton" description="Weirton" />
+<geondds geondds_id="@geondds_de_DE_Wheeling" geonode_id="@geonode_Wheeling" language_id="&de_DE;" name="Wheeling" description="Wheeling" />
+<geondds geondds_id="@geondds_de_DE_Wisconsin" geonode_id="@geonode_Wisconsin" language_id="&de_DE;" name="Wisconsin" description="Wisconsin" />
+<geondds geondds_id="@geondds_de_DE_Appleton" geonode_id="@geonode_Appleton" language_id="&de_DE;" name="Appleton" description="Appleton" />
+<geondds geondds_id="@geondds_de_DE_Beloit" geonode_id="@geonode_Beloit" language_id="&de_DE;" name="Beloit" description="Beloit" />
+<geondds geondds_id="@geondds_de_DE_EauClaire" geonode_id="@geonode_EauClaire" language_id="&de_DE;" name="Eau Claire" description="Eau Claire" />
+<geondds geondds_id="@geondds_de_DE_FondduLac" geonode_id="@geonode_FondduLac" language_id="&de_DE;" name="Fond du Lac" description="Fond du Lac" />
+<geondds geondds_id="@geondds_de_DE_GreenBay" geonode_id="@geonode_GreenBay" language_id="&de_DE;" name="Green Bay" description="Green Bay" />
+<geondds geondds_id="@geondds_de_DE_Janesville" geonode_id="@geonode_Janesville" language_id="&de_DE;" name="Janesville" description="Janesville" />
+<geondds geondds_id="@geondds_de_DE_Kenosha" geonode_id="@geonode_Kenosha" language_id="&de_DE;" name="Kenosha" description="Kenosha" />
+<geondds geondds_id="@geondds_de_DE_LaCrosse" geonode_id="@geonode_LaCrosse" language_id="&de_DE;" name="La Crosse" description="La Crosse" />
+<geondds geondds_id="@geondds_de_DE_Madison" geonode_id="@geonode_Madison" language_id="&de_DE;" name="Madison" description="Madison" />
+<geondds geondds_id="@geondds_de_DE_Manitowoc" geonode_id="@geonode_Manitowoc" language_id="&de_DE;" name="Manitowoc" description="Manitowoc" />
+<geondds geondds_id="@geondds_de_DE_Marshfield" geonode_id="@geonode_Marshfield" language_id="&de_DE;" name="Marshfield" description="Marshfield" />
+<geondds geondds_id="@geondds_de_DE_Milwaukee" geonode_id="@geonode_Milwaukee" language_id="&de_DE;" name="Milwaukee" description="Milwaukee" />
+<geondds geondds_id="@geondds_de_DE_Oshkosh" geonode_id="@geonode_Oshkosh" language_id="&de_DE;" name="Oshkosh" description="Oshkosh" />
+<geondds geondds_id="@geondds_de_DE_Racine" geonode_id="@geonode_Racine" language_id="&de_DE;" name="Racine" description="Racine" />
+<geondds geondds_id="@geondds_de_DE_Sheboygan" geonode_id="@geonode_Sheboygan" language_id="&de_DE;" name="Sheboygan" description="Sheboygan" />
+<geondds geondds_id="@geondds_de_DE_StevensPoint" geonode_id="@geonode_StevensPoint" language_id="&de_DE;" name="Stevens Point" description="Stevens Point" />
+<geondds geondds_id="@geondds_de_DE_Superior" geonode_id="@geonode_Superior" language_id="&de_DE;" name="Superior" description="Superior" />
+<geondds geondds_id="@geondds_de_DE_Wausau" geonode_id="@geonode_Wausau" language_id="&de_DE;" name="Wausau" description="Wausau" />
+<geondds geondds_id="@geondds_de_DE_WestBend" geonode_id="@geonode_WestBend" language_id="&de_DE;" name="West Bend" description="West Bend" />
+<geondds geondds_id="@geondds_de_DE_WisconsinRapids" geonode_id="@geonode_WisconsinRapids" language_id="&de_DE;" name="Wisconsin Rapids" description="Wisconsin Rapids" />
+<geondds geondds_id="@geondds_de_DE_Wyoming" geonode_id="@geonode_Wyoming" language_id="&de_DE;" name="Wyoming" description="Wyoming" />
+<geondds geondds_id="@geondds_de_DE_Basin" geonode_id="@geonode_Basin" language_id="&de_DE;" name="Basin" description="Basin" />
+<geondds geondds_id="@geondds_de_DE_BuffaloWY" geonode_id="@geonode_BuffaloWY" language_id="&de_DE;" name="Buffalo-WY" description="Buffalo-WY" />
+<geondds geondds_id="@geondds_de_DE_Casper" geonode_id="@geonode_Casper" language_id="&de_DE;" name="Casper" description="Casper" />
+<geondds geondds_id="@geondds_de_DE_Cheyenne" geonode_id="@geonode_Cheyenne" language_id="&de_DE;" name="Cheyenne" description="Cheyenne" />
+<geondds geondds_id="@geondds_de_DE_Cody" geonode_id="@geonode_Cody" language_id="&de_DE;" name="Cody" description="Cody" />
+<geondds geondds_id="@geondds_de_DE_Douglas" geonode_id="@geonode_Douglas" language_id="&de_DE;" name="Douglas" description="Douglas" />
+<geondds geondds_id="@geondds_de_DE_EvanstonWY" geonode_id="@geonode_EvanstonWY" language_id="&de_DE;" name="Evanston-WY" description="Evanston-WY" />
+<geondds geondds_id="@geondds_de_DE_Gilette" geonode_id="@geonode_Gilette" language_id="&de_DE;" name="Gilette" description="Gilette" />
+<geondds geondds_id="@geondds_de_DE_GreenRiver" geonode_id="@geonode_GreenRiver" language_id="&de_DE;" name="Green River" description="Green River" />
+<geondds geondds_id="@geondds_de_DE_Kemmerer" geonode_id="@geonode_Kemmerer" language_id="&de_DE;" name="Kemmerer" description="Kemmerer" />
+<geondds geondds_id="@geondds_de_DE_Lander" geonode_id="@geonode_Lander" language_id="&de_DE;" name="Lander" description="Lander" />
+<geondds geondds_id="@geondds_de_DE_Laramie" geonode_id="@geonode_Laramie" language_id="&de_DE;" name="Laramie" description="Laramie" />
+<geondds geondds_id="@geondds_de_DE_Newcastle" geonode_id="@geonode_Newcastle" language_id="&de_DE;" name="Newcastle" description="Newcastle" />
+<geondds geondds_id="@geondds_de_DE_Powell" geonode_id="@geonode_Powell" language_id="&de_DE;" name="Powell" description="Powell" />
+<geondds geondds_id="@geondds_de_DE_Rawlins" geonode_id="@geonode_Rawlins" language_id="&de_DE;" name="Rawlins" description="Rawlins" />
+<geondds geondds_id="@geondds_de_DE_Riverton" geonode_id="@geonode_Riverton" language_id="&de_DE;" name="Riverton" description="Riverton" />
+<geondds geondds_id="@geondds_de_DE_RockSprings" geonode_id="@geonode_RockSprings" language_id="&de_DE;" name="Rock Springs" description="Rock Springs" />
+<geondds geondds_id="@geondds_de_DE_Sheridan" geonode_id="@geonode_Sheridan" language_id="&de_DE;" name="Sheridan" description="Sheridan" />
+<geondds geondds_id="@geondds_de_DE_Torrington" geonode_id="@geonode_Torrington" language_id="&de_DE;" name="Torrington" description="Torrington" />
+<geondds geondds_id="@geondds_de_DE_Worland" geonode_id="@geonode_Worland" language_id="&de_DE;" name="Worland" description="Worland" />

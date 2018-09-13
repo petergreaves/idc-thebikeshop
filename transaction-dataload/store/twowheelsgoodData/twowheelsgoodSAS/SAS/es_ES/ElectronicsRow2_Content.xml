@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_elec0002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_elec0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0707B_EES_GetReadyForSchool_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_elec0002_es_ES"
+  atchtgt_id="@atchtgt_id_elec0002"
+  language_id="&es_ES;"
+  name="Preparados para el cole"
+  shortdescription="Preparados para el cole 15% de descuento en una selección de portátiles"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_elec0002_es_ES"
+  atchast_id="@atchast_id_elec0002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_elec0002_es_ES"
+  atchrel_id="@atchrel_id_elec0002"
+  language_id="&es_ES;"
+  name="Preparados para el cole"
+  shortdescription="Preparados para el cole"
+/>
+<colldesc 
+	collateral_id="@collateral_id_elec0002"
+	language_id="&es_ES;"
+	marketingtext="Preparados para el cole" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_elec0003_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_elec0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0710B_EES_TabletPower_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_elec0003_es_ES"
+  atchtgt_id="@atchtgt_id_elec0003"
+  language_id="&es_ES;"
+  name="Potencia a mano"
+  shortdescription="Potencia a mano 10% de descuento en una selección de tabletas"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_elec0003_es_ES"
+  atchast_id="@atchast_id_elec0003_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_elec0003_es_ES"
+  atchrel_id="@atchrel_id_elec0003"
+  language_id="&es_ES;"
+  name="Potencia a mano"
+  shortdescription="Potencia a mano"
+/>
+<colldesc 
+	collateral_id="@collateral_id_elec0003"
+	language_id="&es_ES;"
+	marketingtext="Potencia a mano" 
+/>
+
+
+
+

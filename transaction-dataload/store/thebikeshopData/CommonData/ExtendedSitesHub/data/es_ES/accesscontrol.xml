@@ -1,0 +1,58 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="Quiénes somos" description="Vista para la página Acerca de nosotros en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="Vista para la cabecera común en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="Vista para la página Contáctenos en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="Vista para la página de confirmación de contacto en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="Vista para la página de creación de tienda en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="Vista para la página de preguntas más frecuentes en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="Vista para la página de conexión en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="Vista para la página del formulario de conexión en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="Vista para el marco de navegación en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="Vista para la página de precios en la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="Vista para la página de registro en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="Vista para la página de registro satisfactorio en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="Vista para la página de servicios proporcionados en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="Vista para la página de índice en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="Vista para el enlace con la zona pública desde la Tienda de canal" language_id="&es_ES;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="Vista para la página de bienvenida en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="Vista para la página de registro en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="Vista para la página de registro satisfactorio en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="Vista para la página de registro en la Tienda de canal" language_id="&es_ES;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="Vista para la página de registro satisfactorio en la Tienda de canal" language_id="&es_ES;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="Vistas de todos los usuarios de la Tienda de canal" description="Vistas de la Tienda de canal a las que pueden acceder todos los usuarios" language_id="&es_ES;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="Todos los usuarios ejecutan las vistas de todos los usuarios de la Tienda de canal" description="Todos los usuarios ejecutan las vistas de todos los usuarios de la Tienda de canal" language_id="&es_ES;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="Los Administradores de contratos para la organización de canal ejecutan mandatos de creación en recursos de miembro" description="Los Administradores de contratos pueden crear contratos en la organización de canal" language_id="&es_ES;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="Los Administradores de contratos para la organización de canal ejecutan mandatos de despliegue de contratos en recursos de contrato" description="Los Administradores de contratos pueden desplegar contratos en la organización de canal" language_id="&es_ES;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="Los Administradores de contratos para la organización de canal visualizan el Grupo de recursos de beans de datos de contrato" description="Los Administradores de contratos visualizan beans de datos de contrato en la organización de canal" language_id="&es_ES;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="Grupo de políticas de canal" description="Este grupo de políticas contiene todas las políticas específicas de canal." language_id="&es_ES;"/>
+

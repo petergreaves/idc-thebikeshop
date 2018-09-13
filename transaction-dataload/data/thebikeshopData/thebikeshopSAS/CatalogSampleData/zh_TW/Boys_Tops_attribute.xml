@@ -1,0 +1,116 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  BoysTopsSize -->
+<attrdesc attr_id="@attribute_id_BoysTops_6" attrtype_id="STRING" language_id="&zh_TW;" name="大小" description="大小" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_6" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_7" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_8" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_9" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_10" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_19" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="6" value="2 歲" integervalue="" floatvalue="" stringvalue="2 歲" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_20" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="7" value="3 歲" integervalue="" floatvalue="" stringvalue="3 歲" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_21" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="8" value="4 歲" integervalue="" floatvalue="" stringvalue="4 歲" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_22" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="9" value="5 歲" integervalue="" floatvalue="" stringvalue="5 歲" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_23" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="10" value="6
+" integervalue="" floatvalue="" stringvalue="6" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_24" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="11" value="8" integervalue="" floatvalue="" stringvalue="8" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_25" attr_id="@attribute_id_BoysTops_6" valusage="1" language_id="&zh_TW;" sequence="12" value="10
+" integervalue="" floatvalue="" stringvalue="10" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysTopsSize -->
+<!--BEGIN Defining attribute description  BoysTopsColor -->
+<attrdesc attr_id="@attribute_id_BoysTops_7" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_11" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="1" value="橙色" integervalue="" floatvalue="" stringvalue="橙色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_16" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="2" value="綠色" integervalue="" floatvalue="" stringvalue="綠色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_26" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="3" value="多種顏色" integervalue="" floatvalue="" stringvalue="多種顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_32" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="4" value="藍色" integervalue="" floatvalue="" stringvalue="藍色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_36" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="5" value="棕色" integervalue="" floatvalue="" stringvalue="棕色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_40" attr_id="@attribute_id_BoysTops_7" valusage="1" language_id="&zh_TW;" sequence="6" value="白色" integervalue="" floatvalue="" stringvalue="白色" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysTopsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_BoysTops_4" attrtype_id="STRING" language_id="&zh_TW;" name="袖長" description="袖長" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_4_BCL014_1401" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="1" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_4_BCL014_1407" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="1" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_15_BCL014_1402" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="2" value="半長袖" integervalue="" floatvalue="" stringvalue="半長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_15_BCL014_1403" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="2" value="半長袖" integervalue="" floatvalue="" stringvalue="半長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_28_BCL014_1404" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="3" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_30_BCL014_1405" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="4" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_30_BCL014_1406" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="4" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_38_BCL014_1408" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="5" value="無袖" integervalue="" floatvalue="" stringvalue="無袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1409" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1410" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1411" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1412" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1413" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1414" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1415" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_39_BCL014_1416" attr_id="@attribute_id_BoysTops_4" valusage="1" language_id="&zh_TW;" sequence="6" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<!--end of  Sleeve Length -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_BoysTops_5" attrtype_id="STRING" language_id="&zh_TW;" name="年齡" description="年齡" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1401" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1402" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1403" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_5_BCL014_1404" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_31_BCL014_1405" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0-2 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_31_BCL014_1408" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0-2 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1406" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1407" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1409" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1410" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1411" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1412" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1413" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1414" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_34_BCL014_1416" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2-7 歲" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_41_BCL014_1415" attr_id="@attribute_id_BoysTops_5" valusage="1" language_id="&zh_TW;" sequence="4" value="8-16" integervalue="" floatvalue="" stringvalue="8-16 歲" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BoysTops_2" attrtype_id="STRING" language_id="&zh_TW;" name="布料" description="布料" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1401" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1407" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1408" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_2_BCL014_1412" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1402" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1403" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1404" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1405" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1406" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1409" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1410" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1411" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1413" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1414" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1415" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_13_BCL014_1416" attr_id="@attribute_id_BoysTops_2" valusage="1" language_id="&zh_TW;" sequence="2" value="棉質" integervalue="" floatvalue="" stringvalue="棉質" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BoysTops_1" attrtype_id="STRING" language_id="&zh_TW;" name="樣式" description="樣式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_1_BCL014_1401" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="半拉鏈式毛衣" integervalue="" floatvalue="" stringvalue="半拉鏈式毛衣" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_1_BCL014_1412" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="半拉鏈式毛衣" integervalue="" floatvalue="" stringvalue="半拉鏈式毛衣" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1402" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="2" value="襯衫" integervalue="" floatvalue="" stringvalue="襯衫" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1411" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="2" value="襯衫" integervalue="" floatvalue="" stringvalue="襯衫" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1413" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="2" value="襯衫" integervalue="" floatvalue="" stringvalue="襯衫" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_12_BCL014_1415" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="2" value="襯衫" integervalue="" floatvalue="" stringvalue="襯衫" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1403" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1404" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1405" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1406" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1409" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1410" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1414" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_17_BCL014_1416" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_35_BCL014_1407" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="4" value="套頭衫" integervalue="" floatvalue="" stringvalue="套頭衫" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysTops_37_BCL014_1408" attr_id="@attribute_id_BoysTops_1" valusage="1" language_id="&zh_TW;" sequence="5" value="背心" integervalue="" floatvalue="" stringvalue="背心" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

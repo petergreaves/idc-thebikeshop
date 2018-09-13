@@ -1,0 +1,58 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="Informazioni" description="Fare riferimento alla pagina Informazioni nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="Fare riferimento all'intestazione comune nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="Fare riferimento alla pagina Come contattarci nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="Fare riferimento alla pagina di conferma Come contattarci nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="Fare riferimento alla pagina per la creazione negozio nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="Fare riferimento alla pagina delle domande frequenti nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="Fare riferimento alla pagina di collegamento nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="Fare riferimento alla pagina di collegamento nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="Fare riferimento al frame di navigazione nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="Fare riferimento alla pagina dei prezzi nel negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="Fare riferimento alla pagina della registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="Fare riferimento alla pagina di conferma registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="Fare riferimento alla pagina dei servizi forniti nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="Fare riferimento alla pagina dell'indice nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="Cercare il collegamento all'area pubblica dal negozio canale" language_id="&it_IT;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="Fare riferimento alla pagina di benvenuto nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="Fare riferimento alla pagina della registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="Vista aggiunta approvazione in sospeso registrazione utente" description="Fare riferimento alla pagina di conferma registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="Fare riferimento alla pagina della registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="Fare riferimento alla pagina di conferma registrazione nel negozio canale" language_id="&it_IT;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="Viste di negozio canale per tutti gli utenti" description="Viste di negozio canale accessibili a tutti gli utenti" language_id="&it_IT;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="Viste negozio canale eseguibili da tutti gli utenti" description="Viste negozio canale eseguibili da tutti gli utenti" language_id="&it_IT;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="I responsabili dei contratti per l'organizzazione del canale eseguono comandi di creazione sulla risorsa membro" description="I responsabili dei contratti possono creare contratti nell'organizzazione del canale" language_id="&it_IT;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="I responsabili dei contratti per l'organizzazione del canale eseguono comandi di distribuzione dei contratti sulla risorsa contratto" description="I responsabili dei contratti possono distribuire contratti nell'organizzazione del canale" language_id="&it_IT;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="I responsabili dei contratti per l'organizzazione del canale visualizzano il gruppo di risorse del bean di dati del contratto" description="I responsabili dei contratti visualizzano bean di dati dei contratti nell'organizzazione del canale" language_id="&it_IT;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="Gruppo di criteri canale" description="Questo gruppo di criteri contiene tutti i criteri specifici del canale." language_id="&it_IT;"/>
+

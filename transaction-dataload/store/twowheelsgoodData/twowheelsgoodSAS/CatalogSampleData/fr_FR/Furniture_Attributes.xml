@@ -1,0 +1,177 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : FurnitureType -->
+<attrdesc attr_id="@attribute_id_Furniture_7" attrtype_id="STRING" language_id="&fr_FR;" name="Type" description="Type" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_7" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="1" value="Canapé" integervalue="" floatvalue="" stringvalue="Canapé" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_24" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="2" value="Tableau" integervalue="" floatvalue="" stringvalue="Tableau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_32" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="3" value="Chaise" integervalue="" floatvalue="" stringvalue="Chaise" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_40" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="4" value="Penderie" integervalue="" floatvalue="" stringvalue="Penderie" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_45" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="5" value="Lit" integervalue="" floatvalue="" stringvalue="Lit" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_49" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="6" value="Commode" integervalue="" floatvalue="" stringvalue="Commode" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_54" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="7" value="Table de salle à manger" integervalue="" floatvalue="" stringvalue="Table de salle à manger" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_63" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&fr_FR;" sequence="8" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" qtyunit_id="C62" />
+<!--END Defining attribute description : FurnitureType -->
+<!--BEGIN Defining attribute description : FurnitureColor -->
+<attrdesc attr_id="@attribute_id_Furniture_6" attrtype_id="STRING" language_id="&fr_FR;" name="Couleur" description="Couleur" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_6" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="1" value="Noir" integervalue="" floatvalue="" stringvalue="Noir" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_10" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="2" value="Rouge" integervalue="" floatvalue="" stringvalue="Rouge" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_14" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="3" value="Brun" integervalue="" floatvalue="" stringvalue="Brun" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_18" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="4" value="Blanc" integervalue="" floatvalue="" stringvalue="Blanc" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_20" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="5" value="Bleu" integervalue="" floatvalue="" stringvalue="Bleu" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_29" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="6" value="Marron foncé" integervalue="" floatvalue="" stringvalue="Marron foncé" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_41" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&fr_FR;" sequence="7" value="Marron clair" integervalue="" floatvalue="" stringvalue="Marron clair" qtyunit_id="C62" />
+<!--END Defining attribute description : FurnitureColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Finish -->
+<attrdesc attr_id="@attribute_id_Furniture_2" attrtype_id="STRING" language_id="&fr_FR;" name="Terminer" description="Terminer" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3201" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Brillant" integervalue="" floatvalue="" stringvalue="Brillant" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3224" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Brillant" integervalue="" floatvalue="" stringvalue="Brillant" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3226" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Brillant" integervalue="" floatvalue="" stringvalue="Brillant" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3227" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Brillant" integervalue="" floatvalue="" stringvalue="Brillant" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3202" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3206" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3207" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3210" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3211" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3212" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3214" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3215" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3216" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3217" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3218" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3219" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3220" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3221" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3222" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3223" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3230" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3231" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3232" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3233" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Doux" integervalue="" floatvalue="" stringvalue="Doux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3203" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Mat" integervalue="" floatvalue="" stringvalue="Mat" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3204" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Mat" integervalue="" floatvalue="" stringvalue="Mat" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3225" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Mat" integervalue="" floatvalue="" stringvalue="Mat" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3228" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Mat" integervalue="" floatvalue="" stringvalue="Mat" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3229" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Mat" integervalue="" floatvalue="" stringvalue="Mat" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_16_HFU032_3205" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="4" value="Moelleux" integervalue="" floatvalue="" stringvalue="Moelleux" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_26_HFU032_3208" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="5" value="Dur" integervalue="" floatvalue="" stringvalue="Dur" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_26_HFU032_3209" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="5" value="Dur" integervalue="" floatvalue="" stringvalue="Dur" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_35_HFU032_3213" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&fr_FR;" sequence="6" value="Rustique" integervalue="" floatvalue="" stringvalue="Rustique" />
+<!--end of  Finish -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_Furniture_4" attrtype_id="STRING" language_id="&fr_FR;" name="Matière" description="Matière" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_4_HFU032_3201" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Cuir" integervalue="" floatvalue="" stringvalue="Cuir" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_4_HFU032_3209" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Cuir" integervalue="" floatvalue="" stringvalue="Cuir" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3202" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Tissu" integervalue="" floatvalue="" stringvalue="Tissu" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3205" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Tissu" integervalue="" floatvalue="" stringvalue="Tissu" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3211" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Tissu" integervalue="" floatvalue="" stringvalue="Tissu" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3212" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Tissu" integervalue="" floatvalue="" stringvalue="Tissu" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3203" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Synthétique" integervalue="" floatvalue="" stringvalue="Synthétique" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3204" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Synthétique" integervalue="" floatvalue="" stringvalue="Synthétique" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3206" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Synthétique" integervalue="" floatvalue="" stringvalue="Synthétique" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_23_HFU032_3207" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="4" value="Bois" integervalue="" floatvalue="" stringvalue="Bois" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_23_HFU032_3226" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="4" value="Bois" integervalue="" floatvalue="" stringvalue="Bois" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_27_HFU032_3208" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Bois de chêne" integervalue="" floatvalue="" stringvalue="Bois de chêne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_27_HFU032_3217" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Bois de chêne" integervalue="" floatvalue="" stringvalue="Bois de chêne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_31_HFU032_3210" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="6" value="Mousse et bois artificiel" integervalue="" floatvalue="" stringvalue="Mousse et bois artificiel" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3213" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Bois de feuillus" integervalue="" floatvalue="" stringvalue="Bois de feuillus" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3218" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Bois de feuillus" integervalue="" floatvalue="" stringvalue="Bois de feuillus" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3219" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Bois de feuillus" integervalue="" floatvalue="" stringvalue="Bois de feuillus" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3220" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Bois de feuillus" integervalue="" floatvalue="" stringvalue="Bois de feuillus" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3214" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="8" value="Acajou" integervalue="" floatvalue="" stringvalue="Acajou" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3215" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="8" value="Acajou" integervalue="" floatvalue="" stringvalue="Acajou" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3216" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="8" value="Acajou" integervalue="" floatvalue="" stringvalue="Acajou" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_50_HFU032_3221" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="9" value="Bois de cèdre" integervalue="" floatvalue="" stringvalue="Bois de cèdre" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_50_HFU032_3233" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="9" value="Bois de cèdre" integervalue="" floatvalue="" stringvalue="Bois de cèdre" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_51_HFU032_3222" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="10" value="Bois de frêne" integervalue="" floatvalue="" stringvalue="Bois de frêne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_52_HFU032_3223" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="11" value="Bois de bouleau" integervalue="" floatvalue="" stringvalue="Bois de bouleau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_53_HFU032_3224" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="12" value="Tissu et bois" integervalue="" floatvalue="" stringvalue="Tissu et bois" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_55_HFU032_3225" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="13" value="Plastique et acier" integervalue="" floatvalue="" stringvalue="Plastique et acier" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_57_HFU032_3227" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="14" value="Plastique" integervalue="" floatvalue="" stringvalue="Plastique" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_58_HFU032_3228" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="15" value="Tissu et acier" integervalue="" floatvalue="" stringvalue="Tissu et acier" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_58_HFU032_3229" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="15" value="Tissu et acier" integervalue="" floatvalue="" stringvalue="Tissu et acier" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_61_HFU032_3230" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="16" value="Bois et acier" integervalue="" floatvalue="" stringvalue="Bois et acier" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_62_HFU032_3231" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="17" value="Bois de sapin" integervalue="" floatvalue="" stringvalue="Bois de sapin" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_65_HFU032_3232" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&fr_FR;" sequence="18" value="Bois de pin" integervalue="" floatvalue="" stringvalue="Bois de pin" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Furniture_1" attrtype_id="STRING" language_id="&fr_FR;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3201" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3202" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3224" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3225" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3227" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Moderne" integervalue="" floatvalue="" stringvalue="Moderne" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3203" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3204" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3209" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3228" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3233" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Bureau" integervalue="" floatvalue="" stringvalue="Bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3205" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3222" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3223" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Contemporain" integervalue="" floatvalue="" stringvalue="Contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_19_HFU032_3206" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Salon d'attente" integervalue="" floatvalue="" stringvalue="Salon d'attente" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_21_HFU032_3207" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="5" value="Table pour artiste" integervalue="" floatvalue="" stringvalue="Table pour artiste" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_25_HFU032_3208" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="6" value="Japonais" integervalue="" floatvalue="" stringvalue="Japonais" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_30_HFU032_3210" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="7" value="Fauteuil de repos" integervalue="" floatvalue="" stringvalue="Fauteuil de repos" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_33_HFU032_3211" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="8" value="Canapé" integervalue="" floatvalue="" stringvalue="Canapé" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_33_HFU032_3212" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="8" value="Canapé" integervalue="" floatvalue="" stringvalue="Canapé" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_34_HFU032_3213" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="9" value="Etabli" integervalue="" floatvalue="" stringvalue="Etabli" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_37_HFU032_3214" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="10" value="Double porte" integervalue="" floatvalue="" stringvalue="Double porte" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_37_HFU032_3215" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="10" value="Double porte" integervalue="" floatvalue="" stringvalue="Double porte" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_42_HFU032_3216" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="11" value="Compartiment" integervalue="" floatvalue="" stringvalue="Compartiment" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_43_HFU032_3217" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="12" value="Lit pour enfant" integervalue="" floatvalue="" stringvalue="Lit pour enfant" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_46_HFU032_3218" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="13" value="Lit de style" integervalue="" floatvalue="" stringvalue="Lit de style" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_47_HFU032_3219" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="14" value="Lit bas" integervalue="" floatvalue="" stringvalue="Lit bas" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3220" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="15" value="Simple" integervalue="" floatvalue="" stringvalue="Simple" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3221" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="15" value="Simple" integervalue="" floatvalue="" stringvalue="Simple" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3231" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="15" value="Simple" integervalue="" floatvalue="" stringvalue="Simple" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_56_HFU032_3226" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="16" value="Classique" integervalue="" floatvalue="" stringvalue="Classique" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_59_HFU032_3229" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="17" value="Moderne, bureau" integervalue="" floatvalue="" stringvalue="Moderne, bureau" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_60_HFU032_3230" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="18" value="Moderne contemporain" integervalue="" floatvalue="" stringvalue="Moderne contemporain" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_64_HFU032_3232" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&fr_FR;" sequence="19" value="Dur" integervalue="" floatvalue="" stringvalue="Dur" />
+<!--end of  Style -->
+<!--start of  Assembly -->
+<attrdesc attr_id="@attribute_id_Furniture_3" attrtype_id="STRING" language_id="&fr_FR;" name="Assemblage" description="Assemblage" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3201" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3202" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3203" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3204" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3205" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3206" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3208" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3209" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3210" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3211" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3212" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3213" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3224" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3225" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3226" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3227" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3228" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3229" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3230" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3232" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3233" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="1" value="Pré-construit" integervalue="" floatvalue="" stringvalue="Pré-construit" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_22_HFU032_3207" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="2" value="A monter, simple" integervalue="" floatvalue="" stringvalue="A monter, simple" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3214" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3215" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3216" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3217" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3218" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3219" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3220" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3221" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3222" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3223" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3231" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&fr_FR;" sequence="3" value="A monter" integervalue="" floatvalue="" stringvalue="A monter" />
+<!--end of  Assembly -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+

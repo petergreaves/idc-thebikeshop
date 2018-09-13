@@ -1,0 +1,91 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : MeatType -->
+<attrdesc attr_id="@attribute_id_Meat_7" attrtype_id="STRING" language_id="&pt_BR;" name="Tipo" description="Tipo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_7" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="1" value="Peixe" integervalue="" floatvalue="" stringvalue="Peixe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_13" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="2" value="Carne bovina" integervalue="" floatvalue="" stringvalue="Carne bovina" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_18" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="3" value="Sashimi" integervalue="" floatvalue="" stringvalue="Sashimi" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_24" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="4" value="Frango" integervalue="" floatvalue="" stringvalue="Frango" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_32" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="5" value="Cioba" integervalue="" floatvalue="" stringvalue="Cioba" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_37" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="6" value="Cordeiro" integervalue="" floatvalue="" stringvalue="Cordeiro" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_39" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="7" value="Carne suína" integervalue="" floatvalue="" stringvalue="Carne suína" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_41" attr_id="@attribute_id_Meat_7" valusage="1" language_id="&pt_BR;" sequence="8" value="Lagosta" integervalue="" floatvalue="" stringvalue="Lagosta" qtyunit_id="C62" />
+<!--END Defining attribute description : MeatType -->
+<!--BEGIN Defining attribute description : MeatBrand -->
+<attrdesc attr_id="@attribute_id_Meat_6" attrtype_id="STRING" language_id="&pt_BR;" name="Marca" description="Marca" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_6" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Delissima" integervalue="" floatvalue="" stringvalue="Delissima" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_12" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Winston Organics" integervalue="" floatvalue="" stringvalue="Winston Organics" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_17" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="3" value="Captain Stewarts" integervalue="" floatvalue="" stringvalue="Captain Stewarts" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_23" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="4" value="Hampton Poultry" integervalue="" floatvalue="" stringvalue="Hampton Poultry" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_28" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="5" value="Madisons Choice" integervalue="" floatvalue="" stringvalue="Madisons Choice" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_36" attr_id="@attribute_id_Meat_6" valusage="1" language_id="&pt_BR;" sequence="6" value="Australia Lamb Co." integervalue="" floatvalue="" stringvalue="Australia Lamb Co." qtyunit_id="C62" />
+<!--END Defining attribute description : MeatBrand -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_Meat_1" attrtype_id="STRING" language_id="&pt_BR;" name="Tamanho" description="Tamanho" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_1_GME036_3601" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="1" value="Bandeja 1/2 lb" integervalue="" floatvalue="" stringvalue="Bandeja 1/2 lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_1_GME036_3605" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="1" value="Bandeja 1/2 lb" integervalue="" floatvalue="" stringvalue="Bandeja 1/2 lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_8_GME036_3602" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="2" value="2 lb" integervalue="" floatvalue="" stringvalue="2 lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_14_GME036_3603" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Pequeno" integervalue="" floatvalue="" stringvalue="Pequeno" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_19_GME036_3604" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Grande" integervalue="" floatvalue="" stringvalue="Grande" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_19_GME036_3606" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Grande" integervalue="" floatvalue="" stringvalue="Grande" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_19_GME036_3608" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Grande" integervalue="" floatvalue="" stringvalue="Grande" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_19_GME036_3609" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Grande" integervalue="" floatvalue="" stringvalue="Grande" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_19_GME036_3611" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Grande" integervalue="" floatvalue="" stringvalue="Grande" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_25" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="5" value="4 lb" integervalue="" floatvalue="" stringvalue="4 lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_29_GME036_3607" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Médio" integervalue="" floatvalue="" stringvalue="Médio" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_29_GME036_3610" attr_id="@attribute_id_Meat_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Médio" integervalue="" floatvalue="" stringvalue="Médio" />
+<!--end of  Size -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Meat_5" attrtype_id="STRING" language_id="&pt_BR;" name="Categoria" description="Categoria" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_5_GME036_3601" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Frutos do mar" integervalue="" floatvalue="" stringvalue="Frutos do mar" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_5_GME036_3603" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Frutos do mar" integervalue="" floatvalue="" stringvalue="Frutos do mar" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_5_GME036_3611" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Frutos do mar" integervalue="" floatvalue="" stringvalue="Frutos do mar" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_11_GME036_3602" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Carnes" integervalue="" floatvalue="" stringvalue="Carnes" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_11_GME036_3605" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Carnes" integervalue="" floatvalue="" stringvalue="Carnes" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_11_GME036_3606" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Carnes" integervalue="" floatvalue="" stringvalue="Carnes" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_11_GME036_3608" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Carnes" integervalue="" floatvalue="" stringvalue="Carnes" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_11_GME036_3609" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Carnes" integervalue="" floatvalue="" stringvalue="Carnes" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_22_GME036_3604" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="3" value="Aves" integervalue="" floatvalue="" stringvalue="Aves" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_22_GME036_3610" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="3" value="Aves" integervalue="" floatvalue="" stringvalue="Aves" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_31_GME036_3607" attr_id="@attribute_id_Meat_5" valusage="1" language_id="&pt_BR;" sequence="4" value="Peixe" integervalue="" floatvalue="" stringvalue="Peixe" />
+<!--end of  Category -->
+<!--start of  Price -->
+<attrdesc attr_id="@attribute_id_Meat_3" attrtype_id="STRING" language_id="&pt_BR;" name="Preço" description="Preço" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3601" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3602" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3603" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3604" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3605" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3606" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3607" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_3_GME036_3611" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_27" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="2" value="/package of 4  lb burgers" integervalue="" floatvalue="" stringvalue="/package of 4  lb burgers" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_34_GME036_3608" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="3" value="/package of 4" integervalue="" floatvalue="" stringvalue="/package of 4" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_34_GME036_3609" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="3" value="/package of 4" integervalue="" floatvalue="" stringvalue="/package of 4" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_34_GME036_3610" attr_id="@attribute_id_Meat_3" valusage="1" language_id="&pt_BR;" sequence="3" value="/package of 4" integervalue="" floatvalue="" stringvalue="/package of 4" />
+<!--end of  Price -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Meat_4" attrtype_id="STRING" language_id="&pt_BR;" name="Tipo" description="Tipo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_4_GME036_3601" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="1" value="Peixe" integervalue="" floatvalue="" stringvalue="Peixe" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_10_GME036_3602" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="2" value="Carne bovina" integervalue="" floatvalue="" stringvalue="Carne bovina" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_10_GME036_3605" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="2" value="Carne bovina" integervalue="" floatvalue="" stringvalue="Carne bovina" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_10_GME036_3606" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="2" value="Carne bovina" integervalue="" floatvalue="" stringvalue="Carne bovina" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_16_GME036_3603" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="3" value="Sashimi" integervalue="" floatvalue="" stringvalue="Sashimi" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_21_GME036_3604" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="4" value="Frango" integervalue="" floatvalue="" stringvalue="Frango" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_21_GME036_3610" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="4" value="Frango" integervalue="" floatvalue="" stringvalue="Frango" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_30_GME036_3607" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="5" value="Cioba" integervalue="" floatvalue="" stringvalue="Cioba" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_35_GME036_3608" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="6" value="Cordeiro" integervalue="" floatvalue="" stringvalue="Cordeiro" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_38_GME036_3609" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="7" value="Carne suína" integervalue="" floatvalue="" stringvalue="Carne suína" />
+<attrvaldesc attrval_id="@attribute_value_id_Meat_40_GME036_3611" attr_id="@attribute_id_Meat_4" valusage="1" language_id="&pt_BR;" sequence="8" value="Lagosta" integervalue="" floatvalue="" stringvalue="Lagosta" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->

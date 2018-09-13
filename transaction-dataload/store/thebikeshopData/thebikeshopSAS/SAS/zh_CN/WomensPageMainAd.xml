@@ -1,0 +1,70 @@
+
+<colldesc 
+	collateral_id="@collateral_id_women_hero"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/summerEssentials/styles.css&quot; /&gt;
+&lt;div class =&quot;container&quot; id=&quot;albiniCollect&quot;&gt;
+   &lt;div id = &quot;albiniCollect-bkgrd&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+   &lt;div class=&quot;background&quot;&gt;
+      &lt;div class =&quot;gradient&quot;&gt;
+         &lt;div class = &quot;espotCont&quot;&gt;
+            &lt;div class= &quot;multiImgCont2&quot;&gt;  
+               &lt;div id=&quot;girl3&quot;&gt;
+					&lt;div&gt;&lt;/div&gt;
+				&lt;/div&gt; 
+               &lt;div id=&quot;girl2&quot;&gt;
+										&lt;!--[if IE 8]&gt;
+				   &lt;img src=&quot;[imagePath]rwdWebAssets/summerEssentials/girl1.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+					&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+					   &lt;div&gt;&lt;/div&gt;
+					&lt;!--&lt;![endif]--&gt;
+			   &lt;/div&gt; 
+            &lt;/div&gt;
+            &lt;div class = &quot;titleCont&quot;&gt;
+               &lt;div class=&quot;title&quot;&gt;夏季必需品&lt;/div&gt;
+               &lt;div class=&quot;title4&quot;&gt;享受 8.5 折优惠&lt;/div&gt;
+               &lt;div class=&quot;title3&quot;&gt;
+                  &lt;div class =&quot;link&quot;&gt;
+                     &lt;a href=&quot;[fullPathHomeURL]/apparel/women/handbags&quot;&gt;本店手袋&lt;/a&gt;
+                  &lt;/div&gt;
+                  &lt;div class =&quot;link&quot;&gt;
+                     &lt;a href=&quot;[fullPathHomeURL]/apparel/women/dresses&quot;&gt;本店衣服&lt;/a&gt;
+                  &lt;/div&gt;
+                  &lt;div class =&quot;link&quot;&gt;
+                     &lt;a href=&quot;[fullPathHomeURL]/apparel/women/shoes&quot;&gt;本店鞋子&lt;/a&gt;
+                  &lt;/div&gt;
+               &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class= &quot;multiImgCont&quot;&gt;  
+               &lt;div id =&quot;bag1&quot;&gt;
+										&lt;!--[if IE 8]&gt;
+				   &lt;img src=&quot;[imagePath]rwdWebAssets/summerEssentials/bag1.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+					&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+					   &lt;div&gt;&lt;/div&gt;
+					&lt;!--&lt;![endif]--&gt;
+				&lt;/div&gt; 
+               &lt;div id = &quot;bag2&quot;&gt;
+					&lt;div&gt;&lt;/div&gt;
+				&lt;/div&gt;        
+               &lt;div id = &quot;belts&quot;&gt;
+					&lt;div&gt;&lt;/div&gt;	
+				&lt;/div&gt;     
+               &lt;div id = &quot;heels&quot;&gt;
+										&lt;!--[if IE 8]&gt;
+				   &lt;img src=&quot;[imagePath]rwdWebAssets/summerEssentials/heels.png&quot;&gt;&lt;/img&gt;
+&lt;![endif]--&gt;
+					&lt;!--[if gte IE 9]&gt;&lt;!--&gt;   
+					   &lt;div&gt;&lt;/div&gt;
+					&lt;!--&lt;![endif]--&gt;
+				&lt;/div&gt;  
+            &lt;/div&gt;
+            &lt;div class=&quot;clearFloat&quot;&gt;&lt;/div&gt;
+         &lt;/div&gt;
+         &lt;div class=&quot;clearFloat&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+

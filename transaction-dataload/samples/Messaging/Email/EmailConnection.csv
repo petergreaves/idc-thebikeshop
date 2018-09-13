@@ -1,0 +1,7 @@
+EmailConnection,
+paramName,paramValue,delete
+clientId,0ddb148b-cb53-103e-172f-abbc3d2a6593
+clientSecret,302ac105-d686-2c89-cc07-0b9727d63522
+refreshToken,is8FrQTCB952XNECCoUDSeltDysZM_-HzufvRs8qyuyBNY
+transactXmlUrl,https://transact2.silverpop.com/XTMail
+oauthUrl,https://api2.silverpop.com/oauth/token

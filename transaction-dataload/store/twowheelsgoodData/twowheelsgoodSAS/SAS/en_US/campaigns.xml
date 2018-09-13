@@ -1,0 +1,96 @@
+
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be mbrgrpdesc.displayname and mbrgrpdesc.description  -->
+<!-- That would be colldesc.marketingtext                             -->
+
+
+<!-- Customer Profile Descriptions -->
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_1"
+   language_id="&en_US;"
+   displayname="Registered Customers"
+   description="Customers who have registered with the store"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_2"
+   language_id="&en_US;"
+   displayname="Repeat Customers"
+   description="Customers who have placed at least one order with the store"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_3"
+   language_id="&en_US;"
+   displayname="Guest Shoppers"
+   description="Shoppers who have not registered with the store"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_4"
+   language_id="&en_US;"
+   displayname="Male Customers"
+   description="Registered customers who have identified themselves as males"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_5"
+   language_id="&en_US;"
+   displayname="Female Customers"
+   description="Registered customers who have identified themselves as females"
+/>
+
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_6"
+   language_id="&en_US;"
+   displayname="Customers who are under 40 years of age"
+   description="Customers who are under 40 years of age"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_7"
+   language_id="&en_US;"
+   displayname="Customers who are 40 years of age or older"
+   description="Customers who are 40 years of age or older"
+/>
+
+
+<!-- Ad Copy Descriptions -->
+<!-- The colldesc.marketingtext will be used for alt text with the Ad Copy image -->
+
+<colldesc
+   collateral_id="@collateral_id_1"
+   language_id="&en_US;"
+   location="images/catalog/en_US/BuyOneGetOneFree_WineGlasses.jpg"
+   marketingtext="Buy One, Get One Free offer on wine glasses"
+/>
+<colldesc
+   collateral_id="@collateral_id_2"
+   language_id="&en_US;"
+   location="images/catalog/en_US/TopSellingItem.jpg"
+   marketingtext="The current top-selling online item"
+/>
+<colldesc
+   collateral_id="@collateral_id_3"
+   language_id="&en_US;"
+   location="images/catalog/en_US/CategoryDiscount_Furniture.jpg"
+   marketingtext="20% off all items in the Furniture category"
+/>
+<colldesc
+   collateral_id="@collateral_id_4"
+   language_id="&en_US;"
+   location="images/catalog/en_US/ShippingDiscount_FreeGroundShipping.jpg"
+   marketingtext="Free Ground Shipping"
+/>
+
+<!-- The location and marketing text are intentionally left blank for collateral_id_5 -->
+<colldesc
+   collateral_id="@collateral_id_5"
+   language_id="&en_US;"
+   location=""
+   marketingtext=" "
+/>
+

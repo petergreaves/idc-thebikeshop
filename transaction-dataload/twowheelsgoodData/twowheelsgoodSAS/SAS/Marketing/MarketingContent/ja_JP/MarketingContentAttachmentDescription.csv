@@ -1,0 +1,104 @@
+MarketingContentAttachmentDescription
+contentName,attachmentIdentifier,usageName,relationName,relationShortDescription,relationLongDescription,languageId,delete
+WomenLandingPage_Atct_brand1,WomenLandingPage_Atct_brand1,NOUSAGE,Brand1,ブランドの表示,,-10,0
+WomenLandingPage_Atct_brand2,WomenLandingPage_Atct_brand2,NOUSAGE,brand2,ブランドの表示,,-10,0
+WomenLandingPage_Atct_brand3,WomenLandingPage_Atct_brand3,NOUSAGE,brand3,ブランドの表示,,-10,0
+WomenLandingPage_Atct_brand4,WomenLandingPage_Atct_brand4,NOUSAGE,brand4,ブランドの表示,,-10,0
+WomenLandingPage_Atct_brand5,WomenLandingPage_Atct_brand5,NOUSAGE,brand5,ブランドの表示,,-10,0
+HeaderESpot15OffPurchaseAd,HeaderESpot15OffPurchaseAd,NOUSAGE,購入額の 15% 割引,総購入額の 15% 割引,,-10,0
+HeaderESpotFreeShippingSpecial,HeaderESpotFreeShippingSpecial,NOUSAGE,配送料無料,配送料無料,,-10,0
+BoysPants_Atct_1,BoysPants_Atct_1,NOUSAGE,暖かいセーター,暖かいセーター,,-10,0
+BoysPants_Atct_2,BoysPants_Atct_2,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+BoysShoes_Atct_1,BoysShoes_Atct_1,NOUSAGE,トップス,トップス,,-10,0
+BoysShoes_Atct_2,BoysShoes_Atct_2,NOUSAGE,靴の特売,靴の特売,,-10,0
+BoysTops_Atct_1,BoysTops_Atct_1,NOUSAGE,暖かいセーター,暖かいセーター,,-10,0
+BoysTops_Atct_2,BoysTops_Atct_2,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+BoysRow1_Content,BoysRow1_Content,NOUSAGE,男の子向け特売,男の子向け特売,,-10,0
+GirlsDS_Atct_1,GirlsDS_Atct_1,NOUSAGE,ドレスの特売,ドレスの特売,,-10,0
+GirlsDS_Atct_2,GirlsDS_Atct_2,NOUSAGE,靴の特売,靴の特売,,-10,0
+GirlsPants_Atct_1,GirlsPants_Atct_1,NOUSAGE,デニム,デニム,,-10,0
+GirlsPants_Atct_2,GirlsPants_Atct_2,NOUSAGE,夏の在庫一掃,夏の在庫一掃,,-10,0
+GirlsShoes_Atct_1,GirlsShoes_Atct_1,NOUSAGE,靴の特売 1,靴の特売 1,,-10,0
+GirlsShoes_Atct_2,GirlsShoes_Atct_2,NOUSAGE,靴の特売 ,靴の特売 ,,-10,0
+GirlsTops_Atct_1,GirlsTops_Atct_1,NOUSAGE,T シャツおよびトップス,T シャツおよびトップス,,-10,0
+GirlsTops_Atct_2,GirlsTops_Atct_2,NOUSAGE,快適な暖かさのセーター,快適な暖かさのセーター,,-10,0
+MenAcc_Atct_1,MenAcc_Atct_1,NOUSAGE,絹ネクタイ,絹ネクタイ,,-10,0
+MenAcc_Atct_2,MenAcc_Atct_2,NOUSAGE,正装,正装,,-10,0
+MenJackets_Atct_1,MenJackets_Atct_1,NOUSAGE,クール・レザー,クール・レザー,,-10,0
+MenJackets_Atct_2,MenJackets_Atct_2,NOUSAGE,高級カシミヤ,高級カシミヤ,,-10,0
+MenPants_Atct_1,MenPants_Atct_1,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+MenPants_Atct_2,MenPants_Atct_2,NOUSAGE,靴の特売,靴の特売,,-10,0
+MenShirts_Atct_1,MenShirts_Atct_1,NOUSAGE,ベーシック T シャツ,ベーシック T シャツ,,-10,0
+MenShirts_Atct_2,MenShirts_Atct_2,NOUSAGE,ドレス・シャツ,ドレス・シャツ,,-10,0
+MenShoes_Atct_1,MenShoes_Atct_1,NOUSAGE,靴の特売,靴の特売,,-10,0
+MenShoes_Atct_2,MenShoes_Atct_2,NOUSAGE,革ベルト,革ベルト,,-10,0
+MenSuits_Atct_1,MenSuits_Atct_1,NOUSAGE,正装,正装,,-10,0
+MenSuits_Atct_2,MenSuits_Atct_2,NOUSAGE,絹ネクタイ,絹ネクタイ,,-10,0
+MenRow1_Content,MenRow1_Content,NOUSAGE,正装,正装,,-10,0
+WAcc_Atct_1,WAcc_Atct_1,NOUSAGE,革ベルト,革ベルト,,-10,0
+WAcc_Atct_2,WAcc_Atct_2,NOUSAGE,最高のハンドバッグ,最高のハンドバッグ,,-10,0
+WHB_Atct_1,WHB_Atct_1,NOUSAGE,最高のハンドバッグ,最高のハンドバッグ,,-10,0
+WHB_Atct_2,WHB_Atct_2,NOUSAGE,サングラス,サングラス,,-10,0
+WPants_Atct_1,WPants_Atct_1,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+WPants_Atct_2,WPants_Atct_2,NOUSAGE,革ベルト,革ベルト,,-10,0
+WSB_Atct_1,WSB_Atct_1,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+WSB_Atct_2,WSB_Atct_2,NOUSAGE,シャツおよびブラウス,シャツおよびブラウス,,-10,0
+WSh_Atct_1,WSh_Atct_1,NOUSAGE,ラメ入りイブニング・ドレス,ラメ入りイブニング・ドレス,,-10,0
+WSh_Atct_2,WSh_Atct_2,NOUSAGE,靴の特売,靴の特売,,-10,0
+WSk_Atct_1,WSk_Atct_1,NOUSAGE,ジーンズ,ジーンズ,,-10,0
+WSk_Atct_2,WSk_Atct_2,NOUSAGE,夏の在庫一掃,夏の在庫一掃,,-10,0
+WSw_Atct_1,WSw_Atct_1,NOUSAGE,ラメ入りイブニング・ドレス,ラメ入りイブニング・ドレス 婦人用イブニング・ドレスが 15% 割引,,-10,0
+WSw_Atct_2,WSw_Atct_2,NOUSAGE,暖かいセーター,"暖かいセーター 1 枚購入すれば、2 枚目が 25% 割引",,-10,0
+Accessories_Atct_1,Accessories_Atct_1,NOUSAGE,Crystal Clear,Crystal Clear,,-10,0
+Accessories_Atct_2,Accessories_Atct_2,NOUSAGE,アクセサリーの割引,アクセサリーの割引,,-10,0
+Appliances_Atct_1,Appliances_Atct_1,NOUSAGE,Perfect Every Time,Perfect Every Time,,-10,0
+Appliances_Atct_2,Appliances_Atct_2,NOUSAGE,キッチン割引,キッチン割引,,-10,0
+BathAcc_Atct_1,BathAcc_Atct_1,NOUSAGE,綿タオル,綿タオル,,-10,0
+BathAcc_Atct_2,BathAcc_Atct_2,NOUSAGE,バスルーム・アクセサリー,バスルーム・アクセサリー,,-10,0
+Components_Atct_1,Components_Atct_1,NOUSAGE,カスタム・デスクトップ,カスタム・デスクトップ,,-10,0
+Components_Atct_2,Components_Atct_2,NOUSAGE,カスタム・ラップトップ,カスタム・ラップトップ,,-10,0
+Desktops_Atct_1,Desktops_Atct_1,NOUSAGE,カスタム・デスクトップ,カスタム・デスクトップ,,-10,0
+Desktops_Atct_2,Desktops_Atct_2,NOUSAGE,プリンターの割引,プリンターの割引,,-10,0
+Dairy_Atct_1,Dairy_Atct_1,NOUSAGE,Creamy Camembert,Creamy Camembert,,-10,0
+Dairy_Atct_2,Dairy_Atct_2,NOUSAGE,Refreshing Milk,Refreshing Milk,,-10,0
+DesktopsAndLaptops,DesktopsAndLaptops,NOUSAGE,デスクトップとラップトップ,デスクトップとラップトップ,,-10,0
+GetReadyForSchool,GetReadyForSchool,NOUSAGE,学校への準備,学校への準備,,-10,0
+PowerOnTheGo,PowerOnTheGo,NOUSAGE,Power On The Go,Power On The Go,,-10,0
+Fruits_Atct_1,Fruits_Atct_1,NOUSAGE,レッド・デリシャス,レッド・デリシャス,,-10,0
+Fruits_Atct_2,Fruits_Atct_2,NOUSAGE,Bountiful Berries,Bountiful Berries,,-10,0
+Furniture_Atct_1,Furniture_Atct_1,NOUSAGE,寝室の家具,寝室の家具,,-10,0
+Furniture_Atct_2,Furniture_Atct_2,NOUSAGE,照明装置の割引,照明装置の割引,,-10,0
+FreeDelivery,FreeDelivery,NOUSAGE,無料配達,無料配達,,-10,0
+AtlanticLobster,AtlanticLobster,NOUSAGE,Atlantic Lobster,Atlantic Lobster,,-10,0
+CrispRomaine,CrispRomaine,NOUSAGE,Crisp Romaine,Crisp Romaine,,-10,0
+FreeConsultation,FreeConsultation,NOUSAGE,無料相談,無料相談,,-10,0
+NaturalVitamins,NaturalVitamins,NOUSAGE,Natural Vitamins,Natural Vitamins,,-10,0
+AutomaticRefills,AutomaticRefills,NOUSAGE,自動補充,自動補充,,-10,0
+LivingRoomSale,LivingRoomSale,NOUSAGE,リビング・ルーム特売,リビング・ルーム特売,,-10,0
+PerfectEveryTime,PerfectEveryTime,NOUSAGE,Perfect Every Time,Perfect Every Time,,-10,0
+SaveOnLighting,SaveOnLighting,NOUSAGE,照明装置の割引,照明装置の割引,,-10,0
+Kitchenware_Atct_1,Kitchenware_Atct_1,NOUSAGE,ステンレス製料理道具,ステンレス製料理道具,,-10,0
+Kitchenware_Atct_2,Kitchenware_Atct_2,NOUSAGE,キッチン割引,キッチン割引,,-10,0
+Laptops_Atct_1,Laptops_Atct_1,NOUSAGE,カスタム・ラップトップ,カスタム・ラップトップ,,-10,0
+Laptops_Atct_2,Laptops_Atct_2,NOUSAGE,アクセサリーの割引,アクセサリーの割引,,-10,0
+Lighting_Atct_1,Lighting_Atct_1,NOUSAGE,照明装置の割引,照明装置の割引,,-10,0
+Lighting_Atct_2,Lighting_Atct_2,NOUSAGE,リビング・ルームを最新,リビング・ルームを最新,,-10,0
+Magazines_Atct_1,Magazines_Atct_1,NOUSAGE,Photoritz Magazine,Photoritz Magazine,,-10,0
+Magazines_Atct_2,Magazines_Atct_2,NOUSAGE,SocietyTime Magazine,SocietyTime Magazine,,-10,0
+Meat_Atct_1,Meat_Atct_1,NOUSAGE,Honey Glazed Grilled,Honey Glazed Grilled,,-10,0
+Meat_Atct_2,Meat_Atct_2,NOUSAGE,Sashimi Salmon,Sashimi Salmon,,-10,0
+Medicines_Atct_1,Medicines_Atct_1,NOUSAGE,自動補充,自動補充,,-10,0
+Medicines_Atct_2,Medicines_Atct_2,NOUSAGE,すべての Natural Vitamins,すべての Natural Vitamins,,-10,0
+SubscribeAndSave,SubscribeAndSave,NOUSAGE,予約購読をして節約,予約購読をして節約,,-10,0
+SubscribeToNewsletters,SubscribeToNewsletters,NOUSAGE,NewsLetters のサブスクライブ,NewsLetters のサブスクライブ,,-10,0
+SubscribeToMagazines,SubscribeToMagazines,NOUSAGE,Econo Sense Magazine,Econo Sense Magazine,,-10,0
+Newsletters_Atct_1,Newsletters_Atct_1,NOUSAGE,Newsletters のサブスクライブ,Newsletters のサブスクライブ,,-10,0
+Newsletters_Atct_2,Newsletters_Atct_2,NOUSAGE,Delish Magazine,Delish Magazine,,-10,0
+Tablets_Atct_1,Tablets_Atct_1,NOUSAGE,Power on the Go,Power on the Go,,-10,0
+Tablets_Atct_2,Tablets_Atct_2,NOUSAGE,学校への準備,学校への準備,,-10,0
+Tableware_Atct_1,Tableware_Atct_1,NOUSAGE,Mix and Match,Mix and Match,,-10,0
+Tableware_Atct_2,Tableware_Atct_2,NOUSAGE,Mix and Match 皿,Mix and Match 皿,,-10,0
+Vegetables_Atct_1,Vegetables_Atct_1,NOUSAGE,畑のニンジン,畑のニンジン,,-10,0
+Vegetables_Atct_2,Vegetables_Atct_2,NOUSAGE,パッケージされたサラダ・ミックス,パッケージされたサラダ・ミックス,,-10,0
+Vitamins_Atct_1,Vitamins_Atct_1,NOUSAGE,すべての Natural Vitamins,すべての Natural Vitamins,,-10,0
+Vitamins_Atct_2,Vitamins_Atct_2,NOUSAGE,Flu Fighting Gel Caps,Flu Fighting Gel Caps,,-10,0

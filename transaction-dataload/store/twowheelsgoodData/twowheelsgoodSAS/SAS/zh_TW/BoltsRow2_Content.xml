@@ -1,0 +1,20 @@
+
+<colldesc 
+	collateral_id="@collateral_id_bolts1000"
+	language_id="&zh_TW;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/boltsLandingPage/styles.css&quot;/&gt;
+			&lt;div id=&quot;Bolts Banner&quot; class=&quot;Banner&quot;&gt;
+				&lt;div id=&quot;boltsbgImg&quot;&gt;&nbsp;&lt;/div&gt;
+
+				&lt;div class=&quot;bannerText&quot;&gt;
+					&lt;div class=&quot;line1&quot;&gt;
+						&lt;span id=&quot;new&quot;&gt;新品！&lt;/span&gt;&lt;span id=&quot;Tamper&quot;&gt; 防拆螺栓&lt;/span&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;line2&quot;&gt;
+						耐用扣件
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;"
+/>
+

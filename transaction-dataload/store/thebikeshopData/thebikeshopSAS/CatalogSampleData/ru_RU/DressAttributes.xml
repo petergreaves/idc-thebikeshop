@@ -1,0 +1,75 @@
+
+<attrdesc attr_id="@swatchdress_size_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Размеры" description="Размеры" qtyunit_id="C62"/>
+<attrdesc attr_id="@swatchdress_color_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62"/>
+
+
+
+
+
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_1" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="2" value="S" stringvalue="S" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_s_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_2" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="3" value="M" stringvalue="M" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_m_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_3" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="4" value="L" stringvalue="L" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_l_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_4" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="1" value="XS" stringvalue="XS" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xs_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_5" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="5" value="XL" stringvalue="XL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xl_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_6" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&ru_RU;" sequence="6" value="XXL" stringvalue="XXL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xxl_enabled.png"/>
+
+
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_1" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="1" value="Красный" stringvalue="Красный" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_red.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_2" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="2" value="Темно-бирюзовый" stringvalue="Темно-бирюзовый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_teal.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_3" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="3" value="Желтая" stringvalue="Желтая" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_yellow.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_4" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="4" value="Серый" stringvalue="Серый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gray.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_5" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="5" value="Ориндж"  stringvalue="Ориндж" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_orange.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_6" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="6" value="Синий" stringvalue="Синий" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_blue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_7" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="7" value="Пурпурный" stringvalue="Пурпурный" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_8" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="8" value="Белый" stringvalue="Белый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_white.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_9" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="9" value="Серебристый" stringvalue="Серебристый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_silver.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_10" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="10" value="Коричневый" stringvalue="Коричневый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_brown.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_11" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="11" value="Розовый"  stringvalue="Розовый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_pink.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_12" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="12" value="Голубой" stringvalue="Голубой" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_lightblue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_13" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Фиолетовый" stringvalue="Фиолетовый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_14" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Черный" stringvalue="Черный" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_black.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_15" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Бежевый" stringvalue="Бежевый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_beige.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_16" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Темно-синий" stringvalue="Темно-синий" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_navy.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_17" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Золотой" stringvalue="Золотой" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gold.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_18" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&ru_RU;" sequence="13" value="Зеленый" stringvalue="Зеленый" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_green.png"/>
+
+
+
+
+
+
+<attrdesc attr_id="@dress_construction_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Конструкция" description="конструкция" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_length_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Длина" description="длина" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_material_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="материал" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_occasion_attribute_id" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="случай" qtyunit_id="C62"/>
+
+
+
+
+<attrvaldesc attrval_id="@dress_construction_attribute_value_1" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&ru_RU;" sequence="19" value="Вязаное" stringvalue="Вязаное" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_construction_attribute_value_2" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&ru_RU;" sequence="19" value="Тканое" stringvalue="Тканое" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_length_attribute_value_1" attr_id="@dress_length_attribute_id" valusage="1" language_id="&ru_RU;" sequence="20" value="Короткое" stringvalue="Короткое" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_2" attr_id="@dress_length_attribute_id" valusage="1" language_id="&ru_RU;" sequence="21" value="Среднее" stringvalue="Среднее" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_3" attr_id="@dress_length_attribute_id" valusage="1" language_id="&ru_RU;" sequence="21" value="Длинный" stringvalue="Длинный" qtyunit_id="C62" />
+
+<attrvaldesc attrval_id="@dress_material_attribute_value_1" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="21" value="Синтетика" stringvalue="Синтетика" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_2" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="22" value="Жоржет" stringvalue="Жоржет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_3" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="23" value="Хлопковая смесь" stringvalue="Хлопковая смесь" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_4" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="24" value="100%-ый хлопок" stringvalue="100%-ый хлопок" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_5" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="24" value="Шелк" stringvalue="Шелк" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_6" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="24" value="Джинсовая ткань" stringvalue="Джинсовая ткань" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_7" attr_id="@dress_material_attribute_id" valusage="1" language_id="&ru_RU;" sequence="24" value="Шерсть" stringvalue="Шерсть" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_1" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&ru_RU;" sequence="25" value="Коктейльные и вечерние" stringvalue="Коктейльные и вечерние" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_2" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&ru_RU;" sequence="26" value="Повседневный" stringvalue="Повседневный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_3" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&ru_RU;" sequence="27" value="Деловые" stringvalue="Деловые" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_4" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&ru_RU;" sequence="28" value="Деловые, повседневные" stringvalue="Деловые, повседневные" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_5" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&ru_RU;" sequence="26" value="Коктейльные и вечерние, повседневные" stringvalue="Коктейльные и вечерние, повседневные" qtyunit_id="C62" />
+

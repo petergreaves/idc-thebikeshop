@@ -1,0 +1,88 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : LightingColor -->
+<attrdesc attr_id="@attribute_id_Lighting_5" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_5" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="1" value="紅色" integervalue="" floatvalue="" stringvalue="紅色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_7" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="2" value="白色" integervalue="" floatvalue="" stringvalue="白色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_13" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="3" value="銀色" integervalue="" floatvalue="" stringvalue="銀色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_15" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="4" value="明亮" integervalue="" floatvalue="" stringvalue="明亮" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_19" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="5" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_20" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="6" value="巧克力色" integervalue="" floatvalue="" stringvalue="巧克力色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_22" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="7" value="象牙白" integervalue="" floatvalue="" stringvalue="象牙白" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_24" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="8" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_25" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&zh_TW;" sequence="9" value="橙色" integervalue="" floatvalue="" stringvalue="橙色" qtyunit_id="C62" />
+<!--END Defining attribute description : LightingColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Height -->
+<attrdesc attr_id="@attribute_id_Lighting_3" attrtype_id="STRING" language_id="&zh_TW;" name="高度" description="高度" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2801" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2802" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2805" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2807" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2808" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2809" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2810" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2811" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2812" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2813" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2815" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2816" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2817" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2818" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2819" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="1" value="中" integervalue="" floatvalue="" stringvalue="中" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2803" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="2" value="高" integervalue="" floatvalue="" stringvalue="高" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2806" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="2" value="高" integervalue="" floatvalue="" stringvalue="高" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2814" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="2" value="高" integervalue="" floatvalue="" stringvalue="高" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_11_HLG028_2804" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&zh_TW;" sequence="3" value="矮" integervalue="" floatvalue="" stringvalue="矮" />
+<!--end of  Height -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Lighting_2" attrtype_id="STRING" language_id="&zh_TW;" name="樣式" description="樣式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2801" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2802" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2803" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2809" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2810" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2811" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2815" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2816" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2818" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2819" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="1" value="當代風格" integervalue="" floatvalue="" stringvalue="當代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2804" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="2" value="傳統風格" integervalue="" floatvalue="" stringvalue="傳統風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2805" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="2" value="傳統風格" integervalue="" floatvalue="" stringvalue="傳統風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2806" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2808" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2812" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2813" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2814" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2817" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="3" value="現代風格" integervalue="" floatvalue="" stringvalue="現代風格" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_18_HLG028_2807" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&zh_TW;" sequence="4" value="當代照明" integervalue="" floatvalue="" stringvalue="當代照明" />
+<!--end of  Style -->
+<!--start of  Fixture Type -->
+<attrdesc attr_id="@attribute_id_Lighting_1" attrtype_id="STRING" language_id="&zh_TW;" name="燈具款式" description="燈具款式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2801" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="1" value="桌燈" integervalue="" floatvalue="" stringvalue="桌燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2809" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="1" value="桌燈" integervalue="" floatvalue="" stringvalue="桌燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2810" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="1" value="桌燈" integervalue="" floatvalue="" stringvalue="桌燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2811" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="1" value="桌燈" integervalue="" floatvalue="" stringvalue="桌燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2818" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="1" value="桌燈" integervalue="" floatvalue="" stringvalue="桌燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2802" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="2" value="吊燈" integervalue="" floatvalue="" stringvalue="吊燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2804" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="2" value="吊燈" integervalue="" floatvalue="" stringvalue="吊燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2812" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="2" value="吊燈" integervalue="" floatvalue="" stringvalue="吊燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2803" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="3" value="立燈" integervalue="" floatvalue="" stringvalue="立燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2806" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="3" value="立燈" integervalue="" floatvalue="" stringvalue="立燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2813" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="3" value="立燈" integervalue="" floatvalue="" stringvalue="立燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2814" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="3" value="立燈" integervalue="" floatvalue="" stringvalue="立燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2805" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="4" value="樹枝形吊燈" integervalue="" floatvalue="" stringvalue="樹枝形吊燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2808" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="4" value="樹枝形吊燈" integervalue="" floatvalue="" stringvalue="樹枝形吊燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2807" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="5" value="檯燈" integervalue="" floatvalue="" stringvalue="檯燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2816" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="5" value="檯燈" integervalue="" floatvalue="" stringvalue="檯燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2817" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="5" value="檯燈" integervalue="" floatvalue="" stringvalue="檯燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2819" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="5" value="檯燈" integervalue="" floatvalue="" stringvalue="檯燈" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_23_HLG028_2815" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&zh_TW;" sequence="6" value="鵝頸燈" integervalue="" floatvalue="" stringvalue="鵝頸燈" />
+<!--end of  Fixture Type -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

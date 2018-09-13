@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&ru_RU;"
+  description="Бесплатная доставка наземным транспортом!"
+  longdescription="Бесплатная доставка наземным транспортом для заказов на сумму более 70 долларов."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&ru_RU;"
+	admindesc="Специальное предложение - Бесплатная доставка наземным транспортом для заказов на сумму более 70 долларов"
+	shortdesc="Бесплатная доставка наземным транспортом!"
+	longdesc="Бесплатная доставка наземным транспортом для заказов на сумму более 70 долларов."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&ru_RU;"
+  description="Скидка 5 долларов на следующую покупку"
+  longdescription="Всем клиентам, оформившим у нас заказ, предоставляется скидка в 5 долларов на следующую покупку."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&ru_RU;"
+	admindesc="Специальное предложение - скидка 5 долларов на следующую покупку."
+	shortdesc="Скидка 5 долларов на следующую покупку"
+	longdesc="Всем клиентам, оформившим у нас заказ, предоставляется скидка в 5 долларов на следующую покупку."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&ru_RU;"
+  description="Скидка 7% при регистрации сегодня."
+  longdescription="Зарегистрируйтесь у нас сегодня и получите скидку в 7% на следующую покупку."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&ru_RU;"
+	admindesc="Специальное предложение - зарегистрируйтесь у нас сегодня и получите скидку в 7% на следующую покупку."
+	shortdesc="Скидка 7% при регистрации сегодня."
+	longdesc="Зарегистрируйтесь у нас сегодня и получите скидку в 7% на следующую покупку."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&ru_RU;"
+  description="Скидка 10% на все заказы"
+  longdescription="Скидка 10% на все заказы."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&ru_RU;"
+	admindesc="Скидка 10% на все заказы сегодня"
+	shortdesc="Скидка 10% на все заказы"
+	longdesc="Скидка 10% на все заказы."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&ru_RU;"
+  description="Скидка в 25 долларов при покупке на сумму более 200 долларов"
+  longdescription="Скидка в 25 долларов при покупке на сумму более 200 долларов."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&ru_RU;"
+	admindesc="Скидка 25 долларов на все заказы, сделанные до субботы"
+	shortdesc="Скидка в 25 долларов при покупке на сумму более 200 долларов"
+	longdesc="Скидка в 25 долларов при покупке на сумму более 200 долларов."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&ru_RU;"
+  description="Доставка обычной почтой в пределах США за фиксированную плату в 5 долларов."
+  longdescription="При доставке обычной почтой в пределах США взимается фиксированная плата в 5 долларов вне зависимости от суммы заказа."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&ru_RU;"
+	admindesc="Скидки на перевозку"
+	shortdesc="Доставка обычной почтой в пределах США за фиксированную плату в 5 долларов."
+	longdesc="При доставке обычной почтой в пределах США взимается фиксированная плата в 5 долларов вне зависимости от суммы заказа."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&ru_RU;"
+  description="Скидка 20% на мебель!"
+  longdescription="Скидка 20% на все предметы мебели! Ограничений нет!"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&ru_RU;"
+	admindesc="Специальное предложение - скидка 20% на мебель"
+	shortdesc="Скидка 20% на мебель!"
+	longdesc="Скидка 20% на все предметы мебели! Ограничений нет!"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

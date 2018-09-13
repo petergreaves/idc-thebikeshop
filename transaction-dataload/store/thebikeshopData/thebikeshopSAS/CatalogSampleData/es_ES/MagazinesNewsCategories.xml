@@ -1,0 +1,33 @@
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_Magazines"
+   name="Revistas"
+   shortdescription="Revistas"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   keyword="Revistas"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_NewsLetters"
+   name="Boletines"
+   shortdescription="Boletines"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nne_newsletters.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nne_newsletters.png"
+   keyword="Boletines"
+/>
+
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_aurora_NewslettersMagazines"
+   name="Boletines &amp; Revistas"
+   shortdescription="Boletines &amp; Revistas"
+   published="1"
+   thumbnail="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   fullimage="images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+   keyword="Boletines &amp; Revistas"
+/>

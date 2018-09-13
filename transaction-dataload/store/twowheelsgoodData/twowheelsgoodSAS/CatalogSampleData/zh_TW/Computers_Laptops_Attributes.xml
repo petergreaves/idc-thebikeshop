@@ -1,0 +1,62 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : ComputersLaptopsBrand -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_6" attrtype_id="STRING" language_id="&zh_TW;" name="品牌" description="品牌" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_6" attr_id="@attribute_id_ComputersLaptops_6" valusage="1" language_id="&zh_TW;" sequence="1" value="Eye Dee Team" integervalue="" floatvalue="" stringvalue="Eye Dee Team" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_14" attr_id="@attribute_id_ComputersLaptops_6" valusage="1" language_id="&zh_TW;" sequence="2" value="Adelee Plus" integervalue="" floatvalue="" stringvalue="Adelee Plus" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_19" attr_id="@attribute_id_ComputersLaptops_6" valusage="1" language_id="&zh_TW;" sequence="3" value="DVR Technics" integervalue="" floatvalue="" stringvalue="DVR Technics" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersLaptopsBrand -->
+<!--BEGIN Defining attribute description : ComputersLaptopsBattery Life -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_8" attrtype_id="STRING" language_id="&zh_TW;" name="電池壽命" description="電池壽命" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_8" attr_id="@attribute_id_ComputersLaptops_8" valusage="1" language_id="&zh_TW;" sequence="1" value="2 小時" integervalue="" floatvalue="" stringvalue="2 小時" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_16" attr_id="@attribute_id_ComputersLaptops_8" valusage="1" language_id="&zh_TW;" sequence="2" value="3 小時" integervalue="" floatvalue="" stringvalue="3 小時" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_20" attr_id="@attribute_id_ComputersLaptops_8" valusage="1" language_id="&zh_TW;" sequence="3" value="6 小時" integervalue="" floatvalue="" stringvalue="6 小時" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_22" attr_id="@attribute_id_ComputersLaptops_8" valusage="1" language_id="&zh_TW;" sequence="4" value="8 小時" integervalue="" floatvalue="" stringvalue="8 小時" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersLaptopsBattery Life -->
+<!--BEGIN Defining attribute description : ComputersLaptopsMemory -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_5" attrtype_id="STRING" language_id="&zh_TW;" name="記憶體" description="記憶體" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_5" attr_id="@attribute_id_ComputersLaptops_5" valusage="1" language_id="&zh_TW;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_13" attr_id="@attribute_id_ComputersLaptops_5" valusage="1" language_id="&zh_TW;" sequence="2" value="4 GB" integervalue="" floatvalue="" stringvalue="4 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_25" attr_id="@attribute_id_ComputersLaptops_5" valusage="1" language_id="&zh_TW;" sequence="3" value="8 GB" integervalue="" floatvalue="" stringvalue="8 GB" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersLaptopsMemory -->
+<!--BEGIN Defining attribute description : ComputersLaptopsWeight -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_7" attrtype_id="STRING" language_id="&zh_TW;" name="重量" description="重量" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_7" attr_id="@attribute_id_ComputersLaptops_7" valusage="1" language_id="&zh_TW;" sequence="1" value="1 磅" integervalue="" floatvalue="" stringvalue="1 磅" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_15" attr_id="@attribute_id_ComputersLaptops_7" valusage="1" language_id="&zh_TW;" sequence="2" value="2 磅" integervalue="" floatvalue="" stringvalue="2 磅" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_26" attr_id="@attribute_id_ComputersLaptops_7" valusage="1" language_id="&zh_TW;" sequence="3" value="3 磅" integervalue="" floatvalue="" stringvalue="3 磅" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersLaptopsWeight -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Memory -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_1" attrtype_id="STRING" language_id="&zh_TW;" name="記憶體" description="記憶體" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_1_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_9_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="2" value="4 GB" integervalue="" floatvalue="" stringvalue="4 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_23_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_1" valusage="1" language_id="&zh_TW;" sequence="3" value="8 GB" integervalue="" floatvalue="" stringvalue="8 GB" />
+<!--end of  Memory -->
+<!--start of  Battery Life -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_4" attrtype_id="STRING" language_id="&zh_TW;" name="電池壽命" description="電池壽命" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="1" value="2 小時" integervalue="" floatvalue="" stringvalue="2 小時" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="1" value="2 小時" integervalue="" floatvalue="" stringvalue="2 小時" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_4_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="1" value="2 小時" integervalue="" floatvalue="" stringvalue="2 小時" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_12_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="2" value="3 小時" integervalue="" floatvalue="" stringvalue="3 小時" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_18_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="3" value="6 小時" integervalue="" floatvalue="" stringvalue="6 小時" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_21_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_4" valusage="1" language_id="&zh_TW;" sequence="4" value="8 小時" integervalue="" floatvalue="" stringvalue="8 小時" />
+<!--end of  Battery Life -->
+<!--start of  Weight -->
+<attrdesc attr_id="@attribute_id_ComputersLaptops_3" attrtype_id="STRING" language_id="&zh_TW;" name="重量" description="重量" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2201" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="1" value="1 磅" integervalue="" floatvalue="" stringvalue="1 磅" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2203" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="1" value="1 磅" integervalue="" floatvalue="" stringvalue="1 磅" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_3_CLA022_2204" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="1" value="1 磅" integervalue="" floatvalue="" stringvalue="1 磅" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2202" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="2" value="2 磅" integervalue="" floatvalue="" stringvalue="2 磅" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_11_CLA022_2206" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="2" value="2 磅" integervalue="" floatvalue="" stringvalue="2 磅" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersLaptops_24_CLA022_2205" attr_id="@attribute_id_ComputersLaptops_3" valusage="1" language_id="&zh_TW;" sequence="3" value="3 磅" integervalue="" floatvalue="" stringvalue="3 磅" />
+<!--end of  Weight -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

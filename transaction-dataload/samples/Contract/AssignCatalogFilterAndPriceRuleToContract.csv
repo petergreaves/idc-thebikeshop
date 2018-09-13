@@ -1,0 +1,4 @@
+AssignCatalogFilterAndPriceRuleToContract,storeIdentifier=AuroraESite,catalogIdentifier=ExtendedSitesCatalogAssetStore
+ContractName,CatalogFilterIdentifier,PriceRuleIdentifier
+AuroraStorefrontAssetStore Base for Default Contract,default catalog filter for store AuroraStorefrontAssetStore,Offer price rule
+AuroraESite - AuroraESite,,Offer price rule

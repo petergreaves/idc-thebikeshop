@@ -1,0 +1,75 @@
+
+<attrdesc attr_id="@swatchdress_size_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Available Sizes" description="Available Sizes" qtyunit_id="C62"/>
+<attrdesc attr_id="@swatchdress_color_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Color" description="Color" qtyunit_id="C62"/>
+
+
+
+
+
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_1" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="2" value="S" stringvalue="S" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_s_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_2" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="3" value="M" stringvalue="M" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_m_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_3" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="4" value="L" stringvalue="L" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_l_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_4" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="1" value="XS" stringvalue="XS" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xs_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_5" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="5" value="XL" stringvalue="XL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xl_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_6" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&en_US;" sequence="6" value="XXL" stringvalue="XXL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xxl_enabled.png"/>
+
+
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_1" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="1" value="Red" stringvalue="Red" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_red.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_2" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="2" value="Teal" stringvalue="Teal" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_teal.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_3" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="3" value="Yellow" stringvalue="Yellow" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_yellow.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_4" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="4" value="Gray" stringvalue="Gray" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gray.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_5" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="5" value="Orange"  stringvalue="Orange" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_orange.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_6" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="6" value="Blue" stringvalue="Blue" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_blue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_7" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="7" value="Purple" stringvalue="Purple" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_8" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="8" value="White" stringvalue="White" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_white.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_9" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="9" value="Silver" stringvalue="Silver" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_silver.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_10" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="10" value="Brown" stringvalue="Brown" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_brown.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_11" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="11" value="Pink"  stringvalue="Pink" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_pink.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_12" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="12" value="Light Blue" stringvalue="Light Blue" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_lightblue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_13" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Violet" stringvalue="Violet" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_14" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Black" stringvalue="Black" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_black.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_15" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Beige" stringvalue="Beige" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_beige.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_16" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Dark Blue" stringvalue="Dark Blue" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_navy.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_17" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Gold" stringvalue="Gold" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gold.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_18" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&en_US;" sequence="13" value="Green" stringvalue="Green" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_green.png"/>
+
+
+
+
+
+
+<attrdesc attr_id="@dress_construction_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Construction" description="construction" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_length_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Length" description="length" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_material_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Material" description="material" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_occasion_attribute_id" attrtype_id="STRING" language_id="&en_US;" name="Occasion" description="occasion" qtyunit_id="C62"/>
+
+
+
+
+<attrvaldesc attrval_id="@dress_construction_attribute_value_1" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&en_US;" sequence="19" value="Knit" stringvalue="Knit" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_construction_attribute_value_2" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&en_US;" sequence="19" value="Woven" stringvalue="Woven" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_length_attribute_value_1" attr_id="@dress_length_attribute_id" valusage="1" language_id="&en_US;" sequence="20" value="Short" stringvalue="Short" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_2" attr_id="@dress_length_attribute_id" valusage="1" language_id="&en_US;" sequence="21" value="Mid Length" stringvalue="Mid Length" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_3" attr_id="@dress_length_attribute_id" valusage="1" language_id="&en_US;" sequence="21" value="Long" stringvalue="Long" qtyunit_id="C62" />
+
+<attrvaldesc attrval_id="@dress_material_attribute_value_1" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="21" value="Synthetic" stringvalue="Synthetic" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_2" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="22" value="Georgette" stringvalue="Georgette" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_3" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="23" value="Cotton blend" stringvalue="Cotton blend" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_4" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="24" value="100% cotton" stringvalue="100% cotton" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_5" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="24" value="Silk" stringvalue="Silk" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_6" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="24" value="Denim" stringvalue="Denim" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_7" attr_id="@dress_material_attribute_id" valusage="1" language_id="&en_US;" sequence="24" value="Wool" stringvalue="Wool" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_1" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&en_US;" sequence="25" value="Cocktail &amp; Evening" stringvalue="Cocktail &amp; Evening" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_2" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&en_US;" sequence="26" value="Casual" stringvalue="Casual" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_3" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&en_US;" sequence="27" value="Career" stringvalue="Career" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_4" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&en_US;" sequence="28" value="Career, casual" stringvalue="Career, Casual" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_5" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&en_US;" sequence="26" value="Cocktail &amp; Evening, Casual" stringvalue="Cocktail &amp; Evening, Casual" qtyunit_id="C62" />
+

@@ -1,0 +1,15 @@
+SearchAttributeProperty,,
+SearchAttributeIdentifier,propertyName,propertyValue
+_cat.OfferPrice_INR,facet,price_INR:{* 100} 100;{100 200} 200;{200 300} 300;{300 400} 400;{400 500} 500;{500 *}
+_cat.OfferPrice_INR,sort,price_INR
+_cat.OfferPrice_INR,rank,price_INR
+_cat.OfferPrice_INR,display,price_INR
+_cat.OfferPrice_INR,filter,price_INR
+_cat.OfferPrice_INR,catalogFilter,price_INR
+_cat.OfferPrice_INR,merchandising-Sort-Numeric,price_INR
+_cat.OfferPrice_INR,merchandising-FacetExclusion,price_INR
+_cat.ListPrice_INR,sort,listprice_INR
+_cat.ListPrice_INR,rank,listprice_INR
+_cat.ListPrice_INR,display,listprice_INR
+_cat.ListPrice_INR,filter,listprice_INR
+_cat.ListPrice_INR,catalogFilter,listprice_INR

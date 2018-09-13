@@ -1,0 +1,110 @@
+
+
+<!--BEGIN Defining attribute description  MenPantsInseam Length -->
+<attrdesc attr_id="@attribute_id_MenPants_7" attrtype_id="INTEGER" language_id="&ro_RO;" name="Lungime tiv" description="Lungime tiv" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_9" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ro_RO;" sequence="1" value="30" integervalue="30" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_10" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ro_RO;" sequence="2" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_11" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ro_RO;" sequence="3" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_17" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ro_RO;" sequence="4" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsInseam Length -->
+<!--BEGIN Defining attribute description  MenPantsWaist Size -->
+<attrdesc attr_id="@attribute_id_MenPants_6" attrtype_id="INTEGER" language_id="&ro_RO;" name="Dimensiune talie" description="Dimensiune talie" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_6" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ro_RO;" sequence="1" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_7" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ro_RO;" sequence="2" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_8" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ro_RO;" sequence="3" value="38" integervalue="38" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_15" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ro_RO;" sequence="4" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_16" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ro_RO;" sequence="5" value="40" integervalue="40" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsWaist Size -->
+<!--BEGIN Defining attribute description  MenPantsColor -->
+<attrdesc attr_id="@attribute_id_MenPants_8" attrtype_id="STRING" language_id="&ro_RO;" name="Culoare" description="Culoare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_12" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="1" value="Albastru" integervalue="" floatvalue="" stringvalue="Albastru" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_18" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="2" value="Albastru-deschis" integervalue="" floatvalue="" stringvalue="Albastru-deschis" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_26" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="3" value="Gri" integervalue="" floatvalue="" stringvalue="Gri" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_28" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="4" value="Bleumarin" integervalue="" floatvalue="" stringvalue="Bleumarin" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_32" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="5" value="Gri" integervalue="" floatvalue="" stringvalue="Gri" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_37" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ro_RO;" sequence="6" value="Cărbune" integervalue="" floatvalue="" stringvalue="Cărbune" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenPants_2" attrtype_id="STRING" language_id="&ro_RO;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1001" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1002" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1004" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1006" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1007" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1009" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1014" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1019" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1021" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1022" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_22_MCL010_1005" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Lână, spandex" integervalue="" floatvalue="" stringvalue="Lână, spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_31_MCL010_1010" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Lână" integervalue="" floatvalue="" stringvalue="Lână" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_33_MCL010_1011" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="4" value="Poliester" integervalue="" floatvalue="" stringvalue="Poliester" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_34_MCL010_1013" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="5" value="Denim şi spandex" integervalue="" floatvalue="" stringvalue="Denim şi spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_35_MCL010_1015" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ro_RO;" sequence="6" value="Gabardină" integervalue="" floatvalue="" stringvalue="Gabardină" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenPants_1" attrtype_id="STRING" language_id="&ro_RO;" name="Stil" description="Stil" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1001" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1006" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1013" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1014" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1019" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1022" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Drepţi" integervalue="" floatvalue="" stringvalue="Drepţi" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_13_MCL010_1002" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Confort" integervalue="" floatvalue="" stringvalue="Confort" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1004" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Relaxat" integervalue="" floatvalue="" stringvalue="Relaxat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1007" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Relaxat" integervalue="" floatvalue="" stringvalue="Relaxat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1009" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Relaxat" integervalue="" floatvalue="" stringvalue="Relaxat" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_21_MCL010_1005" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="4" value="Ajustat pe corp" integervalue="" floatvalue="" stringvalue="Ajustat pe corp" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_21_MCL010_1015" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="4" value="Ajustat pe corp" integervalue="" floatvalue="" stringvalue="Ajustat pe corp" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_30_MCL010_1010" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Slab" integervalue="" floatvalue="" stringvalue="Slab" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_30_MCL010_1011" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Slab" integervalue="" floatvalue="" stringvalue="Slab" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_39_MCL010_1021" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ro_RO;" sequence="6" value="Slab, talie joasă" integervalue="" floatvalue="" stringvalue="Slab, talie joasă" />
+<!--end of  Style -->
+<!--start of  Front -->
+<attrdesc attr_id="@attribute_id_MenPants_5" attrtype_id="STRING" language_id="&ro_RO;" name="Închidere în faţă" description="Închidere în faţă" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1001" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1002" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1004" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1006" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1009" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1013" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1014" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1021" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1022" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Închidere cu nasture şi fermoar" integervalue="" floatvalue="" stringvalue="Închidere cu nasture şi fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1005" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="2" value="Plat, închidere cu fermoar" integervalue="" floatvalue="" stringvalue="Plat, închidere cu fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1010" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="2" value="Plat, închidere cu fermoar" integervalue="" floatvalue="" stringvalue="Plat, închidere cu fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1011" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="2" value="Plat, închidere cu fermoar" integervalue="" floatvalue="" stringvalue="Plat, închidere cu fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_29_MCL010_1007" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="3" value="Închidere cu nasturi până sus" integervalue="" floatvalue="" stringvalue="Închidere cu nasturi până sus" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_36_MCL010_1015" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="4" value="Cu o singură cură, închidere cu fermoar" integervalue="" floatvalue="" stringvalue="Cu o singură cură, închidere cu fermoar" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_38_MCL010_1019" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ro_RO;" sequence="5" value="Închidere cu nasturi" integervalue="" floatvalue="" stringvalue="Închidere cu nasturi" />
+<!--end of  Front -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_MenPants_3" attrtype_id="STRING" language_id="&ro_RO;" name="Ocazie" description="Ocazie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1001" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1002" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1004" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1006" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1007" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1009" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1013" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1014" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1019" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1021" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1022" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1005" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="2" value="De afaceri" integervalue="" floatvalue="" stringvalue="De afaceri" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1010" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="2" value="De afaceri" integervalue="" floatvalue="" stringvalue="De afaceri" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1011" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="2" value="De afaceri" integervalue="" floatvalue="" stringvalue="De afaceri" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1015" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ro_RO;" sequence="2" value="De afaceri" integervalue="" floatvalue="" stringvalue="De afaceri" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->
+

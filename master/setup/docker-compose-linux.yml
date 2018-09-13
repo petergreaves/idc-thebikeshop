@@ -1,0 +1,43 @@
+version: "2.0"
+services:
+ web:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-web:20180807000000
+  network_mode: "host"
+  extra_hosts:
+   - "app:127.0.0.1"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+ app:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-app:20180807000000
+  network_mode: "host"
+  extra_hosts:
+   - "search:127.0.0.1"
+   - "store:127.0.0.1"
+   - "xc:127.0.0.1"
+   - "db:127.0.0.1"
+  volumes:
+   - "../../transaction-config/xml:/SETUP/app/customization"
+   - "../../transaction-dataload/data:/SETUP/app/dataload"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+ db:
+  image: registry.ng.bluemix.net/digitalcommerce/ts-db:20180807000000
+  privileged: true
+  network_mode: "host"
+  environment:
+   - LICENSE=${IDCLICENSE}
+
+ search:
+  image: registry.ng.bluemix.net/digitalcommerce/search-app:20180807000000
+  network_mode: "host"
+  environment:
+   - SOLR_MASTER=true
+  volumes:
+  - "../../search-runtime:/search-config/search-runtime"
+  extra_hosts:
+   - "xc:127.0.0.1"
+   - "store:127.0.0.1"
+   - "app:127.0.0.1"
+   - "db:127.0.0.1"

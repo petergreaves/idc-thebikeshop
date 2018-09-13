@@ -1,0 +1,78 @@
+
+<emspot emspot_id="@madisons_emspot_id_health0004" storeent_id="&MAR_STOREENT_ID;"  name="HealthRow3_Categories" description="Health Category Recommendation For Stores" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_health_espot_title_1" emspot_id="@madisons_emspot_id_health0004" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title_1" />
+
+<dmactivity behavior="0"
+  dmactivity_id="@dmactivity_id_health0004"
+  storeent_id="&MAR_STOREENT_ID;"
+  name="HealthRow3_Categories"
+  version="1"
+  published="1"
+  state="1"
+  startdate="2007-10-01 16:00:00.001"
+  enddate="2999-12-31 23:59:59.001"
+  priority="1"
+  dmacttype_id="0"
+  repeatable="1"
+  created="2007-10-01 16:00:00.001"
+  lastupdate="2007-10-01 16:00:00.001"
+  lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+  description="Health Category Recommendations For Stores"
+  optcounter="0"
+/>
+
+<dmelement
+  dmelement_id="@dmelement_id0_health0004"
+  name="0"
+  dmeletemplate_id="6"
+  dmactivity_id="@dmactivity_id_health0004"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id1_health0004"
+  name="1"
+  dmeletemplate_id="105" parent="0" sequence="1000.0"
+  dmactivity_id="@dmactivity_id_health0004"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id2_health0004"
+  name="2"
+  dmeletemplate_id="302" parent="0" sequence="2000.0"
+  dmactivity_id="@dmactivity_id_health0004"
+  optcounter="0"
+/>
+
+<dmtriglstn
+  dmelement_id="@dmelement_id1_health0004"
+  name="DisplayEms"
+  storeent_id="&MAR_STOREENT_ID;"
+  allusers="1"
+  dmactivity_id="@dmactivity_id_health0004"
+  optcounter="0"
+/>
+
+<dmelementnvp
+  dmelement_id="@dmelement_id1_health0004"
+  name="emsId"
+  value="@dmelement_id1_health0004"
+  triggermatch="1"
+  optcounter="0"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_health0004"
+  name="categoryIdList"
+  value="@dmelement_id2_health0004_cat1"
+  triggermatch="0"
+  optcounter="0"
+  sequence="1"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_health0004"
+  name="categoryIdList"
+  value="@dmelement_id2_health0004_cat2"
+  triggermatch="0"
+  optcounter="0"
+  sequence="2"
+/>

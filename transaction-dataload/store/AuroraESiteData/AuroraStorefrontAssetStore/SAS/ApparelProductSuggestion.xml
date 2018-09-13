@@ -1,0 +1,2233 @@
+<emspot emspot_id="@madisons_emspot_id_prod01_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenShirtsBlousesProductRight_CatEntries" description="Product Recommendation in Shirts and Blouses for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod01_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod01_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod01_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenShirtsBlousesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shirts and Blouses for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod01_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod01_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod01_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod01_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod01_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod01_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod01_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod01_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod01_p631"
+    name="emsId"
+    value="@new_emspot_id_prod01_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod01_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod01_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod01_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod01_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod01_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod01_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod01_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod01_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod02_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenSweatersProductRight_CatEntries" description="Product Recommendation in Sweaters for Women " usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod02_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod02_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod02_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenSweatersProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Sweaters for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod02_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod02_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod02_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod02_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod02_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod02_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod02_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod02_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod02_p631"
+    name="emsId"
+    value="@new_emspot_id_prod02_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod02_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod02_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod02_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod02_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod02_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod02_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod02_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod02_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod03_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenSkirtsProductRight_CatEntries" description="Product Recommendation in Skirts for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod03_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod03_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod03_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenSkirtsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Skirts for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod03_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod03_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod03_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod03_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod03_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod03_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod03_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod03_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod03_p631"
+    name="emsId"
+    value="@new_emspot_id_prod03_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod03_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod03_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod03_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod03_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod03_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod03_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod03_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod03_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod04_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenPantsProductRight_CatEntries" description="Product Recommendation in Pants for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod04_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod04_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod04_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenPantsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Pants for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod04_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod04_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod04_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod04_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod04_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod04_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod04_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod04_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod04_p631"
+    name="emsId"
+    value="@new_emspot_id_prod04_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod04_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod04_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod04_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod04_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod04_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod04_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod04_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod04_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod05_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenShoesProductRight_CatEntries" description="Product Recommendation in Shoes for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod05_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod05_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod05_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenShoesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shoes for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod05_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod05_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod05_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod05_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod05_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod05_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod05_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod05_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod05_p631"
+    name="emsId"
+    value="@new_emspot_id_prod05_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod05_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod05_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod05_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod05_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod05_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod05_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod05_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod05_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod06_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenHandbagsProductRight_CatEntries" description="Product Recommendation in Handbags for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod06_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod06_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod06_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenHandbagsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Handbags for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod06_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod06_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod06_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod06_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod06_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod06_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod06_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod06_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod06_p631"
+    name="emsId"
+    value="@new_emspot_id_prod06_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod06_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod06_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod06_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod06_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod06_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod06_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod06_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod06_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod07_650" storeent_id="&MAR_STOREENT_ID;"  name="WomenAccessoriesProductRight_CatEntries" description="Product Recommendation in Accessories for Women" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod07_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod07_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod07_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="WomenAccessoriesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Accessories for Women"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod07_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod07_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod07_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod07_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod07_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod07_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod07_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod07_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod07_p631"
+    name="emsId"
+    value="@new_emspot_id_prod07_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod07_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod07_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod07_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod07_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod07_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod07_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod07_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod07_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod08_650" storeent_id="&MAR_STOREENT_ID;"  name="MenAccessoriesProductRight_CatEntries" description="Product Recommendation in Accessories for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod08_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod08_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod08_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenAccessoriesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Accessories for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod08_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod08_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod08_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod08_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod08_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod08_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod08_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod08_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod08_p631"
+    name="emsId"
+    value="@new_emspot_id_prod08_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod08_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod08_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod08_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod08_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod08_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod08_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod08_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod08_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod09_650" storeent_id="&MAR_STOREENT_ID;"  name="MenShoesProductRight_CatEntries" description="Product Recommendation in Shoes for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod09_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod09_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod09_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenShoesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shoes for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod09_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod09_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod09_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod09_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod09_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod09_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod09_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod09_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod09_p631"
+    name="emsId"
+    value="@new_emspot_id_prod09_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod09_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod09_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod09_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod09_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod09_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod09_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod09_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod09_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod010_650" storeent_id="&MAR_STOREENT_ID;"  name="MenPantsProductRight_CatEntries" description="Product Recommendation in Pants for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod010_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod010_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod010_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenPantsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Pants for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod010_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod010_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod010_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod010_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod010_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod010_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod010_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod010_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod010_p631"
+    name="emsId"
+    value="@new_emspot_id_prod010_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod010_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod010_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod010_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod010_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod010_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod010_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod010_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod010_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod011_650" storeent_id="&MAR_STOREENT_ID;"  name="MenSuitsProductRight_CatEntries" description="Product Recommendation in Suits for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod011_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod011_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod011_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenSuitsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Suits for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod011_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod011_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod011_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod011_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod011_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod011_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod011_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod011_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod011_p631"
+    name="emsId"
+    value="@new_emspot_id_prod011_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod011_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod011_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod011_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod011_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod011_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod011_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod011_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod011_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod012_650" storeent_id="&MAR_STOREENT_ID;"  name="MenShirtsProductRight_CatEntries" description="Product Recommendation in Shirts for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod012_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod012_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod012_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenShirtsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shirts for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod012_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod012_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod012_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod012_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod012_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod012_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod012_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod012_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod012_p631"
+    name="emsId"
+    value="@new_emspot_id_prod012_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod012_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod012_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod012_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod012_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod012_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod012_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod012_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod012_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod013_650" storeent_id="&MAR_STOREENT_ID;"  name="MenJacketsProductRight_CatEntries" description="Product Recommendation in Jackets for Men" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod013_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod013_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod013_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenJacketsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Jackets for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod013_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod013_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod013_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod013_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod013_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod013_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod013_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod013_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod013_p631"
+    name="emsId"
+    value="@new_emspot_id_prod013_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod013_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod013_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod013_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod013_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod013_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod013_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod013_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod013_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod014_650" storeent_id="&MAR_STOREENT_ID;"  name="GirlsShoesProductRight_CatEntries" description="Product Recommendation in Shoes for Girls" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod014_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod014_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod014_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GirlsShoesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shoes for Girls"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod014_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod014_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod014_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod014_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod014_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod014_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod014_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod014_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod014_p631"
+    name="emsId"
+    value="@new_emspot_id_prod014_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod014_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod014_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod014_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod014_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod014_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod014_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod014_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod014_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod015_650" storeent_id="&MAR_STOREENT_ID;"  name="GirlsPantsProductRight_CatEntries" description="Product Recommendation in Pants for Girls" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod015_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod015_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod015_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GirlsPantsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Pants for Girls"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod015_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod015_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod015_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod015_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod015_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod015_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod015_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod015_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod015_p631"
+    name="emsId"
+    value="@new_emspot_id_prod015_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod015_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod015_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod015_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod015_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod015_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod015_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod015_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod015_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod016_650" storeent_id="&MAR_STOREENT_ID;"  name="GirlsDressesSkirtsProductRight_CatEntries" description="Product Recommendation in Dresses and Skirts for Girls" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod016_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod016_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod016_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GirlsDressesSkirtsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Girls and Dresses for Girls"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod016_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod016_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod016_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod016_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod016_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod016_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod016_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod016_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod016_p631"
+    name="emsId"
+    value="@new_emspot_id_prod016_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod016_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod016_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod016_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod016_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod016_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod016_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod016_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod016_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod017_650" storeent_id="&MAR_STOREENT_ID;"  name="GirlsTopsProductRight_CatEntries" description="Product Recommendation in Tops for Girls" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod017_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod017_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod017_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GirlsTopsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Tops for Girls"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod017_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod017_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod017_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod017_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod017_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod017_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod017_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod017_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod017_p631"
+    name="emsId"
+    value="@new_emspot_id_prod017_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod017_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod017_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod017_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod017_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod017_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod017_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod017_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod017_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+	<emspot emspot_id="@madisons_emspot_id_prod018_650" storeent_id="&MAR_STOREENT_ID;"  name="BoysPantsProductRight_CatEntries" description="Product Recommendation in Pants for Boys" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod018_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod018_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod018_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BoysPantsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Pants for Boys"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod018_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod018_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod018_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod018_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod018_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod018_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod018_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod018_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod018_p631"
+    name="emsId"
+    value="@new_emspot_id_prod018_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod018_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod018_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod018_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod018_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod018_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod018_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod018_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod018_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+
+
+<emspot emspot_id="@madisons_emspot_id_prod019_650" storeent_id="&MAR_STOREENT_ID;"  name="BoysTopsProductRight_CatEntries" description="Product Recommendation in Tops for Boys" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod019_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod019_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod019_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BoysTopsProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Tops for Boys"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod019_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod019_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod019_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod019_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod019_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod019_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod019_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod019_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod019_p631"
+    name="emsId"
+    value="@new_emspot_id_prod019_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod019_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod019_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod019_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod019_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod019_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod019_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod019_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod019_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+<emspot emspot_id="@madisons_emspot_id_prod020_650" storeent_id="&MAR_STOREENT_ID;"  name="BoysShoesProductRight_CatEntries" description="Product Recommendation in Shoes for Boys" usagetype="MARKETING" />
+
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod020_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod020_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod020_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BoysShoesProductRight_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Shoes for Boys"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod020_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod020_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod020_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod020_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod020_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod020_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod020_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod020_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod020_p631"
+    name="emsId"
+    value="@new_emspot_id_prod020_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod020_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod020_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod020_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod020_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod020_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod020_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod020_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod020_653"
+    triggermatch="0"
+    optcounter="0"  />
+	
+<collateral collateral_id="@collateral_id_apparel_espot_title" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="ApparelESpotDefaultTitle" />
+	
+<emspot emspot_id="@madisons_emspot_id_prod21_650" storeent_id="&MAR_STOREENT_ID;"  name="MenRow4_CatEntries" description="Product Recommendation for Men" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_men_espot_title" emspot_id="@madisons_emspot_id_prod21_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />	
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod21_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod21_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod21_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="MenRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation for Men"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod21_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod21_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod21_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod21_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod21_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod21_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod21_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod21_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod21_p631"
+    name="emsId"
+    value="@new_emspot_id_prod21_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod21_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod21_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod21_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod21_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod21_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod21_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod21_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod21_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+	
+
+
+<emspot emspot_id="@madisons_emspot_id_prod22_650" storeent_id="&MAR_STOREENT_ID;"  name="BoysRow4_CatEntries" description="Product Recommendation for Boys" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_boys_espot_title" emspot_id="@madisons_emspot_id_prod22_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />	
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod22_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod22_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod22_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="BoysRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation for Boys"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod22_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod22_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod22_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod22_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod22_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod22_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod22_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod22_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod22_p631"
+    name="emsId"
+    value="@new_emspot_id_prod22_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod22_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod22_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod22_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod22_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod22_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod22_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod22_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod22_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+<emspot emspot_id="@madisons_emspot_id_prod23_650" storeent_id="&MAR_STOREENT_ID;"  name="GirlsRow4_CatEntries" description="Product Recommendation for Girls" usagetype="MARKETING" />
+
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_girls_espot_title" emspot_id="@madisons_emspot_id_prod23_650" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_apparel_espot_title" />	
+
+<dmemspotcmd dmemspotcmd_id="@madisons_dmemspotcmd_id_prod23_650" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@madisons_emspot_id_prod23_650" dmemspotord_id="-3" />
+
+
+<dmactivity behavior="0"
+    dmactivity_id="@new_dmactivity_id_prod23_p650"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="GirlsRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation for Girls"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod23_p630"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@new_dmactivity_id_prod23_p650"
+    sequence="0"
+    optcounter="0"  />
+
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod23_p631"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@new_dmactivity_id_prod23_p650"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@new_dmelement_id_prod23_p632"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@new_dmactivity_id_prod23_p650"
+    parent="p20"
+    sequence="3000"
+    optcounter="0"  />
+
+	<dmtriglstn
+    dmelement_id="@new_dmelement_id_prod23_p631"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@new_dmactivity_id_prod23_p650"
+    optcounter="0"  />
+
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod23_p631"
+    name="emsId"
+    value="@new_emspot_id_prod23_651"
+    triggermatch="1"
+    optcounter="0"  />
+
+
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod23_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod23_650"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod23_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod23_651"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod23_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod23_652"
+    triggermatch="0"
+    optcounter="0"  />
+<dmelementnvp
+    dmelement_id="@new_dmelement_id_prod23_p632"
+    name="catalogEntryIdList"
+    value="@catentry_id_prod23_653"
+    triggermatch="0"
+    optcounter="0"  />
+
+
+
+
+

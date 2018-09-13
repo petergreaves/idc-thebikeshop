@@ -1,0 +1,93 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_HomeFurnishings"
+   name="Мебель и благоустройство"
+   shortdescription="Мебель и благоустройство"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="Мебель и благоустройство"
+/>
+
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_BathAccessories"
+   name="Товары для ванной"
+   shortdescription="Товары для ванной"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   keyword="Товары для ванной"
+/>
+
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Appliances"
+   name="Бытовая техника"
+   shortdescription="Бытовая техника"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="Бытовая техника"
+/>
+
+
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Furniture"
+   name="Мебель"
+   shortdescription="Мебель"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   keyword="Мебель"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Lighting"
+   name="Осветительные приборы"
+   shortdescription="Осветительные приборы"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   keyword="Осветительные приборы"
+/>
+
+
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Tableware"
+   name="Столовая посуда"
+   shortdescription="Столовая посуда"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   keyword="Столовая посуда"
+/>
+<catgrpdesc
+   language_id="&ru_RU;"
+   catgroup_id="@catgroup_id_Kitchenware"
+   name="Кухонные принадлежности"
+   shortdescription="Кухонные принадлежности"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   keyword="Кухонные принадлежности"
+/>
+

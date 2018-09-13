@@ -1,0 +1,58 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="Qui sommes-nous ?" description="Vue présentant la page qui sommes-nous du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="Vue présentant l'en-tête commun du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="Vue présentant la page nous contacter du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="Vue présentant la page de confirmation de contact du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="Vue présentant la page de création de magasin du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="Vue présentant la page de la foire aux questions du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="Vue présentant la page de connexion du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="Vue présentant la page du formulaire de connexion du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="Vue présentant le cadre de navigation du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="Vue présentant la page des prix du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="Vue présentant la page d'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="Vue présentant la page d'aboutissement de l'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="Vue présentant la page des services fournis du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="Vue présentant la page de l'index du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="Vue présentant le lien vers la zone publique à partir du magasin du canal" language_id="&fr_FR;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="Vue présentant la page de bienvenue du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="Vue présentant la page d'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="Vue présentant la page d'aboutissement de l'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="Vue présentant la page d'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="Vue présentant la page d'aboutissement de l'enregistrement du magasin du canal" language_id="&fr_FR;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="Vues du magasin du canal accessibles à tous les utilisateurs" description="Vues du magasin du canal accessibles à tous les utilisateurs" language_id="&fr_FR;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="Tous les utilisateurs peuvent exécuter les vues du magasin du canal accessibles à tous les utilisateurs" description="Tous les utilisateurs peuvent exécuter les vues du magasin du canal accessibles à tous les utilisateurs" language_id="&fr_FR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="Les administrateurs de contrats dans l'organisation Canal peuvent exécuter des commandes de création sur une ressource membre" description="Les administrateurs de contrats peuvent créer des contrats dans l'organisation Canal" language_id="&fr_FR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="Les administrateurs de contrats dans l'organisation Canal peuvent exécuter des commandes de déploiement de contrat sur une ressource de contrat" description="Les administrateurs de contrats peuvent déployer des contrats dans l'organisation Canal" language_id="&fr_FR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="Les administrateurs de contrats dans l'organisation Canal peuvent afficher le groupe de ressources des beans de données de contrat" description="Les administrateurs de contrats peuvent afficher les beans de données de contrat dans l'organisation Canal" language_id="&fr_FR;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="Ensemble de stratégies Canal" description="Ce groupe de stratégies contient toutes les stratégies spécifiques du canal." language_id="&fr_FR;"/>
+

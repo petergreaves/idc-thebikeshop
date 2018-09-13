@@ -1,0 +1,47 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be calcodedsc.description, calcodedsc.longdescription -->
+<!-- That would be calscaleds.description, taxcgryds.description      -->
+
+
+<!--Table name:  CALCODEDSC -->
+<!--Purpose: Store description of CALCODE -->
+
+<calcodedsc
+   calcode_id="@calcode_id_3"
+   description="5% 消費税の計算コード"
+   language_id="&ja_JP;" 	
+   longdescription="5% 消費税の計算コード" 
+/>
+<calcodedsc
+   calcode_id="@calcode_id_4"
+   description="0% 配送税の計算コード"
+   language_id="&ja_JP;" 	
+   longdescription="0% 配送税の計算コード" 
+/>
+
+
+<!--Table name:  CALSCALEDS-->
+<!--Purpose: Store description of CALSCALE Scale Code -->
+
+<calscaleds
+   calscale_id="@calscale_id_13" 
+   description="5% の消費税"
+   language_id="&ja_JP;" 
+/>
+<calscaleds
+   calscale_id="@calscale_id_14" 
+   description="0% の配送税"
+   language_id="&ja_JP;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_1" 
+   description="消費税"
+   language_id="&ja_JP;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_2" 
+   description="配送税"
+   language_id="&ja_JP;" 
+/>
+

@@ -1,0 +1,227 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+import org.gradle.internal.os.OperatingSystem
+
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies { classpath ':runengine-plugins:+' }
+}
+
+plugins { id 'com.moowork.gulp' version '1.1.1' }
+apply plugin: 'com.moowork.node'
+
+node {
+	version = '6.12.3'
+	npmVersion = '2.14.12'
+	download = true
+}
+
+apply plugin: 'run-engine'
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+ext.serverName = 'crsServer_' + new Date().format('yyyyMMddHHmmss')
+ext.serverDisplayName = 'Store Test Server'
+ext.customArchiveName = 'store'
+ext.earName = 'crs'
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+evaluationDependsOn(':crs-custom-static')
+evaluationDependsOn(':crs-custom-web')
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task build {
+	description 'Builds the CRS SDK package'
+	group 'Build'
+}
+
+server{
+	name serverName
+	home project.libertyHome
+	copyConfiguration("${projectDir}/server")
+
+	configureServer{
+		libs("${workspaceDir}/master/engineLib")
+		configProperties "${projectDir}/server/config.properties"
+
+		run('set-transaction-server', project.wcHostName, '5443')
+		run('set-search-server', project.crsSearchHostName, '3738')
+
+		run('add-system-property', 'archaius.configurationSource.additionalUrls', "file:${project.libertyHome}/usr/servers/${project.serverName}/config/hystrix.properties")
+		run('add-system-property', 'archaius.fixedDelayPollingScheduler.delayMills', '1000')
+		run('add-system-property', 'archaius.fixedDelayPollingScheduler.initialDelayMills', '1000')
+		run('add-system-property', 'spi.username', 'spiuser')
+		run('add-system-property', 'spi.password', 'HraRKE7pAiEND1s5BjHiVJZnjIzmpmCwq3+x5Xd1yO4=')
+		run('add-system-property', 'user.timezone', 'UTC')
+		run('set-system-property', 'installDir.crs-custom-web', "${workspaceDir}/crs-custom-web/WebContent")
+		run('set-system-property', 'installDir.crs-ibm-web', "${workspaceDir}/crs/crs-ibm-web.war")
+		run('set-system-property', 'disable.tracespec.consumer', 'true')
+		run('set-system-property', 'client.encoding.override', 'UTF-8')
+	}
+}
+
+task copyAssets(type: Copy) {
+	description = 'Zip custom store static and custom web project'
+	group = 'bundle'
+
+	from ("$workspaceDir/master/version.txt")
+	destinationDir file("$buildDir/temp")
+
+	doLast {
+		def masterVersion = new File("$buildDir/temp/version.txt")
+		def tempVersion = new File("$workspaceDir/crs-master/version.txt").text
+		masterVersion.append(System.getProperty("line.separator") + "$tempVersion")
+	}
+}
+
+task bundle(type: Zip, dependsOn: [':crs-custom-web:build', 'build', 'copyAssets']) {
+	description = 'Zip custom store static and custom web project'
+	group = 'bundle'
+
+	def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+	from project('crs-custom-web').tasks.zipWeb
+	from project('crs-custom-static').tasks.zipStatic
+	from ("$buildDir/temp")
+	archiveName "${customArchiveName}-${buildLabel}.zip"
+	destinationDir file("$buildDir/distributions")
+
+	doLast{
+		println "Note: ${archiveName} bundle available in: $buildDir/distributions"
+ 	}
+}
+
+/* -- WCH Push Logic -- */
+
+// Determines if a file should be considered a static asset
+def isstatic(name) {
+	return name ==~ '(?i).*\\.((gif)|(jpe?g)|(js)|(json)|(swf)|(html?)|(png)|(bmp)|(css)|(doc)|(xls)|(ppt)|(ra)|(rpm)|(pdf)|(wav)|(te?xt)|(mpe?g)|(mov)|(avi)|(qt)|(ogg)|(mp4)|(map)|(ico)|(otf)|(ttf)|(woff)|(woff2)|(svg)|(eot))'
+}
+
+task copyWCHAssets {
+	dependsOn=['npmInstall']
+	doLast {
+
+		def managedAssetDirList = []
+		if (project.hasProperty('managedAssetsDir')) {
+			def String[] managedDirsFromGradleProperties = managedAssetsDir.split(',')
+			managedDirsFromGradleProperties.each { managedAssetDirList.add (it.trim()) }
+		}
+
+		def wchAssetsDir = "wch/wchAssets/assets"
+		def staticAssetsDir = "build/staticAssets"
+		copy {
+			from "${project(':crs-custom-web').projectDir}/WebContent"
+			into staticAssetsDir
+			includeEmptyDirs = false
+			eachFile { FileCopyDetails details ->
+				if (!isstatic(details.name)) {
+					details.exclude()
+				}
+			}
+		}
+
+		// exclude aurora assets
+		def auroraAssets = ['ExtendedSitesCatalogAssetStore/**', 'AuroraStorefrontAssetStore/**', 'AuroraB2BStorefrontAssetStore/**', 'media/**']
+		FileTree nonManagedAssetTree = fileTree(dir: staticAssetsDir, excludes: managedAssetDirList + auroraAssets)
+		copy {
+			from nonManagedAssetTree
+			into wchAssetsDir + "/StoreAssets"
+			includeEmptyDirs = false
+		}
+	}
+}
+
+def checkWCHCredentials(){
+	if (!project.hasProperty('wchUser') || !project.hasProperty('wchPassword') || !project.hasProperty('wchApiUrl')){
+		throw new GradleException('Missing wchCredentials. Content Hub task is not executed')
+	}
+}
+
+task pushWCHAssets(type: NpmTask) {
+	dependsOn=['copyWCHAssets']
+
+	def wchUser = project.hasProperty('wchUser') ? project.wchUser : 'MISSING_wchUser'
+	def wchPassword = project.hasProperty('wchPassword') ? project.wchPassword : 'MISSING_wchPassword'
+	def wchApiUrl = project.hasProperty('wchApiUrl') ? project.wchApiUrl : 'MISSING_wchApiUrl'
+	def argsList = ["run", "wchpushdev", "--", "--user", wchUser, "--password", wchPassword, "--url", wchApiUrl]
+
+	// push certain type when specified
+	if (!project.hasProperty('type')) {
+		argsList.add("-wat")
+	}
+	else if (type == 'managed') {
+		argsList.add("-at")
+	}
+	else {
+		argsList.add("-w")
+	}
+
+	// add additional options when specified
+	if (project.hasProperty('forcePush')) {
+		argsList.add("-I")
+	}
+	if (project.hasProperty('subDir')) {
+		argsList.add("--path")
+		argsList.add(subDir)
+	}
+	if (project.hasProperty('trace')) {
+		argsList.add("-v")
+	}
+	args = argsList
+
+	doLast {
+		checkWCHCredentials()
+	}
+}
+
+task deleteWCHAssets(type: NpmTask) {
+
+	def wchUser = project.hasProperty('wchUser') ? project.wchUser : 'MISSING_wchUser'
+	def wchPassword = project.hasProperty('wchPassword') ? project.wchPassword : 'MISSING_wchPassword'
+	def wchApiUrl = project.hasProperty('wchApiUrl') ? project.wchApiUrl : 'MISSING_wchApiUrl'
+	def fileName = project.hasProperty('file') ? 'StoreAssets/' + project.file : 'MISSING_file'
+	args = ["run", "wchdelete", "--", "--user", wchUser, "--password", wchPassword, "--url", wchApiUrl, "--named", fileName]
+
+	doLast {
+		checkWCHCredentials()
+	}
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

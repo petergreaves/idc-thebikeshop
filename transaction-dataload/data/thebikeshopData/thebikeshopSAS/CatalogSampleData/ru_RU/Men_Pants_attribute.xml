@@ -1,0 +1,110 @@
+
+
+<!--BEGIN Defining attribute description  MenPantsInseam Length -->
+<attrdesc attr_id="@attribute_id_MenPants_7" attrtype_id="INTEGER" language_id="&ru_RU;" name="Длина внутреннего шва" description="Длина внутреннего шва" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_9" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ru_RU;" sequence="1" value="30" integervalue="30" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_10" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ru_RU;" sequence="2" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_11" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ru_RU;" sequence="3" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_17" attr_id="@attribute_id_MenPants_7" valusage="1" language_id="&ru_RU;" sequence="4" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsInseam Length -->
+<!--BEGIN Defining attribute description  MenPantsWaist Size -->
+<attrdesc attr_id="@attribute_id_MenPants_6" attrtype_id="INTEGER" language_id="&ru_RU;" name="Размер талии" description="Размер талии" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_6" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ru_RU;" sequence="1" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_7" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ru_RU;" sequence="2" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_8" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ru_RU;" sequence="3" value="38" integervalue="38" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_15" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ru_RU;" sequence="4" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_16" attr_id="@attribute_id_MenPants_6" valusage="1" language_id="&ru_RU;" sequence="5" value="40" integervalue="40" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsWaist Size -->
+<!--BEGIN Defining attribute description  MenPantsColor -->
+<attrdesc attr_id="@attribute_id_MenPants_8" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_12" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="1" value="Синий" integervalue="" floatvalue="" stringvalue="Синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_18" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="2" value="Голубой" integervalue="" floatvalue="" stringvalue="Голубой" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_26" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="3" value="Серо-коричневый" integervalue="" floatvalue="" stringvalue="Серо-коричневый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_28" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="4" value="Темно-синий" integervalue="" floatvalue="" stringvalue="Темно-синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_32" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="5" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_37" attr_id="@attribute_id_MenPants_8" valusage="1" language_id="&ru_RU;" sequence="6" value="Темно-серый" integervalue="" floatvalue="" stringvalue="Темно-серый" qtyunit_id="C62" />
+<!--END Defining attribute description  MenPantsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenPants_2" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1001" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1002" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1004" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1006" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1007" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1009" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1014" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1019" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1021" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_2_MCL010_1022" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_22_MCL010_1005" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Шерсть, спандекс" integervalue="" floatvalue="" stringvalue="Шерсть, спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_31_MCL010_1010" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_33_MCL010_1011" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Полиэстер" integervalue="" floatvalue="" stringvalue="Полиэстер" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_34_MCL010_1013" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="5" value="Джинсовая ткань со спандексом" integervalue="" floatvalue="" stringvalue="Джинсовая ткань со спандексом" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_35_MCL010_1015" attr_id="@attribute_id_MenPants_2" valusage="1" language_id="&ru_RU;" sequence="6" value="Габардин" integervalue="" floatvalue="" stringvalue="Габардин" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenPants_1" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1001" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1006" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1013" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1014" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1019" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_1_MCL010_1022" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_13_MCL010_1002" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Удобные" integervalue="" floatvalue="" stringvalue="Удобные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1004" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Свободные" integervalue="" floatvalue="" stringvalue="Свободные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1007" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Свободные" integervalue="" floatvalue="" stringvalue="Свободные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_19_MCL010_1009" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Свободные" integervalue="" floatvalue="" stringvalue="Свободные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_21_MCL010_1005" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="4" value="Специально приспособленные" integervalue="" floatvalue="" stringvalue="Специально приспособленные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_21_MCL010_1015" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="4" value="Специально приспособленные" integervalue="" floatvalue="" stringvalue="Специально приспособленные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_30_MCL010_1010" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="5" value="Стройные" integervalue="" floatvalue="" stringvalue="Стройные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_30_MCL010_1011" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="5" value="Стройные" integervalue="" floatvalue="" stringvalue="Стройные" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_39_MCL010_1021" attr_id="@attribute_id_MenPants_1" valusage="1" language_id="&ru_RU;" sequence="6" value="Стройные, с заниженной талией" integervalue="" floatvalue="" stringvalue="Стройные, с заниженной талией" />
+<!--end of  Style -->
+<!--start of  Front -->
+<attrdesc attr_id="@attribute_id_MenPants_5" attrtype_id="STRING" language_id="&ru_RU;" name="Перед" description="Перед" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1001" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1002" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1004" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1006" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1009" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1013" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1014" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1021" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_5_MCL010_1022" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Ширинка на молнии, планка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на молнии, планка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1005" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Плоская, ширинка на молнии" integervalue="" floatvalue="" stringvalue="Плоская, ширинка на молнии" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1010" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Плоская, ширинка на молнии" integervalue="" floatvalue="" stringvalue="Плоская, ширинка на молнии" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_25_MCL010_1011" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Плоская, ширинка на молнии" integervalue="" floatvalue="" stringvalue="Плоская, ширинка на молнии" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_29_MCL010_1007" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="3" value="Ширинка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на пуговицах" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_36_MCL010_1015" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="4" value="С одной складкой, ширинка на молнии" integervalue="" floatvalue="" stringvalue="С одной складкой, ширинка на молнии" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_38_MCL010_1019" attr_id="@attribute_id_MenPants_5" valusage="1" language_id="&ru_RU;" sequence="5" value="Ширинка на пуговицах" integervalue="" floatvalue="" stringvalue="Ширинка на пуговицах" />
+<!--end of  Front -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_MenPants_3" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="Нарядные" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1001" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1002" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1004" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1006" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1007" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1009" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1013" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1014" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1019" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1021" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_3_MCL010_1022" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1005" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1010" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1011" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenPants_23_MCL010_1015" attr_id="@attribute_id_MenPants_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->
+

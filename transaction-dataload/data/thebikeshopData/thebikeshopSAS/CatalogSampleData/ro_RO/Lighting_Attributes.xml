@@ -1,0 +1,88 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : LightingColor -->
+<attrdesc attr_id="@attribute_id_Lighting_5" attrtype_id="STRING" language_id="&ro_RO;" name="Culoare" description="Culoare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_5" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="1" value="Ro­u" integervalue="" floatvalue="" stringvalue="Ro­u" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_7" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="2" value="Alb" integervalue="" floatvalue="" stringvalue="Alb" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_13" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="3" value="Argint" integervalue="" floatvalue="" stringvalue="Argint" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_15" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="4" value="Curăţare" integervalue="" floatvalue="" stringvalue="Curăţare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_19" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="5" value="Negru" integervalue="" floatvalue="" stringvalue="Negru" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_20" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="6" value="Ciocolată" integervalue="" floatvalue="" stringvalue="Ciocolată" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_22" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="7" value="Ivoriu" integervalue="" floatvalue="" stringvalue="Ivoriu" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_24" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="8" value="Gri" integervalue="" floatvalue="" stringvalue="Gri" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_25" attr_id="@attribute_id_Lighting_5" valusage="1" language_id="&ro_RO;" sequence="9" value="Portocaliu" integervalue="" floatvalue="" stringvalue="Portocaliu" qtyunit_id="C62" />
+<!--END Defining attribute description : LightingColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Height -->
+<attrdesc attr_id="@attribute_id_Lighting_3" attrtype_id="STRING" language_id="&ro_RO;" name="Înălţime" description="Înălţime" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2801" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2802" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2805" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2807" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2808" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2809" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2810" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2811" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2812" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2813" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2815" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2816" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2817" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2818" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_3_HLG028_2819" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Medium" integervalue="" floatvalue="" stringvalue="Medium" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2803" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="2" value="Înalt" integervalue="" floatvalue="" stringvalue="Înalt" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2806" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="2" value="Înalt" integervalue="" floatvalue="" stringvalue="Înalt" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_9_HLG028_2814" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="2" value="Înalt" integervalue="" floatvalue="" stringvalue="Înalt" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_11_HLG028_2804" attr_id="@attribute_id_Lighting_3" valusage="1" language_id="&ro_RO;" sequence="3" value="Scund" integervalue="" floatvalue="" stringvalue="Scund" />
+<!--end of  Height -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Lighting_2" attrtype_id="STRING" language_id="&ro_RO;" name="Stil" description="Stil" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2801" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2802" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2803" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2809" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2810" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2811" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2815" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2816" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2818" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_2_HLG028_2819" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Contemporan" integervalue="" floatvalue="" stringvalue="Contemporan" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2804" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Tradiţional" integervalue="" floatvalue="" stringvalue="Tradiţional" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_10_HLG028_2805" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="2" value="Tradiţional" integervalue="" floatvalue="" stringvalue="Tradiţional" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2806" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2808" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2812" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2813" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2814" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_16_HLG028_2817" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_18_HLG028_2807" attr_id="@attribute_id_Lighting_2" valusage="1" language_id="&ro_RO;" sequence="4" value="Lumină contemporană" integervalue="" floatvalue="" stringvalue="Lumină contemporană" />
+<!--end of  Style -->
+<!--start of  Fixture Type -->
+<attrdesc attr_id="@attribute_id_Lighting_1" attrtype_id="STRING" language_id="&ro_RO;" name="Tip armătură" description="Tip armătură" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2801" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Lamă birou" integervalue="" floatvalue="" stringvalue="Lamă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2809" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Lamă birou" integervalue="" floatvalue="" stringvalue="Lamă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2810" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Lamă birou" integervalue="" floatvalue="" stringvalue="Lamă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2811" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Lamă birou" integervalue="" floatvalue="" stringvalue="Lamă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_1_HLG028_2818" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Lamă birou" integervalue="" floatvalue="" stringvalue="Lamă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2802" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Lampă suspendată" integervalue="" floatvalue="" stringvalue="Lampă suspendată" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2804" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Lampă suspendată" integervalue="" floatvalue="" stringvalue="Lampă suspendată" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_6_HLG028_2812" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="2" value="Lampă suspendată" integervalue="" floatvalue="" stringvalue="Lampă suspendată" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2803" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Lampă de podea" integervalue="" floatvalue="" stringvalue="Lampă de podea" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2806" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Lampă de podea" integervalue="" floatvalue="" stringvalue="Lampă de podea" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2813" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Lampă de podea" integervalue="" floatvalue="" stringvalue="Lampă de podea" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_8_HLG028_2814" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="3" value="Lampă de podea" integervalue="" floatvalue="" stringvalue="Lampă de podea" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2805" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="4" value="Candelabru" integervalue="" floatvalue="" stringvalue="Candelabru" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_14_HLG028_2808" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="4" value="Candelabru" integervalue="" floatvalue="" stringvalue="Candelabru" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2807" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Lampă birou" integervalue="" floatvalue="" stringvalue="Lampă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2816" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Lampă birou" integervalue="" floatvalue="" stringvalue="Lampă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2817" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Lampă birou" integervalue="" floatvalue="" stringvalue="Lampă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_17_HLG028_2819" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="5" value="Lampă birou" integervalue="" floatvalue="" stringvalue="Lampă birou" />
+<attrvaldesc attrval_id="@attribute_value_id_Lighting_23_HLG028_2815" attr_id="@attribute_id_Lighting_1" valusage="1" language_id="&ro_RO;" sequence="6" value="Lampă pârghie" integervalue="" floatvalue="" stringvalue="Lampă pârghie" />
+<!--end of  Fixture Type -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

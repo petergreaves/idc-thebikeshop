@@ -1,0 +1,9 @@
+MemberGroupDescription
+memberGroupName,shortDescription,longDescription,langId,delete
+Registered Customers,已登錄客戶,已向商店登錄的客戶,-8,0
+Repeat Customers,回流客戶,至少已向商店下單一次的客戶,-8,0
+Guest Shoppers,購物訪客,尚未向商店登錄的購物者,-8,0
+Male Customers,男性客戶,表明自己是男性的已登錄客戶,-8,0
+Female Customers,女性客戶,表明自己是女性的已登錄客戶,-8,0
+Customers who are under 40 years of age,年齡在 40 歲以下的客戶,年齡在 40 歲以下的客戶,-8,0
+Customers who are 40 years of age or older,年齡在 40 歲（含）以上的客戶,年齡在 40 歲（含）以上的客戶,-8,0

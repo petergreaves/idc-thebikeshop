@@ -1,0 +1,4 @@
+LayoutAssignment
+LayoutName,PageGroup,PageAdminName,Identifier,PropagateToSubLevels,ApplyToSubPageType,Delete
+SampleHomePageLayout,Content,SampleHomePage,,,,
+SampleDepartmentPageLayout,Search,,coffee,,,

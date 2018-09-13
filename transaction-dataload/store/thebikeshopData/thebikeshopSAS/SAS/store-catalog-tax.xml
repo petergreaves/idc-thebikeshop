@@ -1,0 +1,1175 @@
+<!-- 
+  Attach a calculation code to all CatalogEntry's for the  specified Store and TradingAgreement (For taxes).
+  
+  Tables Updated:
+  catencalcd
+-->
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_1"
+   catentry_id="@catentry_product_id_furniture_loungechair_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_1"
+   catentry_id="@catentry_product_id_furniture_loungechair_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_2"
+   catentry_id="@catentry_product_id_furniture_loungechair_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_2"
+   catentry_id="@catentry_product_id_furniture_loungechair_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_3"
+   catentry_id="@catentry_product_id_furniture_loungechair_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_3"
+   catentry_id="@catentry_product_id_furniture_loungechair_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_4"
+   catentry_id="@catentry_product_id_furniture_loungechair_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_4"
+   catentry_id="@catentry_product_id_furniture_loungechair_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_5"
+   catentry_id="@catentry_product_id_furniture_officechair_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_5"
+   catentry_id="@catentry_product_id_furniture_officechair_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_6"
+   catentry_id="@catentry_product_id_furniture_officechair_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_6"
+   catentry_id="@catentry_product_id_furniture_officechair_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_7"
+   catentry_id="@catentry_product_id_furniture_officechair_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_7"
+   catentry_id="@catentry_product_id_furniture_officechair_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_8"
+   catentry_id="@catentry_product_id_furniture_officechair_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_8"
+   catentry_id="@catentry_product_id_furniture_officechair_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_9"
+   catentry_id="@catentry_product_id_furniture_officechair_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_9"
+   catentry_id="@catentry_product_id_furniture_officechair_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_10"
+   catentry_id="@catentry_product_id_furniture_desk_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_10"
+   catentry_id="@catentry_product_id_furniture_desk_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_11"
+   catentry_id="@catentry_product_id_furniture_desk_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_11"
+   catentry_id="@catentry_product_id_furniture_desk_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_12"
+   catentry_id="@catentry_product_id_furniture_desk_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_12"
+   catentry_id="@catentry_product_id_furniture_desk_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_13"
+   catentry_id="@catentry_product_id_furniture_coffeetable_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_13"
+   catentry_id="@catentry_product_id_furniture_coffeetable_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_14"
+   catentry_id="@catentry_product_id_furniture_coffeetable_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_14"
+   catentry_id="@catentry_product_id_furniture_coffeetable_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_15"
+   catentry_id="@catentry_product_id_furniture_coffeetable_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_15"
+   catentry_id="@catentry_product_id_furniture_coffeetable_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_16"
+   catentry_id="@catentry_product_id_furniture_tablelamp_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_16"
+   catentry_id="@catentry_product_id_furniture_tablelamp_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_17"
+   catentry_id="@catentry_product_id_furniture_tablelamp_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_17"
+   catentry_id="@catentry_product_id_furniture_tablelamp_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_18"
+   catentry_id="@catentry_product_id_furniture_tablelamp_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_18"
+   catentry_id="@catentry_product_id_furniture_tablelamp_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_19"
+   catentry_id="@catentry_product_id_furniture_desklamp_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_19"
+   catentry_id="@catentry_product_id_furniture_desklamp_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_20"
+   catentry_id="@catentry_product_id_furniture_desklamp_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_20"
+   catentry_id="@catentry_product_id_furniture_desklamp_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_21"
+   catentry_id="@catentry_product_id_furniture_desklamp_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_21"
+   catentry_id="@catentry_product_id_furniture_desklamp_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_22"
+   catentry_id="@catentry_product_id_furniture_desklamp_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_22"
+   catentry_id="@catentry_product_id_furniture_desklamp_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_23"
+   catentry_id="@catentry_product_id_furniture_desklamp_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_23"
+   catentry_id="@catentry_product_id_furniture_desklamp_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_24"
+   catentry_id="@catentry_product_id_furniture_desklamp_6"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_24"
+   catentry_id="@catentry_product_id_furniture_desklamp_6"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_25"
+   catentry_id="@catentry_product_id_furniture_desklamp_7"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_25"
+   catentry_id="@catentry_product_id_furniture_desklamp_7"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_26"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_26"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_27"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_27"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_28"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_28"
+   catentry_id="@catentry_product_id_furniture_fabricsofa_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_29"
+   catentry_id="@catentry_product_id_furniture_leathersofa_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_29"
+   catentry_id="@catentry_product_id_furniture_leathersofa_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_30"
+   catentry_id="@catentry_product_id_furniture_leathersofa_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_30"
+   catentry_id="@catentry_product_id_furniture_leathersofa_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_31"
+   catentry_id="@catentry_product_id_furniture_loveseat_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_31"
+   catentry_id="@catentry_product_id_furniture_loveseat_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_32"
+   catentry_id="@catentry_product_id_furniture_loveseat_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_32"
+   catentry_id="@catentry_product_id_furniture_loveseat_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_33"
+   catentry_id="@catentry_product_id_kitchenware_scentedoil_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_33"
+   catentry_id="@catentry_product_id_kitchenware_scentedoil_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_34"
+   catentry_id="@catentry_product_id_kitchenware_scentedoil_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_34"
+   catentry_id="@catentry_product_id_kitchenware_scentedoil_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_35"
+   catentry_id="@catentry_product_id_kitchenware_cookingoil_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_35"
+   catentry_id="@catentry_product_id_kitchenware_cookingoil_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_36"
+   catentry_id="@catentry_product_id_kitchenware_cookingoil_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_36"
+   catentry_id="@catentry_product_id_kitchenware_cookingoil_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_37"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_37"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_38"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_38"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_39"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_39"
+   catentry_id="@catentry_product_id_kitchenware_fryingpan_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_40"
+   catentry_id="@catentry_product_id_kitchenware_pot_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_40"
+   catentry_id="@catentry_product_id_kitchenware_pot_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_41"
+   catentry_id="@catentry_product_id_kitchenware_accessory_1"
+   calcode_id="@calcode_id_3"
+   
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_41"
+   catentry_id="@catentry_product_id_kitchenware_accessory_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_42"
+   catentry_id="@catentry_product_id_kitchenware_accessory_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_42"
+   catentry_id="@catentry_product_id_kitchenware_accessory_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_43"
+   catentry_id="@catentry_product_id_kitchenware_accessory_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_43"
+   catentry_id="@catentry_product_id_kitchenware_accessory_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_44"
+   catentry_id="@catentry_product_id_kitchenware_accessory_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_44"
+   catentry_id="@catentry_product_id_kitchenware_accessory_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_45"
+   catentry_id="@catentry_product_id_kitchenware_accessory_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_45"
+   catentry_id="@catentry_product_id_kitchenware_accessory_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_46"
+   catentry_id="@catentry_product_id_kitchenware_accessory_6"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_46"
+   catentry_id="@catentry_product_id_kitchenware_accessory_6"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_47"
+   catentry_id="@catentry_product_id_kitchenware_espressomaker_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_47"
+   catentry_id="@catentry_product_id_kitchenware_espressomaker_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_48"
+   catentry_id="@catentry_product_id_kitchenware_coffeemaker_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_48"
+   catentry_id="@catentry_product_id_kitchenware_coffeemaker_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_49"
+   catentry_id="@catentry_product_id_kitchenware_coffeemaker_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_49"
+   catentry_id="@catentry_product_id_kitchenware_coffeemaker_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_50"
+   catentry_id="@catentry_product_id_tableware_plate_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_50"
+   catentry_id="@catentry_product_id_tableware_plate_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_51"
+   catentry_id="@catentry_product_id_tableware_plate_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_51"
+   catentry_id="@catentry_product_id_tableware_plate_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_52"
+   catentry_id="@catentry_product_id_tableware_plate_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_52"
+   catentry_id="@catentry_product_id_tableware_plate_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_53"
+   catentry_id="@catentry_product_id_tableware_plate_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_53"
+   catentry_id="@catentry_product_id_tableware_plate_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_54"
+   catentry_id="@catentry_product_id_tableware_plate_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_54"
+   catentry_id="@catentry_product_id_tableware_plate_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_55"
+   catentry_id="@catentry_product_id_tableware_silverware_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_55"
+   catentry_id="@catentry_product_id_tableware_silverware_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_56"
+   catentry_id="@catentry_product_id_tableware_silverware_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_56"
+   catentry_id="@catentry_product_id_tableware_silverware_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_57"
+   catentry_id="@catentry_product_id_tableware_tableglass_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_57"
+   catentry_id="@catentry_product_id_tableware_tableglass_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_58"
+   catentry_id="@catentry_product_id_tableware_tableglass_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_58"
+   catentry_id="@catentry_product_id_tableware_tableglass_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_59"
+   catentry_id="@catentry_product_id_tableware_tableglass_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_59"
+   catentry_id="@catentry_product_id_tableware_tableglass_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_60"
+   catentry_id="@catentry_product_id_tableware_tableglass_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_60"
+   catentry_id="@catentry_product_id_tableware_tableglass_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_61"
+   catentry_id="@catentry_product_id_tableware_tableglass_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_61"
+   catentry_id="@catentry_product_id_tableware_tableglass_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_62"
+   catentry_id="@catentry_product_id_tableware_wineglass_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_62"
+   catentry_id="@catentry_product_id_tableware_wineglass_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_63"
+   catentry_id="@catentry_product_id_tableware_wineglass_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_63"
+   catentry_id="@catentry_product_id_tableware_wineglass_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_64"
+   catentry_id="@catentry_product_id_tableware_wineglass_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_64"
+   catentry_id="@catentry_product_id_tableware_wineglass_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_65"
+   catentry_id="@catentry_product_id_tableware_wineglass_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_65"
+   catentry_id="@catentry_product_id_tableware_wineglass_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_66"
+   catentry_id="@catentry_product_id_tableware_wineglass_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_66"
+   catentry_id="@catentry_product_id_tableware_wineglass_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_67"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_67"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_68"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_68"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_69"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_69"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_70"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_70"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_71"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_5"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_71"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_5"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_72"
+   catentry_id="@catentry_product_id_tableware_teapot_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_72"
+   catentry_id="@catentry_product_id_tableware_teapot_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_73"
+   catentry_id="@catentry_product_id_tableware_teapot_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_73"
+   catentry_id="@catentry_product_id_tableware_teapot_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_74"
+   catentry_id="@catentry_product_id_tableware_teapot_3"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_74"
+   catentry_id="@catentry_product_id_tableware_teapot_3"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_75"
+   catentry_id="@catentry_kit_id_tableware_1"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_75"
+   catentry_id="@catentry_kit_id_tableware_1"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_76"
+   catentry_id="@catentry_kit_id_tableware_2"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_76"
+   catentry_id="@catentry_kit_id_tableware_2"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_77"
+   catentry_id="@catentry_product_id_furniture_tablelamp_4"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_77"
+   catentry_id="@catentry_product_id_furniture_tablelamp_4"
+   calcode_id="@calcode_id_4"
+/>
+
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_salestax_78"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_6"
+   calcode_id="@calcode_id_3"
+/>
+
+<catencalcd
+   store_id="&MAR_STOREENT_ID;"
+   catencalcd_id="@catencalcd_id_shippingtax_78"
+   catentry_id="@catentry_product_id_tableware_teacoffeecup_6"
+   calcode_id="@calcode_id_4"
+/>

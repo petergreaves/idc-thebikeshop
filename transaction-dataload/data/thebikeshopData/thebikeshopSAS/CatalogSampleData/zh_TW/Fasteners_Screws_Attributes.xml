@@ -1,0 +1,168 @@
+  <!-- BEGIN: Writing defining attribute descriptions -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsBarrel length -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_12" attrtype_id="STRING" language_id="&zh_TW;" name="柱長" description="柱長" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_73" attr_id="@attribute_id_hardware_fasteners_screws_12" valusage="1" language_id="&zh_TW;" sequence="1" value="1/2&quot;" integervalue="" floatvalue="" stringvalue="1/2&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_74" attr_id="@attribute_id_hardware_fasteners_screws_12" valusage="1" language_id="&zh_TW;" sequence="2" value="7/8&quot;" integervalue="" floatvalue="" stringvalue="7/8&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsBarrel length -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsShoulder diameter -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_18" attrtype_id="STRING" language_id="&zh_TW;" name="螺肩直徑" description="螺肩直徑" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_103" attr_id="@attribute_id_hardware_fasteners_screws_18" valusage="1" language_id="&zh_TW;" sequence="1" value="3/8&quot;" integervalue="" floatvalue="" stringvalue="3/8&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_104" attr_id="@attribute_id_hardware_fasteners_screws_18" valusage="1" language_id="&zh_TW;" sequence="2" value="1/2&quot;" integervalue="" floatvalue="" stringvalue="1/2&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsShoulder diameter -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsLength -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_8" attrtype_id="STRING" language_id="&zh_TW;" name="長度" description="長度" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_8" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="1" value="1 1/4&quot;" integervalue="" floatvalue="" stringvalue="1 1/4&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_9" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="2" value="1 1/2&quot;" integervalue="" floatvalue="" stringvalue="1 1/2&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_22" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="3" value="1&quot;" integervalue="" floatvalue="" stringvalue="1&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_34" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="4" value="2 1/4&quot;" integervalue="" floatvalue="" stringvalue="2 1/4&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_35" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="5" value="2 3/8&quot;" integervalue="" floatvalue="" stringvalue="2 3/8&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_36" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="6" value="3&quot;" integervalue="" floatvalue="" stringvalue="3&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_45" attr_id="@attribute_id_hardware_fasteners_screws_8" valusage="1" language_id="&zh_TW;" sequence="7" value="2&quot;" integervalue="" floatvalue="" stringvalue="2&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsLength -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsThread length -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_16" attrtype_id="STRING" language_id="&zh_TW;" name="螺紋長度" description="螺紋長度" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_99" attr_id="@attribute_id_hardware_fasteners_screws_16" valusage="1" language_id="&zh_TW;" sequence="1" value="7/16&quot;" integervalue="" floatvalue="" stringvalue="7/16&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_100" attr_id="@attribute_id_hardware_fasteners_screws_16" valusage="1" language_id="&zh_TW;" sequence="2" value="9/16&quot;" integervalue="" floatvalue="" stringvalue="9/16&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsThread length -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsShoulder length -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_14" attrtype_id="STRING" language_id="&zh_TW;" name="螺肩長度" description="螺肩長度" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_95" attr_id="@attribute_id_hardware_fasteners_screws_14" valusage="1" language_id="&zh_TW;" sequence="1" value="1 7/16&quot;" integervalue="" floatvalue="" stringvalue="1 7/16&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_96" attr_id="@attribute_id_hardware_fasteners_screws_14" valusage="1" language_id="&zh_TW;" sequence="2" value="1 7/8&quot;" integervalue="" floatvalue="" stringvalue="1 7/8&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsShoulder length -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsMaterial -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_9" attrtype_id="STRING" language_id="&zh_TW;" name="布料" description="布料" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_10" attr_id="@attribute_id_hardware_fasteners_screws_9" valusage="1" language_id="&zh_TW;" sequence="1" value="不鏽鋼" integervalue="" floatvalue="" stringvalue="不鏽鋼" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_11" attr_id="@attribute_id_hardware_fasteners_screws_9" valusage="1" language_id="&zh_TW;" sequence="2" value="合金鋼"     integervalue="" floatvalue="" stringvalue="合金鋼" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_12" attr_id="@attribute_id_hardware_fasteners_screws_9" valusage="1" language_id="&zh_TW;" sequence="3" value="黃銅"           integervalue="" floatvalue="" stringvalue="黃銅" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsMaterial -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsHead diameter -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_17" attrtype_id="STRING" language_id="&zh_TW;" name="螺頭直徑" description="螺頭直徑" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_101" attr_id="@attribute_id_hardware_fasteners_screws_17" valusage="1" language_id="&zh_TW;" sequence="1" value="9/16&quot;" integervalue="" floatvalue="" stringvalue="9/16&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_102" attr_id="@attribute_id_hardware_fasteners_screws_17" valusage="1" language_id="&zh_TW;" sequence="2" value="3/4&quot;" integervalue="" floatvalue="" stringvalue="3/4&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsHead diameter -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsFinish -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_11" attrtype_id="STRING" language_id="&zh_TW;" name="完成" description="完成" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_31" attr_id="@attribute_id_hardware_fasteners_screws_11" valusage="1" language_id="&zh_TW;" sequence="1" value="無塗層"    integervalue="" floatvalue="" stringvalue="無塗層" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_32" attr_id="@attribute_id_hardware_fasteners_screws_11" valusage="1" language_id="&zh_TW;" sequence="2" value="鋅"        integervalue="" floatvalue="" stringvalue="鋅" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_33" attr_id="@attribute_id_hardware_fasteners_screws_11" valusage="1" language_id="&zh_TW;" sequence="3" value="黑色氧化物" integervalue="" floatvalue="" stringvalue="黑色氧化物" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_91" attr_id="@attribute_id_hardware_fasteners_screws_11" valusage="1" language_id="&zh_TW;" sequence="4" value="鍍鎳"      integervalue="" floatvalue="" stringvalue="鍍鎳" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_92" attr_id="@attribute_id_hardware_fasteners_screws_11" valusage="1" language_id="&zh_TW;" sequence="5" value="鈍化"  integervalue="" floatvalue="" stringvalue="鈍化" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsFinish -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsSocket depth -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_13" attrtype_id="STRING" language_id="&zh_TW;" name="槽深" description="槽深" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_93" attr_id="@attribute_id_hardware_fasteners_screws_13" valusage="1" language_id="&zh_TW;" sequence="1" value="1/8&quot;" integervalue="" floatvalue="" stringvalue="1/8&quot;" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_94" attr_id="@attribute_id_hardware_fasteners_screws_13" valusage="1" language_id="&zh_TW;" sequence="2" value="3/16&quot;" integervalue="" floatvalue="" stringvalue="3/16&quot;" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsSocket depth -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsThread size -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_10" attrtype_id="STRING" language_id="&zh_TW;" name="螺紋大小" description="螺紋大小" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_13" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="1" value="1/4&quot;-20" integervalue="" floatvalue="" stringvalue="1/4&quot;-20" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_14" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="2" value="1/4&quot;-28" integervalue="" floatvalue="" stringvalue="1/4&quot;-28" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_23" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="3" value="5/16&quot;-18" integervalue="" floatvalue="" stringvalue="5/16&quot;-18" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_37" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="4" value="3/8&quot;-16" integervalue="" floatvalue="" stringvalue="3/8&quot;-16" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_75" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="5" value="7/16&quot;-14" integervalue="" floatvalue="" stringvalue="7/16&quot;-14" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_83" attr_id="@attribute_id_hardware_fasteners_screws_10" valusage="1" language_id="&zh_TW;" sequence="6" value="5/16&quot;-24" integervalue="" floatvalue="" stringvalue="5/16&quot;-24" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsThread size -->
+  <!--BEGIN Defining attribute description : hardware_fasteners_screwsKnurled -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_15" attrtype_id="STRING" language_id="&zh_TW;" name="有凸邊" description="有凸邊" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_97" attr_id="@attribute_id_hardware_fasteners_screws_15" valusage="1" language_id="&zh_TW;" sequence="1" value="Yes" integervalue="" floatvalue="" stringvalue="Yes" qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_98" attr_id="@attribute_id_hardware_fasteners_screws_15" valusage="1" language_id="&zh_TW;" sequence="2" value="No" integervalue="" floatvalue="" stringvalue="No" qtyunit_id="C62" />
+  <!--END Defining attribute description : hardware_fasteners_screwsKnurled -->
+  <!-- END: Writing defining attribute descriptions -->
+  <!-- BEGIN: Writing descriptive attribute descriptions -->
+  <!--start of  Drive type -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_1" attrtype_id="STRING" language_id="&zh_TW;" name="驅動器類型" description="驅動器類型"   qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_1" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1"  language_id="&zh_TW;" sequence="1"  value="六角"      integervalue="" floatvalue="" stringvalue="六角"            image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_hex.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_15" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="2"  value="無
+"     integervalue="" floatvalue="" stringvalue="無
+"           image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_none.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_24" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="3"  value="內梅花"     integervalue="" floatvalue="" stringvalue="內梅花"           image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_torx.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_38" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="4"  value="六角"      integervalue="" floatvalue="" stringvalue="六角"            image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_hex.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_46" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="5"  value="六角"      integervalue="" floatvalue="" stringvalue="六角"            image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_hex.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_53" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="6"  value="十字" integervalue="" floatvalue="" stringvalue="十字"       image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_frearson.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_60" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="7"  value="無
+"     integervalue="" floatvalue="" stringvalue="無
+"           image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_none.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_66" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="8"  value="十字" integervalue="" floatvalue="" stringvalue="十字"       image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_frearson.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_76" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="9"  value="六角"      integervalue="" floatvalue="" stringvalue="六角"            image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_hex.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_84" attr_id="@attribute_id_hardware_fasteners_screws_1" valusage="1" language_id="&zh_TW;" sequence="10" value="六角"      integervalue="" floatvalue="" stringvalue="六角"            image1="images/catalog/hardware/facets/drivestyles/screws_drivestyle_hex.png"/>
+  <!--end of  Drive type -->
+  <!--start of  Rockwell hardness (min) -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_7" attrtype_id="STRING" language_id="&zh_TW;" name="洛氏硬度（最小值）" description="洛氏硬度（最小值）"   qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_7" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="1" value="B55" integervalue="" floatvalue="" stringvalue="B55" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_21" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="2" value="B70" integervalue="" floatvalue="" stringvalue="B70" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_30" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="3" value="C45" integervalue="" floatvalue="" stringvalue="C45" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_44" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="4" value="C45" integervalue="" floatvalue="" stringvalue="C45" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_52" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="5" value="D" integervalue="" floatvalue="" stringvalue="D" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_59" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="6" value="B70" integervalue="" floatvalue="" stringvalue="B70" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_65" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="7" value="C45" integervalue="" floatvalue="" stringvalue="C45" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_72" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="8" value="B55" integervalue="" floatvalue="" stringvalue="B55" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_82" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="9" value="C33" integervalue="" floatvalue="" stringvalue="C33" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_90" attr_id="@attribute_id_hardware_fasteners_screws_7" valusage="1" language_id="&zh_TW;" sequence="10" value="B55" integervalue="" floatvalue="" stringvalue="B55" />
+  <!--end of  Rockwell hardness (min) -->
+  <!--start of  Tensile strength (min) -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_3" attrtype_id="STRING" language_id="&zh_TW;" name="張力強度（最小值）" description="張力強度（最小值）"   qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_3" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="1" value="50000 psi" integervalue="" floatvalue="" stringvalue="50000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_17" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="2" value="70000 psi" integervalue="" floatvalue="" stringvalue="70000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_26" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="3" value="70000 psi" integervalue="" floatvalue="" stringvalue="70000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_40" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="4" value="40000 psi" integervalue="" floatvalue="" stringvalue="40000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_48" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="5" value="70000 psi" integervalue="" floatvalue="" stringvalue="70000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_55" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="6" value="40000 psi" integervalue="" floatvalue="" stringvalue="40000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_62" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="7" value="50000 psi" integervalue="" floatvalue="" stringvalue="50000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_68" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="8" value="40000 psi" integervalue="" floatvalue="" stringvalue="40000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_78" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="9" value="120000 psi" integervalue="" floatvalue="" stringvalue="120000 psi" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_86" attr_id="@attribute_id_hardware_fasteners_screws_3" valusage="1" language_id="&zh_TW;" sequence="10" value="70000 psi" integervalue="" floatvalue="" stringvalue="70000 psi" />
+  <!--end of  Tensile strength (min) -->
+  <!--start of  Package quantity -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_4" attrtype_id="INTEGER" language_id="&zh_TW;" name="包裝數量" description="包裝數量"  qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_4" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="1" value="25" integervalue="25" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_18" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="2" value="50" integervalue="50" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_27" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="3" value="50" integervalue="50" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_41" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="4" value="25" integervalue="25" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_49" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="5" value="50" integervalue="50" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_56" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="6" value="100" integervalue="100" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_63" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="7" value="50" integervalue="50" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_69" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="8" value="100" integervalue="100" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_79" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="9" value="25" integervalue="25" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_87" attr_id="@attribute_id_hardware_fasteners_screws_4" valusage="1" language_id="&zh_TW;" sequence="10" value="25" integervalue="25" floatvalue="" stringvalue="" />
+  <!--end of  Package quantity -->
+  <!--start of  Head height -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_6" attrtype_id="STRING" language_id="&zh_TW;" name="螺頭高度" description="螺頭高度"   qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_6" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="1" value="1/4&quot;" integervalue="" floatvalue="" stringvalue="1/4&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_20" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="2" value="5/32&quot;" integervalue="" floatvalue="" stringvalue="5/32&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_29" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="3" value="1/8&quot;" integervalue="" floatvalue="" stringvalue="1/8&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_43" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="4" value="1/4&quot;" integervalue="" floatvalue="" stringvalue="1/4&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_51" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="5" value="5/32&quot;" integervalue="" floatvalue="" stringvalue="5/32&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_58" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="6" value="1/4&quot;" integervalue="" floatvalue="" stringvalue="1/4&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_71" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="7" value="1/8&quot;" integervalue="" floatvalue="" stringvalue="1/8&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_81" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="8" value="1/4&quot;" integervalue="" floatvalue="" stringvalue="1/4&quot;" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_89" attr_id="@attribute_id_hardware_fasteners_screws_6" valusage="1" language_id="&zh_TW;" sequence="9" value="1/4&quot;" integervalue="" floatvalue="" stringvalue="1/4&quot;" />
+  <!--end of  Head height -->
+  <!--start of  Head style -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_2" attrtype_id="STRING" language_id="&zh_TW;" name="螺頭樣式" description="螺頭樣式"   qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_2" attr_id="@attribute_id_hardware_fasteners_screws_2"  valusage="1" language_id="&zh_TW;" sequence="1"  value="插槽"    integervalue="" floatvalue="" stringvalue="插槽"       image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_socket.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_16" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="2"  value="有凸邊"   integervalue="" floatvalue="" stringvalue="有凸邊"      image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_knurled.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_25" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="3"  value="墊圈"    integervalue="" floatvalue="" stringvalue="墊圈"       image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_washer.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_39" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="4"  value="插槽"    integervalue="" floatvalue="" stringvalue="插槽"       image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_socket.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_47" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="5"  value="插槽"    integervalue="" floatvalue="" stringvalue="插槽"       image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_socket.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_54" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="6"  value="凹槽" integervalue="" floatvalue="" stringvalue="凹槽"    image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_fillister.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_61" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="7"  value="無
+"      integervalue="" floatvalue="" stringvalue="無
+"         image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_none.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_67" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="8"  value="凹槽" integervalue="" floatvalue="" stringvalue="凹槽"    image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_fillister.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_77" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="9"  value="凸緣"    integervalue="" floatvalue="" stringvalue="凸緣"       image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_flange.png"/>
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_85" attr_id="@attribute_id_hardware_fasteners_screws_2" valusage="1" language_id="&zh_TW;" sequence="10" value="六角"       integervalue="" floatvalue="" stringvalue="六角"          image1="images/catalog/hardware/facets/headstyles/fasteners_headstyles_hex.png"/>
+  <!--end of  Head style -->
+  <!--start of  Grade -->
+  <attrdesc attr_id="@attribute_id_hardware_fasteners_screws_5" attrtype_id="INTEGER" language_id="&zh_TW;" name="等級" description="等級"  qtyunit_id="C62" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_5" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="1" value="5" integervalue="5" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_19" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="2" value="5" integervalue="5" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_28" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="3" value="8" integervalue="8" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_42" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="4" value="2" integervalue="2" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_50" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="5" value="8" integervalue="8" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_57" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="6" value="2" integervalue="2" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_64" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="7" value="5" integervalue="5" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_70" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="8" value="2" integervalue="2" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_80" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="9" value="8" integervalue="8" floatvalue="" stringvalue="" />
+  <attrvaldesc attrval_id="@attribute_value_id_hardware_fasteners_screws_88" attr_id="@attribute_id_hardware_fasteners_screws_5" valusage="1" language_id="&zh_TW;" sequence="10" value="5" integervalue="5" floatvalue="" stringvalue="" />
+  <!--end of  Grade -->
+  <!-- END: Writing descriptive attribute descriptions -->

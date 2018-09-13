@@ -1,0 +1,75 @@
+
+<attrdesc attr_id="@swatchdress_size_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="可用大小" description="可用大小" qtyunit_id="C62"/>
+<attrdesc attr_id="@swatchdress_color_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="颜色" description="颜色" qtyunit_id="C62"/>
+
+
+
+
+
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_1" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="2" value="S" stringvalue="S" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_s_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_2" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="3" value="M" stringvalue="M" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_m_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_3" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="4" value="L" stringvalue="L" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_l_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_4" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="1" value="XS" stringvalue="XS" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xs_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_5" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="5" value="XL" stringvalue="XL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xl_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_6" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&zh_CN;" sequence="6" value="XXL" stringvalue="XXL" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xxl_enabled.png"/>
+
+
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_1" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="1" value="红色" stringvalue="红色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_red.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_2" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="2" value="深青色" stringvalue="深青色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_teal.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_3" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="3" value="黄色" stringvalue="黄色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_yellow.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_4" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="4" value="灰色" stringvalue="灰色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gray.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_5" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="5" value="橙色"  stringvalue="橙色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_orange.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_6" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="6" value="蓝色" stringvalue="蓝色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_blue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_7" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="7" value="紫色" stringvalue="紫色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_8" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="8" value="白色" stringvalue="白色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_white.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_9" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="9" value="银" stringvalue="银" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_silver.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_10" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="10" value="棕色" stringvalue="棕色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_brown.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_11" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="11" value="粉红"  stringvalue="粉红" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_pink.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_12" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="12" value="浅蓝色" stringvalue="浅蓝色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_lightblue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_13" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="紫色" stringvalue="紫色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_14" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="黑色" stringvalue="黑色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_black.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_15" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="浅褐色" stringvalue="浅褐色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_beige.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_16" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="深蓝色" stringvalue="深蓝色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_navy.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_17" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="金" stringvalue="金" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gold.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_18" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&zh_CN;" sequence="13" value="绿色" stringvalue="绿色" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_green.png"/>
+
+
+
+
+
+
+<attrdesc attr_id="@dress_construction_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="构造" description="构造" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_length_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="长度" description="长度" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_material_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="面料" description="面料" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_occasion_attribute_id" attrtype_id="STRING" language_id="&zh_CN;" name="场合" description="场合" qtyunit_id="C62"/>
+
+
+
+
+<attrvaldesc attrval_id="@dress_construction_attribute_value_1" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&zh_CN;" sequence="19" value="针织" stringvalue="针织" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_construction_attribute_value_2" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&zh_CN;" sequence="19" value="机织" stringvalue="机织" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_length_attribute_value_1" attr_id="@dress_length_attribute_id" valusage="1" language_id="&zh_CN;" sequence="20" value="短袖" stringvalue="短袖" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_2" attr_id="@dress_length_attribute_id" valusage="1" language_id="&zh_CN;" sequence="21" value="中长" stringvalue="中长" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_3" attr_id="@dress_length_attribute_id" valusage="1" language_id="&zh_CN;" sequence="21" value="长袖" stringvalue="长袖" qtyunit_id="C62" />
+
+<attrvaldesc attrval_id="@dress_material_attribute_value_1" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="21" value="人造" stringvalue="人造" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_2" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="22" value="乔其纱" stringvalue="乔其纱" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_3" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="23" value="棉混纺" stringvalue="棉混纺" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_4" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="24" value="纯棉" stringvalue="纯棉" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_5" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="24" value="丝绸" stringvalue="丝绸" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_6" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="24" value="牛仔色" stringvalue="牛仔色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_7" attr_id="@dress_material_attribute_id" valusage="1" language_id="&zh_CN;" sequence="24" value="羊毛" stringvalue="羊毛" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_1" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&zh_CN;" sequence="25" value="鸡尾酒裙和晚裙" stringvalue="鸡尾酒裙和晚裙" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_2" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&zh_CN;" sequence="26" value="休闲鞋" stringvalue="休闲鞋" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_3" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&zh_CN;" sequence="27" value="职业装" stringvalue="职业装" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_4" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&zh_CN;" sequence="28" value="职业装, 休闲装" stringvalue="职业装, 休闲装" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_5" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&zh_CN;" sequence="26" value="鸡尾酒裙和晚裙, 休闲装" stringvalue="鸡尾酒裙和晚裙, 休闲装" qtyunit_id="C62" />
+

@@ -1,0 +1,5 @@
+PersonAddressBook,,,,,,,,,,,,,,,,,,
+ownerLogonId,nickName,personTitle,lastName,firstName,middleName,addressType,primary,address1,address2,address3,city,state,country,zipCode,phone1,bestCallingTime,email1,delete
+ryanjohnson,ryanjohnson2,Mr.,Johnson,Ryan,,SB,1,2 Sky Lane,,,Toronto,Ontario,Canada,M1M 1W1,416-470-9394,D,ryanjohnson@hotmail.com,
+ryanjohnson,olivialee,Ms.,Lee,Olivia,,S,,40 Lee Avenue,,,Seattle,Washington,US,12345,315-520-1314,D,olivia.lee@gmail.com,
+olivialee,sophiawilliams,Ms.,Williams,Sophia,,S,,33 Sports Way,,,New York,New York,US,56789,646-320-8787,E,swilliams@yahoo.com,

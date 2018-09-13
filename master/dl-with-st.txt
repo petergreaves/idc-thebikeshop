@@ -1,0 +1,13 @@
+:transaction-executeDataload
+:transaction-master:transaction-dataload:runDataloadJob
+:transaction-master:transaction-dataload:executeDataload
+Dataload job has started successfully - waiting to finish...
+.
+..[Dataload State] - Running - R
+.
+:transaction-master:transaction-dataload:executeDataload FAILED
+:transaction-executeDataload FAILED
+
+BUILD FAILED
+
+Total time: 19.206 secs

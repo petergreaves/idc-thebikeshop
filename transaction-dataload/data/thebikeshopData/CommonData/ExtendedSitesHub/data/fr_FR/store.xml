@@ -1,0 +1,52 @@
+	<!-- create an addess for the store location -->
+	<staddress
+	 staddress_id="@staddress_id_fr_FR_10"
+	 member_id="@channel_mbr_id"
+	 nickname="&STORE_IDENTIFIER_HCP; location_fr_FR"
+	 address1="380, avenue de la Redoute"
+	 businesstitle="Bâtiment B"
+	 city="White Plains"
+	 state="New York"
+	 zipcode="75116"
+	 country="Etats-Unis"
+	 phone1="01.XX.XX.XX.XX"
+	 fax1="01.XX.XX.XX.XX"
+	 email1="info@extendedsiteshub.xxx"
+	/>
+
+	<!-- create an addess for the store contact -->
+	<staddress
+	 staddress_id="@staddress_id_fr_FR_20"
+	 member_id="@channel_mbr_id"
+	 nickname="&STORE_IDENTIFIER_HCP; contact_fr_FR"
+	 address1="380, avenue de la Redoute"
+	 businesstitle="Bâtiment B"
+	 city="White Plains"
+	 state="New York"
+	 zipcode="75116"
+	 country="Etats-Unis"
+	 phone1="01.XX.XX.XX.XX"
+	 fax1="01.XX.XX.XX.XX"
+	 email1="info@extendedsiteshub.xxx"
+	/>
+
+	<storeentds
+	 description="Hub de sites étendus"
+	 language_id="&fr_FR;"
+	 displayname="&STORE_IDENTIFIER_HCP;"
+	 storeent_id="@ChannelStore"
+	 staddress_id_cont="@staddress_id_fr_FR_20"
+	 staddress_id_loc="@staddress_id_fr_FR_10"
+	/>
+	<storelang
+	language_id="&fr_FR;"
+	storeent_id="@ChannelStore"
+	/>
+	<storlangds
+	 description="Etats-Unis"
+	 language_id="&fr_FR;"
+	 storeent_id="@ChannelStore"
+    	 language_id_desc="&fr_FR;"
+	/>
+	
+

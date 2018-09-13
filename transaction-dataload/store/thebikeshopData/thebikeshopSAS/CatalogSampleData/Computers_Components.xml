@@ -1,0 +1,1030 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : ComputersComponentsOperating System Class -->
+<attr attr_id="@attribute_id_ComputersComponents_3" identifier="ComputersComponentsOperating System Class" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_3" attr_id="@attribute_id_ComputersComponents_3" storeent_id="&CAT_STOREENT_ID;" identifier="Server"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_4" attr_id="@attribute_id_ComputersComponents_3" storeent_id="&CAT_STOREENT_ID;" identifier="Workstation"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsOperating System Class -->
+<!--BEGIN Defining attribute : ComputersComponentsRecording Speed -->
+<attr attr_id="@attribute_id_ComputersComponents_8" identifier="ComputersComponentsRecording Speed" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_12" attr_id="@attribute_id_ComputersComponents_8" storeent_id="&CAT_STOREENT_ID;" identifier="8x"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_13" attr_id="@attribute_id_ComputersComponents_8" storeent_id="&CAT_STOREENT_ID;" identifier="16x"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsRecording Speed -->
+<!--BEGIN Defining attribute : ComputersComponentsVRAM -->
+<attr attr_id="@attribute_id_ComputersComponents_10" identifier="ComputersComponentsVRAM" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_20" attr_id="@attribute_id_ComputersComponents_10" storeent_id="&CAT_STOREENT_ID;" identifier="1 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_21" attr_id="@attribute_id_ComputersComponents_10" storeent_id="&CAT_STOREENT_ID;" identifier="3 GB"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsVRAM -->
+<!--BEGIN Defining attribute : ComputersComponentsRAM Size -->
+<attr attr_id="@attribute_id_ComputersComponents_12" identifier="ComputersComponentsRAM Size" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_23" attr_id="@attribute_id_ComputersComponents_12" storeent_id="&CAT_STOREENT_ID;" identifier="2 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_24" attr_id="@attribute_id_ComputersComponents_12" storeent_id="&CAT_STOREENT_ID;" identifier="4 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_25" attr_id="@attribute_id_ComputersComponents_12" storeent_id="&CAT_STOREENT_ID;" identifier="8 GB"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsRAM Size -->
+<!--BEGIN Defining attribute : ComputersComponentsSize -->
+<attr attr_id="@attribute_id_ComputersComponents_7" identifier="ComputersComponentsSize" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_10" attr_id="@attribute_id_ComputersComponents_7" storeent_id="&CAT_STOREENT_ID;" identifier="4.7 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_11" attr_id="@attribute_id_ComputersComponents_7" storeent_id="&CAT_STOREENT_ID;" identifier="8.5 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_16" attr_id="@attribute_id_ComputersComponents_7" storeent_id="&CAT_STOREENT_ID;" identifier="500 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_17" attr_id="@attribute_id_ComputersComponents_7" storeent_id="&CAT_STOREENT_ID;" identifier="1000 GB"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_18" attr_id="@attribute_id_ComputersComponents_7" storeent_id="&CAT_STOREENT_ID;" identifier="2000 GB"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsSize -->
+<!--BEGIN Defining attribute : ComputersComponentsCores -->
+<attr attr_id="@attribute_id_ComputersComponents_5" identifier="ComputersComponentsCores" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_6" attr_id="@attribute_id_ComputersComponents_5" storeent_id="&CAT_STOREENT_ID;" identifier="4-core"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_7" attr_id="@attribute_id_ComputersComponents_5" storeent_id="&CAT_STOREENT_ID;" identifier="6-core"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_8" attr_id="@attribute_id_ComputersComponents_5" storeent_id="&CAT_STOREENT_ID;" identifier="8-core"	valusage="1" />
+<!--END Defining attribute : ComputersComponentsCores -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Size -->
+<attr attr_id="@attribute_id_ComputersComponents_6" identifier="Size" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_9_CCM039_3903" attr_id="@attribute_id_ComputersComponents_6" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3903" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_14_CCM039_3904" attr_id="@attribute_id_ComputersComponents_6" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3904" />
+<!--END Descriptive attribute : Size -->
+<!--BEGIN Descriptive attribute : CPU Support -->
+<attr attr_id="@attribute_id_ComputersComponents_1" identifier="CPU Support" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_1_CCM039_3901" attr_id="@attribute_id_ComputersComponents_1" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3901" />
+<!--END Descriptive attribute : CPU Support -->
+<!--BEGIN Descriptive attribute : RAM Size -->
+<attr attr_id="@attribute_id_ComputersComponents_11" identifier="RAM Size" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_22_CCM039_3906" attr_id="@attribute_id_ComputersComponents_11" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3906" />
+<!--END Descriptive attribute : RAM Size -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!--BEGIN Descriptive attribute : Operating System Support -->
+<attr attr_id="@attribute_id_ComputersComponents_4" identifier="Operating System Support" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_5_CCM039_3902" attr_id="@attribute_id_ComputersComponents_4" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3902" />
+<!--END Descriptive attribute : Operating System Support -->
+<!--BEGIN Descriptive attribute : VRAM -->
+<attr attr_id="@attribute_id_ComputersComponents_9" identifier="VRAM" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_ComputersComponents_19_CCM039_3905" attr_id="@attribute_id_ComputersComponents_9" storeent_id="&CAT_STOREENT_ID;" identifier="CCM039_3905" />
+<!--END Descriptive attribute : VRAM -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : CCM039_3901 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3901" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CCM039_3901" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_1" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_1" baseitem_id="@baseproduct_id_ComputersComponents_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="USD" price="109.95" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="AUD" price="141.84" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="NZD" price="151.73" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="BRL" price="349.64" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="CAD" price="139.64" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="CNY" price="734.47" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="EUR" price="93.46" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="GBP" price="85.76" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="JPY" price="12060" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="KRW" price="125380" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="PLN" price="400.22" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="RON" price="429.9" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="RUB" price="6495.85" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_3" currency="TWD" price="3331.49" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="USD" listprice="109.95" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="AUD" listprice="141.84" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="NZD" listprice="151.73" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="BRL" listprice="349.64" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="CAD" listprice="139.64" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="CNY" listprice="734.47" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="EUR" listprice="93.46" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="GBP" listprice="85.76" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="JPY" listprice="12060" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="KRW" listprice="125380" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="PLN" listprice="400.22" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="RON" listprice="429.9" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="RUB" listprice="6495.85" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_1" currency="TWD" listprice="3331.49" />
+<!-- Begin attribute mapping for CCM039_3901-->
+<catentryattr attr_id="@attribute_id_ComputersComponents_1" attrval_id="@attribute_value_id_ComputersComponents_1_CCM039_3901" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_1" />
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_1" />
+<!-- End attribute mapping for CCM039_3901-->
+
+<!-- BEGIN items of CCM039_3901 -->
+<!-- BEGIN item bean CCM039_390101 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_1" partnumber="CCM039_390101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_1" itemspc_id="@itemspc_id_ComputersComponents_1" itemversn_id="@itemversn_id_ComputersComponents_1" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_1"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390101" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_2" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="USD" price="109.95" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="AUD" price="141.84" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="NZD" price="151.73" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="BRL" price="349.64" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="CAD" price="139.64" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="CNY" price="734.47" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="EUR" price="93.46" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="GBP" price="85.76" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="JPY" price="12060" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="KRW" price="125380" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="PLN" price="400.22" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="RON" price="429.9" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="RUB" price="6495.85" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_1" currency="TWD" price="3331.49" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="USD" listprice="109.95" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="AUD" listprice="141.84" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="NZD" listprice="151.73" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="BRL" listprice="349.64" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="CAD" listprice="139.64" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="CNY" listprice="734.47" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="EUR" listprice="93.46" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="GBP" listprice="85.76" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="JPY" listprice="12060" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="KRW" listprice="125380" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="PLN" listprice="400.22" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="RON" listprice="429.9" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="RUB" listprice="6495.85" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_2" currency="TWD" listprice="3331.49" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_3" attrval_id="@attribute_value_id_ComputersComponents_3"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390101 -->
+<!-- BEGIN item bean CCM039_390102 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_1" partnumber="CCM039_390102" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_2" itemspc_id="@itemspc_id_ComputersComponents_2" itemversn_id="@itemversn_id_ComputersComponents_1" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_3" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_2"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390102" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_3" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_3" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_3" sequence="1.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="USD" price="149.95" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="AUD" price="193.44" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="NZD" price="206.93" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="BRL" price="476.84" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="CAD" price="190.44" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="CNY" price="1001.67" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="EUR" price="127.46" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="GBP" price="116.96" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="JPY" price="16448" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="KRW" price="170994" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="PLN" price="545.82" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="RON" price="586.3" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="RUB" price="8859.05" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_2" currency="TWD" price="4543.48" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="USD" listprice="149.95" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="AUD" listprice="193.44" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="NZD" listprice="206.93" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="BRL" listprice="476.84" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="CAD" listprice="190.44" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="CNY" listprice="1001.67" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="EUR" listprice="127.46" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="GBP" listprice="116.96" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="JPY" listprice="16448" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="KRW" listprice="170994" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="PLN" listprice="545.82" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="RON" listprice="586.3" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="RUB" listprice="8859.05" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_3" currency="TWD" listprice="4543.48" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_3" attrval_id="@attribute_value_id_ComputersComponents_4"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_3" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390102 -->
+<!-- END items of CCM039_3901 -->
+<!-- END catalog entry : CCM039_3901 -->
+<!-- BEGIN catalog entry : CCM039_3902 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3902" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_4" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CCM039_3902" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_4" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_4" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_2" baseitem_id="@baseproduct_id_ComputersComponents_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="USD" price="324.99" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="AUD" price="419.24" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="NZD" price="448.49" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="BRL" price="1033.47" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="CAD" price="412.74" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="CNY" price="2170.93" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="EUR" price="276.24" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="GBP" price="253.49" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="JPY" price="35648" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="KRW" price="370599" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="PLN" price="1182.96" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="RON" price="1270.71" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="RUB" price="19200.41" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_7" currency="TWD" price="9847.2" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="USD" listprice="324.99" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="AUD" listprice="419.24" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="NZD" listprice="448.49" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="BRL" listprice="1033.47" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="CAD" listprice="412.74" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="CNY" listprice="2170.93" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="EUR" listprice="276.24" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="GBP" listprice="253.49" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="JPY" listprice="35648" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="KRW" listprice="370599" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="PLN" listprice="1182.96" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="RON" listprice="1270.71" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="RUB" listprice="19200.41" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_4" currency="TWD" listprice="9847.2" />
+<!-- Begin attribute mapping for CCM039_3902-->
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_4" attrval_id="@attribute_value_id_ComputersComponents_5_CCM039_3902" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersComponents_4" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_4" />
+<!-- End attribute mapping for CCM039_3902-->
+
+<!-- BEGIN items of CCM039_3902 -->
+<!-- BEGIN item bean CCM039_390201 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_2" partnumber="CCM039_390201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_3" itemspc_id="@itemspc_id_ComputersComponents_3" itemversn_id="@itemversn_id_ComputersComponents_2" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_5" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_3"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390201" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_5" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_5" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_5" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="USD" price="324.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="AUD" price="419.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="NZD" price="448.49" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="BRL" price="1033.47" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="CAD" price="412.74" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="CNY" price="2170.93" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="EUR" price="276.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="GBP" price="253.49" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="JPY" price="35648" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="KRW" price="370599" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="PLN" price="1182.96" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="RON" price="1270.71" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="RUB" price="19200.41" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_4" currency="TWD" price="9847.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="USD" listprice="324.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="AUD" listprice="419.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="NZD" listprice="448.49" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="BRL" listprice="1033.47" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="CAD" listprice="412.74" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="CNY" listprice="2170.93" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="EUR" listprice="276.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="GBP" listprice="253.49" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="JPY" listprice="35648" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="KRW" listprice="370599" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="PLN" listprice="1182.96" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="RON" listprice="1270.71" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="RUB" listprice="19200.41" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_5" currency="TWD" listprice="9847.2" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_5" attrval_id="@attribute_value_id_ComputersComponents_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_5" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390201 -->
+<!-- BEGIN item bean CCM039_390202 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_2" partnumber="CCM039_390202" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_4" itemspc_id="@itemspc_id_ComputersComponents_4" itemversn_id="@itemversn_id_ComputersComponents_2" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_4"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390202" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_6" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_6" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_6" sequence="2.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="USD" price="634.50" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="AUD" price="818.5" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="NZD" price="875.61" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="BRL" price="2017.71" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="CAD" price="805.82" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="CNY" price="4238.46" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="EUR" price="539.32" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="GBP" price="494.91" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="JPY" price="69598" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="KRW" price="723546" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="PLN" price="2309.58" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="RON" price="2480.89" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="RUB" price="37486.26" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_5" currency="TWD" price="19225.35" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="USD" listprice="634.50" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="AUD" listprice="818.5" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="NZD" listprice="875.61" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="BRL" listprice="2017.71" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="CAD" listprice="805.82" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="CNY" listprice="4238.46" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="EUR" listprice="539.32" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="GBP" listprice="494.91" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="JPY" listprice="69598" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="KRW" listprice="723546" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="PLN" listprice="2309.58" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="RON" listprice="2480.89" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="RUB" listprice="37486.26" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_6" currency="TWD" listprice="19225.35" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_5" attrval_id="@attribute_value_id_ComputersComponents_7"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390202 -->
+<!-- BEGIN item bean CCM039_390203 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_2" partnumber="CCM039_390203" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_5" itemspc_id="@itemspc_id_ComputersComponents_5" itemversn_id="@itemversn_id_ComputersComponents_2" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_7" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_5"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390203" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_7" sequence="3" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_7" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_7" sequence="2.4" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="USD" price="1099.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="AUD" price="1418.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="NZD" price="1517.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="BRL" price="3497.97" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="CAD" price="1396.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="CNY" price="7347.93" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="EUR" price="934.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="GBP" price="857.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="JPY" price="120658" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="KRW" price="1254363" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="PLN" price="4003.96" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="RON" price="4300.96" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="RUB" price="64987.41" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_6" currency="TWD" price="33329.7" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="USD" listprice="1099.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="AUD" listprice="1418.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="NZD" listprice="1517.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="BRL" listprice="3497.97" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="CAD" listprice="1396.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="CNY" listprice="7347.93" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="EUR" listprice="934.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="GBP" listprice="857.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="JPY" listprice="120658" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="KRW" listprice="1254363" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="PLN" listprice="4003.96" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="RON" listprice="4300.96" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="RUB" listprice="64987.41" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_7" currency="TWD" listprice="33329.7" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_5" attrval_id="@attribute_value_id_ComputersComponents_8"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_7" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390203 -->
+<!-- END items of CCM039_3902 -->
+<!-- END catalog entry : CCM039_3902 -->
+<!-- BEGIN catalog entry : CCM039_3903 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3903" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_8" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Eye Dee Team" partnumber="CCM039_3903" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_8" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_8" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_3" baseitem_id="@baseproduct_id_ComputersComponents_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="USD" price="0.9" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="AUD" price="1.16" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="NZD" price="1.24" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="BRL" price="2.86" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="CAD" price="1.14" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="CNY" price="6.01" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="EUR" price="0.77" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="GBP" price="0.7" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="JPY" price="99" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="KRW" price="1026" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="PLN" price="3.28" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="RON" price="3.52" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="RUB" price="53.17" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_10" currency="TWD" price="27.27" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="USD" listprice="0.9" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="AUD" listprice="1.16" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="NZD" listprice="1.24" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="BRL" listprice="2.86" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="CAD" listprice="1.14" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="CNY" listprice="6.01" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="EUR" listprice="0.77" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="GBP" listprice="0.7" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="JPY" listprice="99" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="KRW" listprice="1026" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="PLN" listprice="3.28" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="RON" listprice="3.52" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="RUB" listprice="53.17" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_8" currency="TWD" listprice="27.27" />
+<!-- Begin attribute mapping for CCM039_3903-->
+<catentryattr attr_id="@attribute_id_ComputersComponents_6" attrval_id="@attribute_value_id_ComputersComponents_9_CCM039_3903" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_8" />
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_8" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_8" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_ComputersComponents_8" />
+<!-- End attribute mapping for CCM039_3903-->
+
+<!-- BEGIN items of CCM039_3903 -->
+<!-- BEGIN item bean CCM039_390301 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_3" partnumber="CCM039_390301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_6" itemspc_id="@itemspc_id_ComputersComponents_6" itemversn_id="@itemversn_id_ComputersComponents_3" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_9" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_6"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390301" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_8"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_9" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_9" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_9" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="USD" price="0.9" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="AUD" price="1.16" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="NZD" price="1.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="BRL" price="2.86" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="CAD" price="1.14" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="CNY" price="6.01" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="EUR" price="0.77" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="GBP" price="0.7" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="JPY" price="99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="KRW" price="1026" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="PLN" price="3.28" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="RON" price="3.52" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="RUB" price="53.17" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_8" currency="TWD" price="27.27" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="USD" listprice="0.9" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="AUD" listprice="1.16" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="NZD" listprice="1.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="BRL" listprice="2.86" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="CAD" listprice="1.14" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="CNY" listprice="6.01" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="EUR" listprice="0.77" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="GBP" listprice="0.7" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="JPY" listprice="99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="KRW" listprice="1026" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="PLN" listprice="3.28" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="RON" listprice="3.52" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="RUB" listprice="53.17" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_9" currency="TWD" listprice="27.27" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="@attribute_value_id_ComputersComponents_10"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_9" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_8" attrval_id="@attribute_value_id_ComputersComponents_13"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersComponents_9" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390301 -->
+<!-- BEGIN item bean CCM039_390302 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_3" partnumber="CCM039_390302" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_7" itemspc_id="@itemspc_id_ComputersComponents_7" itemversn_id="@itemversn_id_ComputersComponents_3" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_7"	catenttype_id="ItemBean" mfname="Eye Dee Team"	partnumber="CCM039_390302" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_8"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_10" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_10" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_10" sequence="3.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="USD" price="1.45" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="AUD" price="1.87" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="NZD" price="2.0" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="BRL" price="4.61" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="CAD" price="1.84" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="CNY" price="9.69" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="EUR" price="1.23" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="GBP" price="1.13" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="JPY" price="159" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="KRW" price="1653" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="PLN" price="5.28" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="RON" price="5.67" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="RUB" price="85.67" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_9" currency="TWD" price="43.94" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="USD" listprice="1.45" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="AUD" listprice="1.87" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="NZD" listprice="2.0" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="BRL" listprice="4.61" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="CAD" listprice="1.84" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="CNY" listprice="9.69" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="EUR" listprice="1.23" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="GBP" listprice="1.13" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="JPY" listprice="159" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="KRW" listprice="1653" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="PLN" listprice="5.28" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="RON" listprice="5.67" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="RUB" listprice="85.67" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_10" currency="TWD" listprice="43.94" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="@attribute_value_id_ComputersComponents_11"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_10" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_8" attrval_id="@attribute_value_id_ComputersComponents_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_ComputersComponents_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390302 -->
+<!-- END items of CCM039_3903 -->
+<!-- END catalog entry : CCM039_3903 -->
+<!-- BEGIN catalog entry : CCM039_3904 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3904" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CCM039_3904" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_11" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_11" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_4" baseitem_id="@baseproduct_id_ComputersComponents_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="USD" price="84.99" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="AUD" price="109.64" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="NZD" price="117.29" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="BRL" price="270.27" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="CAD" price="107.94" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="CNY" price="567.73" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="EUR" price="72.24" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="GBP" price="66.29" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="JPY" price="9323" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="KRW" price="96918" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="PLN" price="309.36" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="RON" price="332.31" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="RUB" price="5021.21" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_14" currency="TWD" price="2575.2" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="USD" listprice="84.99" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="AUD" listprice="109.64" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="NZD" listprice="117.29" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="BRL" listprice="270.27" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="CAD" listprice="107.94" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="CNY" listprice="567.73" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="EUR" listprice="72.24" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="GBP" listprice="66.29" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="JPY" listprice="9323" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="KRW" listprice="96918" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="PLN" listprice="309.36" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="RON" listprice="332.31" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="RUB" listprice="5021.21" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_11" currency="TWD" listprice="2575.2" />
+<!-- Begin attribute mapping for CCM039_3904-->
+<catentryattr attr_id="@attribute_id_ComputersComponents_6" attrval_id="@attribute_value_id_ComputersComponents_14_CCM039_3904" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_11" />
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_11" />
+<!-- End attribute mapping for CCM039_3904-->
+
+<!-- BEGIN items of CCM039_3904 -->
+<!-- BEGIN item bean CCM039_390401 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_4" partnumber="CCM039_390401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_8" itemspc_id="@itemspc_id_ComputersComponents_8" itemversn_id="@itemversn_id_ComputersComponents_4" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_8"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390401" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_12" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_12" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="USD" price="84.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="AUD" price="109.64" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="NZD" price="117.29" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="BRL" price="270.27" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="CAD" price="107.94" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="CNY" price="567.73" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="EUR" price="72.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="GBP" price="66.29" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="JPY" price="9323" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="KRW" price="96918" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="PLN" price="309.36" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="RON" price="332.31" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="RUB" price="5021.21" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_11" currency="TWD" price="2575.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="USD" listprice="84.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="AUD" listprice="109.64" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="NZD" listprice="117.29" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="BRL" listprice="270.27" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="CAD" listprice="107.94" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="CNY" listprice="567.73" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="EUR" listprice="72.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="GBP" listprice="66.29" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="JPY" listprice="9323" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="KRW" listprice="96918" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="PLN" listprice="309.36" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="RON" listprice="332.31" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="RUB" listprice="5021.21" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_12" currency="TWD" listprice="2575.2" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="@attribute_value_id_ComputersComponents_16"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390401 -->
+<!-- BEGIN item bean CCM039_390402 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_4" partnumber="CCM039_390402" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_9" itemspc_id="@itemspc_id_ComputersComponents_9" itemversn_id="@itemversn_id_ComputersComponents_4" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_13" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_9"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390402" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_13" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_13" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_13" sequence="4.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="USD" price="104.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="AUD" price="135.44" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="NZD" price="144.89" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="BRL" price="333.87" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="CAD" price="133.34" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="CNY" price="701.33" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="EUR" price="89.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="GBP" price="81.89" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="JPY" price="11516" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="KRW" price="119724" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="PLN" price="382.16" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="RON" price="410.51" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="RUB" price="6202.81" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_12" currency="TWD" price="3181.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="USD" listprice="104.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="AUD" listprice="135.44" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="NZD" listprice="144.89" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="BRL" listprice="333.87" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="CAD" listprice="133.34" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="CNY" listprice="701.33" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="EUR" listprice="89.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="GBP" listprice="81.89" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="JPY" listprice="11516" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="KRW" listprice="119724" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="PLN" listprice="382.16" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="RON" listprice="410.51" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="RUB" listprice="6202.81" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_13" currency="TWD" listprice="3181.2" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="@attribute_value_id_ComputersComponents_17"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_13" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390402 -->
+<!-- BEGIN item bean CCM039_390403 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_10" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_4" partnumber="CCM039_390403" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_10" itemspc_id="@itemspc_id_ComputersComponents_10" itemversn_id="@itemversn_id_ComputersComponents_4" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_10"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390403" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_14" sequence="3" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_14" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_14" sequence="4.4" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="USD" price="134.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="AUD" price="174.14" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="NZD" price="186.29" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="BRL" price="429.27" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="CAD" price="171.44" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="CNY" price="901.73" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="EUR" price="114.74" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="GBP" price="105.29" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="JPY" price="14807" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="KRW" price="153934" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="PLN" price="491.36" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="RON" price="527.81" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="RUB" price="7975.21" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_13" currency="TWD" price="4090.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="USD" listprice="134.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="AUD" listprice="174.14" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="NZD" listprice="186.29" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="BRL" listprice="429.27" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="CAD" listprice="171.44" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="CNY" listprice="901.73" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="EUR" listprice="114.74" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="GBP" listprice="105.29" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="JPY" listprice="14807" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="KRW" listprice="153934" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="PLN" listprice="491.36" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="RON" listprice="527.81" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="RUB" listprice="7975.21" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_14" currency="TWD" listprice="4090.2" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_7" attrval_id="@attribute_value_id_ComputersComponents_18"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390403 -->
+<!-- END items of CCM039_3904 -->
+<!-- END catalog entry : CCM039_3904 -->
+<!-- BEGIN catalog entry : CCM039_3905 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3905" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_15" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CCM039_3905" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_15" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_15" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_5" baseitem_id="@baseproduct_id_ComputersComponents_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="USD" price="229.65" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="AUD" price="296.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="NZD" price="316.92" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="BRL" price="730.29" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="CAD" price="291.66" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="CNY" price="1534.06" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="EUR" price="195.2" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="GBP" price="179.13" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="JPY" price="25190" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="KRW" price="261879" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="PLN" price="835.93" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="RON" price="897.93" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="RUB" price="13567.72" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_17" currency="TWD" price="6958.4" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="USD" listprice="229.65" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="AUD" listprice="296.25" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="NZD" listprice="316.92" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="BRL" listprice="730.29" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="CAD" listprice="291.66" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="CNY" listprice="1534.06" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="EUR" listprice="195.2" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="GBP" listprice="179.13" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="JPY" listprice="25190" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="KRW" listprice="261879" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="PLN" listprice="835.93" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="RON" listprice="897.93" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="RUB" listprice="13567.72" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_15" currency="TWD" listprice="6958.4" />
+<!-- Begin attribute mapping for CCM039_3905-->
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_9" attrval_id="@attribute_value_id_ComputersComponents_19_CCM039_3905" usage="2" sequence="1.0" catentry_id="@catentry_product_id_ComputersComponents_15" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_10" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_15" />
+<!-- End attribute mapping for CCM039_3905-->
+
+<!-- BEGIN items of CCM039_3905 -->
+<!-- BEGIN item bean CCM039_390501 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_11" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_5" partnumber="CCM039_390501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_11" itemspc_id="@itemspc_id_ComputersComponents_11" itemversn_id="@itemversn_id_ComputersComponents_5" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_16" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_11"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390501" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_16" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_16" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_16" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="USD" price="229.65" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="AUD" price="296.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="NZD" price="316.92" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="BRL" price="730.29" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="CAD" price="291.66" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="CNY" price="1534.06" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="EUR" price="195.2" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="GBP" price="179.13" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="JPY" price="25190" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="KRW" price="261879" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="PLN" price="835.93" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="RON" price="897.93" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="RUB" price="13567.72" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_15" currency="TWD" price="6958.4" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="USD" listprice="229.65" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="AUD" listprice="296.25" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="NZD" listprice="316.92" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="BRL" listprice="730.29" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="CAD" listprice="291.66" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="CNY" listprice="1534.06" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="EUR" listprice="195.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="GBP" listprice="179.13" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="JPY" listprice="25190" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="KRW" listprice="261879" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="PLN" listprice="835.93" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="RON" listprice="897.93" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="RUB" listprice="13567.72" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_16" currency="TWD" listprice="6958.4" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_10" attrval_id="@attribute_value_id_ComputersComponents_20"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_16" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390501 -->
+<!-- BEGIN item bean CCM039_390502 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_12" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_5" partnumber="CCM039_390502" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_12" itemspc_id="@itemspc_id_ComputersComponents_12" itemversn_id="@itemversn_id_ComputersComponents_5" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_17" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_12"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390502" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_17" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_17" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_17" sequence="5.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="USD" price="479.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="AUD" price="619.19" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="NZD" price="662.39" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="BRL" price="1526.37" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="CAD" price="609.59" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="CNY" price="3206.33" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="EUR" price="407.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="GBP" price="374.39" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="JPY" price="52650" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="KRW" price="547352" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="PLN" price="1747.16" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="RON" price="1876.76" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="RUB" price="28357.81" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_16" currency="TWD" price="14543.7" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="USD" listprice="479.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="AUD" listprice="619.19" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="NZD" listprice="662.39" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="BRL" listprice="1526.37" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="CAD" listprice="609.59" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="CNY" listprice="3206.33" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="EUR" listprice="407.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="GBP" listprice="374.39" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="JPY" listprice="52650" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="KRW" listprice="547352" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="PLN" listprice="1747.16" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="RON" listprice="1876.76" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="RUB" listprice="28357.81" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_17" currency="TWD" listprice="14543.7" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_10" attrval_id="@attribute_value_id_ComputersComponents_21"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_17" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390502 -->
+<!-- END items of CCM039_3905 -->
+<!-- END catalog entry : CCM039_3905 -->
+<!-- BEGIN catalog entry : CCM039_3906 -->
+<baseitem baseitem_id="@baseproduct_id_ComputersComponents_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="CCM039_3906" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_ComputersComponents_18" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="DVR Technics" partnumber="CCM039_3906" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_ComputersComponents_18" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_ComputersComponents_18" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_ComputersComponents_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_ComputersComponents_6" baseitem_id="@baseproduct_id_ComputersComponents_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_ComputersComponents_21" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_ComputersComponents_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="USD" price="16.99" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="AUD" price="21.92" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="NZD" price="23.45" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="BRL" price="54.03" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="CAD" price="21.58" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="CNY" price="113.49" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="EUR" price="14.44" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="GBP" price="13.25" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="JPY" price="1864" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="KRW" price="19374" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="PLN" price="61.84" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="RON" price="66.43" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="RUB" price="1003.77" />
+<offerprice offer_id="@offer_catentry_product_id_ComputersComponents_21" currency="TWD" price="514.8" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="USD" listprice="16.99" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="AUD" listprice="21.92" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="NZD" listprice="23.45" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="BRL" listprice="54.03" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="CAD" listprice="21.58" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="CNY" listprice="113.49" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="EUR" listprice="14.44" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="GBP" listprice="13.25" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="JPY" listprice="1864" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="KRW" listprice="19374" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="PLN" listprice="61.84" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="RON" listprice="66.43" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="RUB" listprice="1003.77" />
+<listprice catentry_id="@catentry_product_id_ComputersComponents_18" currency="TWD" listprice="514.8" />
+<!-- Begin attribute mapping for CCM039_3906-->
+<catentryattr attr_id="@attribute_id_ComputersComponents_11" attrval_id="@attribute_value_id_ComputersComponents_22_CCM039_3906" usage="2" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_18" />
+
+<catentryattr attr_id="@attribute_id_ComputersComponents_12" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_ComputersComponents_18" />
+<!-- End attribute mapping for CCM039_3906-->
+
+<!-- BEGIN items of CCM039_3906 -->
+<!-- BEGIN item bean CCM039_390601 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_13" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_6" partnumber="CCM039_390601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_13" itemspc_id="@itemspc_id_ComputersComponents_13" itemversn_id="@itemversn_id_ComputersComponents_6" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_19" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_13"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390601" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_18"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_19" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_19" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_19" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_19" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="USD" price="16.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="AUD" price="21.92" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="NZD" price="23.45" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="BRL" price="54.03" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="CAD" price="21.58" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="CNY" price="113.49" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="EUR" price="14.44" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="GBP" price="13.25" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="JPY" price="1864" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="KRW" price="19374" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="PLN" price="61.84" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="RON" price="66.43" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="RUB" price="1003.77" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_18" currency="TWD" price="514.8" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="USD" listprice="16.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="AUD" listprice="21.92" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="NZD" listprice="23.45" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="BRL" listprice="54.03" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="CAD" listprice="21.58" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="CNY" listprice="113.49" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="EUR" listprice="14.44" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="GBP" listprice="13.25" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="JPY" listprice="1864" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="KRW" listprice="19374" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="PLN" listprice="61.84" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="RON" listprice="66.43" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="RUB" listprice="1003.77" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_19" currency="TWD" listprice="514.8" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_12" attrval_id="@attribute_value_id_ComputersComponents_23"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_19" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390601 -->
+<!-- BEGIN item bean CCM039_390602 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_14" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_6" partnumber="CCM039_390602" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_14" itemspc_id="@itemspc_id_ComputersComponents_14" itemversn_id="@itemversn_id_ComputersComponents_6" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_20" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_14"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390602" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_18"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_20" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_20" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_20" sequence="6.3" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_19" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_20" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="USD" price="32.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="AUD" price="42.56" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="NZD" price="45.53" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="BRL" price="104.91" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="CAD" price="41.9" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="CNY" price="220.37" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="EUR" price="28.04" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="GBP" price="25.73" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="JPY" price="3619" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="KRW" price="37620" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="PLN" price="120.08" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="RON" price="128.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="RUB" price="1949.05" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_19" currency="TWD" price="999.6" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="USD" listprice="32.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="AUD" listprice="42.56" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="NZD" listprice="45.53" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="BRL" listprice="104.91" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="CAD" listprice="41.9" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="CNY" listprice="220.37" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="EUR" listprice="28.04" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="GBP" listprice="25.73" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="JPY" listprice="3619" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="KRW" listprice="37620" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="PLN" listprice="120.08" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="RON" listprice="128.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="RUB" listprice="1949.05" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_20" currency="TWD" listprice="999.6" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_12" attrval_id="@attribute_value_id_ComputersComponents_24"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_20" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390602 -->
+<!-- BEGIN item bean CCM039_390603 -->
+<itemspc itemspc_id="@itemspc_id_ComputersComponents_15" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_ComputersComponents_6" partnumber="CCM039_390603" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_ComputersComponents_15" itemspc_id="@itemspc_id_ComputersComponents_15" itemversn_id="@itemversn_id_ComputersComponents_6" />
+<catentry catentry_id="@catentry_item_id_ComputersComponents_21" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_ComputersComponents_15"	catenttype_id="ItemBean" mfname="DVR Technics"	partnumber="CCM039_390603" markfordelete="0" baseitem_id="@baseproduct_id_ComputersComponents_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_ComputersComponents_18"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_ComputersComponents_21" sequence="3" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_ComputersComponents_21" />
+<catgpenrel catgroup_id="@catgroup_id_ComputersComponents" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_ComputersComponents_21" sequence="6.4" />
+<offer offer_id="@offer_catentry_item_id_ComputersComponents_20" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_ComputersComponents_21" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="USD" price="64.99" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="AUD" price="83.84" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="NZD" price="89.69" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="BRL" price="206.67" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="CAD" price="82.54" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="CNY" price="434.13" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="EUR" price="55.24" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="GBP" price="50.69" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="JPY" price="7129" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="KRW" price="74111" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="PLN" price="236.56" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="RON" price="254.11" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="RUB" price="3839.61" />
+<offerprice offer_id="@offer_catentry_item_id_ComputersComponents_20" currency="TWD" price="1969.2" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="USD" listprice="64.99" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="AUD" listprice="83.84" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="NZD" listprice="89.69" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="BRL" listprice="206.67" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="CAD" listprice="82.54" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="CNY" listprice="434.13" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="EUR" listprice="55.24" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="GBP" listprice="50.69" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="JPY" listprice="7129" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="KRW" listprice="74111" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="PLN" listprice="236.56" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="RON" listprice="254.11" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="RUB" listprice="3839.61" />
+<listprice catentry_id="@catentry_item_id_ComputersComponents_21" currency="TWD" listprice="1969.2" />
+<catentryattr attr_id="@attribute_id_ComputersComponents_12" attrval_id="@attribute_value_id_ComputersComponents_25"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_ComputersComponents_21" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean CCM039_390603 -->
+<!-- END items of CCM039_3906 -->
+<!-- END catalog entry : CCM039_3906 -->
+<!-- END: Writing catalog entries -->

@@ -1,0 +1,66 @@
+
+<!-- BEGIN  Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description   MedicinceCategory -->
+<attrdesc attr_id="@attribute_id_Medicince_6" attrtype_id="STRING" language_id="&it_IT;" name="Categoria" description="Categoria" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_6" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="1" value="Sollievo a raffreddore" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_11" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="2" value="Rinforzo immunitario" integervalue="" floatvalue="" stringvalue="Rinforzo immunitario" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_15" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="3" value="Naturopatico" integervalue="" floatvalue="" stringvalue="Naturopatico" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_20" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="4" value="Sollievo al dolore" integervalue="" floatvalue="" stringvalue="Sollievo al dolore" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_22" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="5" value="Sollievo a raffreddore e sinusite" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore e sinusite" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_28" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&it_IT;" sequence="6" value="Sollievo a raffreddore e influenza" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore e influenza" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceCategory -->
+<!--BEGIN Defining attribute description   MedicinceType -->
+<attrdesc attr_id="@attribute_id_Medicince_5" attrtype_id="STRING" language_id="&it_IT;" name="Tipo" description="Tipo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_5" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&it_IT;" sequence="1" value="Pastiglia" integervalue="" floatvalue="" stringvalue="Pastiglia" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_10" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&it_IT;" sequence="2" value="Compressa" integervalue="" floatvalue="" stringvalue="Compressa" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_14" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&it_IT;" sequence="3" value="Pillola" integervalue="" floatvalue="" stringvalue="Pillola" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_17" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&it_IT;" sequence="4" value="Capsula" integervalue="" floatvalue="" stringvalue="Capsula" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_25" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&it_IT;" sequence="5" value="Liquido" integervalue="" floatvalue="" stringvalue="Liquido" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceType -->
+<!-- END  Writing defining attribute descriptions -->
+<!-- BEGIN  Writing descriptive attribute descriptions -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Medicince_4" attrtype_id="STRING" language_id="&it_IT;" name="Categoria" description="Categoria" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_4_HME037_3701" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="1" value="Sollievo a raffreddore" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_9_HME037_3702" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="2" value="Rinforzo immunitario" integervalue="" floatvalue="" stringvalue="Rinforzo immunitario" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3703" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="3" value="Naturopatico" integervalue="" floatvalue="" stringvalue="Naturopatico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3704" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="3" value="Naturopatico" integervalue="" floatvalue="" stringvalue="Naturopatico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3707" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="3" value="Naturopatico" integervalue="" floatvalue="" stringvalue="Naturopatico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3708" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="3" value="Naturopatico" integervalue="" floatvalue="" stringvalue="Naturopatico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3705" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="4" value="Sollievo al dolore" integervalue="" floatvalue="" stringvalue="Sollievo al dolore" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3709" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="4" value="Sollievo al dolore" integervalue="" floatvalue="" stringvalue="Sollievo al dolore" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_21_HME037_3706" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="5" value="Sollievo a raffreddore e sinusite" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore e sinusite" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_27_HME037_3710" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&it_IT;" sequence="6" value="Sollievo a raffreddore e influenza" integervalue="" floatvalue="" stringvalue="Sollievo a raffreddore e influenza" />
+<!--end of  Category -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Medicince_3" attrtype_id="STRING" language_id="&it_IT;" name="Tipo" description="Tipo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_3_HME037_3701" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="1" value="Pastiglia" integervalue="" floatvalue="" stringvalue="Pastiglia" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_8_HME037_3702" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="2" value="Compressa" integervalue="" floatvalue="" stringvalue="Compressa" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3703" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="3" value="Pillola" integervalue="" floatvalue="" stringvalue="Pillola" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3705" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="3" value="Pillola" integervalue="" floatvalue="" stringvalue="Pillola" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3704" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="4" value="Capsula" integervalue="" floatvalue="" stringvalue="Capsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3706" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="4" value="Capsula" integervalue="" floatvalue="" stringvalue="Capsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3708" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="4" value="Capsula" integervalue="" floatvalue="" stringvalue="Capsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3707" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="5" value="Liquido" integervalue="" floatvalue="" stringvalue="Liquido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3709" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="5" value="Liquido" integervalue="" floatvalue="" stringvalue="Liquido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3710" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&it_IT;" sequence="5" value="Liquido" integervalue="" floatvalue="" stringvalue="Liquido" />
+<!--end of  Type -->
+<!--start of  Packaging -->
+<attrdesc attr_id="@attribute_id_Medicince_1" attrtype_id="STRING" language_id="&it_IT;" name="Confezione" description="Confezione" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3701" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="1" value="Scatola di cartone" integervalue="" floatvalue="" stringvalue="Scatola di cartone" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3702" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="1" value="Scatola di cartone" integervalue="" floatvalue="" stringvalue="Scatola di cartone" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3703" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="1" value="Scatola di cartone" integervalue="" floatvalue="" stringvalue="Scatola di cartone" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3704" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="1" value="Scatola di cartone" integervalue="" floatvalue="" stringvalue="Scatola di cartone" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3705" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="2" value="Plastica" integervalue="" floatvalue="" stringvalue="Plastica" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3706" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="2" value="Plastica" integervalue="" floatvalue="" stringvalue="Plastica" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3708" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="2" value="Plastica" integervalue="" floatvalue="" stringvalue="Plastica" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3709" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="2" value="Plastica" integervalue="" floatvalue="" stringvalue="Plastica" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3710" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="2" value="Plastica" integervalue="" floatvalue="" stringvalue="Plastica" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_23_HME037_3707" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&it_IT;" sequence="3" value="Vetro" integervalue="" floatvalue="" stringvalue="Vetro" />
+<!--end of  Packaging -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

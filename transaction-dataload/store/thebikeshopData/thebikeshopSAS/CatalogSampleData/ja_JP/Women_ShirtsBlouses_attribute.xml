@@ -1,0 +1,131 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenShirtsBlousesSize -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_7" attrtype_id="STRING" language_id="&ja_JP;" name="サイズ" description="サイズ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_7" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_8" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_9" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_10" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_11" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_12" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_13" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&ja_JP;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShirtsBlousesSize -->
+<!--BEGIN Defining attribute description  WomenShirtsBlousesColor -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_8" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_14" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="1" value="ホワイト" integervalue="" floatvalue="" stringvalue="ホワイト" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_18" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="2" value="ブラウン" integervalue="" floatvalue="" stringvalue="ブラウン" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_24" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="3" value="複数カラー" integervalue="" floatvalue="" stringvalue="複数カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_29" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="4" value="ブルー" integervalue="" floatvalue="" stringvalue="ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_31" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="5" value="ピンク" integervalue="" floatvalue="" stringvalue="ピンク" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_35" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="6" value="グレー" integervalue="" floatvalue="" stringvalue="グレー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_38" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="7" value="ベージュ" integervalue="" floatvalue="" stringvalue="ベージュ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_44" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="8" value="ブラック" integervalue="" floatvalue="" stringvalue="ブラック" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_54" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&ja_JP;" sequence="9" value="レッド" integervalue="" floatvalue="" stringvalue="レッド" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShirtsBlousesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_6" attrtype_id="STRING" language_id="&ja_JP;" name="袖の長さ" description="袖の長さ" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_6_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="1" value="七分袖" integervalue="" floatvalue="" stringvalue="七分袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="2" value="キャップ・スリーブ" integervalue="" floatvalue="" stringvalue="キャップ・スリーブ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="2" value="キャップ・スリーブ" integervalue="" floatvalue="" stringvalue="キャップ・スリーブ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="2" value="キャップ・スリーブ" integervalue="" floatvalue="" stringvalue="キャップ・スリーブ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_23_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="3" value="ストラップレス" integervalue="" floatvalue="" stringvalue="ストラップレス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_28_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="4" value="フル・スリーブ" integervalue="" floatvalue="" stringvalue="フル・スリーブ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_28_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="4" value="フル・スリーブ" integervalue="" floatvalue="" stringvalue="フル・スリーブ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="5" value="半袖" integervalue="" floatvalue="" stringvalue="半袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="5" value="半袖" integervalue="" floatvalue="" stringvalue="半袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="5" value="半袖" integervalue="" floatvalue="" stringvalue="半袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_43_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="6" value="スリーブレス" integervalue="" floatvalue="" stringvalue="スリーブレス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_43_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="6" value="スリーブレス" integervalue="" floatvalue="" stringvalue="スリーブレス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="7" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="7" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="7" value="長袖" integervalue="" floatvalue="" stringvalue="長袖" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_53_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&ja_JP;" sequence="8" value="ショート・パフ・スリーブ" integervalue="" floatvalue="" stringvalue="ショート・パフ・スリーブ" />
+<!--end of  Sleeve Length -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_5" attrtype_id="STRING" language_id="&ja_JP;" name="洗濯" description="洗濯" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_2" attrtype_id="STRING" language_id="&ja_JP;" name="素材" description="素材" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="1" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="1" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="1" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="1" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="1" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_16_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン、スパンデックス" integervalue="" floatvalue="" stringvalue="コットン、スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="3" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="3" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="3" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_33_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ポリエステル" integervalue="" floatvalue="" stringvalue="ポリエステル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_36_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="5" value="ポリエステルとスパンデックス" integervalue="" floatvalue="" stringvalue="ポリエステルとスパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ジョーゼット" integervalue="" floatvalue="" stringvalue="ジョーゼット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ジョーゼット" integervalue="" floatvalue="" stringvalue="ジョーゼット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ジョーゼット" integervalue="" floatvalue="" stringvalue="ジョーゼット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ジョーゼット" integervalue="" floatvalue="" stringvalue="ジョーゼット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_46_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&ja_JP;" sequence="7" value="ポリエステル/スパンデックス" integervalue="" floatvalue="" stringvalue="ポリエステル/スパンデックス" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_1" attrtype_id="STRING" language_id="&ja_JP;" name="スタイル" description="スタイル" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_1_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル・シャツ" integervalue="" floatvalue="" stringvalue="カジュアル・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_15_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="2" value="フィット・ブラウズ" integervalue="" floatvalue="" stringvalue="フィット・ブラウズ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_15_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="2" value="フィット・ブラウズ" integervalue="" floatvalue="" stringvalue="フィット・ブラウズ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_19_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="3" value="コルセット" integervalue="" floatvalue="" stringvalue="コルセット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="4" value="フォーマル・シャツ" integervalue="" floatvalue="" stringvalue="フォーマル・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="4" value="フォーマル・シャツ" integervalue="" floatvalue="" stringvalue="フォーマル・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="4" value="フォーマル・シャツ" integervalue="" floatvalue="" stringvalue="フォーマル・シャツ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_32_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="5" value="フィット・トップス" integervalue="" floatvalue="" stringvalue="フィット・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_32_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="5" value="フィット・トップス" integervalue="" floatvalue="" stringvalue="フィット・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_39_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="6" value="ルーズ・フィット・トップス" integervalue="" floatvalue="" stringvalue="ルーズ・フィット・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="7" value="カジュアル・トップス" integervalue="" floatvalue="" stringvalue="カジュアル・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="7" value="カジュアル・トップス" integervalue="" floatvalue="" stringvalue="カジュアル・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="7" value="カジュアル・トップス" integervalue="" floatvalue="" stringvalue="カジュアル・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="7" value="カジュアル・トップス" integervalue="" floatvalue="" stringvalue="カジュアル・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_49_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="8" value="ドレープ・トップス" integervalue="" floatvalue="" stringvalue="ドレープ・トップス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_51_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&ja_JP;" sequence="9" value="フィット・シャツ" integervalue="" floatvalue="" stringvalue="フィット・シャツ" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_3" attrtype_id="STRING" language_id="&ja_JP;" name="着用シーン" description="着用シーン" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_20_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="2" value="カジュアル、カクテル、イブニング" integervalue="" floatvalue="" stringvalue="カジュアル、カクテル、イブニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="3" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="3" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="3" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_47_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="4" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_50_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="5" value="カクテル、イブニング" integervalue="" floatvalue="" stringvalue="カクテル、イブニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_52_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&ja_JP;" sequence="6" value="カジュアル、キャリア" integervalue="" floatvalue="" stringvalue="カジュアル、キャリア" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

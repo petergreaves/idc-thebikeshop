@@ -1,0 +1,120 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenSuitsColor -->
+<attrdesc attr_id="@attribute_id_MenSuits_6" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_11" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&zh_TW;" sequence="1" value="深灰色" integervalue="" floatvalue="" stringvalue="深灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_20" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&zh_TW;" sequence="2" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_23" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&zh_TW;" sequence="3" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_24" attr_id="@attribute_id_MenSuits_6" valusage="1" language_id="&zh_TW;" sequence="4" value="深藍" integervalue="" floatvalue="" stringvalue="深藍" qtyunit_id="C62" />
+<!--END Defining attribute description  MenSuitsColor -->
+<!--BEGIN Defining attribute description  MenSuitsSize -->
+<attrdesc attr_id="@attribute_id_MenSuits_5" attrtype_id="STRING" language_id="&zh_TW;" name="大小" description="大小" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_5" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="1" value="38 號右腳" integervalue="" floatvalue="" stringvalue="38 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_6" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="2" value="40 號右腳" integervalue="" floatvalue="" stringvalue="40 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_7" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="3" value="42 號右腳" integervalue="" floatvalue="" stringvalue="42 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_8" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="4" value="42 號左腳" integervalue="" floatvalue="" stringvalue="42 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_9" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="5" value="44 號右腳" integervalue="" floatvalue="" stringvalue="44 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_10" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="6" value="44 號左腳" integervalue="" floatvalue="" stringvalue="44 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_14" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="7" value="38 號左腳" integervalue="" floatvalue="" stringvalue="38 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_15" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="8" value="46 號右腳" integervalue="" floatvalue="" stringvalue="46 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_16" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="9" value="46 號左腳" integervalue="" floatvalue="" stringvalue="46 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_17" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="10" value="50 號右腳" integervalue="" floatvalue="" stringvalue="50 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_18" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="11" value="50 號左腳" integervalue="" floatvalue="" stringvalue="50 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_19" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="12" value="52 號右腳" integervalue="" floatvalue="" stringvalue="52 號右腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_22" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="13" value="52 號左腳" integervalue="" floatvalue="" stringvalue="52 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_30" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="14" value="48 號左腳" integervalue="" floatvalue="" stringvalue="48 號左腳" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_32" attr_id="@attribute_id_MenSuits_5" valusage="1" language_id="&zh_TW;" sequence="15" value="40 號左腳" integervalue="" floatvalue="" stringvalue="40 號左腳" qtyunit_id="C62" />
+<!--END Defining attribute description  MenSuitsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenSuits_3" attrtype_id="STRING" language_id="&zh_TW;" name="布料" description="布料" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0802" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0803" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0804" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0806" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0810" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0811" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0812" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0816" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0817" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_3_MCL008_0818" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="1" value="羊毛" integervalue="" floatvalue="" stringvalue="羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_21_MCL008_0809" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="2" value="印花棉羊毛" integervalue="" floatvalue="" stringvalue="印花棉羊毛" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0813" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="3" value="聚酯纖維混棉紡" integervalue="" floatvalue="" stringvalue="聚酯纖維混棉紡" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0819" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="3" value="聚酯纖維混棉紡" integervalue="" floatvalue="" stringvalue="聚酯纖維混棉紡" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0820" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="3" value="聚酯纖維混棉紡" integervalue="" floatvalue="" stringvalue="聚酯纖維混棉紡" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0822" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="3" value="聚酯纖維混棉紡" integervalue="" floatvalue="" stringvalue="聚酯纖維混棉紡" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_26_MCL008_0825" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="3" value="聚酯纖維混棉紡" integervalue="" floatvalue="" stringvalue="聚酯纖維混棉紡" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_29_MCL008_0815" attr_id="@attribute_id_MenSuits_3" valusage="1" language_id="&zh_TW;" sequence="4" value="羊毛混紡" integervalue="" floatvalue="" stringvalue="羊毛混紡" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenSuits_2" attrtype_id="STRING" language_id="&zh_TW;" name="樣式" description="樣式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0802" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0803" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0804" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0806" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0809" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0810" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0811" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0813" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0817" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0819" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0820" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0822" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_2_MCL008_0825" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="1" value="雙扣" integervalue="" floatvalue="" stringvalue="雙扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0812" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="2" value="三扣" integervalue="" floatvalue="" stringvalue="三扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0815" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="2" value="三扣" integervalue="" floatvalue="" stringvalue="三扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_25_MCL008_0816" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="2" value="三扣" integervalue="" floatvalue="" stringvalue="三扣" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_31_MCL008_0818" attr_id="@attribute_id_MenSuits_2" valusage="1" language_id="&zh_TW;" sequence="3" value="雙扣，細條紋布" integervalue="" floatvalue="" stringvalue="雙扣，細條紋布" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Pattern -->
+<attrdesc attr_id="@attribute_id_MenSuits_1" attrtype_id="STRING" language_id="&zh_TW;" name="款式" description="款式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0802" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="1" value="格子花紋" integervalue="" floatvalue="" stringvalue="格子花紋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0806" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="1" value="格子花紋" integervalue="" floatvalue="" stringvalue="格子花紋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_1_MCL008_0819" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="1" value="格子花紋" integervalue="" floatvalue="" stringvalue="格子花紋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0803" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0804" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0809" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0810" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0811" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0812" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0813" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0816" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0818" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0820" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0822" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_12_MCL008_0825" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="2" value="無
+" integervalue="" floatvalue="" stringvalue="無
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_28_MCL008_0815" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="3" value="細條紋布" integervalue="" floatvalue="" stringvalue="細條紋布" />
+<attrvaldesc attrval_id="@attribute_value_id_MenSuits_28_MCL008_0817" attr_id="@attribute_id_MenSuits_1" valusage="1" language_id="&zh_TW;" sequence="3" value="細條紋布" integervalue="" floatvalue="" stringvalue="細條紋布" />
+<!--end of  Pattern -->
+<!-- END Writing descriptive attribute descriptions -->

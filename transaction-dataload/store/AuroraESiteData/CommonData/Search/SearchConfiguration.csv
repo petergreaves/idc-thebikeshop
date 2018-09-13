@@ -1,0 +1,4 @@
+SearchConfiguration
+INDEXTYPE, INDEXSCOPE, LANGUAGES ,CONFIG, Delete
+CatalogEntry,,,"PreProcessConfigDirectory=/v3/db2,Version=3,createAll=true",0
+CatalogGroup,,,"PreProcessConfigDirectory=/v3/db2/CatalogGroup,Version=3,createAll=true",0

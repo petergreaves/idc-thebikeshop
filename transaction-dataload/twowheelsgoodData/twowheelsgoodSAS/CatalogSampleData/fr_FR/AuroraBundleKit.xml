@@ -1,0 +1,60 @@
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Men_accessory_1"
+   language_id="&fr_FR;"
+   name="Correspondance parfaite"
+   shortdescription="Lot d'accessoires homme"
+   longdescription="Faite dans un cuir importé d'Italie, cette ceinture a une apparence moderne et elle comporte une fermeture par une plaque en deux morceaux en nickel brossé. Complétée par une cravate noire fluide et luxueuse, repassée à la main, en mélange soie-polyester, elle vous donne beaucoup de style."
+   thumbnail="images/catalog/apparel/men/mac013_accessories/200x310/mac013_1333.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/men/mac013_accessories/646x1000/mac013_1333.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Stylish_latte_1"
+   language_id="&fr_FR;"
+   name="Faits l'un pour l'autre"
+   shortdescription="Offre latte stylée"
+   longdescription="Accompagné de deux tasses en porcelaine Almherst, la Kitchenel Espresso/Latte Maker est un vrai délice pour les amoureux du café. Avec ses options multiples, la machine espresso peut vous faire un espresso en toute simplicité. "
+   thumbnail="images/catalog/homefurnishings/hap027_appliances/200x310/hap027_2744.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hap027_appliances/646x1000/hap027_2744.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_CristieGlassware_1"
+   language_id="&fr_FR;"
+   name="In True Spirits"
+   shortdescription="Ensemble de verres à vin"
+   longdescription="Proposée sous la forme d'un ensemble de quatre verres à vin classiques, cette collection constitue le compagnon idéal d'un dîner formel. Avec un large rebord, et de forme ovale, ces verres ont la forme idéale pour retenir toute la saveur parfumée du vin"
+   thumbnail="images/catalog/homefurnishings/hta029_tableware/200x310/hta029_2932.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hta029_tableware/646x1000/hta029_2932.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_Casual_Yet_Classic_1"
+   language_id="&fr_FR;"
+   name="Classique décontracté"
+   shortdescription="Ensemble Chemise en coton blanc et jeans bleus de travail"
+   longdescription="Chemise en coton blanc combinée à un jeans bleu de travail, style classique pour un jeune garçon, adapté à toutes les occasions. Les motifs géométriques noir et blanc dans le dos donnent à la chemise une touche d'élégance et de modernité, complétée par le jean de style bleu de travail."
+   thumbnail="images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1417.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1417.jpg"
+   available="1"
+   published="1"
+/>
+
+<!-- Dynamic Kit -->
+<catentdesc catentry_id="@catentry_dynamickit_id_computers_11" language_id="&fr_FR;" name="Ordinateur de bureau AXABC-E3062" shortdescription="PC tout en un Aurora AXABC-E3062." longdescription="Avec son encombrement réduit et sa grande convivialité, le PC tout en un Aurora AXABC-E3062 avec écran Full HD va illuminer votre vie numérique. Inclut : processeur, système d'exploitation, unité de disque dur, mémoire, unité de disque optique, carte audio, modem et Wi-Fi, clavier, moniteur, souris et haut-parleurs." thumbnail="images/catalog/electronics/cde021_desktops/200x310/cde021_2104.jpg" fullimage="images/catalog/electronics/cde021_desktops/646x1000/cde021_2104.jpg" available="1" published="0"/>
+<baseitmdsc baseitem_id="@baseitem_dynamickit_id_computers_11" language_id="&fr_FR;" shortdescription="PC tout en un Aurora AXABC-E3062." longdescription="Avec son encombrement réduit et sa grande convivialité, le PC tout en un Aurora AXABC-E3062 avec écran Full HD va illuminer votre vie numérique. Inclut : processeur, système d'exploitation, unité de disque dur, mémoire, unité de disque optique, carte audio, modem et Wi-Fi, clavier, moniteur, souris et haut-parleurs."/>
+<!-- End of Dynamic Kit -->
+
+
+

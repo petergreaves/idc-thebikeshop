@@ -1,0 +1,13 @@
+Page
+PageGroup,PageAdminName,Deletable,AdminEditable,UrlConfigurable
+Content,HelpPage,FALSE,FALSE,TRUE
+Content,ContactUsPage,FALSE,FALSE,TRUE
+Content,ReturnPolicyPage,FALSE,FALSE,TRUE
+Content,PrivacyPolicyPage,FALSE,FALSE,TRUE
+Content,CorporateInfoPage,FALSE,FALSE,TRUE
+Content,CorporateContactUsPage,FALSE,FALSE,TRUE
+Content,SiteMapPage,FALSE,FALSE,TRUE
+Content,HomePage,FALSE,FALSE,FALSE
+Content,AboutDressDesigner,FALSE,FALSE,TRUE
+Content,AuroraStyleGuide,FALSE,FALSE,TRUE
+Content,EveningSparkleDress,FALSE,FALSE,TRUE

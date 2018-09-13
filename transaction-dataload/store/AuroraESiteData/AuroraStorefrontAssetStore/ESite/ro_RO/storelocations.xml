@@ -1,0 +1,353 @@
+
+<stlocds stlocds_id="@stlocds_id_ro_RO_1" stloc_id="@stloc_id_1" language_id="&ro_RO;" name="Grădinile Sherway" description="Grădinile Sherway" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_2" stloc_id="@stloc_id_2" language_id="&ro_RO;" name="Centrul Yorkdale" description="Centrul Yorkdale" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_3" stloc_id="@stloc_id_3" language_id="&ro_RO;" name="Centrul Markham" description="Centrul Markham" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_4" stloc_id="@stloc_id_4" language_id="&ro_RO;" name="Mall-ul Markville" description="Mall-ul Markville" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_5" stloc_id="@stloc_id_5" language_id="&ro_RO;" name="Centrul Burnaby" description="Centrul Burnaby" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_6" stloc_id="@stloc_id_6" language_id="&ro_RO;" name="Centrul Eaton" description="Centrul Eaton" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_7" stloc_id="@stloc_id_7" language_id="&ro_RO;" name="Bulevardul universităţii" description="Bulevardul universităţii" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_8" stloc_id="@stloc_id_8" language_id="&ro_RO;" name="Mall-ul Parkside" description="Mall-ul Parkside" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_9" stloc_id="@stloc_id_9" language_id="&ro_RO;" name="Mall-ul Pacific" description="Mall-ul Pacific" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_10" stloc_id="@stloc_id_10" language_id="&ro_RO;" name="Mall-ul Vancouver" description="Mall-ul Vancouver" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_11" stloc_id="@stloc_id_11" language_id="&ro_RO;" name="Loc pentru micul dejun" description="Loc pentru micul dejun" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_12" stloc_id="@stloc_id_12" language_id="&ro_RO;" name="Centrul Regina" description="Centrul Regina" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_13" stloc_id="@stloc_id_13" language_id="&ro_RO;" name="Locul Edmonton" description="Locul Edmonton" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="Locul Victoria" description="Locul Victoria" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_15" stloc_id="@stloc_id_15" language_id="&ro_RO;" name="Noul loc Brunswick" description="Noul loc Brunswick" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_16" stloc_id="@stloc_id_16" language_id="&ro_RO;" name="Locul Newfoundland" description="Locul Newfoundland" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_17" stloc_id="@stloc_id_17" language_id="&ro_RO;" name="Locul Nova Scotia" description="Locul Nova Scotia" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_18" stloc_id="@stloc_id_18" language_id="&ro_RO;" name="Locul Montreal" description="Locul Montreal" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_19" stloc_id="@stloc_id_19" language_id="&ro_RO;" name="Locul Quebec" description="Locul Quebec" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="ColwoodBC" description="ColwoodBC" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="NanaimoBC" description="NanaimoBC" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="VicBC2" description="VicBC2" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="Chilliwack" description="Chilliwack" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="MedicineHat" description="MedicineHat" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="Edmonton2" description="Edmonton2" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_26" stloc_id="@stloc_id_26" language_id="&ro_RO;" name="Mall-ul Calgary" description="Mall-ul Calgary" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_27" stloc_id="@stloc_id_27" language_id="&ro_RO;" name="Mall-ul Winnipeg" description="Mall-ul Winnipeg" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="Mall-ul Waterloo" description="Mall-ul Waterloo" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_29" stloc_id="@stloc_id_29" language_id="&ro_RO;" name="Mall-ul Laval" description="Mall-ul Laval" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="Mall-ul Montreal" description="Mall-ul Montreal" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_31" stloc_id="@stloc_id_31" language_id="&ro_RO;" name="Mall-ul QC" description="Mall-ul QC" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="Mall-ul Charlottetown" description="Mall-ul Charlottetown" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_33" stloc_id="@stloc_id_33" language_id="&ro_RO;" name="Mall-ul Fredericton" description="Mall-ul Fredericton" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_34" stloc_id="@stloc_id_34" language_id="&ro_RO;" name="Piaţa Fredericton" description="Piaţa Fredericton" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_35" stloc_id="@stloc_id_35" language_id="&ro_RO;" name="Piaţa Moncton" description="Piaţa Moncton" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="Mall-ul NFLD" description="Mall-ul NFLD" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="Mall-ul Calgary Circle" description="Mall-ul Calgary Circle" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="Mall-ul Londra Alberta" description="Mall-ul Londra Alberta" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="Warden Plaza" description="Warden Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_40" stloc_id="@stloc_id_40" language_id="&ro_RO;" name="Bathurst Plaza" description="Bathurst Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_41" stloc_id="@stloc_id_41" language_id="&ro_RO;" name="Keele Plaza" description="Keele Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="Alton Towers Plaza" description="Alton Towers Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_43" stloc_id="@stloc_id_43" language_id="&ro_RO;" name="City Centre Plaza" description="City Centre Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_44" stloc_id="@stloc_id_44" language_id="&ro_RO;" name="Borough Plaza" description="Borough Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_45" stloc_id="@stloc_id_45" language_id="&ro_RO;" name="Bloor Plaza" description="Bloor Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_46" stloc_id="@stloc_id_46" language_id="&ro_RO;" name="Bay Plaza" description="Bay Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_47" stloc_id="@stloc_id_47" language_id="&ro_RO;" name="Islington Plaza" description="Islington Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="DANFORTH Plaza" description="DANFORTH Plaza" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="Mall-ul Jacksonville" description="Mall-ul Jacksonville" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_50" stloc_id="@stloc_id_50" language_id="&ro_RO;" name="Centrul Jacksonville" description="Centrul Jacksonville" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="Piaţa Jacksonville" description="Piaţa Jacksonville" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_52" stloc_id="@stloc_id_52" language_id="&ro_RO;" name="Piaţa de desfacere Jacksonville" description="Piaţa de desfacere Jacksonville" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="Mall-ul Miami" description="Mall-ul Miami" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_54" stloc_id="@stloc_id_54" language_id="&ro_RO;" name="Centrul Miami" description="Centrul Miami" />
+<stlocds stlocds_id="@stlocds_id_ro_RO_55" stloc_id="@stloc_id_55" language_id="&ro_RO;" name="Piaţa Miami" description="Piaţa Miami" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="5" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="5" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="BeautyCenter" displayname="Centru de frumuseţe" value="true" displayvalue="adevărat" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_5_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_6_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_7_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ro_RO;" name="Type" displayname="Tip" value="Regular Store" displayvalue="magazin obişnuit" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ro_RO;" name="CappuccinoBar" displayname="Bar Cappuccino" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ro_RO;" name="SushiRestaurant" displayname="Restaurant Sushi" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ro_RO;" name="Type" displayname="Tip" value="Express Store" displayvalue="magazin special" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_1_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ro_RO;" name="StoreHours" displayname="Ore magazin" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="Lun-Vin: 10 - 21&lt;br /&gt;Sâm: 9 - 19&lt;br /&gt;Dum: 11 - 18&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_2_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ro_RO;" name="DesignerStudio" displayname="Studio designer" value="true" displayvalue="adevărat" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_3_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ro_RO;" name="Electronics" displayname="Electronice" value="true" displayvalue="adevărat" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ro_RO_4_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ro_RO;" name="Type" displayname="Tip" value="Outlet Store" displayvalue="magazin de desfacere" displayable="1" sequence="3" />

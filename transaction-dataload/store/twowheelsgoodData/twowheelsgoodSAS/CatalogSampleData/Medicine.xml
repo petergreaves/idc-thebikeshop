@@ -1,0 +1,1020 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : MedicinceCategory -->
+<attr attr_id="@attribute_id_Medicince_6" identifier="MedicinceCategory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_6" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Cold Relief"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_11" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Immune Booster"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_15" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Naturopathic"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_20" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Pain relief"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_22" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Cold and sinus relief"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_28" attr_id="@attribute_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" identifier="Cold and flu relief"	valusage="1" />
+<!--END Defining attribute : MedicinceCategory -->
+<!--BEGIN Defining attribute : MedicinceType -->
+<attr attr_id="@attribute_id_Medicince_5" identifier="MedicinceType" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_5" attr_id="@attribute_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" identifier="Lozenge"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_10" attr_id="@attribute_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" identifier="Tablet"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_14" attr_id="@attribute_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" identifier="Pill"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_17" attr_id="@attribute_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" identifier="Capsule"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Medicince_25" attr_id="@attribute_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" identifier="Liquid"	valusage="1" />
+<!--END Defining attribute : MedicinceType -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Category -->
+<attr attr_id="@attribute_id_Medicince_4" identifier="Category" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Medicince_4_HME037_3701" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3701" />
+<attrval attrval_id="@attribute_value_id_Medicince_9_HME037_3702" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3702" />
+<attrval attrval_id="@attribute_value_id_Medicince_13_HME037_3703" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3703" />
+<attrval attrval_id="@attribute_value_id_Medicince_13_HME037_3704" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3704" />
+<attrval attrval_id="@attribute_value_id_Medicince_13_HME037_3707" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3707" />
+<attrval attrval_id="@attribute_value_id_Medicince_13_HME037_3708" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3708" />
+<attrval attrval_id="@attribute_value_id_Medicince_19_HME037_3705" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3705" />
+<attrval attrval_id="@attribute_value_id_Medicince_19_HME037_3709" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3709" />
+<attrval attrval_id="@attribute_value_id_Medicince_21_HME037_3706" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3706" />
+<attrval attrval_id="@attribute_value_id_Medicince_27_HME037_3710" attr_id="@attribute_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3710" />
+<!--END Descriptive attribute : Category -->
+<!--BEGIN Descriptive attribute : Type -->
+<attr attr_id="@attribute_id_Medicince_3" identifier="Type" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Medicince_3_HME037_3701" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3701" />
+<attrval attrval_id="@attribute_value_id_Medicince_8_HME037_3702" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3702" />
+<attrval attrval_id="@attribute_value_id_Medicince_12_HME037_3703" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3703" />
+<attrval attrval_id="@attribute_value_id_Medicince_12_HME037_3705" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3705" />
+<attrval attrval_id="@attribute_value_id_Medicince_16_HME037_3704" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3704" />
+<attrval attrval_id="@attribute_value_id_Medicince_16_HME037_3706" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3706" />
+<attrval attrval_id="@attribute_value_id_Medicince_16_HME037_3708" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3708" />
+<attrval attrval_id="@attribute_value_id_Medicince_24_HME037_3707" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3707" />
+<attrval attrval_id="@attribute_value_id_Medicince_24_HME037_3709" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3709" />
+<attrval attrval_id="@attribute_value_id_Medicince_24_HME037_3710" attr_id="@attribute_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3710" />
+<!--END Descriptive attribute : Type -->
+<!--BEGIN Descriptive attribute : Packaging -->
+<attr attr_id="@attribute_id_Medicince_1" identifier="Packaging" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Medicince_1_HME037_3701" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3701" />
+<attrval attrval_id="@attribute_value_id_Medicince_1_HME037_3702" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3702" />
+<attrval attrval_id="@attribute_value_id_Medicince_1_HME037_3703" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3703" />
+<attrval attrval_id="@attribute_value_id_Medicince_1_HME037_3704" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3704" />
+<attrval attrval_id="@attribute_value_id_Medicince_18_HME037_3705" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3705" />
+<attrval attrval_id="@attribute_value_id_Medicince_18_HME037_3706" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3706" />
+<attrval attrval_id="@attribute_value_id_Medicince_18_HME037_3708" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3708" />
+<attrval attrval_id="@attribute_value_id_Medicince_18_HME037_3709" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3709" />
+<attrval attrval_id="@attribute_value_id_Medicince_18_HME037_3710" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3710" />
+<attrval attrval_id="@attribute_value_id_Medicince_23_HME037_3707" attr_id="@attribute_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" identifier="HME037_3707" />
+<!--END Descriptive attribute : Packaging -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : HME037_3701 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3701" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Cold-Be-Gone" partnumber="HME037_3701" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_1" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_1" baseitem_id="@baseproduct_id_Medicince_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_2" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_product_id_Medicince_1" currency="TWD" listprice="272.7" />
+<!-- Begin attribute mapping for HME037_3701-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_1_HME037_3701" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_1" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_3_HME037_3701" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_1" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_4_HME037_3701" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_1" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_1" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_1" />
+<!-- End attribute mapping for HME037_3701-->
+
+<!-- BEGIN items of HME037_3701 -->
+<!-- BEGIN item bean HME037_370101 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_1" partnumber="HME037_370101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_1" itemspc_id="@itemspc_id_Medicince_1" itemversn_id="@itemversn_id_Medicince_1" />
+<catentry catentry_id="@catentry_item_id_Medicince_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_1"	catenttype_id="ItemBean" mfname="Cold-Be-Gone"	partnumber="HME037_370101" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_2" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_1" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_item_id_Medicince_2" currency="TWD" listprice="272.7" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_2" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370101 -->
+<!-- END items of HME037_3701 -->
+<!-- END catalog entry : HME037_3701 -->
+<!-- BEGIN catalog entry : HME037_3702 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3702" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3702" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_3" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_2" baseitem_id="@baseproduct_id_Medicince_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_4" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_product_id_Medicince_3" currency="TWD" listprice="272.7" />
+<!-- Begin attribute mapping for HME037_3702-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_1_HME037_3702" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_3" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_8_HME037_3702" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_3" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_9_HME037_3702" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_3" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_3" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_3" />
+<!-- End attribute mapping for HME037_3702-->
+
+<!-- BEGIN items of HME037_3702 -->
+<!-- BEGIN item bean HME037_370201 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_2" partnumber="HME037_370201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_2" itemspc_id="@itemspc_id_Medicince_2" itemversn_id="@itemversn_id_Medicince_2" />
+<catentry catentry_id="@catentry_item_id_Medicince_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_2"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370201" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_4" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_3" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_item_id_Medicince_4" currency="TWD" listprice="272.7" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_11"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_4" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_10"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370201 -->
+<!-- END items of HME037_3702 -->
+<!-- END catalog entry : HME037_3702 -->
+<!-- BEGIN catalog entry : HME037_3703 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3703" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3703" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_5" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_3" baseitem_id="@baseproduct_id_Medicince_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="USD" price="12.99" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="AUD" price="16.76" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="NZD" price="17.93" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="BRL" price="41.31" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="CAD" price="16.5" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="CNY" price="86.77" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="EUR" price="11.04" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="GBP" price="10.13" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="JPY" price="1425" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="KRW" price="14813" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="PLN" price="47.28" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="RON" price="50.79" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="RUB" price="767.45" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_6" currency="TWD" price="393.6" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="USD" listprice="14" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="AUD" listprice="18.06" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="NZD" listprice="19.32" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="BRL" listprice="44.52" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="CAD" listprice="17.78" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="CNY" listprice="93.52" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="EUR" listprice="11.9" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="GBP" listprice="10.92" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="JPY" listprice="1536" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="KRW" listprice="15965" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="PLN" listprice="50.96" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="RON" listprice="54.74" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="RUB" listprice="827.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_5" currency="TWD" listprice="424.2" />
+<!-- Begin attribute mapping for HME037_3703-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_1_HME037_3703" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_5" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_12_HME037_3703" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_5" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_13_HME037_3703" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_5" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_5" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_5" />
+<!-- End attribute mapping for HME037_3703-->
+
+<!-- BEGIN items of HME037_3703 -->
+<!-- BEGIN item bean HME037_370301 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_3" partnumber="HME037_370301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_3" itemspc_id="@itemspc_id_Medicince_3" itemversn_id="@itemversn_id_Medicince_3" />
+<catentry catentry_id="@catentry_item_id_Medicince_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_3"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370301" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_6" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="USD" price="12.99" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="AUD" price="16.76" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="NZD" price="17.93" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="BRL" price="41.31" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="CAD" price="16.5" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="CNY" price="86.77" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="EUR" price="11.04" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="GBP" price="10.13" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="JPY" price="1425" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="KRW" price="14813" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="PLN" price="47.28" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="RON" price="50.79" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="RUB" price="767.45" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_5" currency="TWD" price="393.6" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="USD" listprice="14" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="AUD" listprice="18.06" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="NZD" listprice="19.32" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="BRL" listprice="44.52" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="CAD" listprice="17.78" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="CNY" listprice="93.52" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="EUR" listprice="11.9" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="GBP" listprice="10.92" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="JPY" listprice="1536" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="KRW" listprice="15965" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="PLN" listprice="50.96" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="RON" listprice="54.74" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="RUB" listprice="827.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_6" currency="TWD" listprice="424.2" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_15"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_6" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370301 -->
+<!-- END items of HME037_3703 -->
+<!-- END catalog entry : HME037_3703 -->
+<!-- BEGIN catalog entry : HME037_3704 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3704" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3704" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_7" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_4" baseitem_id="@baseproduct_id_Medicince_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="USD" price="23.55" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="AUD" price="30.38" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="NZD" price="32.5" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="BRL" price="74.89" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="CAD" price="29.91" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="CNY" price="157.31" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="EUR" price="20.02" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="GBP" price="18.37" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="JPY" price="2583" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="KRW" price="26855" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="PLN" price="85.72" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="RON" price="92.08" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="RUB" price="1391.33" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_8" currency="TWD" price="713.57" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_product_id_Medicince_7" currency="TWD" listprice="787.8" />
+<!-- Begin attribute mapping for HME037_3704-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_1_HME037_3704" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_7" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_16_HME037_3704" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_7" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_13_HME037_3704" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_7" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_7" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_7" />
+<!-- End attribute mapping for HME037_3704-->
+
+<!-- BEGIN items of HME037_3704 -->
+<!-- BEGIN item bean HME037_370401 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_4" partnumber="HME037_370401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_4" itemspc_id="@itemspc_id_Medicince_4" itemversn_id="@itemversn_id_Medicince_4" />
+<catentry catentry_id="@catentry_item_id_Medicince_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_4"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370401" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_8" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="USD" price="23.55" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="AUD" price="30.38" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="NZD" price="32.5" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="BRL" price="74.89" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="CAD" price="29.91" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="CNY" price="157.31" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="EUR" price="20.02" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="GBP" price="18.37" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="JPY" price="2583" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="KRW" price="26855" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="PLN" price="85.72" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="RON" price="92.08" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="RUB" price="1391.33" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_7" currency="TWD" price="713.57" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_item_id_Medicince_8" currency="TWD" listprice="787.8" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_15"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_8" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_17"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370401 -->
+<!-- END items of HME037_3704 -->
+<!-- END catalog entry : HME037_3704 -->
+<!-- BEGIN catalog entry : HME037_3705 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3705" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3705" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_9" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_5" baseitem_id="@baseproduct_id_Medicince_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_10" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_product_id_Medicince_9" currency="TWD" listprice="272.7" />
+<!-- Begin attribute mapping for HME037_3705-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_18_HME037_3705" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_9" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_12_HME037_3705" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_9" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_19_HME037_3705" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_9" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_9" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_9" />
+<!-- End attribute mapping for HME037_3705-->
+
+<!-- BEGIN items of HME037_3705 -->
+<!-- BEGIN item bean HME037_370501 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_5" partnumber="HME037_370501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_5" itemspc_id="@itemspc_id_Medicince_5" itemversn_id="@itemversn_id_Medicince_5" />
+<catentry catentry_id="@catentry_item_id_Medicince_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_5"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370501" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_10" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_9" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_item_id_Medicince_10" currency="TWD" listprice="272.7" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_20"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_10" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_14"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370501 -->
+<!-- END items of HME037_3705 -->
+<!-- END catalog entry : HME037_3705 -->
+<!-- BEGIN catalog entry : HME037_3706 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3706" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Cold-Be-Gone" partnumber="HME037_3706" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_11" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_6" baseitem_id="@baseproduct_id_Medicince_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="USD" price="7.79" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="AUD" price="10.05" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="NZD" price="10.75" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="BRL" price="24.77" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="CAD" price="9.89" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="CNY" price="52.04" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="EUR" price="6.62" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="GBP" price="6.08" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="JPY" price="854" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="KRW" price="8883" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="PLN" price="28.36" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="RON" price="30.46" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="RUB" price="460.23" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_12" currency="TWD" price="236.04" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_product_id_Medicince_11" currency="TWD" listprice="242.4" />
+<!-- Begin attribute mapping for HME037_3706-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_18_HME037_3706" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_11" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_16_HME037_3706" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_11" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_21_HME037_3706" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_11" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_11" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_11" />
+<!-- End attribute mapping for HME037_3706-->
+
+<!-- BEGIN items of HME037_3706 -->
+<!-- BEGIN item bean HME037_370601 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_6" partnumber="HME037_370601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_6" itemspc_id="@itemspc_id_Medicince_6" itemversn_id="@itemversn_id_Medicince_6" />
+<catentry catentry_id="@catentry_item_id_Medicince_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_6"	catenttype_id="ItemBean" mfname="Cold-Be-Gone"	partnumber="HME037_370601" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_12" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="USD" price="7.79" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="AUD" price="10.05" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="NZD" price="10.75" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="BRL" price="24.77" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="CAD" price="9.89" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="CNY" price="52.04" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="EUR" price="6.62" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="GBP" price="6.08" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="JPY" price="854" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="KRW" price="8883" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="PLN" price="28.36" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="RON" price="30.46" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="RUB" price="460.23" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_11" currency="TWD" price="236.04" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_item_id_Medicince_12" currency="TWD" listprice="242.4" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_22"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_12" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_17"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370601 -->
+<!-- END items of HME037_3706 -->
+<!-- END catalog entry : HME037_3706 -->
+<!-- BEGIN catalog entry : HME037_3707 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_7" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3707" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3707" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_7" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_13" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_13" sequence="7" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_7" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_7" baseitem_id="@baseproduct_id_Medicince_7" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="USD" price="14.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="AUD" price="18.69" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="NZD" price="20.0" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="BRL" price="46.08" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="CAD" price="18.4" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="CNY" price="96.79" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="EUR" price="12.32" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="GBP" price="11.3" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="JPY" price="1589" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="KRW" price="16524" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="PLN" price="52.74" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="RON" price="56.66" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="RUB" price="856.07" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_14" currency="TWD" price="439.05" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="USD" listprice="16" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="AUD" listprice="20.64" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="NZD" listprice="22.08" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="BRL" listprice="50.88" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="CAD" listprice="20.32" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="CNY" listprice="106.88" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="EUR" listprice="13.6" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="GBP" listprice="12.48" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="JPY" listprice="1755" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="KRW" listprice="18245" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="PLN" listprice="58.24" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="RON" listprice="62.56" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="RUB" listprice="945.28" />
+<listprice catentry_id="@catentry_product_id_Medicince_13" currency="TWD" listprice="484.8" />
+<!-- Begin attribute mapping for HME037_3707-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_23_HME037_3707" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_13" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_24_HME037_3707" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_13" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_13_HME037_3707" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_13" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_13" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_13" />
+<!-- End attribute mapping for HME037_3707-->
+
+<!-- BEGIN items of HME037_3707 -->
+<!-- BEGIN item bean HME037_370701 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_7" partnumber="HME037_370701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_7" itemspc_id="@itemspc_id_Medicince_7" itemversn_id="@itemversn_id_Medicince_7" />
+<catentry catentry_id="@catentry_item_id_Medicince_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_7"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370701" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_14" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_14" sequence="7.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="USD" price="14.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="AUD" price="18.69" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="NZD" price="20.0" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="BRL" price="46.08" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="CAD" price="18.4" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="CNY" price="96.79" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="EUR" price="12.32" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="GBP" price="11.3" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="JPY" price="1589" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="KRW" price="16524" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="PLN" price="52.74" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="RON" price="56.66" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="RUB" price="856.07" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_13" currency="TWD" price="439.05" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="USD" listprice="16" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="AUD" listprice="20.64" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="NZD" listprice="22.08" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="BRL" listprice="50.88" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="CAD" listprice="20.32" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="CNY" listprice="106.88" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="EUR" listprice="13.6" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="GBP" listprice="12.48" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="JPY" listprice="1755" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="KRW" listprice="18245" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="PLN" listprice="58.24" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="RON" listprice="62.56" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="RUB" listprice="945.28" />
+<listprice catentry_id="@catentry_item_id_Medicince_14" currency="TWD" listprice="484.8" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_15"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_14" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_25"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370701 -->
+<!-- END items of HME037_3707 -->
+<!-- END catalog entry : HME037_3707 -->
+<!-- BEGIN catalog entry : HME037_3708 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_8" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3708" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_15" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3708" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_8" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_15" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_15" sequence="8" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_8" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_8" baseitem_id="@baseproduct_id_Medicince_8" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="USD" price="7.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="AUD" price="9.66" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="NZD" price="10.34" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="BRL" price="23.82" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="CAD" price="9.51" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="CNY" price="50.03" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="EUR" price="6.37" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="GBP" price="5.84" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="JPY" price="822" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="KRW" price="8541" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="PLN" price="27.26" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="RON" price="29.29" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="RUB" price="442.51" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_16" currency="TWD" price="226.95" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_product_id_Medicince_15" currency="TWD" listprice="242.4" />
+<!-- Begin attribute mapping for HME037_3708-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_18_HME037_3708" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_15" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_16_HME037_3708" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_15" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_13_HME037_3708" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_15" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_15" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_15" />
+<!-- End attribute mapping for HME037_3708-->
+
+<!-- BEGIN items of HME037_3708 -->
+<!-- BEGIN item bean HME037_370801 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_8" partnumber="HME037_370801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_8" itemspc_id="@itemspc_id_Medicince_8" itemversn_id="@itemversn_id_Medicince_8" />
+<catentry catentry_id="@catentry_item_id_Medicince_16" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_8"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370801" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_16" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_16" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_16" sequence="8.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="USD" price="7.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="AUD" price="9.66" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="NZD" price="10.34" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="BRL" price="23.82" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="CAD" price="9.51" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="CNY" price="50.03" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="EUR" price="6.37" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="GBP" price="5.84" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="JPY" price="822" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="KRW" price="8541" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="PLN" price="27.26" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="RON" price="29.29" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="RUB" price="442.51" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_15" currency="TWD" price="226.95" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_item_id_Medicince_16" currency="TWD" listprice="242.4" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_15"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_16" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_17"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_16" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370801 -->
+<!-- END items of HME037_3708 -->
+<!-- END catalog entry : HME037_3708 -->
+<!-- BEGIN catalog entry : HME037_3709 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_9" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3709" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_17" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HME037_3709" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_9" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_17" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_17" sequence="9" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_9" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_9" baseitem_id="@baseproduct_id_Medicince_9" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="USD" price="9.29" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="AUD" price="11.98" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="NZD" price="12.82" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="BRL" price="29.54" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="CAD" price="11.8" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="CNY" price="62.06" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="EUR" price="7.9" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="GBP" price="7.25" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="JPY" price="1019" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="KRW" price="10594" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="PLN" price="33.82" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="RON" price="36.32" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="RUB" price="548.85" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_18" currency="TWD" price="281.49" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_product_id_Medicince_17" currency="TWD" listprice="303.0" />
+<!-- Begin attribute mapping for HME037_3709-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_18_HME037_3709" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_17" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_24_HME037_3709" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_17" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_19_HME037_3709" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_17" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_17" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_17" />
+<!-- End attribute mapping for HME037_3709-->
+
+<!-- BEGIN items of HME037_3709 -->
+<!-- BEGIN item bean HME037_370901 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_9" partnumber="HME037_370901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_9" itemspc_id="@itemspc_id_Medicince_9" itemversn_id="@itemversn_id_Medicince_9" />
+<catentry catentry_id="@catentry_item_id_Medicince_18" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_9"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HME037_370901" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_17"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_18" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_18" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_18" sequence="9.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="USD" price="9.29" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="AUD" price="11.98" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="NZD" price="12.82" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="BRL" price="29.54" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="CAD" price="11.8" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="CNY" price="62.06" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="EUR" price="7.9" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="GBP" price="7.25" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="JPY" price="1019" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="KRW" price="10594" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="PLN" price="33.82" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="RON" price="36.32" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="RUB" price="548.85" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_17" currency="TWD" price="281.49" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_item_id_Medicince_18" currency="TWD" listprice="303.0" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_20"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_18" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_25"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_18" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_370901 -->
+<!-- END items of HME037_3709 -->
+<!-- END catalog entry : HME037_3709 -->
+<!-- BEGIN catalog entry : HME037_3710 -->
+<baseitem baseitem_id="@baseproduct_id_Medicince_10" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HME037_3710" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Medicince_19" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="All-In-One" partnumber="HME037_3710" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_10" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Medicince_19" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Medicince_19" sequence="10" />
+<storeitem baseitem_id="@baseproduct_id_Medicince_10" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Medicince_10" baseitem_id="@baseproduct_id_Medicince_10" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Medicince_20" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Medicince_19" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_product_id_Medicince_20" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_product_id_Medicince_19" currency="TWD" listprice="272.7" />
+<!-- Begin attribute mapping for HME037_3710-->
+<catentryattr attr_id="@attribute_id_Medicince_1" attrval_id="@attribute_value_id_Medicince_18_HME037_3710" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Medicince_19" />
+
+<catentryattr attr_id="@attribute_id_Medicince_3" attrval_id="@attribute_value_id_Medicince_24_HME037_3710" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Medicince_19" />
+<catentryattr attr_id="@attribute_id_Medicince_4" attrval_id="@attribute_value_id_Medicince_27_HME037_3710" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Medicince_19" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Medicince_19" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Medicince_19" />
+<!-- End attribute mapping for HME037_3710-->
+
+<!-- BEGIN items of HME037_3710 -->
+<!-- BEGIN item bean HME037_371001 -->
+<itemspc itemspc_id="@itemspc_id_Medicince_10" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Medicince_10" partnumber="HME037_371001" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Medicince_10" itemspc_id="@itemspc_id_Medicince_10" itemversn_id="@itemversn_id_Medicince_10" />
+<catentry catentry_id="@catentry_item_id_Medicince_20" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Medicince_10"	catenttype_id="ItemBean" mfname="All-In-One"	partnumber="HME037_371001" markfordelete="0" baseitem_id="@baseproduct_id_Medicince_10" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Medicince_19"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Medicince_20" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Medicince_20" />
+<catgpenrel catgroup_id="@catgroup_id_Medicince" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Medicince_20" sequence="10.2" />
+<offer offer_id="@offer_catentry_item_id_Medicince_19" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Medicince_20" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="USD" price="8.49" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="AUD" price="10.95" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="NZD" price="11.72" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="BRL" price="27.0" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="CAD" price="10.78" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="CNY" price="56.71" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="EUR" price="7.22" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="GBP" price="6.62" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="JPY" price="931" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="KRW" price="9681" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="PLN" price="30.9" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="RON" price="33.2" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="RUB" price="501.59" />
+<offerprice offer_id="@offer_catentry_item_id_Medicince_19" currency="TWD" price="257.25" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="USD" listprice="9" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="AUD" listprice="11.61" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="NZD" listprice="12.42" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="BRL" listprice="28.62" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="CAD" listprice="11.43" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="CNY" listprice="60.12" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="EUR" listprice="7.65" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="GBP" listprice="7.02" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="JPY" listprice="987" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="KRW" listprice="10263" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="PLN" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="RON" listprice="35.19" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="RUB" listprice="531.72" />
+<listprice catentry_id="@catentry_item_id_Medicince_20" currency="TWD" listprice="272.7" />
+<catentryattr attr_id="@attribute_id_Medicince_6" attrval_id="@attribute_value_id_Medicince_28"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Medicince_20" />
+<catentryattr attr_id="@attribute_id_Medicince_5" attrval_id="@attribute_value_id_Medicince_25"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Medicince_20" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HME037_371001 -->
+<!-- END items of HME037_3710 -->
+<!-- END catalog entry : HME037_3710 -->
+<!-- END: Writing catalog entries -->
+
+

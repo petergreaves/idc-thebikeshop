@@ -1,0 +1,12 @@
+Layout
+LayoutName,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault
+StaticContentLayout,"Any page, five slots, right sidebar",The layout for a search landing page.,Any,1,FALSE,FALSE
+DepartmentPageLayout,Department page,The layout to be used by department pages.,Any,1,FALSE,FALSE
+SubCategoryPageLayout,"Any page, six slots, left sidebar",The layout to be used by sub category pages which are not leaf categories.,Any,1,FALSE,FALSE
+CategoryPageLayout,"Any page, six slots, left sidebar",The layout for category pages.,Any,1,FALSE,FALSE
+ProductPageLayout,Catalog entry page,The layout for the product pages.,Any,1,FALSE,FALSE
+KitPageLayout,Catalog entry page,The layout for the kit pages.,Any,1,FALSE,FALSE
+BundlePageLayout,Catalog entry page,The layout for the bundle pages.,Any,1,FALSE,FALSE
+DynamicKitPageLayout,Catalog entry page,The layout for the dynamic kit pages.,Any,1,FALSE,FALSE
+HardwareLightingPageLayout,"Any page, six slots, left sidebar",The layout for hardware lighting category page.,Any,1,FALSE,FALSE
+FastenersProductPageLayout,Catalog entry page (2),"The layout for products under the Fasteners categories - Bolts, Nuts, and Screws.",Any,1,FALSE,FALSE

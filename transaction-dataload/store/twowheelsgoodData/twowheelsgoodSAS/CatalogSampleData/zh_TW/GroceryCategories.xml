@@ -1,0 +1,71 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Grocery -->
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Grocery"
+   name="雜貨"
+   shortdescription="雜貨"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="雜貨"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Meat"
+   name="肉類"
+   shortdescription="肉類"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gme_meat.png"
+   fullimage="images/catalog/grocery/category/catr_gme_meat.png"
+   keyword="肉類"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Fruit"
+   name="水果"
+   shortdescription="水果"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gfr_fruit.png"
+   fullimage="images/catalog/grocery/category/catr_gfr_fruit.png"
+   keyword="水果"
+/>
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Dairy"
+   name="乳製品"
+   shortdescription="乳製品"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="乳製品"
+/>
+
+<catgrpdesc
+   language_id="&zh_TW;"
+   catgroup_id="@catgroup_id_Vegetables"
+   name="蔬菜"
+   shortdescription="蔬菜"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gve_vegetables.png"
+   fullimage="images/catalog/grocery/category/catr_gve_vegetables.png"
+   keyword="蔬菜"
+/>
+
+<!-- End of Category Descriptions -->
+
+

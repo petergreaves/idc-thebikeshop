@@ -1,0 +1,67 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+apply plugin: 'run-engine'
+
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies {
+		classpath ':runengine-plugins:+'
+	}
+}
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+ext.customArchiveName = 'wc-transaction-deploy'
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task build {
+	description 'Builds the transaction server SDK package'
+	group 'Build'
+}
+
+def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+task bundle(dependsOn: ['build']) {
+	description = 'Zip Transaction server assets'
+	group = 'Zip transaction server custom web project'
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

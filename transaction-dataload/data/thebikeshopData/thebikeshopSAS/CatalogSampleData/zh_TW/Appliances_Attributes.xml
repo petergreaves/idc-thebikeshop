@@ -1,0 +1,208 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : AppliancesColor -->
+<attrdesc attr_id="@attribute_id_Appliances_6" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_6" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="1" value="白色" integervalue="" floatvalue="" stringvalue="白色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_11" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="2" value="銀色" integervalue="" floatvalue="" stringvalue="銀色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_27" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="3" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_31" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="4" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_43" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="5" value="紅色" integervalue="" floatvalue="" stringvalue="紅色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_44" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="6" value="綠色" integervalue="" floatvalue="" stringvalue="綠色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_45" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="7" value="藍色" integervalue="" floatvalue="" stringvalue="藍色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_46" attr_id="@attribute_id_Appliances_6" valusage="1" language_id="&zh_TW;" sequence="8" value="金色" integervalue="" floatvalue="" stringvalue="金色" qtyunit_id="C62" />
+<!--END Defining attribute description : AppliancesColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Finish -->
+<attrdesc attr_id="@attribute_id_Appliances_1" attrtype_id="STRING" language_id="&zh_TW;" name="完成" description="完成" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_1_HAP027_2701" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="1" value="光面" integervalue="" floatvalue="" stringvalue="光面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_1_HAP027_2707" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="1" value="光面" integervalue="" floatvalue="" stringvalue="光面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2702" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2705" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2723" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2726" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2727" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2733" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_7_HAP027_2736" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="2" value="霧面" integervalue="" floatvalue="" stringvalue="霧面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2703" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2704" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2708" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2709" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2710" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2712" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2713" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2714" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2715" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2716" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2717" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2718" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2719" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2720" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2725" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2731" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2732" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2734" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2737" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_12_HAP027_2738" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="3" value="平滑" integervalue="" floatvalue="" stringvalue="平滑" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_19_HAP027_2706" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="4" value="粗面" integervalue="" floatvalue="" stringvalue="粗面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2711" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2721" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2722" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2724" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2728" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2729" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2730" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2735" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2739" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2740" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2741" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2742" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_28_HAP027_2743" attr_id="@attribute_id_Appliances_1" valusage="1" language_id="&zh_TW;" sequence="5" value="亮面" integervalue="" floatvalue="" stringvalue="亮面" />
+<!--end of  Finish -->
+<!--start of  Energy Rating -->
+<attrdesc attr_id="@attribute_id_Appliances_2" attrtype_id="STRING" language_id="&zh_TW;" name="節能等級" description="節能等級" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2701" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2707" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2708" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2709" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2710" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2712" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_2_HAP027_2713" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="1" value="C" integervalue="" floatvalue="" stringvalue="C" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_8_HAP027_2702" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="2" value="G" integervalue="" floatvalue="" stringvalue="G" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_13_HAP027_2703" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="3" value="B" integervalue="" floatvalue="" stringvalue="B" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_13_HAP027_2704" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="3" value="B" integervalue="" floatvalue="" stringvalue="B" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_13_HAP027_2706" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="3" value="B" integervalue="" floatvalue="" stringvalue="B" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_17_HAP027_2705" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="4" value="F" integervalue="" floatvalue="" stringvalue="F" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_29_HAP027_2711" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="5" value="E" integervalue="" floatvalue="" stringvalue="E" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_29_HAP027_2726" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="5" value="E" integervalue="" floatvalue="" stringvalue="E" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2714" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2715" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2716" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2717" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2718" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2719" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2720" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2721" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2722" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2723" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2724" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2725" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2727" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2728" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2729" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2730" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2731" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2732" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2733" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2734" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2735" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2736" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2737" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2738" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2739" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2740" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2741" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2742" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_35_HAP027_2743" attr_id="@attribute_id_Appliances_2" valusage="1" language_id="&zh_TW;" sequence="6" value="D" integervalue="" floatvalue="" stringvalue="D" />
+<!--end of  Energy Rating -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Appliances_4" attrtype_id="STRING" language_id="&zh_TW;" name="類型" description="類型" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_4_HAP027_2701" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="1" value="洗衣機" integervalue="" floatvalue="" stringvalue="洗衣機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_4_HAP027_2707" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="1" value="洗衣機" integervalue="" floatvalue="" stringvalue="洗衣機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_4_HAP027_2712" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="1" value="洗衣機" integervalue="" floatvalue="" stringvalue="洗衣機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_9_HAP027_2702" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="2" value="烤箱/爐具" integervalue="" floatvalue="" stringvalue="烤箱/爐具" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_9_HAP027_2705" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="2" value="烤箱/爐具" integervalue="" floatvalue="" stringvalue="烤箱/爐具" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_9_HAP027_2711" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="2" value="烤箱/爐具" integervalue="" floatvalue="" stringvalue="烤箱/爐具" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_14_HAP027_2703" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="3" value="冰箱" integervalue="" floatvalue="" stringvalue="冰箱" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_14_HAP027_2704" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="3" value="冰箱" integervalue="" floatvalue="" stringvalue="冰箱" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_14_HAP027_2706" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="3" value="冰箱" integervalue="" floatvalue="" stringvalue="冰箱" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_22_HAP027_2708" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="4" value="攪拌機" integervalue="" floatvalue="" stringvalue="攪拌機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_22_HAP027_2710" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="4" value="攪拌機" integervalue="" floatvalue="" stringvalue="攪拌機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_22_HAP027_2713" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="4" value="攪拌機" integervalue="" floatvalue="" stringvalue="攪拌機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_25_HAP027_2709" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="5" value="果汁機" integervalue="" floatvalue="" stringvalue="果汁機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2714" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2715" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2716" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2717" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2718" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2719" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2720" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2721" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2722" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2723" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2724" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2725" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2731" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2735" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2737" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2739" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2740" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2741" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2742" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_37_HAP027_2743" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="6" value="咖啡機" integervalue="" floatvalue="" stringvalue="咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_47_HAP027_2726" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="7" value="咖啡與義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="咖啡與義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_47_HAP027_2734" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="7" value="咖啡與義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="咖啡與義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_47_HAP027_2736" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="7" value="咖啡與義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="咖啡與義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_47_HAP027_2738" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="7" value="咖啡與義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="咖啡與義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2727" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2728" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2729" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2730" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2732" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_49_HAP027_2733" attr_id="@attribute_id_Appliances_4" valusage="1" language_id="&zh_TW;" sequence="8" value="義式濃縮咖啡機" integervalue="" floatvalue="" stringvalue="義式濃縮咖啡機" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Dimensions -->
+<attrdesc attr_id="@attribute_id_Appliances_5" attrtype_id="STRING" language_id="&zh_TW;" name="尺寸" description="尺寸" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_5_HAP027_2701" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="1" value="40x38x32（吋）" integervalue="" floatvalue="" stringvalue="40x38x32（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_10_HAP027_2702" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="2" value="47x29x28（吋）" integervalue="" floatvalue="" stringvalue="47x29x28（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_15_HAP027_2703" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="3" value="65x29x35（吋）" integervalue="" floatvalue="" stringvalue="65x29x35（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_16_HAP027_2704" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="4" value="65x32x34（吋）" integervalue="" floatvalue="" stringvalue="65x32x34（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_18_HAP027_2705" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="5" value="47x29x28（吋）" integervalue="" floatvalue="" stringvalue="47x29x28（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_20_HAP027_2706" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="6" value="65x30x35（吋）" integervalue="" floatvalue="" stringvalue="65x30x35（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_21_HAP027_2707" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="7" value="40x32x30（吋）" integervalue="" floatvalue="" stringvalue="40x32x30（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_23_HAP027_2708" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="8" value="15x5x5（吋）" integervalue="" floatvalue="" stringvalue="15x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_23_HAP027_2710" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="8" value="15x5x5（吋）" integervalue="" floatvalue="" stringvalue="15x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_26_HAP027_2709" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="9" value="14x4x5（吋）" integervalue="" floatvalue="" stringvalue="14x4x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_30_HAP027_2711" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="10" value="45x30x28（吋）" integervalue="" floatvalue="" stringvalue="45x30x28（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_32_HAP027_2712" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="11" value="42x34x32（吋）" integervalue="" floatvalue="" stringvalue="42x34x32（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_34_HAP027_2713" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="12" value="18x7x6（吋）" integervalue="" floatvalue="" stringvalue="18x7x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_38_HAP027_2714" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="13" value="18x8x5（吋）" integervalue="" floatvalue="" stringvalue="18x8x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_39_HAP027_2715" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="14" value="18x7x5（吋）" integervalue="" floatvalue="" stringvalue="18x7x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_40_HAP027_2716" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="15" value="17x8x7（吋）" integervalue="" floatvalue="" stringvalue="17x8x7（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2717" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2718" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2719" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2720" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2721" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2722" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2723" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2724" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2725" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2739" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2740" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2741" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2742" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_42_HAP027_2743" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="16" value="17x5x5（吋）" integervalue="" floatvalue="" stringvalue="17x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_48_HAP027_2726" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="17" value="18x20x6（吋）" integervalue="" floatvalue="" stringvalue="18x20x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_50_HAP027_2727" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="18" value="18x9x6（吋）" integervalue="" floatvalue="" stringvalue="18x9x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_50_HAP027_2728" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="18" value="18x9x6（吋）" integervalue="" floatvalue="" stringvalue="18x9x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_50_HAP027_2729" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="18" value="18x9x6（吋）" integervalue="" floatvalue="" stringvalue="18x9x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_50_HAP027_2730" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="18" value="18x9x6（吋）" integervalue="" floatvalue="" stringvalue="18x9x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_52_HAP027_2731" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="19" value="18x5x5（吋）" integervalue="" floatvalue="" stringvalue="18x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_53_HAP027_2732" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="20" value="19x6x6（吋）" integervalue="" floatvalue="" stringvalue="19x6x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_54_HAP027_2733" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="21" value="19x5x5（吋）" integervalue="" floatvalue="" stringvalue="19x5x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_55_HAP027_2734" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="22" value="18x10x5（吋）" integervalue="" floatvalue="" stringvalue="18x10x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_56_HAP027_2735" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="23" value="17x7x5（吋）" integervalue="" floatvalue="" stringvalue="17x7x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_57_HAP027_2736" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="24" value="18x18x6（吋）" integervalue="" floatvalue="" stringvalue="18x18x6（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_58_HAP027_2737" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="25" value="17x12x5（吋）" integervalue="" floatvalue="" stringvalue="17x12x5（吋）" />
+<attrvaldesc attrval_id="@attribute_value_id_Appliances_59_HAP027_2738" attr_id="@attribute_id_Appliances_5" valusage="1" language_id="&zh_TW;" sequence="26" value="20x9x7（吋）" integervalue="" floatvalue="" stringvalue="20x9x7（吋）" />
+<!--end of  Dimensions -->

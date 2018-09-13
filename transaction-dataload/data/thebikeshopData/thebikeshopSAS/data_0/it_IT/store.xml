@@ -1,0 +1,79 @@
+
+	<!-- Define contact information for the store.  Can be edited through WebSphere Commerce Accelerator. -->
+	<staddress
+	 staddress_id="@staddress_id_it_IT_1"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; contact_it_IT"
+	 address1="12xx 
+                  Martindale Avenue"
+	 address2="Suite 9xx"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Clothesville"
+	 state="ON"
+	 zipcode="Lxx 1xx"
+	 country="CA"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<staddress
+	 staddress_id="@staddress_id_it_IT_2"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; location_it_IT"
+	 address1="12xx 
+                  Martindale Avenue"
+	 address2="Suite 9xx"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Clothesville"
+	 state="ON"
+	 zipcode="Lxx 1xx"
+	 country="CA"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<!--STOREENTDS 
+	-->
+	<storeentds
+	 description="Entità negozio modello in commercio"
+	 language_id="&it_IT;" 
+	 displayname="&STORE_IDENTIFIER;"
+	 storeent_id="@storeent_id_1"
+	 staddress_id_cont="@staddress_id_it_IT_1"
+	 staddress_id_loc="@staddress_id_it_IT_2"
+	/>
+	
+	<!-- Define store default language. -->
+	<storelang
+	language_id="&it_IT;" 
+	storeent_id="@storeent_id_1"
+	/>
+
+	<!-- Description of the store language and fulfillment center. -->
+	
+	<storlangds
+	 description="Stati Uniti d'America"
+	 language_id="&it_IT;" 
+	 storeent_id="@storeent_id_1"
+    	 language_id_desc="&it_IT;"
+	/>
+		
+	<shpmodedsc description="Prelievo al negozio" shipmode_id="@pickup_shipmode_id" language_id="&it_IT;"/>
+	
+	<invadjdesc
+	description="Conteggio fisico"
+	invadjcode_id="@invadjcode_id_1"
+	language_id="&it_IT;" 
+   />
+	<invadjdesc
+	description="Scarto"
+	invadjcode_id="@invadjcode_id_2"
+	language_id="&it_IT;" 
+   />
+	<invadjdesc
+	description="Elimina"
+	invadjcode_id="@invadjcode_id_3"
+	language_id="&it_IT;" 
+   />

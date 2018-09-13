@@ -1,0 +1,4 @@
+StoreLocationAttribute,storeIdentifier=AuroraESite
+physicalStore,attributeName,displayName,value,displayValue,image,sequence,Delete
+AuroraESite,Electronics,Elektronik,true,true,,1.0,0
+

@@ -1,0 +1,68 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenJacketsColor -->
+<attrdesc attr_id="@attribute_id_MenJackets_5" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_10" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Серо-коричневый" integervalue="" floatvalue="" stringvalue="Серо-коричневый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_13" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Желто-коричневый" integervalue="" floatvalue="" stringvalue="Желто-коричневый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_15" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="3" value="Черный" integervalue="" floatvalue="" stringvalue="Черный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_19" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="4" value="Кремовый" integervalue="" floatvalue="" stringvalue="Кремовый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_21" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="5" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_22" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="6" value="Коричневый" integervalue="" floatvalue="" stringvalue="Коричневый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_24" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&ru_RU;" sequence="7" value="Светло-коричневый" integervalue="" floatvalue="" stringvalue="Светло-коричневый" qtyunit_id="C62" />
+<!--END Defining attribute description  MenJacketsColor -->
+<!--BEGIN Defining attribute description  MenJacketsSize -->
+<attrdesc attr_id="@attribute_id_MenJackets_4" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_4" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_5" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_6" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_7" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_8" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_9" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&ru_RU;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<!--END Defining attribute description  MenJacketsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenJackets_2" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0901" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0908" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0913" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0914" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0904" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0905" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0906" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0909" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0910" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0919" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_18_MCL009_0907" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Хлопок" integervalue="" floatvalue="" stringvalue="Хлопок" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_23_MCL009_0915" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Замша" integervalue="" floatvalue="" stringvalue="Замша" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_25_MCL009_0916" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="5" value="Шерсть/кашемир" integervalue="" floatvalue="" stringvalue="Шерсть/кашемир" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_26_MCL009_0917" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="6" value="Хлопок/шерсть" integervalue="" floatvalue="" stringvalue="Хлопок/шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_27_MCL009_0920" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&ru_RU;" sequence="7" value="Твид" integervalue="" floatvalue="" stringvalue="Твид" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenJackets_1" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0901" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0904" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0905" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0906" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0909" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0910" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0913" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0915" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0916" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0919" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0920" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0907" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0908" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0914" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0917" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловой" integervalue="" floatvalue="" stringvalue="Деловой" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

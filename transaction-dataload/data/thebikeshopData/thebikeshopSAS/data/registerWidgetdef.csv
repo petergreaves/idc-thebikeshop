@@ -1,0 +1,11 @@
+RegisterWidgetDef
+WidgetDefIdentifier,WidgetVendor,WidgetType,WidgetPath,WidgetUIObjectName,WidgetDefinitionxml,WidgetState
+HomePageContainer,ibm,2,Container/HomePageContainer.jsp,,<Definition> </Definition>,1
+ContentPageContainer,ibm,2,Container/StaticContentPageDisplayContainer.jsp,,<Definition> </Definition>,1
+DepartmentPageContainer,ibm,2,Container/TopCategoryPageContainer.jsp,,<Definition> </Definition>,1
+SubCategoryPageContainer,ibm,2,Container/SubCategoryPageContainer.jsp,,<Definition> </Definition>,1
+SearchLandingPageContainer,ibm,2,Container/LandingPageContainer.jsp,,<Definition> </Definition>,1
+StaticContentContainer,ibm,2,Container/StaticContentContainer.jsp,,<Definition> </Definition>,1
+SearchResultPageContainer,ibm,2,Container/SubCategoryPageContainerWithTabs.jsp,,<Definition> </Definition>,1
+ProductPageContainer,ibm,2,Container/ProductPageContainer.jsp,,<Definition> </Definition>,1
+ProductPageContainer(2),ibm,2,Container/ProductPageContainerFullWidth.jsp,,<Definition> </Definition>,1

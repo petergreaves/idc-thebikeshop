@@ -1,0 +1,6 @@
+Layout
+LayoutName,PageGroup,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault,Priority
+HomePageHardwareLayout,,Home page,The layout for the Aurora B2B home page.,Any,1,FALSE,FALSE,0
+HomePageLayout,,Home page,The layout for the Aurora home page.,Any,1,FALSE,FALSE,1
+SiteMapPageLayout,,"Any page, single slot",The default layout for the site map page.,Any,1,FALSE,FALSE,0
+SearchLandingPageLayout,,"Any page, six slots",SearchLandingPageLayoutDescription,Any,1,FALSE,FALSE,0

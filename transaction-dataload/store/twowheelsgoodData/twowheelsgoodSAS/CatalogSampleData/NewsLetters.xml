@@ -1,0 +1,792 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute fulfillmentFrequency -->
+<attr attr_id="@attribute_id_NewsLetters_4" identifier="fulfillmentFrequency" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_4" attr_id="@attribute_id_NewsLetters_4" storeent_id="&CAT_STOREENT_ID;" identifier="1"	valusage="1" />
+<!--END Defining attribute fulfillmentFrequency -->
+<!--BEGIN Defining attribute paymentFrequency -->
+<attr attr_id="@attribute_id_NewsLetters_3" identifier="paymentFrequency" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_3" attr_id="@attribute_id_NewsLetters_3" storeent_id="&CAT_STOREENT_ID;" identifier="0"	valusage="1" />
+<!--END Defining attribute paymentFrequency -->
+<!--BEGIN Defining attribute timePeriod -->
+<attr attr_id="@attribute_id_NewsLetters_5" identifier="timePeriod" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_5" attr_id="@attribute_id_NewsLetters_5" storeent_id="&CAT_STOREENT_ID;" identifier="1"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_6" attr_id="@attribute_id_NewsLetters_5" storeent_id="&CAT_STOREENT_ID;" identifier="2"	valusage="1" />
+<!--END Defining attribute timePeriod -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute Category -->
+<attr attr_id="@attribute_id_NewsLetters_2" identifier="Category" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_2" attr_id="@attribute_id_NewsLetters_2" storeent_id="&CAT_STOREENT_ID;" identifier="Finance" />
+<!--END Descriptive attribute Category -->
+<!--BEGIN Descriptive attribute Published -->
+<attr attr_id="@attribute_id_NewsLetters_1" identifier="Published" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_1" attr_id="@attribute_id_NewsLetters_1" storeent_id="&CAT_STOREENT_ID;" identifier="Monthly" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_7" attr_id="@attribute_id_NewsLetters_1" storeent_id="&CAT_STOREENT_ID;" identifier="Weekly" />
+<!--END Descriptive attribute Published -->
+<!--BEGIN Descriptive attribute Pick Up In Store -->
+<attr attr_id="@attribute_id_NewsLetters_PickUpInStore" identifier="PickUpInStore" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL1" attr_id="@attribute_id_NewsLetters_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NL1" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL2" attr_id="@attribute_id_NewsLetters_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NL2" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL3" attr_id="@attribute_id_NewsLetters_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NL3" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL4" attr_id="@attribute_id_NewsLetters_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NL4" />
+<attrval attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL5" attr_id="@attribute_id_NewsLetters_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NL5" />
+<!--END Descriptive attribute Pick Up In Store -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry NNE025_2501 -->
+<baseitem baseitem_id="@baseproduct_id_NewsLetters_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NNE025_2501" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_NewsLetters_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Fast Financing" partnumber="NNE025_2501" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_NewsLetters_1" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_NewsLetters_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_NewsLetters_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_NewsLetters_1" baseitem_id="@baseproduct_id_NewsLetters_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_NewsLetters_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_NewsLetters_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="USD" price="100" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="AUD" price="129.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="NZD" price="138.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="BRL" price="318.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="CAD" price="127.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="CNY" price="668.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="EUR" price="85.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="GBP" price="78.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="JPY" price="10969" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="KRW" price="114034" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="PLN" price="364.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="RON" price="391.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="RUB" price="5908.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_3" currency="TWD" price="3030.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="USD" listprice="100" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="AUD" listprice="129.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="NZD" listprice="138.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="BRL" listprice="318.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="CAD" listprice="127.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="CNY" listprice="668.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="EUR" listprice="85.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="GBP" listprice="78.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="JPY" listprice="10969" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="KRW" listprice="114034" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="PLN" listprice="364.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="RON" listprice="391.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="RUB" listprice="5908.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_1" currency="TWD" listprice="3030.0" />
+<!-- Begin attribute mapping for NNE025_2501-->
+<catentryattr attr_id="@attribute_id_NewsLetters_1" attrval_id="@attribute_value_id_NewsLetters_1" usage="2" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<catentryattr attr_id="@attribute_id_NewsLetters_2" attrval_id="@attribute_value_id_NewsLetters_2" usage="2" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<!-- End attribute mapping for NNE025_2501-->
+<!-- Begin attribute mapping for NL1-->
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL1" usage="2" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_1" />
+<!-- End attribute mapping for NL1-->
+
+<!-- BEGIN items of NNE025_2501 -->
+<!-- BEGIN item bean NNE025_250101 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_1" partnumber="NNE025_250101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_1" itemspc_id="@itemspc_id_NewsLetters_1" itemversn_id="@itemversn_id_NewsLetters_1" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_1"	catenttype_id="ItemBean" mfname="Fast Financing"	partnumber="NNE025_250101" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_2" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="USD" price="100" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="AUD" price="129.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="NZD" price="138.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="BRL" price="318.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="CAD" price="127.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="CNY" price="668.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="EUR" price="85.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="GBP" price="78.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="JPY" price="10969" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="KRW" price="114034" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="PLN" price="364.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="RON" price="391.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="RUB" price="5908.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_1" currency="TWD" price="3030.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="USD" listprice="100" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="AUD" listprice="129.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="NZD" listprice="138.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="BRL" listprice="318.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="CAD" listprice="127.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="CNY" listprice="668.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="EUR" listprice="85.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="GBP" listprice="78.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="JPY" listprice="10969" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="KRW" listprice="114034" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="PLN" listprice="364.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="RON" listprice="391.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="RUB" listprice="5908.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_2" currency="TWD" listprice="3030.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL1" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_2" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_2" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_2" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250101 -->
+<!-- BEGIN item bean NNE025_250102 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_1" partnumber="NNE025_250102" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_2" itemspc_id="@itemspc_id_NewsLetters_2" itemversn_id="@itemversn_id_NewsLetters_1" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_3" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_2"	catenttype_id="ItemBean" mfname="Fast Financing"	partnumber="NNE025_250102" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_3" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_3" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_3" sequence="1.3" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="USD" price="100" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="AUD" price="129.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="NZD" price="138.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="BRL" price="318.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="CAD" price="127.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="CNY" price="668.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="EUR" price="85.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="GBP" price="78.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="JPY" price="10969" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="KRW" price="114034" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="PLN" price="364.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="RON" price="391.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="RUB" price="5908.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_2" currency="TWD" price="3030.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="USD" listprice="100" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="AUD" listprice="129.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="NZD" listprice="138.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="BRL" listprice="318.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="CAD" listprice="127.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="CNY" listprice="668.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="EUR" listprice="85.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="GBP" listprice="78.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="JPY" listprice="10969" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="KRW" listprice="114034" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="PLN" listprice="364.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="RON" listprice="391.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="RUB" listprice="5908.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_3" currency="TWD" listprice="3030.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL1" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_3" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_3" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_3" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_3" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250102 -->
+<!-- END items of NNE025_2501 -->
+<!-- END catalog entry NNE025_2501 -->
+<!-- BEGIN catalog entry NNE025_2502 -->
+<baseitem baseitem_id="@baseproduct_id_NewsLetters_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NNE025_2502" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_NewsLetters_4" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Investing Interests" partnumber="NNE025_2502" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_NewsLetters_4" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_NewsLetters_4" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_NewsLetters_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_NewsLetters_2" baseitem_id="@baseproduct_id_NewsLetters_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_NewsLetters_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_NewsLetters_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="USD" price="60" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="AUD" price="77.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="NZD" price="82.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="BRL" price="190.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="CAD" price="76.2" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="CNY" price="400.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="EUR" price="51.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="GBP" price="46.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="JPY" price="6581" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="KRW" price="68420" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="PLN" price="218.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="RON" price="234.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="RUB" price="3544.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_6" currency="TWD" price="1818.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="USD" listprice="60" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="AUD" listprice="77.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="NZD" listprice="82.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="BRL" listprice="190.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="CAD" listprice="76.2" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="CNY" listprice="400.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="EUR" listprice="51.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="GBP" listprice="46.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="JPY" listprice="6581" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="KRW" listprice="68420" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="PLN" listprice="218.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="RON" listprice="234.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="RUB" listprice="3544.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_4" currency="TWD" listprice="1818.0" />
+<!-- Begin attribute mapping for NNE025_2502-->
+<catentryattr attr_id="@attribute_id_NewsLetters_1" attrval_id="@attribute_value_id_NewsLetters_1" usage="2" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<catentryattr attr_id="@attribute_id_NewsLetters_2" attrval_id="@attribute_value_id_NewsLetters_2" usage="2" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<!-- End attribute mapping for NNE025_2502-->
+<!-- Begin attribute mapping for NL2-->
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL2" usage="2" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_4" />
+<!-- End attribute mapping for NL2-->
+
+<!-- BEGIN items of NNE025_2502 -->
+<!-- BEGIN item bean NNE025_250201 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_2" partnumber="NNE025_250201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_3" itemspc_id="@itemspc_id_NewsLetters_3" itemversn_id="@itemversn_id_NewsLetters_2" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_5" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_3"	catenttype_id="ItemBean" mfname="Investing Interests"	partnumber="NNE025_250201" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_5" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_5" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_5" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="USD" price="60" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="AUD" price="77.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="NZD" price="82.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="BRL" price="190.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="CAD" price="76.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="CNY" price="400.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="EUR" price="51.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="GBP" price="46.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="JPY" price="6581" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="KRW" price="68420" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="PLN" price="218.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="RON" price="234.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="RUB" price="3544.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_4" currency="TWD" price="1818.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="USD" listprice="60" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="AUD" listprice="77.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="NZD" listprice="82.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="BRL" listprice="190.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="CAD" listprice="76.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="CNY" listprice="400.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="EUR" listprice="51.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="GBP" listprice="46.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="JPY" listprice="6581" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="KRW" listprice="68420" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="PLN" listprice="218.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="RON" listprice="234.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="RUB" listprice="3544.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_5" currency="TWD" listprice="1818.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL2" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_5" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_5" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_5" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_5" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250201 -->
+<!-- BEGIN item bean NNE025_250202 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_2" partnumber="NNE025_250202" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_4" itemspc_id="@itemspc_id_NewsLetters_4" itemversn_id="@itemversn_id_NewsLetters_2" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_4"	catenttype_id="ItemBean" mfname="Investing Interests"	partnumber="NNE025_250202" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_6" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_6" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_6" sequence="2.3" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="USD" price="60" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="AUD" price="77.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="NZD" price="82.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="BRL" price="190.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="CAD" price="76.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="CNY" price="400.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="EUR" price="51.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="GBP" price="46.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="JPY" price="6581" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="KRW" price="68420" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="PLN" price="218.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="RON" price="234.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="RUB" price="3544.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_5" currency="TWD" price="1818.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="USD" listprice="60" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="AUD" listprice="77.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="NZD" listprice="82.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="BRL" listprice="190.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="CAD" listprice="76.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="CNY" listprice="400.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="EUR" listprice="51.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="GBP" listprice="46.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="JPY" listprice="6581" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="KRW" listprice="68420" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="PLN" listprice="218.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="RON" listprice="234.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="RUB" listprice="3544.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_6" currency="TWD" listprice="1818.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL2" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_6" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_6" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_6" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250202 -->
+<!-- END items of NNE025_2502 -->
+<!-- END catalog entry NNE025_2502 -->
+<!-- BEGIN catalog entry NNE025_2503 -->
+<baseitem baseitem_id="@baseproduct_id_NewsLetters_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NNE025_2503" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_NewsLetters_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Finance" partnumber="NNE025_2503" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_NewsLetters_7" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_NewsLetters_7" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_NewsLetters_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_NewsLetters_3" baseitem_id="@baseproduct_id_NewsLetters_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_NewsLetters_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_NewsLetters_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="USD" price="149.99" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="AUD" price="193.49" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="NZD" price="206.99" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="BRL" price="476.97" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="CAD" price="190.49" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="CNY" price="1001.93" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="EUR" price="127.49" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="GBP" price="116.99" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="JPY" price="16452" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="KRW" price="171040" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="PLN" price="545.96" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="RON" price="586.46" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="RUB" price="8861.41" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_9" currency="TWD" price="4544.7" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="USD" listprice="149" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="AUD" listprice="192.21" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="NZD" listprice="205.62" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="BRL" listprice="473.82" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="CAD" listprice="189.23" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="CNY" listprice="995.32" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="EUR" listprice="126.65" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="GBP" listprice="116.22" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="JPY" listprice="16344" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="KRW" listprice="169911" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="PLN" listprice="542.36" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="RON" listprice="582.59" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="RUB" listprice="8802.92" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_7" currency="TWD" listprice="4514.7" />
+<!-- Begin attribute mapping for NNE025_2503-->
+<catentryattr attr_id="@attribute_id_NewsLetters_1" attrval_id="@attribute_value_id_NewsLetters_1" usage="2" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_2" attrval_id="@attribute_value_id_NewsLetters_2" usage="2" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<!-- End attribute mapping for NNE025_2503-->
+<!-- Begin attribute mapping for NL3-->
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL3" usage="2" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_7" />
+<!-- End attribute mapping for NL3-->
+
+<!-- BEGIN items of NNE025_2503 -->
+<!-- BEGIN item bean NNE025_250301 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_3" partnumber="NNE025_250301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_5" itemspc_id="@itemspc_id_NewsLetters_5" itemversn_id="@itemversn_id_NewsLetters_3" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_5"	catenttype_id="ItemBean" mfname="Modern Finance"	partnumber="NNE025_250301" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_8" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_8" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="USD" price="149.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="AUD" price="193.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="NZD" price="206.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="BRL" price="476.97" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="CAD" price="190.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="CNY" price="1001.93" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="EUR" price="127.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="GBP" price="116.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="JPY" price="16452" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="KRW" price="171040" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="PLN" price="545.96" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="RON" price="586.46" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="RUB" price="8861.41" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_7" currency="TWD" price="4544.7" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="USD" listprice="149" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="AUD" listprice="192.21" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="NZD" listprice="205.62" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="BRL" listprice="473.82" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="CAD" listprice="189.23" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="CNY" listprice="995.32" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="EUR" listprice="126.65" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="GBP" listprice="116.22" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="JPY" listprice="16344" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="KRW" listprice="169911" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="PLN" listprice="542.36" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="RON" listprice="582.59" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="RUB" listprice="8802.92" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_8" currency="TWD" listprice="4514.7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL3" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_8" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_8" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_8" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250301 -->
+<!-- BEGIN item bean NNE025_250302 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_3" partnumber="NNE025_250302" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_6" itemspc_id="@itemspc_id_NewsLetters_6" itemversn_id="@itemversn_id_NewsLetters_3" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_9" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_6"	catenttype_id="ItemBean" mfname="Modern Finance"	partnumber="NNE025_250302" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_9" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_9" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_9" sequence="3.3" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="USD" price="149.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="AUD" price="193.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="NZD" price="206.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="BRL" price="476.97" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="CAD" price="190.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="CNY" price="1001.93" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="EUR" price="127.49" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="GBP" price="116.99" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="JPY" price="16452" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="KRW" price="171040" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="PLN" price="545.96" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="RON" price="586.46" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="RUB" price="8861.41" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_8" currency="TWD" price="4544.7" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="USD" listprice="149" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="AUD" listprice="192.21" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="NZD" listprice="205.62" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="BRL" listprice="473.82" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="CAD" listprice="189.23" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="CNY" listprice="995.32" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="EUR" listprice="126.65" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="GBP" listprice="116.22" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="JPY" listprice="16344" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="KRW" listprice="169911" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="PLN" listprice="542.36" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="RON" listprice="582.59" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="RUB" listprice="8802.92" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_9" currency="TWD" listprice="4514.7" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL3" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_9" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_9" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_9" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_9" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250302 -->
+<!-- END items of NNE025_2503 -->
+<!-- END catalog entry NNE025_2503 -->
+<!-- BEGIN catalog entry NNE025_2504 -->
+<baseitem baseitem_id="@baseproduct_id_NewsLetters_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NNE025_2504" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_NewsLetters_10" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Money Management" partnumber="NNE025_2504" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_NewsLetters_10" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_NewsLetters_10" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_NewsLetters_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_NewsLetters_4" baseitem_id="@baseproduct_id_NewsLetters_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_NewsLetters_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_NewsLetters_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="USD" price="80" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="AUD" price="103.2" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="NZD" price="110.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="BRL" price="254.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="CAD" price="101.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="CNY" price="534.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="EUR" price="68.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="GBP" price="62.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="JPY" price="8775" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="KRW" price="91227" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="PLN" price="291.2" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="RON" price="312.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="RUB" price="4726.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_12" currency="TWD" price="2424.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="USD" listprice="80" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="AUD" listprice="103.2" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="NZD" listprice="110.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="BRL" listprice="254.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="CAD" listprice="101.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="CNY" listprice="534.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="EUR" listprice="68.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="GBP" listprice="62.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="JPY" listprice="8775" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="KRW" listprice="91227" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="PLN" listprice="291.2" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="RON" listprice="312.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="RUB" listprice="4726.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_10" currency="TWD" listprice="2424.0" />
+<!-- Begin attribute mapping for NNE025_2504-->
+<catentryattr attr_id="@attribute_id_NewsLetters_1" attrval_id="@attribute_value_id_NewsLetters_1" usage="2" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<catentryattr attr_id="@attribute_id_NewsLetters_2" attrval_id="@attribute_value_id_NewsLetters_2" usage="2" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<!-- End attribute mapping for NNE025_2504-->
+<!-- Begin attribute mapping for NL4-->
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL4" usage="2" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_10" />
+<!-- End attribute mapping for NL4-->
+
+<!-- BEGIN items of NNE025_2504 -->
+<!-- BEGIN item bean NNE025_250401 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_4" partnumber="NNE025_250401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_7" itemspc_id="@itemspc_id_NewsLetters_7" itemversn_id="@itemversn_id_NewsLetters_4" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_11" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_7"	catenttype_id="ItemBean" mfname="Money Management"	partnumber="NNE025_250401" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_10"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_11" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_11" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_11" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="USD" price="80" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="AUD" price="103.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="NZD" price="110.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="BRL" price="254.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="CAD" price="101.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="CNY" price="534.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="EUR" price="68.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="GBP" price="62.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="JPY" price="8775" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="KRW" price="91227" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="PLN" price="291.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="RON" price="312.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="RUB" price="4726.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_10" currency="TWD" price="2424.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="USD" listprice="80" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="AUD" listprice="103.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="NZD" listprice="110.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="BRL" listprice="254.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="CAD" listprice="101.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="CNY" listprice="534.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="EUR" listprice="68.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="GBP" listprice="62.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="JPY" listprice="8775" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="KRW" listprice="91227" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="PLN" listprice="291.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="RON" listprice="312.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="RUB" listprice="4726.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_11" currency="TWD" listprice="2424.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL4" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_11" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_11" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_11" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_11" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250401 -->
+<!-- BEGIN item bean NNE025_250402 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_4" partnumber="NNE025_250402" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_8" itemspc_id="@itemspc_id_NewsLetters_8" itemversn_id="@itemversn_id_NewsLetters_4" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_8"	catenttype_id="ItemBean" mfname="Money Management"	partnumber="NNE025_250402" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_10"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_12" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_12" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_12" sequence="4.3" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="USD" price="80" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="AUD" price="103.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="NZD" price="110.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="BRL" price="254.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="CAD" price="101.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="CNY" price="534.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="EUR" price="68.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="GBP" price="62.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="JPY" price="8775" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="KRW" price="91227" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="PLN" price="291.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="RON" price="312.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="RUB" price="4726.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_11" currency="TWD" price="2424.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="USD" listprice="80" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="AUD" listprice="103.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="NZD" listprice="110.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="BRL" listprice="254.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="CAD" listprice="101.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="CNY" listprice="534.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="EUR" listprice="68.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="GBP" listprice="62.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="JPY" listprice="8775" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="KRW" listprice="91227" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="PLN" listprice="291.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="RON" listprice="312.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="RUB" listprice="4726.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_12" currency="TWD" listprice="2424.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL4" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_12" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_12" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_12" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250402 -->
+<!-- END items of NNE025_2504 -->
+<!-- END catalog entry NNE025_2504 -->
+<!-- BEGIN catalog entry NNE025_2505 -->
+<baseitem baseitem_id="@baseproduct_id_NewsLetters_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NNE025_2505" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_NewsLetters_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Smart Investing" partnumber="NNE025_2505" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_NewsLetters_13" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_NewsLetters_13" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_NewsLetters_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_NewsLetters_5" baseitem_id="@baseproduct_id_NewsLetters_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_NewsLetters_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_NewsLetters_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="USD" price="120" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="AUD" price="154.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="NZD" price="165.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="BRL" price="381.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="CAD" price="152.4" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="CNY" price="801.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="EUR" price="102.0" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="GBP" price="93.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="JPY" price="13163" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="KRW" price="136841" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="PLN" price="436.8" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="RON" price="469.2" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="RUB" price="7089.6" />
+<offerprice offer_id="@offer_catentry_product_id_NewsLetters_15" currency="TWD" price="3636.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="USD" listprice="120" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="AUD" listprice="154.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="NZD" listprice="165.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="BRL" listprice="381.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="CAD" listprice="152.4" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="CNY" listprice="801.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="EUR" listprice="102.0" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="GBP" listprice="93.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="JPY" listprice="13163" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="KRW" listprice="136841" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="PLN" listprice="436.8" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="RON" listprice="469.2" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="RUB" listprice="7089.6" />
+<listprice catentry_id="@catentry_product_id_NewsLetters_13" currency="TWD" listprice="3636.0" />
+<!-- Begin attribute mapping for NNE025_2505-->
+<catentryattr attr_id="@attribute_id_NewsLetters_1" attrval_id="@attribute_value_id_NewsLetters_1" usage="2" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<catentryattr attr_id="@attribute_id_NewsLetters_2" attrval_id="@attribute_value_id_NewsLetters_2" usage="2" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<!-- End attribute mapping for NNE025_2505-->
+<!-- Begin attribute mapping for NL5-->
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL5" usage="2" sequence="2.0" catentry_id="@catentry_product_id_NewsLetters_13" />
+<!-- End attribute mapping for NL5-->
+
+<!-- BEGIN items of NNE025_2505 -->
+<!-- BEGIN item bean NNE025_250501 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_5" partnumber="NNE025_250501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_9" itemspc_id="@itemspc_id_NewsLetters_9" itemversn_id="@itemversn_id_NewsLetters_5" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_9"	catenttype_id="ItemBean" mfname="Smart Investing"	partnumber="NNE025_250501" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_14" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_14" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="USD" price="120" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="AUD" price="154.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="NZD" price="165.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="BRL" price="381.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="CAD" price="152.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="CNY" price="801.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="EUR" price="102.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="GBP" price="93.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="JPY" price="13163" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="KRW" price="136841" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="PLN" price="436.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="RON" price="469.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="RUB" price="7089.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_13" currency="TWD" price="3636.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="USD" listprice="120" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="AUD" listprice="154.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="NZD" listprice="165.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="BRL" listprice="381.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="CAD" listprice="152.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="CNY" listprice="801.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="EUR" listprice="102.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="GBP" listprice="93.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="JPY" listprice="13163" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="KRW" listprice="136841" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="PLN" listprice="436.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="RON" listprice="469.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="RUB" listprice="7089.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_14" currency="TWD" listprice="3636.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL5" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_14" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_14" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_14" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250501 -->
+<!-- BEGIN item bean NNE025_250502 -->
+<itemspc itemspc_id="@itemspc_id_NewsLetters_10" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_NewsLetters_5" partnumber="NNE025_250502" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_NewsLetters_10" itemspc_id="@itemspc_id_NewsLetters_10" itemversn_id="@itemversn_id_NewsLetters_5" />
+<catentry catentry_id="@catentry_item_id_NewsLetters_15" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_NewsLetters_10"	catenttype_id="ItemBean" mfname="Smart Investing"	partnumber="NNE025_250502" markfordelete="0" baseitem_id="@baseproduct_id_NewsLetters_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_NewsLetters_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_NewsLetters_15" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_NewsLetters_15" />
+<catgpenrel catgroup_id="@catgroup_id_NewsLetters" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_NewsLetters_15" sequence="5.3" />
+<offer offer_id="@offer_catentry_item_id_NewsLetters_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_NewsLetters_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="USD" price="120" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="AUD" price="154.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="NZD" price="165.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="BRL" price="381.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="CAD" price="152.4" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="CNY" price="801.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="EUR" price="102.0" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="GBP" price="93.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="JPY" price="13163" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="KRW" price="136841" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="PLN" price="436.8" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="RON" price="469.2" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="RUB" price="7089.6" />
+<offerprice offer_id="@offer_catentry_item_id_NewsLetters_14" currency="TWD" price="3636.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="USD" listprice="120" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="AUD" listprice="154.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="NZD" listprice="165.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="BRL" listprice="381.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="CAD" listprice="152.4" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="CNY" listprice="801.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="EUR" listprice="102.0" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="GBP" listprice="93.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="JPY" listprice="13163" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="KRW" listprice="136841" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="PLN" listprice="436.8" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="RON" listprice="469.2" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="RUB" listprice="7089.6" />
+<listprice catentry_id="@catentry_item_id_NewsLetters_15" currency="TWD" listprice="3636.0" />
+<catentryattr attr_id="@attribute_id_NewsLetters_PickUpInStore" attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL5" usage="2" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_15" />
+<catentryattr attr_id="@attribute_id_NewsLetters_5" attrval_id="@attribute_value_id_NewsLetters_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_NewsLetters_15" />
+<catentryattr attr_id="@attribute_id_NewsLetters_4" attrval_id="@attribute_value_id_NewsLetters_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_NewsLetters_15" />
+<catentryattr attr_id="@attribute_id_NewsLetters_3" attrval_id="@attribute_value_id_NewsLetters_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_NewsLetters_15" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NNE025_250502 -->
+<!-- END items of NNE025_2505 -->
+<!-- END catalog entry NNE025_2505 -->
+<!-- END: Writing catalog entries -->
+<!-- Catentsubs -->
+<catentsubs catentry_id="@catentry_product_id_NewsLetters_1" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_2" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_3" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_NewsLetters_4" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_5" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_6" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_NewsLetters_7" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_8" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_9" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_NewsLetters_10" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_11" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_12" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_NewsLetters_13" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_14" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_NewsLetters_15" subscptype_id="TIME-BASED" disallow_rec_order="1" />

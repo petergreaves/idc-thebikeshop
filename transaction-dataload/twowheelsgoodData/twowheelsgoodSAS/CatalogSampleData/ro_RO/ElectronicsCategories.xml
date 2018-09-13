@@ -1,0 +1,80 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Electronics"
+   name="Electronice"
+   shortdescription="Electronice"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Electronice"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_ComputersLaptops"
+   name="Laptopuri"
+   shortdescription="Laptopuri"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cla_laptops.png"
+   fullimage="images/catalog/electronics/category/catr_cla_laptops.png"
+   keyword="Laptopuri"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_ComputersTablets"
+   name="Tablete"
+   shortdescription="Tablete"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cta_tablets.png"
+   fullimage="images/catalog/electronics/category/catr_cta_tablets.png"
+   keyword="Tablete"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_ComputersAccessories"
+   name="Accesorii"
+   shortdescription="Accesorii"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cac_accessories.png"
+   fullimage="images/catalog/electronics/category/catr_cac_accessories.png"
+   keyword="Accesorii"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_ComputersDesktops"
+   name="Desktopuri"
+   shortdescription="Desktopuri"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_cde_desktops.png"
+   fullimage="images/catalog/electronics/category/catr_cde_desktops.png"
+   keyword="Desktopuri"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_ComputersComponents"
+   name="Componente"
+   shortdescription="Componente"
+   published="1"
+   thumbnail="images/catalog/electronics/category/catr_ccm_components.png"
+   fullimage="images/catalog/electronics/category/catr_ccm_components.png"
+   keyword="Componente"
+/>
+
+<!-- End of Category Descriptions -->
+
+

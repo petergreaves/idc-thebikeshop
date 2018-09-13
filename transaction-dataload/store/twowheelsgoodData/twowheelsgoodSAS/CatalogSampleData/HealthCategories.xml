@@ -1,0 +1,49 @@
+<catgroup 
+   catgroup_id="@catgroup_id_Health"
+   member_id="&CAT_MEMBER_ID;"
+   identifier="Health"
+   markfordelete="0"
+/>
+<cattogrp
+   catalog_id="&CATALOG_ID;"
+   catgroup_id="@catgroup_id_Health"
+   sequence="5"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Health"
+/>
+
+
+
+
+<catgroup catgroup_id="@catgroup_id_Medicince"
+member_id="&CAT_MEMBER_ID;" identifier="Medicine"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_Vitamins"
+member_id="&CAT_MEMBER_ID;" identifier="Vitamins"
+markfordelete="0" />
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Health"
+   catgroup_id_child="@catgroup_id_Medicince"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Health"
+   catgroup_id_child="@catgroup_id_Vitamins"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Medicince"
+/>
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Vitamins"
+/>

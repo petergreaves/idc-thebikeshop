@@ -1,0 +1,93 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Furniture -->
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_HomeFurnishings"
+   name="ホーム・インテリア"
+   shortdescription="ホーム・インテリア"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="ホーム・インテリア"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_BathAccessories"
+   name="バス・アクセサリー"
+   shortdescription="バス・アクセサリー"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hba_bath.png"
+   keyword="バス・アクセサリー"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_Appliances"
+   name="電気製品"
+   shortdescription="電気製品"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hap_appliances.png"
+   keyword="電気製品"
+/>
+
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_Furniture"
+   name="家具・調度品"
+   shortdescription="家具・調度品"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+   keyword="家具・調度品"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_Lighting"
+   name="照明"
+   shortdescription="照明"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+   keyword="照明"
+/>
+
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_Tableware"
+   name="テーブルウェア"
+   shortdescription="テーブルウェア"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hta_tableware.png"
+   keyword="テーブルウェア"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_Kitchenware"
+   name="台所用品"
+   shortdescription="台所用品"
+   published="1"
+   thumbnail="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   fullimage="images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+   keyword="台所用品"
+/>
+

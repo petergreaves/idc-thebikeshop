@@ -1,0 +1,56 @@
+ShippingJurisdiction,,,,
+jurisdictionGroup,jurisdiction,country,countryABBR,state,stateABBR,delete
+WorldShipping,WorldShipping,,,,,0
+CanadaShipping,CanadaShipping,Canada,CA,,,0
+USShipping,USShipping,United States,US,,,0
+AlaskaHawaiiShipping,AlaskaShipping,United States,US,Alaska,AK,0
+AlaskaHawaiiShipping,HawaiiShipping,United States,US,Hawaii,HI,0
+USContinentalShipping,AlabamaShipping,United States,US,Alabama,AL,0
+USContinentalShipping,ArizonaShipping,United States,US,Arizona,AZ,0
+USContinentalShipping,ArkansasShipping,United States,US,Arkansas,AR,0
+USContinentalShipping,CaliforniaShipping,United States,US,California,CA,0
+USContinentalShipping,ColoradoShipping,United States,US,Colorado,CO,0
+USContinentalShipping,ConnecticutShipping,United States,US,Connecticut,CT,0
+USContinentalShipping,DelawareShipping,United States,US,Delaware,DE,0
+USContinentalShipping,District of ColumbiaShipping,United States,US,District of Columbia,DC,0
+USContinentalShipping,FloridaShipping,United States,US,Florida,FL,0
+USContinentalShipping,GeorgiaShipping,United States,US,Georgia,GA,0
+USContinentalShipping,IdahoShipping,United States,US,Idaho,ID,0
+USContinentalShipping,IllinoisShipping,United States,US,Illinois,IL,0
+USContinentalShipping,IndianaShipping,United States,US,Indiana,IN,0
+USContinentalShipping,IowaShipping,United States,US,Iowa,IA,0
+USContinentalShipping,KansasShipping,United States,US,Kansas,KS,0
+USContinentalShipping,KentuckyShipping,United States,US,Kentucky,KY,0
+USContinentalShipping,LouisianaShipping,United States,US,Louisiana,LA,0
+USContinentalShipping,MaineShipping,United States,US,Maine,ME,0
+USContinentalShipping,MarylandShipping,United States,US,Maryland,MD,0
+USContinentalShipping,MassachusettsShipping,United States,US,Massachusetts,MA,0
+USContinentalShipping,MichiganShipping,United States,US,Michigan,MI,0
+USContinentalShipping,MinnesotaShipping,United States,US,Minnesota,MN,0
+USContinentalShipping,MississippiShipping,United States,US,Mississippi,MS,0
+USContinentalShipping,MissouriShipping,United States,US,Missouri,MO,0
+USContinentalShipping,MontanaShipping,United States,US,Montana,MT,0
+USContinentalShipping,NebraskaShipping,United States,US,Nebraska,NE,0
+USContinentalShipping,NevadaShipping,United States,US,Nevada,NV,0
+USContinentalShipping,New HampshireShipping,United States,US,New Hampshire,NH,0
+USContinentalShipping,New JerseyShipping,United States,US,New Jersey,NJ,0
+USContinentalShipping,New MexicoShipping,United States,US,New Mexico,NM,0
+USContinentalShipping,New YorkShipping,United States,US,New York,NY,0
+USContinentalShipping,North CarolinaShipping,United States,US,North Carolina,NC,0
+USContinentalShipping,North DakotaShipping,United States,US,North Dakota,ND,0
+USContinentalShipping,OhioShipping,United States,US,Ohio,OH,0
+USContinentalShipping,OklahomaShipping,United States,US,Oklahoma,OK,0
+USContinentalShipping,OregonShipping,United States,US,Oregon,OR,0
+USContinentalShipping,PennsylvaniaShipping,United States,US,Pennsylvania,PA,0
+USContinentalShipping,Rhode IslandShipping,United States,US,Rhode Island,RI,0
+USContinentalShipping,South CarolinaShipping,United States,US,South Carolina,SC,0
+USContinentalShipping,South DakotaShipping,United States,US,South Dakota,SD,0
+USContinentalShipping,TennesseeShipping,United States,US,Tennessee,TN,0
+USContinentalShipping,TexasShipping,United States,US,Texas,TX,0
+USContinentalShipping,UtahShipping,United States,US,Utah,UT,0
+USContinentalShipping,VermontShipping,United States,US,Vermont,VT,0
+USContinentalShipping,VirginiaShipping,United States,US,Virginia,VA,0
+USContinentalShipping,WashingtonShipping,United States,US,Washington,WA,0
+USContinentalShipping,West VirginiaShipping,United States,US,West Virgina,WV,0
+USContinentalShipping,WisconsinShipping,United States,US,Wisconsin,WI,0
+USContinentalShipping,WyomingShipping,United States,US,Wyoming,WY,0

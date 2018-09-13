@@ -1,0 +1,99 @@
+<!--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2016 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+-->
+
+<server description="new server">
+
+    <!-- Enable features -->
+    <featureManager>
+        <feature>distributedMap-1.0</feature>
+        <feature>jndi-1.0</feature>
+        <feature>localConnector-1.0</feature>
+        <feature>servlet-3.1</feature>
+        <feature>ssl-1.0</feature>
+        <feature>webCache-1.0</feature>
+        <feature>jsp-2.2</feature>
+        <feature>json-1.0</feature>
+        <feature>concurrent-1.0</feature>
+        <feature>monitor-1.0</feature>
+    </featureManager>
+
+
+    <keyStore id="defaultKeyStore" password="{xor}Nj0yNDom" location="${server.config.dir}/resources/security/key.jks" />
+    <keyStore id="defaultTrustStore" password="{xor}Nj0yNDom" location="${server.config.dir}/resources/security/trust.jks" />
+    <ssl clientAuthenticationSupported="true" keyStoreRef="defaultKeyStore" trustStoreRef="defaultTrustStore" id="sslSettings" sslProtocol="TLSv1.2" serverKeyAlias="default" />
+    <sslDefault sslRef="sslSettings" />
+
+    <!-- To access this server from a remote client add a host attribute to
+        the following element, e.g. host="*" -->
+    <httpEndpoint host="*" httpPort="-1" httpsPort="8443" id="defaultHttpEndpoint">
+    	<httpOptions DoNotAllowDuplicateSetCookies="true"/>
+    </httpEndpoint>
+
+    <applicationMonitor updateTrigger="mbean" />
+
+    <httpSession cookiesEnabled="false"></httpSession>
+
+    <distributedMap id="baseCache" jndiName="services/cache/basecache" cascadeCachespecProperties="true" enableDiskOffload="true" diskOffloadLocation="/opt/WebSphere/Liberty/usr/servers/default/_cache" flushToDiskOnStop="false" diskCachePerformanceLevel="3" diskCacheEvictionPolicy="1" diskCacheSizeInGB="3" diskCacheSizeInEntries="0" diskCacheEntrySizeInMB="0" diskCacheCleanupFrequency="0" memorySizeInEntries="5000" >
+    </distributedMap>
+    
+    <distributedMap id="services/cache/WCFlexFlowDistributedMapCache" memorySizeInEntries="1000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCSEOURLDistributedMapCache" memorySizeInEntries="5000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCSEOURLKeyword2URLTokenDistributedMapCache" memorySizeInEntries="3000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCSEOURLToken2URLKeywordDistributedMapCache" memorySizeInEntries="3000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCLayoutDistributedMapCache" memorySizeInEntries="1000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCSEORedirectRulesDistributedMapCache" memorySizeInEntries="1000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCRESTTagDistributedMapCache" memorySizeInEntries="1000">
+    </distributedMap>
+
+    <distributedMap id="services/cache/WCStoreDistributedMapCache" memorySizeInEntries="1000">
+    </distributedMap>
+
+    <!-- Force the application to always load on server startup -->
+    <webContainer deferServletLoad="false" com.ibm.ws.jsp.getWriterOnEmptyBuffer="true" disableXPoweredBy="true"></webContainer>
+
+    <basicRegistry></basicRegistry>
+
+    <enterpriseApplication id="crs" location="crs.ear" name="crs">
+        <classloader apiTypeVisibility="spec,ibm-api,api,third-party" />
+    </enterpriseApplication>
+
+    <managedExecutorService id="threadDumpMain" jndiName="cf/threadDumpProcess/main">
+        <contextService>
+            <classloaderContext/>
+            <jeeMetadataContext/>
+        </contextService>
+    </managedExecutorService>
+
+    <managedExecutorService id="dynamicTraceMain" jndiName="cf/dynamicTrace/main">
+        <contextService>
+            <classloaderContext/>
+            <jeeMetadataContext/>
+        </contextService>
+    </managedExecutorService>   
+	
+    <!-- Limit threads for the application -->
+    <executor name="Default Executor" id="default" coreThreads="50" maxThreads="50" />
+</server>

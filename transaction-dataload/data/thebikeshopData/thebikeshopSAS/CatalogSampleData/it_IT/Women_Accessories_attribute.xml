@@ -1,0 +1,86 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenAccessoriesColor -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_6" attrtype_id="STRING" language_id="&it_IT;" name="Colore" description="Colore" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_10" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="1" value="Blu" integervalue="" floatvalue="" stringvalue="Blu" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_14" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="2" value="Marrone" integervalue="" floatvalue="" stringvalue="Marrone" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_19" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="3" value="Grigio" integervalue="" floatvalue="" stringvalue="Grigio" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_22" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="4" value="Viola" integervalue="" floatvalue="" stringvalue="Viola" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_25" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="5" value="Giallo" integervalue="" floatvalue="" stringvalue="Giallo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_28" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="6" value="Nero" integervalue="" floatvalue="" stringvalue="Nero" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_31" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="7" value="Rosa" integervalue="" floatvalue="" stringvalue="Rosa" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_33" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&it_IT;" sequence="8" value="Multicolore" integervalue="" floatvalue="" stringvalue="Multicolore" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenAccessoriesColor -->
+<!--BEGIN Defining attribute description  WomenAccessoriesSize -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_5" attrtype_id="STRING" language_id="&it_IT;" name="Dimensioni" description="Dimensioni" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_5" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="1" value="6 3/4" integervalue="" floatvalue="" stringvalue="6 3/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_6" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="2" value="7" integervalue="" floatvalue="" stringvalue="7" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_7" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="3" value="7 1/4" integervalue="" floatvalue="" stringvalue="7 1/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_8" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="4" value="7 1/2" integervalue="" floatvalue="" stringvalue="7 1/2" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_9" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="5" value="7 3/4" integervalue="" floatvalue="" stringvalue="7 3/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_37" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="6" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_38" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="7" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_39" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="8" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_40" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="9" value="40" integervalue="40" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_41" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="10" value="42" integervalue="42" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_42" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="11" value="44" integervalue="44" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_43" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&it_IT;" sequence="12" value="46" integervalue="46" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenAccessoriesSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_2" attrtype_id="STRING" language_id="&it_IT;" name="Materiale" description="Materiale" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_2_WAC007_0701" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="1" value="Lana" integervalue="" floatvalue="" stringvalue="Lana" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0704" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="2" value="Fibra vegetale" integervalue="" floatvalue="" stringvalue="Fibra vegetale" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0706" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="2" value="Fibra vegetale" integervalue="" floatvalue="" stringvalue="Fibra vegetale" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0707" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="2" value="Fibra vegetale" integervalue="" floatvalue="" stringvalue="Fibra vegetale" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_16_WAC007_0705" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="3" value="Tessuto" integervalue="" floatvalue="" stringvalue="Tessuto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0727" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0728" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0730" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0732" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0736" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0738" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&it_IT;" sequence="4" value="Pelle" integervalue="" floatvalue="" stringvalue="Pelle" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_1" attrtype_id="STRING" language_id="&it_IT;" name="Stile" description="Stile" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_1_WAC007_0701" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="1" value="Cappello fedora" integervalue="" floatvalue="" stringvalue="Cappello fedora" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_11_WAC007_0704" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="2" value="Cappello da cowboy" integervalue="" floatvalue="" stringvalue="Cappello da cowboy" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_15_WAC007_0705" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="3" value="Cappello a tesa larga" integervalue="" floatvalue="" stringvalue="Cappello a tesa larga" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_20_WAC007_0706" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="4" value="Cappello cloche" integervalue="" floatvalue="" stringvalue="Cappello cloche" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_23_WAC007_0707" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="5" value="Cappello di raffia" integervalue="" floatvalue="" stringvalue="Cappello di raffia" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_26_WAC007_0711" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="6" value="Occhiali da sole da aviatore" integervalue="" floatvalue="" stringvalue="Occhiali da sole da aviatore" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_29_WAC007_0713" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="7" value="Occhiali da sole ovali" integervalue="" floatvalue="" stringvalue="Occhiali da sole ovali" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_30_WAC007_0714" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="8" value="Occhiali da sole rettangolari" integervalue="" floatvalue="" stringvalue="Occhiali da sole rettangolari" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_32_WAC007_0715" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="9" value="Occhiali da sole quadrati" integervalue="" floatvalue="" stringvalue="Occhiali da sole quadrati" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_34_WAC007_0716" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="10" value="Occhiali da sole a occhi di gatto" integervalue="" floatvalue="" stringvalue="Occhiali da sole a occhi di gatto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_35_WAC007_0725" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&it_IT;" sequence="11" value="Occhiali da sole rotondi" integervalue="" floatvalue="" stringvalue="Occhiali da sole rotondi" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_3" attrtype_id="STRING" language_id="&it_IT;" name="Occasione" description="Occasione" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0701" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0704" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0706" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0707" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0727" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0728" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0736" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0738" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0705" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="2" value="Formale" integervalue="" floatvalue="" stringvalue="Formale" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0730" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="2" value="Formale" integervalue="" floatvalue="" stringvalue="Formale" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0732" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&it_IT;" sequence="2" value="Formale" integervalue="" floatvalue="" stringvalue="Formale" />
+<!--end of  Occasion -->
+<!--start of  Color -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_7" attrtype_id="STRING" language_id="&it_IT;" name="Colore" description="Colore" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_44_WAC007_0728" attr_id="@attribute_id_WomenAccessories_7" valusage="1" language_id="&it_IT;" sequence="1" value="Marrone" integervalue="" floatvalue="" stringvalue="Marrone" />
+<!--end of  Color -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

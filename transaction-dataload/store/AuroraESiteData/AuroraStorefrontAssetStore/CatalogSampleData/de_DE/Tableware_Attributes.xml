@@ -1,0 +1,89 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : TablewareColor -->
+<attrdesc attr_id="@attribute_id_Tableware_4" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_4" attr_id="@attribute_id_Tableware_4" valusage="1" language_id="&de_DE;" sequence="1" value="Klar" integervalue="" floatvalue="" stringvalue="Klar" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_8" attr_id="@attribute_id_Tableware_4" valusage="1" language_id="&de_DE;" sequence="2" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_10" attr_id="@attribute_id_Tableware_4" valusage="1" language_id="&de_DE;" sequence="3" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_14" attr_id="@attribute_id_Tableware_4" valusage="1" language_id="&de_DE;" sequence="4" value="Rot" integervalue="" floatvalue="" stringvalue="Rot" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_16" attr_id="@attribute_id_Tableware_4" valusage="1" language_id="&de_DE;" sequence="5" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" qtyunit_id="C62" />
+<!--END Defining attribute description : TablewareColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Tableware_1" attrtype_id="STRING" language_id="&de_DE;" name="Schnitt" description="Schnitt" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2901" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2902" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2904" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2907" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2908" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2917" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2918" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2919" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_1_HTA029_2923" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="1" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2903" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2905" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2906" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2909" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2910" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2911" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2912" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2913" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2926" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2927" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_6_HTA029_2931" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="2" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_12" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2914" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2915" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2916" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2924" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2925" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_17_HTA029_2928" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="4" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_19_HTA029_2920" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="5" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_20_HTA029_2921" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="6" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_20_HTA029_2922" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="6" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_20_HTA029_2929" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="6" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_20_HTA029_2930" attr_id="@attribute_id_Tableware_1" valusage="1" language_id="&de_DE;" sequence="6" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<!--end of  Style -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Tableware_3" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_3_HTA029_2901" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="1" value="Trinkglas" integervalue="" floatvalue="" stringvalue="Trinkglas" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_5_HTA029_2902" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="2" value="Teekanne" integervalue="" floatvalue="" stringvalue="Teekanne" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_5_HTA029_2909" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="2" value="Teekanne" integervalue="" floatvalue="" stringvalue="Teekanne" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_7_HTA029_2903" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="3" value="Besteck" integervalue="" floatvalue="" stringvalue="Besteck" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_7_HTA029_2913" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="3" value="Besteck" integervalue="" floatvalue="" stringvalue="Besteck" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2904" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2905" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2906" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2907" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2921" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2922" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2926" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2927" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2929" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_9_HTA029_2931" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="4" value="Sie dabei" integervalue="" floatvalue="" stringvalue="Sie dabei" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2908" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2910" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2911" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2912" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2914" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2915" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2916" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2917" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2918" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2923" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2924" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2925" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_13_HTA029_2930" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="5" value="Glasgeschirr" integervalue="" floatvalue="" stringvalue="Glasgeschirr" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_18_HTA029_2919" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="6" value="Tasse" integervalue="" floatvalue="" stringvalue="Tasse" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_18_HTA029_2920" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="6" value="Tasse" integervalue="" floatvalue="" stringvalue="Tasse" />
+<attrvaldesc attrval_id="@attribute_value_id_Tableware_18_HTA029_2928" attr_id="@attribute_id_Tableware_3" valusage="1" language_id="&de_DE;" sequence="6" value="Tasse" integervalue="" floatvalue="" stringvalue="Tasse" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+

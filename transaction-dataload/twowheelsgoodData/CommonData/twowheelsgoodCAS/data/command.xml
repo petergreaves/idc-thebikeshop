@@ -1,0 +1,26 @@
+<!-- list price list management commands to cmdreg table -->
+<cmdreg
+storeent_id="@catalogStore"
+interfacename="com.ibm.commerce.catalog.facade.server.commands.InsertMoreCatalogEntryDataCmd+IBM_Admin_Details.20"
+classname="com.ibm.commerce.price.facade.server.commands.InsertMoreCatalogEntryListPriceDataCmdImpl"
+/>
+<cmdreg
+storeent_id="@catalogStore"
+interfacename="com.ibm.commerce.catalog.facade.server.commands.InsertMoreCatalogEntryDataCmd+IBM_Admin_Summary.20"
+classname="com.ibm.commerce.price.facade.server.commands.InsertMoreCatalogEntryListPriceDataCmdImpl"
+/>
+<cmdreg
+storeent_id="@catalogStore"
+interfacename="com.ibm.commerce.catalog.facade.server.commands.InsertMoreCatalogEntryDataCmd+IBM_Admin_CatalogEntryDescription.20"
+classname="com.ibm.commerce.price.facade.server.commands.InsertMoreCatalogEntryListPriceDataCmdImpl"
+/>
+<cmdreg
+storeent_id="@catalogStore"
+interfacename="com.ibm.commerce.catalog.facade.server.commands.ChangeCatalogEntryPartPostActionCmd+/CatalogEntry[]/ListPrice/AlternativeCurrencyPrice[]"
+classname="com.ibm.commerce.price.facade.server.commands.ChangeListPriceListCmdImpl"
+/>
+<cmdreg
+storeent_id="@catalogStore"
+interfacename="com.ibm.commerce.price.facade.server.commands.ComposePriceListCmd+IBM_PriceEntryDetailProfile"
+classname="com.ibm.commerce.price.facade.server.commands.ComposePriceEntryDetailInExtendedPriceListCmdImpl"
+/>

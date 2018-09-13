@@ -1,0 +1,6 @@
+PaymentPolicy,,,
+PolicyName,Description,LongDescription,Properties
+VISA,VISA,VISA payment tokenization,attrPageName=StandardVisa&paymentConfigurationId=default&display=true&compatibleMode=false&tokenization=true
+MasterCard,MasterCard,MasterCard  payment tokenization,attrPageName=StandardMasterCard&paymentConfigurationId=default&display=true&compatibleMode=false&tokenization=true
+Amex,American Express,American Express payment tokenization,attrPageName=StandardAmex&paymentConfigurationId=default&display=true&compatibleMode=false&tokenization=true
+Discover,Discover,Discover payment tokenization,attrPageName=StandardDiscover&paymentConfigurationId=default&display=true&compatibleMode=false&tokenization=true

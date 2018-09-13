@@ -1,0 +1,4 @@
+CatalogEntryCalculationCode
+PartNumber,DiscountCalculationCode,ShippingCalculationCode,SalesTaxCalculationCode,ShippingTaxCalculationCode,CouponCalculationCode,SurchargeCalculationCode,ShippingAdjustmentCalculationCode,Delete
+Cords,Save 10% on all orders today,,,,,,,
+

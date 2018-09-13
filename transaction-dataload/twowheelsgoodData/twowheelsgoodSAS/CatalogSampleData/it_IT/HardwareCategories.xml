@@ -1,0 +1,71 @@
+  <!-- Only translate those fields that have  in them               -->
+  <!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+  
+  <!--
+  
+    Remember to encode conflicting characters:
+  
+    < &lt;
+    > &gt;
+    " &quot;
+  
+  -->
+  
+  <!-- Start of Category Descriptions -->
+  
+  <!-- Start of category descriptions for Hardware -->
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_Hardware"
+              name="Hardware"
+              shortdescription="Una vasta selezione di dispositivi di illuminazione e di fissaggio"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="hardware"/>
+              
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_hardware_fasteners"
+              name="Morsetti"
+              shortdescription="Viti, bulloni e dadi per una vasta gamma di applicazioni di fissaggio"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              keyword="dispositivi di fissaggio"/>            
+  
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_hardware_lighting"
+              name="Illuminazione"
+              shortdescription="Lampadine di ogni forma e dimensione"
+              published="1"
+              thumbnail="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              fullimage="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              keyword="illuminazione"/>            
+  
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_hardware_fasteners_bolts"
+              name="Bulloni"
+              shortdescription="Bulloni progettati per un fissaggio rapido con affidabilità a lungo termine"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="bulloni"/>            
+  
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_hardware_fasteners_nuts"
+              name="Dadi"
+              shortdescription="Dadi ad alta resistenza in varie finiture"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              keyword="dadi"/> 
+              
+  <catgrpdesc language_id="&it_IT;"
+              catgroup_id="@catgroup_id_hardware_fasteners_screws"
+              name="Viti"
+              shortdescription="Viti di alta qualità per soddisfare tutte le esigenze di fissaggio"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              keyword="viti"/>             
+  
+  <!-- End of Category Descriptions -->

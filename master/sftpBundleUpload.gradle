@@ -1,0 +1,71 @@
+import org.gradle.internal.os.OperatingSystem
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2017 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+plugins {
+  id 'org.hidetake.ssh' version '2.9.0'
+}
+
+remotes {
+  webServer {
+    host = "${project.sftpHostname}"
+    user = "${project.sftpUsername}"
+    password = "${project.sftpPassword}"
+    port = project.sftpPort as Integer
+  }
+}
+
+ssh.settings {
+      knownHosts = file('known_hosts')
+ }
+
+task reBundle(type: GradleBuild) {
+  buildFile = 'build.gradle'
+  tasks = ["commerceue-bundle","search-bundle","crs-bundle","transaction-bundle"]
+}
+
+task sftpUpload {
+  description = 'Bundle and upload assets to SFTP server'
+  dependsOn reBundle
+  
+  doLast {
+    def keyScanCommand = "ssh-keyscan -t rsa -p ${remotes.webServer.port} ${remotes.webServer.host} >> known_hosts"
+    def keyScanCommandUnix = ['sh', '-c', keyScanCommand]
+    def keyScanCommandWindows = ['cmd', '/c', keyScanCommand]
+
+    exec {
+      logging.level = LogLevel.INFO
+      commandLine OperatingSystem.current().isUnix() ? keyScanCommandUnix : keyScanCommandWindows
+    }
+
+    FileTree customizationFileTree = fileTree(dir: "$workspaceDir/commerceue-master/build/distributions", include: ['**/xc-customization-*.zip'])
+    FileTree configurationsFileTree = fileTree(dir: "$workspaceDir/transaction-master/build/distributions", include: ['**/configurations-*.zip'])
+    FileTree searchFileTree = fileTree(dir: "$workspaceDir/search-master/build/distributions", include: ['**/search-*.zip'])
+    FileTree storeFileTree = fileTree(dir: "$workspaceDir/crs-master/build/distributions", include: ['**/store-*.zip'])
+
+    ssh.run {
+      session(remotes.webServer) {
+        put from: customizationFileTree.getFiles()[0], into: 'CodeDeployment/Customization'
+        put from: configurationsFileTree.getFiles()[0], into: 'CodeDeployment/Configurations'
+        put from: searchFileTree.getFiles()[0], into: 'CodeDeployment/Search'
+        put from: storeFileTree.getFiles()[0], into: 'CodeDeployment/Store'
+      }
+	  }
+
+    exec {
+      logging.level = LogLevel.INFO
+      commandLine OperatingSystem.current().isUnix() ? ['sh', '-c', 'rm known_hosts'] : ['cmd', '/c', 'del known_hosts']
+    }
+  }
+}

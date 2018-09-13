@@ -1,0 +1,183 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : FurnitureType -->
+<attrdesc attr_id="@attribute_id_Furniture_7" attrtype_id="STRING" language_id="&ja_JP;" name="タイプ" description="タイプ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_7" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="1" value="ソファー" integervalue="" floatvalue="" stringvalue="ソファー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_24" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="2" value="テーブル" integervalue="" floatvalue="" stringvalue="テーブル" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_32" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="3" value="いす" integervalue="" floatvalue="" stringvalue="いす" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_40" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="4" value="洋服だんす" integervalue="" floatvalue="" stringvalue="洋服だんす" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_45" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="5" value="ベッド" integervalue="" floatvalue="" stringvalue="ベッド" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_49" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="6" value="整理だんす" integervalue="" floatvalue="" stringvalue="整理だんす" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_54" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="7" value="ダイニング・チェア" integervalue="" floatvalue="" stringvalue="ダイニング・チェア" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_63" attr_id="@attribute_id_Furniture_7" valusage="1" language_id="&ja_JP;" sequence="8" value="学習机" integervalue="" floatvalue="" stringvalue="学習机" qtyunit_id="C62" />
+<!--END Defining attribute description : FurnitureType -->
+<!--BEGIN Defining attribute description : FurnitureColor -->
+<attrdesc attr_id="@attribute_id_Furniture_6" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_6" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="1" value="ブラック" integervalue="" floatvalue="" stringvalue="ブラック" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_10" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="2" value="レッド" integervalue="" floatvalue="" stringvalue="レッド" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_14" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="3" value="ブラウン" integervalue="" floatvalue="" stringvalue="ブラウン" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_18" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="4" value="ホワイト" integervalue="" floatvalue="" stringvalue="ホワイト" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_20" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="5" value="ブルー" integervalue="" floatvalue="" stringvalue="ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_29" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="6" value="ダーク・ブラウン" integervalue="" floatvalue="" stringvalue="ダーク・ブラウン" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_41" attr_id="@attribute_id_Furniture_6" valusage="1" language_id="&ja_JP;" sequence="7" value="ライト・ブラウン" integervalue="" floatvalue="" stringvalue="ライト・ブラウン" qtyunit_id="C62" />
+<!--END Defining attribute description : FurnitureColor -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Finish -->
+<attrdesc attr_id="@attribute_id_Furniture_2" attrtype_id="STRING" language_id="&ja_JP;" name="仕上げ" description="仕上げ" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3201" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="1" value="光沢" integervalue="" floatvalue="" stringvalue="光沢" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3224" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="1" value="光沢" integervalue="" floatvalue="" stringvalue="光沢" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3226" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="1" value="光沢" integervalue="" floatvalue="" stringvalue="光沢" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_2_HFU032_3227" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="1" value="光沢" integervalue="" floatvalue="" stringvalue="光沢" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3202" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3206" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3207" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3210" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3211" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3212" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3214" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3215" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3216" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3217" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3218" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3219" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3220" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3221" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3222" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3223" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3230" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3231" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3232" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_8_HFU032_3233" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="2" value="スムーズ" integervalue="" floatvalue="" stringvalue="スムーズ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3203" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="3" value="つや消し" integervalue="" floatvalue="" stringvalue="つや消し" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3204" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="3" value="つや消し" integervalue="" floatvalue="" stringvalue="つや消し" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3225" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="3" value="つや消し" integervalue="" floatvalue="" stringvalue="つや消し" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3228" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="3" value="つや消し" integervalue="" floatvalue="" stringvalue="つや消し" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_12_HFU032_3229" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="3" value="つや消し" integervalue="" floatvalue="" stringvalue="つや消し" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_16_HFU032_3205" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ソフト" integervalue="" floatvalue="" stringvalue="ソフト" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_26_HFU032_3208" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="5" value="ハード" integervalue="" floatvalue="" stringvalue="ハード" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_26_HFU032_3209" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="5" value="ハード" integervalue="" floatvalue="" stringvalue="ハード" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_35_HFU032_3213" attr_id="@attribute_id_Furniture_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ラフ" integervalue="" floatvalue="" stringvalue="ラフ" />
+<!--end of  Finish -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_Furniture_4" attrtype_id="STRING" language_id="&ja_JP;" name="素材" description="素材" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_4_HFU032_3201" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="1" value="レザー" integervalue="" floatvalue="" stringvalue="レザー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_4_HFU032_3209" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="1" value="レザー" integervalue="" floatvalue="" stringvalue="レザー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3202" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ファブリック" integervalue="" floatvalue="" stringvalue="ファブリック" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3205" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ファブリック" integervalue="" floatvalue="" stringvalue="ファブリック" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3211" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ファブリック" integervalue="" floatvalue="" stringvalue="ファブリック" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_9_HFU032_3212" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="2" value="ファブリック" integervalue="" floatvalue="" stringvalue="ファブリック" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3203" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="3" value="合成繊維" integervalue="" floatvalue="" stringvalue="合成繊維" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3204" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="3" value="合成繊維" integervalue="" floatvalue="" stringvalue="合成繊維" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_13_HFU032_3206" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="3" value="合成繊維" integervalue="" floatvalue="" stringvalue="合成繊維" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_23_HFU032_3207" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="4" value="木工" integervalue="" floatvalue="" stringvalue="木工" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_23_HFU032_3226" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="4" value="木工" integervalue="" floatvalue="" stringvalue="木工" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_27_HFU032_3208" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="5" value="オーク材" integervalue="" floatvalue="" stringvalue="オーク材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_27_HFU032_3217" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="5" value="オーク材" integervalue="" floatvalue="" stringvalue="オーク材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_31_HFU032_3210" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="6" value="成型合板" integervalue="" floatvalue="" stringvalue="成型合板" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3213" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="7" value="硬材" integervalue="" floatvalue="" stringvalue="硬材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3218" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="7" value="硬材" integervalue="" floatvalue="" stringvalue="硬材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3219" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="7" value="硬材" integervalue="" floatvalue="" stringvalue="硬材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_36_HFU032_3220" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="7" value="硬材" integervalue="" floatvalue="" stringvalue="硬材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3214" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="8" value="マホガニー" integervalue="" floatvalue="" stringvalue="マホガニー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3215" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="8" value="マホガニー" integervalue="" floatvalue="" stringvalue="マホガニー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_39_HFU032_3216" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="8" value="マホガニー" integervalue="" floatvalue="" stringvalue="マホガニー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_50_HFU032_3221" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="9" value="シーダー材" integervalue="" floatvalue="" stringvalue="シーダー材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_50_HFU032_3233" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="9" value="シーダー材" integervalue="" floatvalue="" stringvalue="シーダー材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_51_HFU032_3222" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="10" value="トネリコ材" integervalue="" floatvalue="" stringvalue="トネリコ材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_52_HFU032_3223" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="11" value="カバ材" integervalue="" floatvalue="" stringvalue="カバ材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_53_HFU032_3224" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="12" value="ファブリックおよび木材" integervalue="" floatvalue="" stringvalue="ファブリックおよび木材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_55_HFU032_3225" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="13" value="プラスチックおよびスチール" integervalue="" floatvalue="" stringvalue="プラスチックおよびスチール" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_57_HFU032_3227" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="14" value="プラスチック" integervalue="" floatvalue="" stringvalue="プラスチック" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_58_HFU032_3228" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="15" value="ファブリックおよびスチール" integervalue="" floatvalue="" stringvalue="ファブリックおよびスチール" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_58_HFU032_3229" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="15" value="ファブリックおよびスチール" integervalue="" floatvalue="" stringvalue="ファブリックおよびスチール" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_61_HFU032_3230" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="16" value="木材およびスチール" integervalue="" floatvalue="" stringvalue="木材およびスチール" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_62_HFU032_3231" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="17" value="モミ材" integervalue="" floatvalue="" stringvalue="モミ材" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_65_HFU032_3232" attr_id="@attribute_id_Furniture_4" valusage="1" language_id="&ja_JP;" sequence="18" value="松材" integervalue="" floatvalue="" stringvalue="松材" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_Furniture_1" attrtype_id="STRING" language_id="&ja_JP;" name="スタイル" description="スタイル" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3201" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="1" value="モダン" integervalue="" floatvalue="" stringvalue="モダン" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3202" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="1" value="モダン" integervalue="" floatvalue="" stringvalue="モダン" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3224" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="1" value="モダン" integervalue="" floatvalue="" stringvalue="モダン" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3225" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="1" value="モダン" integervalue="" floatvalue="" stringvalue="モダン" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_1_HFU032_3227" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="1" value="モダン" integervalue="" floatvalue="" stringvalue="モダン" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3203" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="2" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3204" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="2" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3209" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="2" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3228" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="2" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_11_HFU032_3233" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="2" value="オフィス" integervalue="" floatvalue="" stringvalue="オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3205" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="3" value="コンテンポラリー" integervalue="" floatvalue="" stringvalue="コンテンポラリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3222" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="3" value="コンテンポラリー" integervalue="" floatvalue="" stringvalue="コンテンポラリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_15_HFU032_3223" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="3" value="コンテンポラリー" integervalue="" floatvalue="" stringvalue="コンテンポラリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_19_HFU032_3206" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="4" value="ラウンジ" integervalue="" floatvalue="" stringvalue="ラウンジ" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_21_HFU032_3207" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="5" value="アーティスト・テーブル" integervalue="" floatvalue="" stringvalue="アーティスト・テーブル" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_25_HFU032_3208" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="6" value="日本語" integervalue="" floatvalue="" stringvalue="日本語" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_30_HFU032_3210" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="7" value="リーニング・チェアー" integervalue="" floatvalue="" stringvalue="リーニング・チェアー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_33_HFU032_3211" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="8" value="レイジー・ソファー" integervalue="" floatvalue="" stringvalue="レイジー・ソファー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_33_HFU032_3212" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="8" value="レイジー・ソファー" integervalue="" floatvalue="" stringvalue="レイジー・ソファー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_34_HFU032_3213" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="9" value="作業机" integervalue="" floatvalue="" stringvalue="作業机" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_37_HFU032_3214" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="10" value="ダブル・ドア" integervalue="" floatvalue="" stringvalue="ダブル・ドア" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_37_HFU032_3215" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="10" value="ダブル・ドア" integervalue="" floatvalue="" stringvalue="ダブル・ドア" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_42_HFU032_3216" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="11" value="コンパートメント" integervalue="" floatvalue="" stringvalue="コンパートメント" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_43_HFU032_3217" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="12" value="子供ベッド" integervalue="" floatvalue="" stringvalue="子供ベッド" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_46_HFU032_3218" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="13" value="エレガント・ベッド" integervalue="" floatvalue="" stringvalue="エレガント・ベッド" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_47_HFU032_3219" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="14" value="ロー・ベッド" integervalue="" floatvalue="" stringvalue="ロー・ベッド" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3220" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="15" value="シンプル
+" integervalue="" floatvalue="" stringvalue="シンプル
+" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3221" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="15" value="シンプル
+" integervalue="" floatvalue="" stringvalue="シンプル
+" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_48_HFU032_3231" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="15" value="シンプル
+" integervalue="" floatvalue="" stringvalue="シンプル
+" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_56_HFU032_3226" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="16" value="定番" integervalue="" floatvalue="" stringvalue="定番" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_59_HFU032_3229" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="17" value="モダン、オフィス" integervalue="" floatvalue="" stringvalue="モダン、オフィス" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_60_HFU032_3230" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="18" value="モダン・コンテンポラリー" integervalue="" floatvalue="" stringvalue="モダン・コンテンポラリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_64_HFU032_3232" attr_id="@attribute_id_Furniture_1" valusage="1" language_id="&ja_JP;" sequence="19" value="ハード" integervalue="" floatvalue="" stringvalue="ハード" />
+<!--end of  Style -->
+<!--start of  Assembly -->
+<attrdesc attr_id="@attribute_id_Furniture_3" attrtype_id="STRING" language_id="&ja_JP;" name="アセンブリー" description="アセンブリー" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3201" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3202" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3203" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3204" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3205" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3206" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3208" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3209" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3210" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3211" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3212" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3213" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3224" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3225" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3226" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3227" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3228" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3229" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3230" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3232" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_3_HFU032_3233" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="1" value="事前組み立て済み" integervalue="" floatvalue="" stringvalue="事前組み立て済み" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_22_HFU032_3207" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="2" value="簡単なセルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="簡単なセルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3214" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3215" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3216" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3217" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3218" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3219" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3220" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3221" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3222" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3223" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<attrvaldesc attrval_id="@attribute_value_id_Furniture_38_HFU032_3231" attr_id="@attribute_id_Furniture_3" valusage="1" language_id="&ja_JP;" sequence="3" value="セルフ・アセンブリー" integervalue="" floatvalue="" stringvalue="セルフ・アセンブリー" />
+<!--end of  Assembly -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+

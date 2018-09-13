@@ -1,0 +1,84 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : FruitType -->
+<attrdesc attr_id="@attribute_id_Fruit_7" attrtype_id="STRING" language_id="&fr_FR;" name="Type" description="Type" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_7" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="1" value="Agrumes" integervalue="" floatvalue="" stringvalue="Agrumes" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_9" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="2" value="Baies" integervalue="" floatvalue="" stringvalue="Baies" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_12" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="3" value="Fruits tropicaux" integervalue="" floatvalue="" stringvalue="Fruits tropicaux" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_16" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="4" value="Poires" integervalue="" floatvalue="" stringvalue="Poires" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_20" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="5" value="Raisin" integervalue="" floatvalue="" stringvalue="Raisin" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_23" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="6" value="Pèches" integervalue="" floatvalue="" stringvalue="Pèches" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_28" attr_id="@attribute_id_Fruit_7" valusage="1" language_id="&fr_FR;" sequence="7" value="Pommes" integervalue="" floatvalue="" stringvalue="Pommes" qtyunit_id="C62" />
+<!--END Defining attribute description : FruitType -->
+<!--BEGIN Defining attribute description : FruitBrand -->
+<attrdesc attr_id="@attribute_id_Fruit_6" attrtype_id="STRING" language_id="&fr_FR;" name="Marque" description="Marque" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_6" attr_id="@attribute_id_Fruit_6" valusage="1" language_id="&fr_FR;" sequence="1" value="Sunshine" integervalue="" floatvalue="" stringvalue="Sunshine" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_15" attr_id="@attribute_id_Fruit_6" valusage="1" language_id="&fr_FR;" sequence="2" value="Oxford Orchards" integervalue="" floatvalue="" stringvalue="Oxford Orchards" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_19" attr_id="@attribute_id_Fruit_6" valusage="1" language_id="&fr_FR;" sequence="3" value="California Sun" integervalue="" floatvalue="" stringvalue="California Sun" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_25" attr_id="@attribute_id_Fruit_6" valusage="1" language_id="&fr_FR;" sequence="4" value="Winston Organics" integervalue="" floatvalue="" stringvalue="Winston Organics" qtyunit_id="C62" />
+<!--END Defining attribute description : FruitBrand -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_Fruit_1" attrtype_id="STRING" language_id="&fr_FR;" name="Taille" description="Taille" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_1_GFR033_3301" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="1" value="importante" integervalue="" floatvalue="" stringvalue="importante" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_1_GFR033_3302" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="1" value="importante" integervalue="" floatvalue="" stringvalue="importante" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_1_GFR033_3307" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="1" value="importante" integervalue="" floatvalue="" stringvalue="importante" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_1_GFR033_3310" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="1" value="importante" integervalue="" floatvalue="" stringvalue="importante" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_10_GFR033_3303" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_10_GFR033_3304" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_10_GFR033_3305" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_10_GFR033_3308" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_10_GFR033_3311" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Moyenne" integervalue="" floatvalue="" stringvalue="Moyenne" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_21_GFR033_3306" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="3" value="petite" integervalue="" floatvalue="" stringvalue="petite" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_26_GFR033_3309" attr_id="@attribute_id_Fruit_1" valusage="1" language_id="&fr_FR;" sequence="4" value="Très gros" integervalue="" floatvalue="" stringvalue="Très gros" />
+<!--end of  Size -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Fruit_5" attrtype_id="STRING" language_id="&fr_FR;" name="Catégorie" description="Catégorie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3301" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3302" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3303" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3304" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3305" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3306" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3307" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3308" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3309" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3310" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_5_GFR033_3311" attr_id="@attribute_id_Fruit_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Fruit" integervalue="" floatvalue="" stringvalue="Fruit" />
+<!--end of  Category -->
+<!--start of  Price -->
+<attrdesc attr_id="@attribute_id_Fruit_3" attrtype_id="STRING" language_id="&fr_FR;" name="Prix" description="Prix" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3301" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3302" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3303" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3304" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3305" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3306" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3307" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3308" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3309" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3310" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_3_GFR033_3311" attr_id="@attribute_id_Fruit_3" valusage="1" language_id="&fr_FR;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/lb" />
+<!--end of  Price -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Fruit_4" attrtype_id="STRING" language_id="&fr_FR;" name="Type" description="Type" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_4_GFR033_3301" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="1" value="Agrumes" integervalue="" floatvalue="" stringvalue="Agrumes" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_8_GFR033_3302" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Baies" integervalue="" floatvalue="" stringvalue="Baies" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_8_GFR033_3308" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="2" value="Baies" integervalue="" floatvalue="" stringvalue="Baies" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_11_GFR033_3303" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Fruits tropicaux" integervalue="" floatvalue="" stringvalue="Fruits tropicaux" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_11_GFR033_3311" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="3" value="Fruits tropicaux" integervalue="" floatvalue="" stringvalue="Fruits tropicaux" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_14_GFR033_3304" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="4" value="Poires" integervalue="" floatvalue="" stringvalue="Poires" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_18_GFR033_3305" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Raisin" integervalue="" floatvalue="" stringvalue="Raisin" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_18_GFR033_3307" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="5" value="Raisin" integervalue="" floatvalue="" stringvalue="Raisin" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_22_GFR033_3306" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="6" value="Pèches" integervalue="" floatvalue="" stringvalue="Pèches" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_27_GFR033_3309" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Pommes" integervalue="" floatvalue="" stringvalue="Pommes" />
+<attrvaldesc attrval_id="@attribute_value_id_Fruit_27_GFR033_3310" attr_id="@attribute_id_Fruit_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Pommes" integervalue="" floatvalue="" stringvalue="Pommes" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->

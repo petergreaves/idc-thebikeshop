@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2b_sales" 
+    language_id="&es_ES;" 
+    name="Datos de ejemplo de directo a B2B de Aurora"
+    shortdescription="Datos de ejemplo de directo a B2B de Aurora"
+    longdescription="Un catálogo de ventas en el que se muestra un departamento Ferretería con varias subcategorías, para mostrar las características del catálogo en una tienda directo a B2B."
+    thumbnail=""
+    fullimage="" 
+  />
+  

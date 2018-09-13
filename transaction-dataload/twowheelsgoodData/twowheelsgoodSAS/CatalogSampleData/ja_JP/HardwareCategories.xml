@@ -1,0 +1,73 @@
+  <!-- Only translate those fields that have  in them               -->
+  <!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+  
+  <!--
+  
+    Remember to encode conflicting characters:
+  
+    < &lt;
+    > &gt;
+    " &quot;
+  
+  -->
+  
+  <!-- Start of Category Descriptions -->
+  
+  <!-- Start of category descriptions for Hardware -->
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_Hardware"
+              name="ハードウェア
+"
+              shortdescription="幅広い選択肢の照明と締め具"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="ハードウェア"/>
+              
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_hardware_fasteners"
+              name="締め具
+								"
+              shortdescription="締め具の広範な適用分野に対応したねじ、ボルト、ナット"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              keyword="締め具"/>            
+  
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_hardware_lighting"
+              name="照明"
+              shortdescription="あらゆる形状とサイズの電球"
+              published="1"
+              thumbnail="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              fullimage="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              keyword="照明"/>            
+  
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_hardware_fasteners_bolts"
+              name="ボルト"
+              shortdescription="長期間しっかり留められるように設計されたボルト"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="ボルト"/>            
+  
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_hardware_fasteners_nuts"
+              name="ナット"
+              shortdescription="各種仕上げの高強度ナット"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              keyword="ナット"/> 
+              
+  <catgrpdesc language_id="&ja_JP;"
+              catgroup_id="@catgroup_id_hardware_fasteners_screws"
+              name="ねじ"
+              shortdescription="すべての締め付けのニーズに対応した高品質のねじ"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              keyword="ねじ"/>             
+  
+  <!-- End of Category Descriptions -->

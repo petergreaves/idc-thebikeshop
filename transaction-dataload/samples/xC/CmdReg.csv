@@ -1,0 +1,3 @@
+CmdReg
+StoreIdentifier,Description,InterfaceName,ClassName,Properties,Delete
+AuroraESite,,com.ibm.commerce.orderitems.commands.OrderItemAddCmd,com.ibm.commerce.orderitems.commands.OrderItemAddCmdImpl,preUEConfigId=ibm_validate_quantity&restTarget=true&preExecute=true,0

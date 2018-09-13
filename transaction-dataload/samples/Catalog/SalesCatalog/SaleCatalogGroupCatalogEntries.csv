@@ -1,0 +1,4 @@
+CatalogEntryParentCatalogGroupRelationship,,,
+PartNumber,Sequence,ParentGroupIdentifier,Delete
+Casual shirt,1,Mens Shirts,0
+Bodysuit,1,Womens Activewear,0

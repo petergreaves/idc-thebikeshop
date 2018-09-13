@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&ro_RO;"
+  description="Transport terestru gratuit!"
+  longdescription="Transport terestru gratuit la comenzi peste 70$."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&ro_RO;"
+	admindesc="Reducere la livrare - Livrare terestră gratuită când cumpăraţi de mai mult de 70$"
+	shortdesc="Transport terestru gratuit!"
+	longdesc="Transport terestru gratuit la comenzi peste 70$."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&ro_RO;"
+  description="Clienţii fideli economisesc 5.00 $"
+  longdescription="Toţi clienţii care au cumpărat cu succes de la noi, pot reveni şi salva 5$ la următoarea comandă."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&ro_RO;"
+	admindesc="Reducere la comandă - Clienţii din segmentul Clienţi care revin primesc 5$ la următoarea lor comandă"
+	shortdesc="Clienţii fideli economisesc 5.00 $"
+	longdesc="Toţi clienţii care au cumpărat cu succes de la noi, pot reveni şi salva 5$ la următoarea comandă."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&ro_RO;"
+  description="Înregistraţi-vă  astăzi şi economisiţi 7%."
+  longdescription="Înregistraţi-vă astăzi la noi şi salvaţi 7% la următoarea comandă."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&ro_RO;"
+	admindesc="Reducere la comandă - Cod de promoţie pentru clienţii înregistraţi pentru a economisi 7% la următoarea comandă"
+	shortdesc="Înregistraţi-vă  astăzi şi economisiţi 7%."
+	longdesc="Înregistraţi-vă astăzi la noi şi salvaţi 7% la următoarea comandă."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&ro_RO;"
+  description="Economisiţi 10% la toate comenzile"
+  longdescription="Economisiţi 10% la toate comenzile."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&ro_RO;"
+	admindesc="Economisiţi 10% la toate comenzile de astăzi."
+	shortdesc="Economisiţi 10% la toate comenzile"
+	longdesc="Economisiţi 10% la toate comenzile."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&ro_RO;"
+  description="Economisiţi 25$ la toate comenzile peste 200$ USD"
+  longdescription="Economisiţi 25$ la toate comenzile peste 200$ USD."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&ro_RO;"
+	admindesc="Economisiţi 25$ la toate comenzile înainte de sâmbătă"
+	shortdesc="Economisiţi 25$ la toate comenzile peste 200$ USD"
+	longdesc="Economisiţi 25$ la toate comenzile peste 200$ USD."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&ro_RO;"
+  description="Livrare US-Regular cu 5$ fix!"
+  longdescription="Folosiţi livrarea US-Regular şi plătiţi doar 5$ pentru transport pentru toată comanda."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&ro_RO;"
+	admindesc="Reducere la livrare"
+	shortdesc="Livrare US-Regular cu 5$ fix!"
+	longdesc="Folosiţi livrarea US-Regular şi plătiţi doar 5$ pentru transport pentru toată comanda."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&ro_RO;"
+  description="Economisiţi 20% la Mobilă!"
+  longdescription="Economisiţi 20% la toate articolele din Mobilă! Fără restricţii!"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&ro_RO;"
+	admindesc="Reducere la categorie - Economisiţi 20% la mobilă"
+	shortdesc="Economisiţi 20% la Mobilă!"
+	longdesc="Economisiţi 20% la toate articolele din Mobilă! Fără restricţii!"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

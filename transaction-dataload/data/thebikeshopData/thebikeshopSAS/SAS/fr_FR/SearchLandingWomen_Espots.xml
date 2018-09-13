@@ -1,0 +1,216 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_brand1_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_brand1"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/rwdWebAssets/womenLandingPage/brands/gusso.png"
+  directorypath="rwdWebAssets/womenLandingPage/brands"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_brand1_fr_FR"
+  atchtgt_id="@atchtgt_id_brand1"
+  language_id="&fr_FR;"
+  name="Marque1"
+  shortdescription="Afficher une marque"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_brand1_fr_FR"
+  atchast_id="@atchast_id_brand1_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_brand1_fr_FR"
+  atchrel_id="@atchrel_id_brand1"
+  language_id="&fr_FR;"
+  name="Marque1"
+  shortdescription="Afficher une marque"
+/>
+<colldesc 
+	collateral_id="@womenlanding_brand1"
+	language_id="&fr_FR;"
+	marketingtext="Marque1" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_brand2_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_brand2"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/rwdWebAssets/womenLandingPage/brands/lv.png"
+  directorypath="rwdWebAssets/womenLandingPage/brands"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_brand2_fr_FR"
+  atchtgt_id="@atchtgt_id_brand2"
+  language_id="&fr_FR;"
+  name="marque2"
+  shortdescription="Afficher une marque"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_brand2_fr_FR"
+  atchast_id="@atchast_id_brand2_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_brand2_fr_FR"
+  atchrel_id="@atchrel_id_brand2"
+  language_id="&fr_FR;"
+  name="marque2"
+  shortdescription="Afficher une marque"
+/>
+<colldesc 
+	collateral_id="@womenlanding_brand2"
+	language_id="&fr_FR;"
+	marketingtext="marque2" 
+/>
+
+<!--               -->
+<!-- Attachment #3 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_brand3_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_brand3"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/rwdWebAssets/womenLandingPage/brands/versatil.png"
+  directorypath="rwdWebAssets/womenLandingPage/brands"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_brand3_fr_FR"
+  atchtgt_id="@atchtgt_id_brand3"
+  language_id="&fr_FR;"
+  name="marque3"
+  shortdescription="Afficher une marque"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_brand3_fr_FR"
+  atchast_id="@atchast_id_brand3_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_brand3_fr_FR"
+  atchrel_id="@atchrel_id_brand3"
+  language_id="&fr_FR;"
+  name="marque3"
+  shortdescription="Afficher une marque"
+/>
+<colldesc 
+	collateral_id="@womenlanding_brand3"
+	language_id="&fr_FR;"
+	marketingtext="marque3" 
+/>
+
+<!--               -->
+<!-- Attachment #4 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_brand4_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_brand4"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/rwdWebAssets/womenLandingPage/brands/albini.png"
+  directorypath="rwdWebAssets/womenLandingPage/brands"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_brand4_fr_FR"
+  atchtgt_id="@atchtgt_id_brand4"
+  language_id="&fr_FR;"
+  name="marque4"
+  shortdescription="Afficher une marque"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_brand4_fr_FR"
+  atchast_id="@atchast_id_brand4_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_brand4_fr_FR"
+  atchrel_id="@atchrel_id_brand4"
+  language_id="&fr_FR;"
+  name="marque4"
+  shortdescription="Afficher une marque"
+/>
+<colldesc 
+	collateral_id="@womenlanding_brand4"
+	language_id="&fr_FR;"
+	marketingtext="marque4" 
+/>
+
+<!--               -->
+<!-- Attachment #5 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_brand5_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_brand5"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/rwdWebAssets/womenLandingPage/brands/hermitage.png"
+  directorypath="rwdWebAssets/womenLandingPage/brands"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_brand5_fr_FR"
+  atchtgt_id="@atchtgt_id_brand5"
+  language_id="&fr_FR;"
+  name="marque5"
+  shortdescription="Afficher une marque"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_brand5_fr_FR"
+  atchast_id="@atchast_id_brand5_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_brand5_fr_FR"
+  atchrel_id="@atchrel_id_brand5"
+  language_id="&fr_FR;"
+  name="marque5"
+  shortdescription="Afficher une marque"
+/>
+<colldesc 
+	collateral_id="@womenlanding_brand5"
+	language_id="&fr_FR;"
+	marketingtext="marque5" 
+/>
+

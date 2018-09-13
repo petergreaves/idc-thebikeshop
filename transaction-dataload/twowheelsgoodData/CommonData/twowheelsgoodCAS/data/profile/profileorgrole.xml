@@ -1,0 +1,19 @@
+
+	<!-- Create Profile Organization -->
+	<mbrrel descendant_id="@profile_mbr_id" ancestor_id="@manufacturer_mbr_id" sequence="1" />
+	<mbrrel descendant_id="@profile_mbr_id" ancestor_id="-2001" sequence="2" />
+	<addrbook addrbook_id="@profile_addrbook_id" member_id="@profile_mbr_id" displayname="Internal use only." />
+	<address address_id="@profile_addr_id" member_id="@profile_mbr_id" addrbook_id="@profile_addrbook_id" status="P" isprimary="1" nickname="Asset Store Organization" selfaddress="1" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-9" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-12" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-16" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-17" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-4" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-18" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-19" orgentity_id="@profile_orgentity_id" />
+	<mbrrole member_id="@profile_mbr_id" role_id="-20" orgentity_id="@profile_orgentity_id" />
+
+	<!-- Create Base Contract Account Organization -->
+	<mbrrel descendant_id="@base_mbr_id" ancestor_id="-2001" sequence="1" />
+	<addrbook addrbook_id="@base_addrbook_id" member_id="@base_mbr_id" displayname="Internal use only." />
+	<address address_id="@base_addr_id" member_id="@base_mbr_id" addrbook_id="@base_addrbook_id" status="P" isprimary="1" nickname="Base Contracts Account Organization" selfaddress="1" />

@@ -1,0 +1,3 @@
+InventoryConfiguration
+Identifier,Description,Precedence,Flags,ThresholdQuantity,ChexpAboveThres,ChexpBelowThres,CachePriority,FallbackInvstat,FallbackAvailtime,FallbackInvOffset,QuantityMeasure,Delete
+Sample,Sample Configuration,0.0,31,5.0,,0,0,UAVL,,,C62,0

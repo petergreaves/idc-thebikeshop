@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_tbware10001_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Tableware1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/1007B_EHFS_MixMatchStem_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_tbware10001_zh_CN"
+  atchtgt_id="@atchtgt_id_Tableware1001"
+  language_id="&zh_CN;"
+  name="混合搭配"
+  shortdescription="混合搭配高脚杯，买一送一"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_tbware10001_zh_CN"
+  atchast_id="@atchast_id_tbware10001_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_tbware10001_zh_CN"
+  atchrel_id="@atchrel_id_Tableware1001"
+  language_id="&zh_CN;"
+  name="混合搭配"
+  shortdescription="混合搭配"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Tableware1001"
+	language_id="&zh_CN;"
+	marketingtext="混合搭配" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_tbware10002_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Tableware1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/1006B_EHFS_MixMatchPlates_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_tbware10002_zh_CN"
+  atchtgt_id="@atchtgt_id_Tableware1002"
+  language_id="&zh_CN;"
+  name="混合搭配餐盘"
+  shortdescription="混合搭配餐盘，买一送一"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_tbware10002_zh_CN"
+  atchast_id="@atchast_id_tbware10002_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_tbware10002_zh_CN"
+  atchrel_id="@atchrel_id_Tableware1002"
+  language_id="&zh_CN;"
+  name="混合搭配餐盘"
+  shortdescription="混合搭配餐盘"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Tableware1002"
+	language_id="&zh_CN;"
+	marketingtext="混合搭配餐盘" 
+/>
+

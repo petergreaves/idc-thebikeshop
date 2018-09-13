@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Promotions loadItemName="PromotionXml">
+<PromotionData>
+  <Base>
+    <AdministrativeName>Free Ground Shipping</AdministrativeName>
+    <PromotionGroupIdentifier>ShippingPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>200</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>-1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelFixedShippingDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelFixedShippingDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+        <MinimumPurchase>70</MinimumPurchase>
+        <FixedCost>0</FixedCost>
+        <AdjustmentType>IndividualAffectedItems</AdjustmentType>
+      </Data>
+      <IncludeShipModeIdentifier>
+        <SubType>Identifier_ShipMode</SubType>
+        <Sequence>1.0</Sequence>
+        <Data>
+          <Identifier>
+            <CARRIER>XYZ Carrier                   </CARRIER>
+            <CODE>US Regular Delivery           </CODE>
+          </Identifier>
+        </Data>
+      </IncludeShipModeIdentifier>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Discount for Repeat Customers</AdministrativeName>
+    <PromotionGroupIdentifier>OrderLevelPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>200</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelValueDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <IncludeMemberGroupIdentifier>
+        <SubType>Identifier_MemberGroup</SubType>
+        <Sequence>1.0</Sequence>
+        <Data>
+          <Identifier>Repeat Customers</Identifier>
+        </Data>
+      </IncludeMemberGroupIdentifier>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelValueDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+      </Data>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+      <DiscountRange>
+        <SubType>OrderLevelFixedAmountOffDiscountRange</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <LowerBound>0</LowerBound>
+          <AmountOff>5</AmountOff>
+        </Data>
+      </DiscountRange>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Register and Save</AdministrativeName>
+    <PromotionGroupIdentifier>OrderLevelPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>250</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelPercentDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>1</PromotionCodeRequired>
+    <PromotionCodeCue>REGISTER7</PromotionCodeCue>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <IncludeMemberGroupIdentifier>
+        <SubType>Identifier_MemberGroup</SubType>
+        <Sequence>1.0</Sequence>
+        <Data>
+          <Identifier>Registered Customers</Identifier>
+        </Data>
+      </IncludeMemberGroupIdentifier>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelPercentDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+      </Data>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+      <DiscountRange>
+        <SubType>OrderLevelPercentOffDiscountRange</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <LowerBound>0</LowerBound>
+          <Percentage>7</Percentage>
+        </Data>
+      </DiscountRange>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Save 10% on all orders today</AdministrativeName>
+    <PromotionGroupIdentifier>OrderLevelPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>250</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelPercentDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelPercentDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+      </Data>
+      <DiscountRange>
+        <SubType>OrderLevelPercentOffDiscountRange</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <LowerBound>0</LowerBound>
+          <Percentage>10</Percentage>
+        </Data>
+      </DiscountRange>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Save $25 on all orders over $200 USD</AdministrativeName>
+    <PromotionGroupIdentifier>OrderLevelPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>250</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelValueDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>      
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelValueDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+      </Data>
+      <DiscountRange>
+        <SubType>OrderLevelFixedAmountOffDiscountRange</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <LowerBound>0</LowerBound>
+          <AmountOff>0</AmountOff>
+        </Data>
+      </DiscountRange>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+      <DiscountRange>
+        <SubType>OrderLevelFixedAmountOffDiscountRange</SubType>
+        <Sequence>200.0</Sequence>
+        <Data>
+          <LowerBound>200</LowerBound>
+          <AmountOff>25</AmountOff>
+        </Data>
+      </DiscountRange>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Flat Shipping</AdministrativeName>
+    <PromotionGroupIdentifier>ShippingPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>200</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>-1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>OrderLevelFixedShippingDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>1</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>OrderLevelFixedShippingDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+        <MinimumPurchase>0</MinimumPurchase>
+        <FixedCost>5</FixedCost>
+        <AdjustmentType>wholeOrder</AdjustmentType>
+      </Data>
+      <IncludeShipModeIdentifier>
+        <SubType>Identifier_ShipMode</SubType>
+        <Sequence>1.0</Sequence>
+        <Data>
+          <Identifier>
+            <CARRIER>XYZ Carrier                   </CARRIER>
+            <CODE>US Regular Delivery           </CODE>
+          </Identifier>
+        </Data>
+      </IncludeShipModeIdentifier>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+<PromotionData>
+  <Base>
+    <AdministrativeName>Furniture Category Discount</AdministrativeName>
+    <PromotionGroupIdentifier>ProductLevelPromotion</PromotionGroupIdentifier>
+    <Comments/>
+    <Priority>200</Priority>
+    <Exclusive>0</Exclusive>
+    <LastUpdateByLogonId/>
+    <PerOrderLimit>-1</PerOrderLimit>
+    <PerShopperLimit>-1</PerShopperLimit>
+    <ApplicationLimit>-1</ApplicationLimit>
+    <TargetSales>0.00000</TargetSales>
+    <PromotionTypeName>CategoryLevelPercentDiscount</PromotionTypeName>
+    <ControlParameter>CMC</ControlParameter>
+    <StartDate>2004-01-01 00:00:00.0</StartDate>
+    <EndDate>2999-12-31 00:00:00.0</EndDate>
+    <DailyStartTime>2000-01-01 00:00:00.0</DailyStartTime>
+    <DailyEndTime>2000-01-01 23:59:59.0</DailyEndTime>
+    <Sunday>1</Sunday>
+    <Monday>1</Monday>
+    <Tuesday>1</Tuesday>
+    <Wednesday>1</Wednesday>
+    <Thursday>1</Thursday>
+    <Friday>1</Friday>
+    <Saturday>1</Saturday>
+    <Type>0</Type>
+    <EffectiveDays/>
+    <ExpirationDays/>
+    <AllowTransfer>0</AllowTransfer>
+    <PromotionCodeRequired>0</PromotionCodeRequired>
+    <PromotionCodeCue/>
+    <DisplayLevel>0</DisplayLevel>
+  </Base>
+  <Descriptions>
+    <Description>
+    </Description>
+  </Descriptions>
+  <Elements>
+    <TargetingCondition>
+      <SubType>TargetingCondition</SubType>
+      <Sequence>0.0</Sequence>
+    </TargetingCondition>
+    <PurchaseCondition>
+      <SubType>CategoryLevelPercentDiscountPurchaseCondition</SubType>
+      <Sequence>0.0</Sequence>
+      <Data>
+        <Currency>USD</Currency>
+      </Data>
+      <IncludeCategoryIdentifier>
+        <SubType>Identifier_Category</SubType>
+        <Sequence>1.0</Sequence>
+        <Data>
+          <Identifier>Furniture</Identifier>
+        </Data>
+      </IncludeCategoryIdentifier>
+      <IncludePaymentTypeIdentifier>
+        <SubType>Identifier_PaymentType</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <PaymentType>Any</PaymentType>
+        </Data>
+      </IncludePaymentTypeIdentifier>
+      <DiscountRange>
+        <SubType>ProductLevelPercentOffDiscountRange</SubType>
+        <Sequence>0.0</Sequence>
+        <Data>
+          <LowerBound>0</LowerBound>
+          <Percentage>20</Percentage>
+        </Data>
+      </DiscountRange>
+    </PurchaseCondition>
+  </Elements>
+</PromotionData>
+</Promotions>

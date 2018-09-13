@@ -1,0 +1,36 @@
+
+<!--BEGIN Defining attribute description fulfillmentFrequency -->
+<attrdesc attr_id="@attribute_id_NewsLetters_4" attrtype_id="INTEGER" language_id="&de_DE;" name="Abonnementhäufigkeit" description="Die Publizierungshäufigkeit des Abonnements." qtyunit_id="MON" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_4" attr_id="@attribute_id_NewsLetters_4" valusage="1" language_id="&de_DE;" sequence="1" value="1" integervalue="1" floatvalue="" stringvalue="" qtyunit_id="MON" />
+<!--END Defining attribute description fulfillmentFrequency -->
+<!--BEGIN Defining attribute description paymentFrequency -->
+<attrdesc attr_id="@attribute_id_NewsLetters_3" attrtype_id="INTEGER" language_id="&de_DE;" name="Abonnement-Zahlungsoption" description="Die Zahlungsmöglichkeit für das Abonnement." qtyunit_id="DAY" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_3" attr_id="@attribute_id_NewsLetters_3" valusage="1" language_id="&de_DE;" sequence="1" value="0" integervalue="0" floatvalue="" stringvalue="" qtyunit_id="DAY" />
+<!--END Defining attribute description paymentFrequency -->
+<!--BEGIN Defining attribute description timePeriod -->
+<attrdesc attr_id="@attribute_id_NewsLetters_5" attrtype_id="INTEGER" language_id="&de_DE;" name="Abonnementzeitraum" description="Der ausgehandelte Zeitraum des Abonnements." qtyunit_id="ANN" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_5" attr_id="@attribute_id_NewsLetters_5" valusage="1" language_id="&de_DE;" sequence="1" value="1" integervalue="1" floatvalue="" stringvalue="" qtyunit_id="ANN" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_6" attr_id="@attribute_id_NewsLetters_5" valusage="1" language_id="&de_DE;" sequence="2" value="2" integervalue="2" floatvalue="" stringvalue="" qtyunit_id="ANN" />
+<!--END Defining attribute description timePeriod -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_NewsLetters_2" attrtype_id="STRING" language_id="&de_DE;" name="Kategorie" description="Kategorie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_2" attr_id="@attribute_id_NewsLetters_2" valusage="1" language_id="&de_DE;" sequence="1" value="Finanzwesen" integervalue="" floatvalue="" stringvalue="Finanzwesen" />
+<!--end of  Category -->
+<!--start of  Published -->
+<attrdesc attr_id="@attribute_id_NewsLetters_1" attrtype_id="STRING" language_id="&de_DE;" name="Publiziert" description="Publiziert" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_1" attr_id="@attribute_id_NewsLetters_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_7" attr_id="@attribute_id_NewsLetters_1" valusage="1" language_id="&de_DE;" sequence="2" value="Wöchentlich" integervalue="" floatvalue="" stringvalue="Wöchentlich" />
+<!--end of  Published -->
+
+<!--start of PickUpInStore -->
+<attrdesc attr_id="@attribute_id_NewsLetters_PickUpInStore" attrtype_id="STRING" language_id="&de_DE;" name="Einkauf im Geschäft" description="Einkauf im Geschäft" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL1" attr_id="@attribute_id_NewsLetters_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="1" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL2" attr_id="@attribute_id_NewsLetters_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="2" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL3" attr_id="@attribute_id_NewsLetters_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="3" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL4" attr_id="@attribute_id_NewsLetters_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="4" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_NewsLetters_PickUpInStore_NL5" attr_id="@attribute_id_NewsLetters_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="5" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<!--end of PickUpInStore -->
+
+<!-- END: Writing descriptive attribute descriptions -->

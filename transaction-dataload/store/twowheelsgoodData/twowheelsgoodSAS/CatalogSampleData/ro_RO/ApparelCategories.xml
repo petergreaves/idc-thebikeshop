@@ -1,0 +1,301 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel"
+   name="Îmbrăcăminte"
+   shortdescription="Cele mai noi stiluri pentru întreaga familie."
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="îmbrăcăminte familie, haine, bluze, pantaloni, tricouri, fuste, rochii"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="Femei"
+   shortdescription="Femei"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="casual, cocktail, fustă, pulover, seară"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="Bărbaţi"
+   shortdescription="Bărbaţi"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="casual, tricou, pulover, costum, pantaloni, curea, cravate"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="Fete"
+   shortdescription="Fete"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="casual, sporty, fustă, pulover, copil"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="Băieţi"
+   shortdescription="băieţi"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="casual, sportiv, pantaloni, jeanşi, pulover, copil"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="Rochii"
+   shortdescription="Rochii"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="casual, cocktail, fustă, pulover, seară"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="Geci"
+   shortdescription="Geci"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="casual, sport, piele, uşor, hanorac"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="Cămăşi"
+   shortdescription="Cămăşi"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="casual, business, print, aspru"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="Costume"
+   shortdescription="Costume"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="casual, formal, buton, lână"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="casual, jeanşi, tăietură dreaptă, tăietură ajustabilă, pantaloni costum"
+/>
+
+
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="Accesorii"
+   shortdescription="Accesorii"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="mătase, cravată, piele, curea, pălărie"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="Pantofi"
+   shortdescription="Pantofi"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="casual, oxford, tenişi, sport, de umblat"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="Bluze"
+   shortdescription="Bluze"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="casual, cocktail,topuri, evening"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="denim, jeanşi, de copiii, fete"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="Pantofi"
+   shortdescription="Pantofi"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="balet, papuci, de alergat, atletic"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="Bluze"
+   shortdescription="Bluze"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="casual, business, uşor, de seară"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="Pulovere"
+   shortdescription="Pulovere"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="casual, cu gât, top designer, pulover"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="Fuste"
+   shortdescription="Fuste"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="casual, denim, mini, satin"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="casual, tăietură dreaptă, formal, denim"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="Pantofi"
+   shortdescription="Pantofi"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="casual, fără tocuri, piele, toc înalt, cizme"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="Genţi"
+   shortdescription="Genţi"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="casual, tote, piele, poşetă"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="Accesorii"
+   shortdescription="Accesorii"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="casual, piele, curea, geantă, pălărie, ochelari"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="denim, bootcut, copil, jeanşi"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="Fuste"
+   shortdescription="Fuste"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="casual, cocktail,fuste, seară"
+/>
+
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="Bluze"
+   shortdescription="Bluze"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="casual, tricou, vestă, pulover"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="Pantofi"
+   shortdescription="Pantofi"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="casual, pânză, de alergat, piele"
+/>
+
+<!-- End of Category Descriptions -->

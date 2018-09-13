@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_210002_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_21002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/053B_EBS_Tops_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_210002_zh_TW"
+  atchtgt_id="@atchtgt_id_21002"
+  language_id="&zh_TW;"
+  name="上衣"
+  shortdescription="上衣特惠價 男童上衣七五折"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_210002_zh_TW"
+  atchast_id="@atchast_id_210002_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_210002_zh_TW"
+  atchrel_id="@atchrel_id_21002"
+  language_id="&zh_TW;"
+  name="上衣"
+  shortdescription="上衣"
+/>
+<colldesc 
+	collateral_id="@collateral_id_21002"
+	language_id="&zh_TW;"
+	marketingtext="上衣" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_220002_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_22002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/056B_EBS_ShoeSale_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_220002_zh_TW"
+  atchtgt_id="@atchtgt_id_22002"
+  language_id="&zh_TW;"
+  name="鞋子特賣"
+  shortdescription="男童鞋特賣 買兩雙再送一雙"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_220002_zh_TW"
+  atchast_id="@atchast_id_220002_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_220002_zh_TW"
+  atchrel_id="@atchrel_id_22002"
+  language_id="&zh_TW;"
+  name="鞋子特賣"
+  shortdescription="鞋子特賣"
+/>
+<colldesc 
+	collateral_id="@collateral_id_22002"
+	language_id="&zh_TW;"
+	marketingtext="鞋子特賣" 
+/>
+

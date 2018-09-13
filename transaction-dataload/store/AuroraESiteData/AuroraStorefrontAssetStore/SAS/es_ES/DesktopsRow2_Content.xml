@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_desk10001_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Desktops1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0704B_EES_CustomDesktops_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_desk10001_es_ES"
+  atchtgt_id="@atchtgt_id_Desktops1001"
+  language_id="&es_ES;"
+  name="Sistema de sobremesa personalizado"
+  shortdescription="Diseñe el sistema que siempre ha soñado"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_desk10001_es_ES"
+  atchast_id="@atchast_id_desk10001_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_desk10001_es_ES"
+  atchrel_id="@atchrel_id_Desktops1001"
+  language_id="&es_ES;"
+  name="Sistema de sobremesa personalizado"
+  shortdescription="Sistema de sobremesa personalizado"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Desktops1001"
+	language_id="&es_ES;"
+	marketingtext="Sistema de sobremesa personalizado" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_desk10002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Desktops1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/0709B_EES_Printers_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_desk10002_es_ES"
+  atchtgt_id="@atchtgt_id_Desktops1002"
+  language_id="&es_ES;"
+  name="Ahorre en impresoras"
+  shortdescription="50% de descuento con la compra de un sistema de sobremesa"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_desk10002_es_ES"
+  atchast_id="@atchast_id_desk10002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_desk10002_es_ES"
+  atchrel_id="@atchrel_id_Desktops1002"
+  language_id="&es_ES;"
+  name="Ahorre en impresoras"
+  shortdescription="Ahorre en impresoras"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Desktops1002"
+	language_id="&es_ES;"
+	marketingtext="Ahorre en impresoras" 
+/>
+

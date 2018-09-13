@@ -1,0 +1,4 @@
+ShipArrange,storeIdentifier=AuroraESite
+physicalStore,shipModeStoreIdentifier,Code,Carrier,startDate,endDate,field1,field2,Delete
+AuroraESite,AuroraStorefrontAssetStore,PickupInStore,,,,,,0
+

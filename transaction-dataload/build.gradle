@@ -1,0 +1,216 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+import javax.net.ssl.*
+
+apply plugin: 'run-engine'
+
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies {
+		classpath ':runengine-plugins:+'
+	}
+}
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task build {
+	description 'Builds the transaction server SDK package'
+	group 'Build'
+}
+
+def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+/////////////////////////////////////////////
+// Execute Dataload command via REST API
+/////////////////////////////////////////////
+task runDataloadJob {
+	description = 'Execute Dataload command via REST API'
+	
+	doLast {
+		def certificate
+		def trustManager = [
+		    checkClientTrusted: { chain, authType -> },
+		    checkServerTrusted: { chain, authType -> },
+		    getAcceptedIssuers: { null }
+		] as X509TrustManager
+
+		def hostnameVerifier = [
+		    verify: { hostname, session -> true }
+		]
+		 
+		def reqContext = SSLContext.getInstance("SSL")
+		reqContext.init(null, [trustManager] as TrustManager[], null)
+		HttpsURLConnection.setDefaultSSLSocketFactory(reqContext.getSocketFactory());
+		HttpsURLConnection.setDefaultHostnameVerifier(hostnameVerifier as HostnameVerifier)
+
+		def dataloadParams = ""
+		def urlString = "https://${project.wcHostName}:5443/wcs/resources/store/0/job"
+		def url = new URL(urlString)
+		def connection = url.openConnection()
+		connection.setRequestMethod("POST")
+		connection.setRequestProperty("Content-Type", "application/json");
+		connection.setRequestProperty("Accept", "application/json");
+
+		def basicAuthName = "spiuser"
+		def basicAuthPassword = "passw0rd"
+		def authString = basicAuthName + ":" + basicAuthPassword
+		ext.authStringEnc = authString.bytes.encodeBase64().toString()
+		connection.setRequestProperty("Authorization", "Basic " + authStringEnc);
+		connection.doOutput = true
+
+		if (project.hasProperty('localDirectory')) {
+			dataloadParams = "&localDirectory=$localDirectory"
+		}
+		if (project.hasProperty('localFile')) {
+			dataloadParams = "&localFile=$localFile"
+		}
+
+		def writer = new OutputStreamWriter(connection.outputStream)
+		def body = "{\"command\":\"DataLoadCoC\",\"query\":\"sdk=true$dataloadParams\"}"
+		writer.write(body)
+		writer.flush()
+		writer.close()
+		connection.connect()
+
+		ext.resCode = connection.getResponseCode()
+		ext.localContent = connection.content.text
+	}
+}
+
+task executeDataload {
+	dependsOn runDataloadJob
+	description = 'Execute Dataload command via REST API'
+	
+	doLast {
+		if (runDataloadJob.resCode == 200) {
+			println "Dataload job has started successfully - waiting to finish..."
+			def jsonSlurp = new groovy.json.JsonSlurper()
+			def jsonObject = jsonSlurp.parseText(runDataloadJob.localContent)
+			def jobState = "R"
+			def dataloadReport = ""
+			def dataloadProgressMessage = ""
+			def dataloadProgress = ""
+			println ".\n..[Dataload State] - Running - R\n."
+			while(jobState == "R") {
+				sleep(5 * 1000)	
+				def queryString = "jobId=${jsonObject.jobId}";
+				def urlStringState = "https://${project.wcHostName}:5443/wcs/resources/store/0/job_status?${queryString}"
+				def urlState = new URL(urlStringState)
+				def connectionState = urlState.openConnection()
+
+				connectionState.setRequestMethod("GET")
+				connectionState.setRequestProperty("Content-Type", "application/json")
+				connectionState.setRequestProperty("Accept", "application/json")
+				connectionState.setRequestProperty("Authorization", "Basic " + runDataloadJob.authStringEnc);
+				connectionState.connect()
+				if (connectionState.getResponseCode() == 200) {
+					try {
+						def localContentState = connectionState.content.text
+						def jsonObjectState = jsonSlurp.parseText(localContentState)
+						jobState = jsonObjectState.resultList[0].state
+						dataloadReport = jsonObjectState.resultList[0].report != null ? jsonObjectState.resultList[0].report : ""
+						dataloadProgressMessage = dataloadProgressMessage != jsonObjectState.resultList[0].progressMessage ? jsonObjectState.resultList[0].progressMessage : dataloadProgressMessage
+						dataloadProgress = dataloadProgress != jsonObjectState.resultList[0].progress ? jsonObjectState.resultList[0].progress : dataloadProgress
+						println "..[Dataload State] - Running - $jobState"
+						if (dataloadProgressMessage != null && dataloadProgress != null) {
+							println "..[Dataload Progress] - $dataloadProgress - $dataloadProgressMessage\n."
+						}
+					}
+					catch (all) {
+						throw new GradleException("Encountered an error checking the Dataload job status" + "\n$dataloadReport", all)
+					}
+
+					if (jobState == "CF") { 
+						throw new GradleException("Dataload job has failed" + "\n$dataloadReport" + "\n$dataloadProgressMessage")
+					}
+				}
+				else {
+					throw new GradleException("Encountered an error checking the Dataload job status. Response code: " + connectionState.getResponseCode())	
+				}
+			}
+			println "Dataload job has completed successfully \n$dataloadReport"
+		}
+		else {
+			throw new GradleException("Dataload job has encountered an error starting. Response code: " + runDataloadJob.resCode)
+		}
+	}
+}
+
+task zipDataloadData(type: Zip) {
+	description = 'Zip Transaction Server dataload files'
+	group = 'Zip custom transaction server dataload files'
+
+	from ("$workspaceDir/transaction-dataload/data") {
+		exclude('**/.project')
+		exclude('**/WCHConnection.csv')
+		exclude('**/samples')
+		exclude('**/README.md')
+		exclude('**/xC')
+	}
+	includeEmptyDirs = false
+	
+	archiveName "data.zip"
+	destinationDir file("$workspaceDir/transaction-master/build/dataload-temp")
+}
+
+task copyAssets(type: Copy) {
+	from ("$workspaceDir/master/version.txt")
+	destinationDir file("$workspaceDir/transaction-master/build/dataload-temp")
+
+	doLast {
+		def masterVersion = new File("$workspaceDir/transaction-master/build/dataload-temp/version.txt")
+		def tempVersion = new File("$workspaceDir/transaction-master/version.txt").text
+		masterVersion.append(System.getProperty("line.separator") + "$tempVersion")
+	}
+}
+
+task bundle(type: Zip, dependsOn: ['zipDataloadData', 'copyAssets'] ) {
+	from "$workspaceDir/transaction-master/build/dataload-temp"
+	archiveName "dataload-${buildLabel}.zip"
+	destinationDir file("$workspaceDir/transaction-master/build/distributions")
+
+	doLast {
+		println "Note: ${archiveName} bundle available in: $workspaceDir/transaction-master/build/distributions"
+	}
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

@@ -1,0 +1,56 @@
+<%--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2017 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+--%>
+
+
+<%-- 
+  *****
+  * This JSP fragment is used to display Cookie Warning message at the top of the page.
+  *****
+--%>
+
+<!-- BEGIN CookieWarning.jspf -->
+
+<div id="cookieMessage" class="cookie-message" style="display: none;"> 	
+	<div class="cookie-content textContainer"> <fmt:message bundle="${storeText}" key='COOKIE_WARNING'/>
+		<a  class="button" id="cookieOk" onclick="allowCookie()"><fmt:message bundle="${storeText}" key='CK_OK'/></a>
+	</div>
+</div>
+
+<script>	
+	var StoreId = "<c:out value='${WCParam.storeId}'/>";
+	window.onload = function checkIfCookieAllowed(){
+	// check whether cookie is allowed for current store 	  
+		if(typeof(Storage) !== "undefined"){
+			var cookieAllowforStore = localStorage.getItem("cookieAllowforStoreId_"+StoreId);
+			if (!cookieAllowforStore){
+				document.getElementById("cookieMessage").style.display = "block"; 		
+			}
+		}
+		else{
+			document.getElementById("cookieMessage").style.display = "block"; 
+			document.getElementById("cookieOk").style.display = "none"; 
+		}
+	} 
+
+	function allowCookie(){
+		if(typeof(Storage) !== "undefined"){
+			// allow cookie for current store 
+			localStorage.setItem("cookieAllowforStoreId_"+StoreId,"true");		
+			document.getElementById("cookieMessage").style.display = "none";
+		}
+	}
+
+</script>
+	
+<!-- END CookieWarning.jspf -->

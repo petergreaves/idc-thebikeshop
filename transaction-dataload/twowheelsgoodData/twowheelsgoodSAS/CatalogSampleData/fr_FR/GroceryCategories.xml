@@ -1,0 +1,71 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Grocery -->
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Grocery"
+   name="Epicerie"
+   shortdescription="Epicerie"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Epicerie"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Meat"
+   name="Viande"
+   shortdescription="Viande"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gme_meat.png"
+   fullimage="images/catalog/grocery/category/catr_gme_meat.png"
+   keyword="Viande"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Fruit"
+   name="Fruit"
+   shortdescription="Fruit"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gfr_fruit.png"
+   fullimage="images/catalog/grocery/category/catr_gfr_fruit.png"
+   keyword="Fruit"
+/>
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Dairy"
+   name="Produits laitiers"
+   shortdescription="Produits laitiers"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Produits laitiers"
+/>
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Vegetables"
+   name="Légumes"
+   shortdescription="Légumes"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gve_vegetables.png"
+   fullimage="images/catalog/grocery/category/catr_gve_vegetables.png"
+   keyword="Légumes"
+/>
+
+<!-- End of Category Descriptions -->
+
+

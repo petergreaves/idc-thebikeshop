@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2b_sales" 
+    language_id="&zh_CN;" 
+    name="Aurora B2B 直销样本数据"
+    shortdescription="Aurora B2B 直销样本数据"
+    longdescription="销售商品目录，显示的硬件部门具有多个子类别，用于展示 B2B 直销商店中的商品目录特征。"
+    thumbnail=""
+    fullimage="" 
+  />
+  

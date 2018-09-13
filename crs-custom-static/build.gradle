@@ -1,0 +1,62 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+task zipStatic(type: Zip) {
+	dependsOn=['generateDirectoryForWCH']
+	description = 'Zip custom store static web project'
+	group = 'bundle'
+
+	from "${buildDir}/wchAssets"
+	archiveName 'store-custom-static.zip'
+	destinationDir file("$buildDir/distributions")
+	includeEmptyDirs = false
+}
+
+// Determines if a file should be considered a static asset
+def isstatic(name) {
+	return name ==~ '(?i).*\\.((gif)|(jpe?g)|(js)|(json)|(swf)|(html?)|(png)|(bmp)|(css)|(doc)|(xls)|(ppt)|(ra)|(rpm)|(pdf)|(wav)|(te?xt)|(mpe?g)|(mov)|(avi)|(qt)|(ogg)|(mp4)|(map)|(ico)|(otf)|(ttf)|(woff)|(woff2)|(svg)|(eot))'
+}
+
+task generateDirectoryForWCH(){
+
+	doLast {
+
+		def managedAssetDirList = ['**CAS/**', '**SAS/images/advertisements/**']
+		if (project.hasProperty('managedAssetsDir')) {
+			def String[] managedDirsFromGradleProperties = managedAssetsDir.split(',')
+			managedDirsFromGradleProperties.each { managedAssetDirList.add (it.trim()) }
+		}
+
+		def wchAssetsDir = "build/wchAssets/assets"
+		// exclude aurora assets
+		def auroraAssets = ['ExtendedSitesCatalogAssetStore/**', 'AuroraStorefrontAssetStore/**', 'AuroraB2BStorefrontAssetStore/**', 'media/**']
+		FileTree nonManagedAssetTree = fileTree(dir: "${workspaceDir}/crs-custom-web/WebContent", excludes: managedAssetDirList + auroraAssets)
+		copy {
+			from nonManagedAssetTree
+			into wchAssetsDir + "/StoreAssets"
+			includeEmptyDirs = false
+			eachFile { FileCopyDetails details ->
+				if (!isstatic(details.name)) {
+					details.exclude()
+				}
+			}
+		}
+	}
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

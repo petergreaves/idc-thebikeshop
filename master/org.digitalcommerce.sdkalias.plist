@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>org.digitalcommerce.sdkalias</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>ProgramArguments</key>
+    <array>
+            <string>/sbin/ifconfig</string>
+            <string>lo0</string>
+            <string>alias</string>
+            <string>10.0.75.1</string>
+    </array>
+      <key>StandardErrorPath</key>
+      <string>/var/log/digitalcommerce-sdkalias.log</string>
+      <key>StandardOutPath</key>
+      <string>/var/log/digitalcommerce-sdkalias.log</string>
+  </dict>
+</plist>

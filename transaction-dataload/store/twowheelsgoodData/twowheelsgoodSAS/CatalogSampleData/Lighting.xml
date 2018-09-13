@@ -1,0 +1,1859 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : LightingColor -->
+<attr attr_id="@attribute_id_Lighting_5" identifier="LightingColor" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_5" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Red"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_7" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="White"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_13" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Silver"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_15" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Clear"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_19" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Black"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_20" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Chocolate"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_22" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Ivory"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_24" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Gray"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Lighting_25" attr_id="@attribute_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" identifier="Orange"	valusage="1" />
+<!--END Defining attribute : LightingColor -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Height -->
+<attr attr_id="@attribute_id_Lighting_3" identifier="Height" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2801" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2801" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2802" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2802" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2805" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2805" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2807" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2807" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2808" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2808" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2809" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2809" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2810" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2810" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2811" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2811" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2812" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2812" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2813" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2813" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2815" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2815" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2816" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2816" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2817" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2817" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2818" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2818" />
+<attrval attrval_id="@attribute_value_id_Lighting_3_HLG028_2819" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2819" />
+<attrval attrval_id="@attribute_value_id_Lighting_9_HLG028_2803" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2803" />
+<attrval attrval_id="@attribute_value_id_Lighting_9_HLG028_2806" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2806" />
+<attrval attrval_id="@attribute_value_id_Lighting_9_HLG028_2814" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2814" />
+<attrval attrval_id="@attribute_value_id_Lighting_11_HLG028_2804" attr_id="@attribute_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2804" />
+<!--END Descriptive attribute : Height -->
+<!--BEGIN Descriptive attribute : Style -->
+<attr attr_id="@attribute_id_Lighting_2" identifier="Style" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2801" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2801" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2802" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2802" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2803" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2803" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2809" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2809" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2810" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2810" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2811" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2811" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2815" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2815" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2816" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2816" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2818" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2818" />
+<attrval attrval_id="@attribute_value_id_Lighting_2_HLG028_2819" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2819" />
+<attrval attrval_id="@attribute_value_id_Lighting_10_HLG028_2804" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2804" />
+<attrval attrval_id="@attribute_value_id_Lighting_10_HLG028_2805" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2805" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2806" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2806" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2808" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2808" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2812" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2812" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2813" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2813" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2814" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2814" />
+<attrval attrval_id="@attribute_value_id_Lighting_16_HLG028_2817" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2817" />
+<attrval attrval_id="@attribute_value_id_Lighting_18_HLG028_2807" attr_id="@attribute_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2807" />
+<!--END Descriptive attribute : Style -->
+<!--BEGIN Descriptive attribute : Fixture Type -->
+<attr attr_id="@attribute_id_Lighting_1" identifier="Fixture Type" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Lighting_1_HLG028_2801" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2801" />
+<attrval attrval_id="@attribute_value_id_Lighting_1_HLG028_2809" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2809" />
+<attrval attrval_id="@attribute_value_id_Lighting_1_HLG028_2810" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2810" />
+<attrval attrval_id="@attribute_value_id_Lighting_1_HLG028_2811" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2811" />
+<attrval attrval_id="@attribute_value_id_Lighting_1_HLG028_2818" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2818" />
+<attrval attrval_id="@attribute_value_id_Lighting_6_HLG028_2802" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2802" />
+<attrval attrval_id="@attribute_value_id_Lighting_6_HLG028_2804" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2804" />
+<attrval attrval_id="@attribute_value_id_Lighting_6_HLG028_2812" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2812" />
+<attrval attrval_id="@attribute_value_id_Lighting_8_HLG028_2803" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2803" />
+<attrval attrval_id="@attribute_value_id_Lighting_8_HLG028_2806" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2806" />
+<attrval attrval_id="@attribute_value_id_Lighting_8_HLG028_2813" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2813" />
+<attrval attrval_id="@attribute_value_id_Lighting_8_HLG028_2814" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2814" />
+<attrval attrval_id="@attribute_value_id_Lighting_14_HLG028_2805" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2805" />
+<attrval attrval_id="@attribute_value_id_Lighting_14_HLG028_2808" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2808" />
+<attrval attrval_id="@attribute_value_id_Lighting_17_HLG028_2807" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2807" />
+<attrval attrval_id="@attribute_value_id_Lighting_17_HLG028_2816" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2816" />
+<attrval attrval_id="@attribute_value_id_Lighting_17_HLG028_2817" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2817" />
+<attrval attrval_id="@attribute_value_id_Lighting_17_HLG028_2819" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2819" />
+<attrval attrval_id="@attribute_value_id_Lighting_23_HLG028_2815" attr_id="@attribute_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" identifier="HLG028_2815" />
+<!--END Descriptive attribute : Fixture Type -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : HLG028_2801 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2801" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2801" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_1" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_1" baseitem_id="@baseproduct_id_Lighting_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_2" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_1" currency="TWD" listprice="757.5" />
+<!-- Begin attribute mapping for HLG028_2801-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_1_HLG028_2801" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_1" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2801" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_1" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2801" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_1" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_1" />
+<!-- End attribute mapping for HLG028_2801-->
+
+<!-- BEGIN items of HLG028_2801 -->
+<!-- BEGIN item bean HLG028_280101 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_1" partnumber="HLG028_280101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_1" itemspc_id="@itemspc_id_Lighting_1" itemversn_id="@itemversn_id_Lighting_1" />
+<catentry catentry_id="@catentry_item_id_Lighting_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_1"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_280101" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_2" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_1" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_2" currency="TWD" listprice="757.5" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280101 -->
+<!-- END items of HLG028_2801 -->
+<!-- END catalog entry : HLG028_2801 -->
+<!-- BEGIN catalog entry : HLG028_2802 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2802" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2802" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_3" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_2" baseitem_id="@baseproduct_id_Lighting_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="USD" price="42" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="AUD" price="54.18" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="NZD" price="57.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="BRL" price="133.56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="CAD" price="53.34" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="CNY" price="280.56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="EUR" price="35.7" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="GBP" price="32.76" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="JPY" price="4607" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="KRW" price="47894" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="PLN" price="152.88" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="RON" price="164.22" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="RUB" price="2481.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_4" currency="TWD" price="1272.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="USD" listprice="42" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="AUD" listprice="54.18" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="NZD" listprice="57.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="BRL" listprice="133.56" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="CAD" listprice="53.34" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="CNY" listprice="280.56" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="EUR" listprice="35.7" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="GBP" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="JPY" listprice="4607" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="KRW" listprice="47894" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="PLN" listprice="152.88" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="RON" listprice="164.22" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="RUB" listprice="2481.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_3" currency="TWD" listprice="1272.6" />
+<!-- Begin attribute mapping for HLG028_2802-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_6_HLG028_2802" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_3" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2802" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_3" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2802" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_3" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_3" />
+<!-- End attribute mapping for HLG028_2802-->
+
+<!-- BEGIN items of HLG028_2802 -->
+<!-- BEGIN item bean HLG028_280201 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_2" partnumber="HLG028_280201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_2" itemspc_id="@itemspc_id_Lighting_2" itemversn_id="@itemversn_id_Lighting_2" />
+<catentry catentry_id="@catentry_item_id_Lighting_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_2"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_280201" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_4" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="USD" price="42" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="AUD" price="54.18" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="NZD" price="57.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="BRL" price="133.56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="CAD" price="53.34" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="CNY" price="280.56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="EUR" price="35.7" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="GBP" price="32.76" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="JPY" price="4607" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="KRW" price="47894" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="PLN" price="152.88" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="RON" price="164.22" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="RUB" price="2481.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_3" currency="TWD" price="1272.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="USD" listprice="42" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="AUD" listprice="54.18" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="NZD" listprice="57.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="BRL" listprice="133.56" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="CAD" listprice="53.34" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="CNY" listprice="280.56" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="EUR" listprice="35.7" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="GBP" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="JPY" listprice="4607" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="KRW" listprice="47894" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="PLN" listprice="152.88" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="RON" listprice="164.22" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="RUB" listprice="2481.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_4" currency="TWD" listprice="1272.6" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_7"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280201 -->
+<!-- END items of HLG028_2802 -->
+<!-- END catalog entry : HLG028_2802 -->
+<!-- BEGIN catalog entry : HLG028_2803 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2803" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2803" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_5" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_3" baseitem_id="@baseproduct_id_Lighting_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="USD" price="56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="AUD" price="72.24" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="NZD" price="77.28" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="BRL" price="178.08" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="CAD" price="71.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="CNY" price="374.08" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="EUR" price="47.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="GBP" price="43.68" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="JPY" price="6143" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="KRW" price="63859" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="PLN" price="203.84" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="RON" price="218.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="RUB" price="3308.48" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_6" currency="TWD" price="1696.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="USD" listprice="58" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="AUD" listprice="74.82" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="NZD" listprice="80.04" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="BRL" listprice="184.44" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="CAD" listprice="73.66" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="CNY" listprice="387.44" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="EUR" listprice="49.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="GBP" listprice="45.24" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="JPY" listprice="6362" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="KRW" listprice="66140" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="PLN" listprice="211.12" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="RON" listprice="226.78" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="RUB" listprice="3426.64" />
+<listprice catentry_id="@catentry_product_id_Lighting_5" currency="TWD" listprice="1757.4" />
+<!-- Begin attribute mapping for HLG028_2803-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_8_HLG028_2803" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_5" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2803" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_5" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_9_HLG028_2803" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_5" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_5" />
+<!-- End attribute mapping for HLG028_2803-->
+
+<!-- BEGIN items of HLG028_2803 -->
+<!-- BEGIN item bean HLG028_280301 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_3" partnumber="HLG028_280301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_3" itemspc_id="@itemspc_id_Lighting_3" itemversn_id="@itemversn_id_Lighting_3" />
+<catentry catentry_id="@catentry_item_id_Lighting_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_3"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_280301" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_6" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="USD" price="56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="AUD" price="72.24" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="NZD" price="77.28" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="BRL" price="178.08" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="CAD" price="71.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="CNY" price="374.08" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="EUR" price="47.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="GBP" price="43.68" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="JPY" price="6143" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="KRW" price="63859" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="PLN" price="203.84" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="RON" price="218.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="RUB" price="3308.48" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_5" currency="TWD" price="1696.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="USD" listprice="58" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="AUD" listprice="74.82" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="NZD" listprice="80.04" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="BRL" listprice="184.44" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="CAD" listprice="73.66" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="CNY" listprice="387.44" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="EUR" listprice="49.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="GBP" listprice="45.24" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="JPY" listprice="6362" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="KRW" listprice="66140" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="PLN" listprice="211.12" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="RON" listprice="226.78" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="RUB" listprice="3426.64" />
+<listprice catentry_id="@catentry_item_id_Lighting_6" currency="TWD" listprice="1757.4" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280301 -->
+<!-- END items of HLG028_2803 -->
+<!-- END catalog entry : HLG028_2803 -->
+<!-- BEGIN catalog entry : HLG028_2804 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2804" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2804" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_7" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_4" baseitem_id="@baseproduct_id_Lighting_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="USD" price="35" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="AUD" price="45.15" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="NZD" price="48.3" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="BRL" price="111.3" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="CAD" price="44.45" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="CNY" price="233.8" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="EUR" price="29.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="GBP" price="27.3" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="JPY" price="3839" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="KRW" price="39912" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="PLN" price="127.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="RON" price="136.85" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="RUB" price="2067.8" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_8" currency="TWD" price="1060.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="USD" listprice="35" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="AUD" listprice="45.15" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="NZD" listprice="48.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="BRL" listprice="111.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="CAD" listprice="44.45" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="CNY" listprice="233.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="EUR" listprice="29.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="GBP" listprice="27.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="JPY" listprice="3839" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="KRW" listprice="39912" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="PLN" listprice="127.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="RON" listprice="136.85" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="RUB" listprice="2067.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_7" currency="TWD" listprice="1060.5" />
+<!-- Begin attribute mapping for HLG028_2804-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_6_HLG028_2804" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_7" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_10_HLG028_2804" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_7" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_11_HLG028_2804" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_7" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_7" />
+<!-- End attribute mapping for HLG028_2804-->
+
+<!-- BEGIN items of HLG028_2804 -->
+<!-- BEGIN item bean HLG028_280401 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_4" partnumber="HLG028_280401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_4" itemspc_id="@itemspc_id_Lighting_4" itemversn_id="@itemversn_id_Lighting_4" />
+<catentry catentry_id="@catentry_item_id_Lighting_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_4"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_280401" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_8" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="USD" price="35" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="AUD" price="45.15" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="NZD" price="48.3" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="BRL" price="111.3" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="CAD" price="44.45" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="CNY" price="233.8" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="EUR" price="29.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="GBP" price="27.3" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="JPY" price="3839" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="KRW" price="39912" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="PLN" price="127.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="RON" price="136.85" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="RUB" price="2067.8" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_7" currency="TWD" price="1060.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="USD" listprice="35" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="AUD" listprice="45.15" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="NZD" listprice="48.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="BRL" listprice="111.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="CAD" listprice="44.45" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="CNY" listprice="233.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="EUR" listprice="29.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="GBP" listprice="27.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="JPY" listprice="3839" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="KRW" listprice="39912" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="PLN" listprice="127.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="RON" listprice="136.85" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="RUB" listprice="2067.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_8" currency="TWD" listprice="1060.5" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280401 -->
+<!-- END items of HLG028_2804 -->
+<!-- END catalog entry : HLG028_2804 -->
+<!-- BEGIN catalog entry : HLG028_2805 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2805" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2805" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_9" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_5" baseitem_id="@baseproduct_id_Lighting_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="USD" price="170" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="AUD" price="219.3" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="NZD" price="234.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="BRL" price="540.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="CAD" price="215.9" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="CNY" price="1135.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="EUR" price="144.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="GBP" price="132.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="JPY" price="18647" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="KRW" price="193858" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="PLN" price="618.8" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="RON" price="664.7" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="RUB" price="10043.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_10" currency="TWD" price="5151.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="USD" listprice="180" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="AUD" listprice="232.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="NZD" listprice="248.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="BRL" listprice="572.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="CAD" listprice="228.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="CNY" listprice="1202.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="EUR" listprice="153.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="GBP" listprice="140.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="JPY" listprice="19744" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="KRW" listprice="205261" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="PLN" listprice="655.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="RON" listprice="703.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="RUB" listprice="10634.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_9" currency="TWD" listprice="5454.0" />
+<!-- Begin attribute mapping for HLG028_2805-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_14_HLG028_2805" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_9" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_10_HLG028_2805" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_9" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2805" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_9" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_9" />
+<!-- End attribute mapping for HLG028_2805-->
+
+<!-- BEGIN items of HLG028_2805 -->
+<!-- BEGIN item bean HLG028_280501 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_5" partnumber="HLG028_280501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_5" itemspc_id="@itemspc_id_Lighting_5" itemversn_id="@itemversn_id_Lighting_5" />
+<catentry catentry_id="@catentry_item_id_Lighting_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_5"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_280501" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_10" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="USD" price="170" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="AUD" price="219.3" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="NZD" price="234.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="BRL" price="540.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="CAD" price="215.9" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="CNY" price="1135.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="EUR" price="144.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="GBP" price="132.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="JPY" price="18647" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="KRW" price="193858" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="PLN" price="618.8" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="RON" price="664.7" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="RUB" price="10043.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_9" currency="TWD" price="5151.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="USD" listprice="180" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="AUD" listprice="232.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="NZD" listprice="248.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="BRL" listprice="572.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="CAD" listprice="228.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="CNY" listprice="1202.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="EUR" listprice="153.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="GBP" listprice="140.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="JPY" listprice="19744" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="KRW" listprice="205261" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="PLN" listprice="655.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="RON" listprice="703.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="RUB" listprice="10634.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_10" currency="TWD" listprice="5454.0" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_15"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280501 -->
+<!-- END items of HLG028_2805 -->
+<!-- END catalog entry : HLG028_2805 -->
+<!-- BEGIN catalog entry : HLG028_2806 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2806" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2806" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_11" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_6" baseitem_id="@baseproduct_id_Lighting_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="USD" price="71" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="AUD" price="91.59" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="NZD" price="97.98" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="BRL" price="225.78" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="CAD" price="90.17" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="CNY" price="474.28" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="EUR" price="60.35" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="GBP" price="55.38" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="JPY" price="7788" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="KRW" price="80964" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="PLN" price="258.44" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="RON" price="277.61" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="RUB" price="4194.68" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_12" currency="TWD" price="2151.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="USD" listprice="80" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="AUD" listprice="103.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="NZD" listprice="110.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="BRL" listprice="254.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="CAD" listprice="101.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="CNY" listprice="534.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="EUR" listprice="68.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="GBP" listprice="62.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="JPY" listprice="8775" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="KRW" listprice="91227" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="PLN" listprice="291.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="RON" listprice="312.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="RUB" listprice="4726.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_11" currency="TWD" listprice="2424.0" />
+<!-- Begin attribute mapping for HLG028_2806-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_8_HLG028_2806" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_11" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2806" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_11" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_9_HLG028_2806" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_11" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_11" />
+<!-- End attribute mapping for HLG028_2806-->
+
+<!-- BEGIN items of HLG028_2806 -->
+<!-- BEGIN item bean HLG028_280601 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_6" partnumber="HLG028_280601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_6" itemspc_id="@itemspc_id_Lighting_6" itemversn_id="@itemversn_id_Lighting_6" />
+<catentry catentry_id="@catentry_item_id_Lighting_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_6"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_280601" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_12" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="USD" price="71" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="AUD" price="91.59" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="NZD" price="97.98" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="BRL" price="225.78" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="CAD" price="90.17" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="CNY" price="474.28" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="EUR" price="60.35" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="GBP" price="55.38" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="JPY" price="7788" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="KRW" price="80964" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="PLN" price="258.44" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="RON" price="277.61" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="RUB" price="4194.68" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_11" currency="TWD" price="2151.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="USD" listprice="80" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="AUD" listprice="103.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="NZD" listprice="110.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="BRL" listprice="254.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="CAD" listprice="101.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="CNY" listprice="534.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="EUR" listprice="68.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="GBP" listprice="62.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="JPY" listprice="8775" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="KRW" listprice="91227" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="PLN" listprice="291.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="RON" listprice="312.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="RUB" listprice="4726.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_12" currency="TWD" listprice="2424.0" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_7"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280601 -->
+<!-- END items of HLG028_2806 -->
+<!-- END catalog entry : HLG028_2806 -->
+<!-- BEGIN catalog entry : HLG028_2807 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_7" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2807" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2807" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_7" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_13" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_13" sequence="7" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_7" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_7" baseitem_id="@baseproduct_id_Lighting_7" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="USD" price="26" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="AUD" price="33.54" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="NZD" price="35.88" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="BRL" price="82.68" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="CAD" price="33.02" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="CNY" price="173.68" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="EUR" price="22.1" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="GBP" price="20.28" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="JPY" price="2852" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="KRW" price="29649" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="PLN" price="94.64" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="RON" price="101.66" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="RUB" price="1536.08" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_14" currency="TWD" price="787.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_product_id_Lighting_13" currency="TWD" listprice="787.8" />
+<!-- Begin attribute mapping for HLG028_2807-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_17_HLG028_2807" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_13" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_18_HLG028_2807" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_13" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2807" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_13" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_13" />
+<!-- End attribute mapping for HLG028_2807-->
+
+<!-- BEGIN items of HLG028_2807 -->
+<!-- BEGIN item bean HLG028_280701 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_7" partnumber="HLG028_280701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_7" itemspc_id="@itemspc_id_Lighting_7" itemversn_id="@itemversn_id_Lighting_7" />
+<catentry catentry_id="@catentry_item_id_Lighting_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_7"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_280701" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_14" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_14" sequence="7.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="USD" price="26" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="AUD" price="33.54" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="NZD" price="35.88" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="BRL" price="82.68" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="CAD" price="33.02" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="CNY" price="173.68" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="EUR" price="22.1" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="GBP" price="20.28" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="JPY" price="2852" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="KRW" price="29649" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="PLN" price="94.64" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="RON" price="101.66" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="RUB" price="1536.08" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_13" currency="TWD" price="787.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_item_id_Lighting_14" currency="TWD" listprice="787.8" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280701 -->
+<!-- END items of HLG028_2807 -->
+<!-- END catalog entry : HLG028_2807 -->
+<!-- BEGIN catalog entry : HLG028_2808 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_8" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2808" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_15" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2808" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_8" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_15" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_15" sequence="8" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_8" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_8" baseitem_id="@baseproduct_id_Lighting_8" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="USD" price="189" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="AUD" price="243.81" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="NZD" price="260.82" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="BRL" price="601.02" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="CAD" price="240.03" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="CNY" price="1262.52" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="EUR" price="160.65" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="GBP" price="147.42" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="JPY" price="20731" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="KRW" price="215524" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="PLN" price="687.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="RON" price="738.99" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="RUB" price="11166.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_16" currency="TWD" price="5726.7" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="USD" listprice="200" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="AUD" listprice="258.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="NZD" listprice="276.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="BRL" listprice="636.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="CAD" listprice="254.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="CNY" listprice="1336.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="EUR" listprice="170.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="GBP" listprice="156.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="JPY" listprice="21938" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="KRW" listprice="228068" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="PLN" listprice="728.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="RON" listprice="782.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="RUB" listprice="11816.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_15" currency="TWD" listprice="6060.0" />
+<!-- Begin attribute mapping for HLG028_2808-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_14_HLG028_2808" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_15" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2808" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_15" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2808" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_15" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_15" />
+<!-- End attribute mapping for HLG028_2808-->
+
+<!-- BEGIN items of HLG028_2808 -->
+<!-- BEGIN item bean HLG028_280801 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_8" partnumber="HLG028_280801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_8" itemspc_id="@itemspc_id_Lighting_8" itemversn_id="@itemversn_id_Lighting_8" />
+<catentry catentry_id="@catentry_item_id_Lighting_16" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_8"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_280801" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_16" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_16" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_16" sequence="8.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="USD" price="189" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="AUD" price="243.81" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="NZD" price="260.82" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="BRL" price="601.02" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="CAD" price="240.03" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="CNY" price="1262.52" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="EUR" price="160.65" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="GBP" price="147.42" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="JPY" price="20731" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="KRW" price="215524" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="PLN" price="687.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="RON" price="738.99" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="RUB" price="11166.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_15" currency="TWD" price="5726.7" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="USD" listprice="200" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="AUD" listprice="258.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="NZD" listprice="276.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="BRL" listprice="636.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="CAD" listprice="254.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="CNY" listprice="1336.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="EUR" listprice="170.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="GBP" listprice="156.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="JPY" listprice="21938" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="KRW" listprice="228068" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="PLN" listprice="728.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="RON" listprice="782.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="RUB" listprice="11816.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_16" currency="TWD" listprice="6060.0" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_16" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280801 -->
+<!-- END items of HLG028_2808 -->
+<!-- END catalog entry : HLG028_2808 -->
+<!-- BEGIN catalog entry : HLG028_2809 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_9" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2809" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_17" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2809" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_9" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_17" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_17" sequence="9" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_9" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_9" baseitem_id="@baseproduct_id_Lighting_9" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_18" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_product_id_Lighting_17" currency="TWD" listprice="727.2" />
+<!-- Begin attribute mapping for HLG028_2809-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_1_HLG028_2809" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_17" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2809" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_17" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2809" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_17" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_17" />
+<!-- End attribute mapping for HLG028_2809-->
+
+<!-- BEGIN items of HLG028_2809 -->
+<!-- BEGIN item bean HLG028_280901 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_9" partnumber="HLG028_280901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_9" itemspc_id="@itemspc_id_Lighting_9" itemversn_id="@itemversn_id_Lighting_9" />
+<catentry catentry_id="@catentry_item_id_Lighting_18" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_9"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_280901" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_17"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_18" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_18" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_18" sequence="9.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_17" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_item_id_Lighting_18" currency="TWD" listprice="727.2" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_20"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_18" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_280901 -->
+<!-- END items of HLG028_2809 -->
+<!-- END catalog entry : HLG028_2809 -->
+<!-- BEGIN catalog entry : HLG028_2810 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_10" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2810" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_19" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2810" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_10" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_19" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_19" sequence="10" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_10" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_10" baseitem_id="@baseproduct_id_Lighting_10" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_20" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_19" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="USD" price="40" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="AUD" price="51.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="NZD" price="55.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="BRL" price="127.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="CAD" price="50.8" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="CNY" price="267.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="EUR" price="34.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="GBP" price="31.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="JPY" price="4388" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="KRW" price="45614" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="PLN" price="145.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="RON" price="156.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="RUB" price="2363.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_20" currency="TWD" price="1212.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="USD" listprice="40" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="AUD" listprice="51.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="NZD" listprice="55.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="BRL" listprice="127.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="CAD" listprice="50.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="CNY" listprice="267.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="EUR" listprice="34.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="GBP" listprice="31.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="JPY" listprice="4388" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="KRW" listprice="45614" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="PLN" listprice="145.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="RON" listprice="156.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="RUB" listprice="2363.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_19" currency="TWD" listprice="1212.0" />
+<!-- Begin attribute mapping for HLG028_2810-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_1_HLG028_2810" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_19" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2810" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_19" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2810" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_19" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_19" />
+<!-- End attribute mapping for HLG028_2810-->
+
+<!-- BEGIN items of HLG028_2810 -->
+<!-- BEGIN item bean HLG028_281001 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_10" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_10" partnumber="HLG028_281001" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_10" itemspc_id="@itemspc_id_Lighting_10" itemversn_id="@itemversn_id_Lighting_10" />
+<catentry catentry_id="@catentry_item_id_Lighting_20" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_10"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281001" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_10" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_19"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_20" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_20" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_20" sequence="10.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_19" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_20" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="USD" price="40" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="AUD" price="51.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="NZD" price="55.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="BRL" price="127.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="CAD" price="50.8" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="CNY" price="267.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="EUR" price="34.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="GBP" price="31.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="JPY" price="4388" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="KRW" price="45614" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="PLN" price="145.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="RON" price="156.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="RUB" price="2363.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_19" currency="TWD" price="1212.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="USD" listprice="40" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="AUD" listprice="51.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="NZD" listprice="55.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="BRL" listprice="127.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="CAD" listprice="50.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="CNY" listprice="267.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="EUR" listprice="34.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="GBP" listprice="31.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="JPY" listprice="4388" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="KRW" listprice="45614" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="PLN" listprice="145.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="RON" listprice="156.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="RUB" listprice="2363.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_20" currency="TWD" listprice="1212.0" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_22"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_20" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281001 -->
+<!-- END items of HLG028_2810 -->
+<!-- END catalog entry : HLG028_2810 -->
+<!-- BEGIN catalog entry : HLG028_2811 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_11" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2811" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_21" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2811" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_11" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_21" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_21" sequence="11" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_11" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_11" baseitem_id="@baseproduct_id_Lighting_11" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_22" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_21" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="USD" price="42" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="AUD" price="54.18" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="NZD" price="57.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="BRL" price="133.56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="CAD" price="53.34" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="CNY" price="280.56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="EUR" price="35.7" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="GBP" price="32.76" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="JPY" price="4607" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="KRW" price="47894" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="PLN" price="152.88" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="RON" price="164.22" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="RUB" price="2481.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_22" currency="TWD" price="1272.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="USD" listprice="42" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="AUD" listprice="54.18" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="NZD" listprice="57.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="BRL" listprice="133.56" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="CAD" listprice="53.34" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="CNY" listprice="280.56" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="EUR" listprice="35.7" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="GBP" listprice="32.76" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="JPY" listprice="4607" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="KRW" listprice="47894" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="PLN" listprice="152.88" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="RON" listprice="164.22" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="RUB" listprice="2481.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_21" currency="TWD" listprice="1272.6" />
+<!-- Begin attribute mapping for HLG028_2811-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_1_HLG028_2811" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_21" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2811" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_21" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2811" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_21" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_21" />
+<!-- End attribute mapping for HLG028_2811-->
+
+<!-- BEGIN items of HLG028_2811 -->
+<!-- BEGIN item bean HLG028_281101 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_11" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_11" partnumber="HLG028_281101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_11" itemspc_id="@itemspc_id_Lighting_11" itemversn_id="@itemversn_id_Lighting_11" />
+<catentry catentry_id="@catentry_item_id_Lighting_22" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_11"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281101" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_11" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_21"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_22" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_22" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_22" sequence="11.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_21" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_22" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="USD" price="42" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="AUD" price="54.18" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="NZD" price="57.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="BRL" price="133.56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="CAD" price="53.34" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="CNY" price="280.56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="EUR" price="35.7" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="GBP" price="32.76" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="JPY" price="4607" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="KRW" price="47894" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="PLN" price="152.88" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="RON" price="164.22" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="RUB" price="2481.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_21" currency="TWD" price="1272.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="USD" listprice="42" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="AUD" listprice="54.18" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="NZD" listprice="57.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="BRL" listprice="133.56" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="CAD" listprice="53.34" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="CNY" listprice="280.56" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="EUR" listprice="35.7" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="GBP" listprice="32.76" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="JPY" listprice="4607" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="KRW" listprice="47894" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="PLN" listprice="152.88" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="RON" listprice="164.22" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="RUB" listprice="2481.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_22" currency="TWD" listprice="1272.6" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_22"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_22" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281101 -->
+<!-- END items of HLG028_2811 -->
+<!-- END catalog entry : HLG028_2811 -->
+<!-- BEGIN catalog entry : HLG028_2812 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_12" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2812" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_23" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2812" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_12" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_23" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_23" sequence="12" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_12" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_12" baseitem_id="@baseproduct_id_Lighting_12" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_24" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_23" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="USD" price="40" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="AUD" price="51.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="NZD" price="55.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="BRL" price="127.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="CAD" price="50.8" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="CNY" price="267.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="EUR" price="34.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="GBP" price="31.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="JPY" price="4388" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="KRW" price="45614" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="PLN" price="145.6" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="RON" price="156.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="RUB" price="2363.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_24" currency="TWD" price="1212.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="USD" listprice="40" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="AUD" listprice="51.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="NZD" listprice="55.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="BRL" listprice="127.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="CAD" listprice="50.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="CNY" listprice="267.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="EUR" listprice="34.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="GBP" listprice="31.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="JPY" listprice="4388" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="KRW" listprice="45614" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="PLN" listprice="145.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="RON" listprice="156.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="RUB" listprice="2363.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_23" currency="TWD" listprice="1212.0" />
+<!-- Begin attribute mapping for HLG028_2812-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_6_HLG028_2812" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_23" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2812" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_23" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2812" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_23" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_23" />
+<!-- End attribute mapping for HLG028_2812-->
+
+<!-- BEGIN items of HLG028_2812 -->
+<!-- BEGIN item bean HLG028_281201 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_12" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_12" partnumber="HLG028_281201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_12" itemspc_id="@itemspc_id_Lighting_12" itemversn_id="@itemversn_id_Lighting_12" />
+<catentry catentry_id="@catentry_item_id_Lighting_24" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_12"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281201" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_12" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_23"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_24" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_24" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_24" sequence="12.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_23" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_24" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="USD" price="40" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="AUD" price="51.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="NZD" price="55.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="BRL" price="127.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="CAD" price="50.8" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="CNY" price="267.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="EUR" price="34.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="GBP" price="31.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="JPY" price="4388" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="KRW" price="45614" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="PLN" price="145.6" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="RON" price="156.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="RUB" price="2363.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_23" currency="TWD" price="1212.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="USD" listprice="40" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="AUD" listprice="51.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="NZD" listprice="55.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="BRL" listprice="127.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="CAD" listprice="50.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="CNY" listprice="267.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="EUR" listprice="34.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="GBP" listprice="31.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="JPY" listprice="4388" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="KRW" listprice="45614" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="PLN" listprice="145.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="RON" listprice="156.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="RUB" listprice="2363.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_24" currency="TWD" listprice="1212.0" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_24" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281201 -->
+<!-- END items of HLG028_2812 -->
+<!-- END catalog entry : HLG028_2812 -->
+<!-- BEGIN catalog entry : HLG028_2813 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_13" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2813" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_25" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2813" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_13" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_25" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_25" sequence="13" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_13" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_13" baseitem_id="@baseproduct_id_Lighting_13" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_26" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_25" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="USD" price="58" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="AUD" price="74.82" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="NZD" price="80.04" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="BRL" price="184.44" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="CAD" price="73.66" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="CNY" price="387.44" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="EUR" price="49.3" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="GBP" price="45.24" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="JPY" price="6362" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="KRW" price="66140" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="PLN" price="211.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="RON" price="226.78" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="RUB" price="3426.64" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_26" currency="TWD" price="1757.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="USD" listprice="68" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="AUD" listprice="87.72" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="NZD" listprice="93.84" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="BRL" listprice="216.24" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="CAD" listprice="86.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="CNY" listprice="454.24" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="EUR" listprice="57.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="GBP" listprice="53.04" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="JPY" listprice="7459" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="KRW" listprice="77543" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="PLN" listprice="247.52" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="RON" listprice="265.88" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="RUB" listprice="4017.44" />
+<listprice catentry_id="@catentry_product_id_Lighting_25" currency="TWD" listprice="2060.4" />
+<!-- Begin attribute mapping for HLG028_2813-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_8_HLG028_2813" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_25" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2813" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_25" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2813" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_25" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_25" />
+<!-- End attribute mapping for HLG028_2813-->
+
+<!-- BEGIN items of HLG028_2813 -->
+<!-- BEGIN item bean HLG028_281301 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_13" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_13" partnumber="HLG028_281301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_13" itemspc_id="@itemspc_id_Lighting_13" itemversn_id="@itemversn_id_Lighting_13" />
+<catentry catentry_id="@catentry_item_id_Lighting_26" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_13"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281301" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_13" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_25"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_26" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_26" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_26" sequence="13.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_25" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_26" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="USD" price="58" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="AUD" price="74.82" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="NZD" price="80.04" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="BRL" price="184.44" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="CAD" price="73.66" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="CNY" price="387.44" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="EUR" price="49.3" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="GBP" price="45.24" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="JPY" price="6362" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="KRW" price="66140" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="PLN" price="211.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="RON" price="226.78" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="RUB" price="3426.64" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_25" currency="TWD" price="1757.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="USD" listprice="68" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="AUD" listprice="87.72" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="NZD" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="BRL" listprice="216.24" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="CAD" listprice="86.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="CNY" listprice="454.24" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="EUR" listprice="57.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="GBP" listprice="53.04" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="JPY" listprice="7459" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="KRW" listprice="77543" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="PLN" listprice="247.52" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="RON" listprice="265.88" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="RUB" listprice="4017.44" />
+<listprice catentry_id="@catentry_item_id_Lighting_26" currency="TWD" listprice="2060.4" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_26" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281301 -->
+<!-- END items of HLG028_2813 -->
+<!-- END catalog entry : HLG028_2813 -->
+<!-- BEGIN catalog entry : HLG028_2814 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_14" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2814" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_27" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2814" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_14" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_27" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_27" sequence="14" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_14" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_14" baseitem_id="@baseproduct_id_Lighting_14" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_28" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_27" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="USD" price="52" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="AUD" price="67.08" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="NZD" price="71.76" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="BRL" price="165.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="CAD" price="66.04" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="CNY" price="347.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="EUR" price="44.2" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="GBP" price="40.56" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="JPY" price="5704" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="KRW" price="59298" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="PLN" price="189.28" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="RON" price="203.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="RUB" price="3072.16" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_28" currency="TWD" price="1575.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="USD" listprice="56" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="AUD" listprice="72.24" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="NZD" listprice="77.28" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="BRL" listprice="178.08" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="CAD" listprice="71.12" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="CNY" listprice="374.08" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="EUR" listprice="47.6" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="GBP" listprice="43.68" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="JPY" listprice="6143" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="KRW" listprice="63859" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="PLN" listprice="203.84" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="RON" listprice="218.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="RUB" listprice="3308.48" />
+<listprice catentry_id="@catentry_product_id_Lighting_27" currency="TWD" listprice="1696.8" />
+<!-- Begin attribute mapping for HLG028_2814-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_8_HLG028_2814" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_27" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2814" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_27" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_9_HLG028_2814" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_27" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_27" />
+<!-- End attribute mapping for HLG028_2814-->
+
+<!-- BEGIN items of HLG028_2814 -->
+<!-- BEGIN item bean HLG028_281401 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_14" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_14" partnumber="HLG028_281401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_14" itemspc_id="@itemspc_id_Lighting_14" itemversn_id="@itemversn_id_Lighting_14" />
+<catentry catentry_id="@catentry_item_id_Lighting_28" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_14"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281401" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_14" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_27"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_28" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_28" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_28" sequence="14.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_27" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_28" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="USD" price="52" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="AUD" price="67.08" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="NZD" price="71.76" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="BRL" price="165.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="CAD" price="66.04" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="CNY" price="347.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="EUR" price="44.2" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="GBP" price="40.56" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="JPY" price="5704" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="KRW" price="59298" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="PLN" price="189.28" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="RON" price="203.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="RUB" price="3072.16" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_27" currency="TWD" price="1575.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="USD" listprice="56" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="AUD" listprice="72.24" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="NZD" listprice="77.28" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="BRL" listprice="178.08" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="CAD" listprice="71.12" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="CNY" listprice="374.08" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="EUR" listprice="47.6" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="GBP" listprice="43.68" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="JPY" listprice="6143" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="KRW" listprice="63859" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="PLN" listprice="203.84" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="RON" listprice="218.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="RUB" listprice="3308.48" />
+<listprice catentry_id="@catentry_item_id_Lighting_28" currency="TWD" listprice="1696.8" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_28" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281401 -->
+<!-- END items of HLG028_2814 -->
+<!-- END catalog entry : HLG028_2814 -->
+<!-- BEGIN catalog entry : HLG028_2815 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_15" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2815" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_29" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Alumina" partnumber="HLG028_2815" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_15" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_29" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_29" sequence="15" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_15" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_15" baseitem_id="@baseproduct_id_Lighting_15" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_30" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_29" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_30" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_product_id_Lighting_29" currency="TWD" listprice="727.2" />
+<!-- Begin attribute mapping for HLG028_2815-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_23_HLG028_2815" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_29" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2815" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_29" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2815" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_29" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_29" />
+<!-- End attribute mapping for HLG028_2815-->
+
+<!-- BEGIN items of HLG028_2815 -->
+<!-- BEGIN item bean HLG028_281501 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_15" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_15" partnumber="HLG028_281501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_15" itemspc_id="@itemspc_id_Lighting_15" itemversn_id="@itemversn_id_Lighting_15" />
+<catentry catentry_id="@catentry_item_id_Lighting_30" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_15"	catenttype_id="ItemBean" mfname="Alumina"	partnumber="HLG028_281501" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_15" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_29"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_30" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_30" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_30" sequence="15.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_29" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_30" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_29" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_item_id_Lighting_30" currency="TWD" listprice="727.2" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_24"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_30" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281501 -->
+<!-- END items of HLG028_2815 -->
+<!-- END catalog entry : HLG028_2815 -->
+<!-- BEGIN catalog entry : HLG028_2816 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_16" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2816" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_31" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Modern Houseware" partnumber="HLG028_2816" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_16" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_31" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_31" sequence="16" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_16" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_16" baseitem_id="@baseproduct_id_Lighting_16" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_32" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_31" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_32" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_31" currency="TWD" listprice="757.5" />
+<!-- Begin attribute mapping for HLG028_2816-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_17_HLG028_2816" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_31" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2816" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_31" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2816" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_31" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_31" />
+<!-- End attribute mapping for HLG028_2816-->
+
+<!-- BEGIN items of HLG028_2816 -->
+<!-- BEGIN item bean HLG028_281601 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_16" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_16" partnumber="HLG028_281601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_16" itemspc_id="@itemspc_id_Lighting_16" itemversn_id="@itemversn_id_Lighting_16" />
+<catentry catentry_id="@catentry_item_id_Lighting_32" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_16"	catenttype_id="ItemBean" mfname="Modern Houseware"	partnumber="HLG028_281601" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_16" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_31"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_32" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_32" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_32" sequence="16.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_31" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_32" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_31" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_32" currency="TWD" listprice="757.5" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_19"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_32" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281601 -->
+<!-- END items of HLG028_2816 -->
+<!-- END catalog entry : HLG028_2816 -->
+<!-- BEGIN catalog entry : HLG028_2817 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_17" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2817" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_33" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2817" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_17" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_33" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_33" sequence="17" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_17" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_17" baseitem_id="@baseproduct_id_Lighting_17" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_34" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_33" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_34" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_product_id_Lighting_33" currency="TWD" listprice="727.2" />
+<!-- Begin attribute mapping for HLG028_2817-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_17_HLG028_2817" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_33" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_16_HLG028_2817" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_33" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2817" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_33" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_33" />
+<!-- End attribute mapping for HLG028_2817-->
+
+<!-- BEGIN items of HLG028_2817 -->
+<!-- BEGIN item bean HLG028_281701 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_17" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_17" partnumber="HLG028_281701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_17" itemspc_id="@itemspc_id_Lighting_17" itemversn_id="@itemversn_id_Lighting_17" />
+<catentry catentry_id="@catentry_item_id_Lighting_34" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_17"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_281701" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_17" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_33"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_34" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_34" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_34" sequence="17.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_33" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_34" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_33" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_item_id_Lighting_34" currency="TWD" listprice="727.2" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_25"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_34" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281701 -->
+<!-- END items of HLG028_2817 -->
+<!-- END catalog entry : HLG028_2817 -->
+<!-- BEGIN catalog entry : HLG028_2818 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_18" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2818" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_35" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2818" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_18" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_35" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_35" sequence="18" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_18" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_18" baseitem_id="@baseproduct_id_Lighting_18" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_36" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_35" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_36" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="USD" listprice="35" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="AUD" listprice="45.15" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="NZD" listprice="48.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="BRL" listprice="111.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="CAD" listprice="44.45" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="CNY" listprice="233.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="EUR" listprice="29.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="GBP" listprice="27.3" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="JPY" listprice="3839" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="KRW" listprice="39912" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="PLN" listprice="127.4" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="RON" listprice="136.85" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="RUB" listprice="2067.8" />
+<listprice catentry_id="@catentry_product_id_Lighting_35" currency="TWD" listprice="1060.5" />
+<!-- Begin attribute mapping for HLG028_2818-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_1_HLG028_2818" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_35" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2818" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_35" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2818" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_35" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_35" />
+<!-- End attribute mapping for HLG028_2818-->
+
+<!-- BEGIN items of HLG028_2818 -->
+<!-- BEGIN item bean HLG028_281801 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_18" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_18" partnumber="HLG028_281801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_18" itemspc_id="@itemspc_id_Lighting_18" itemversn_id="@itemversn_id_Lighting_18" />
+<catentry catentry_id="@catentry_item_id_Lighting_36" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_18"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_281801" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_18" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_35"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_36" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_36" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_36" sequence="18.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_35" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_36" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_35" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="USD" listprice="35" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="AUD" listprice="45.15" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="NZD" listprice="48.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="BRL" listprice="111.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="CAD" listprice="44.45" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="CNY" listprice="233.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="EUR" listprice="29.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="GBP" listprice="27.3" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="JPY" listprice="3839" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="KRW" listprice="39912" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="PLN" listprice="127.4" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="RON" listprice="136.85" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="RUB" listprice="2067.8" />
+<listprice catentry_id="@catentry_item_id_Lighting_36" currency="TWD" listprice="1060.5" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_36" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281801 -->
+<!-- END items of HLG028_2818 -->
+<!-- END catalog entry : HLG028_2818 -->
+<!-- BEGIN catalog entry : HLG028_2819 -->
+<baseitem baseitem_id="@baseproduct_id_Lighting_19" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HLG028_2819" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Lighting_37" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="LUM" partnumber="HLG028_2819" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_19" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Lighting_37" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Lighting_37" sequence="19" />
+<storeitem baseitem_id="@baseproduct_id_Lighting_19" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Lighting_19" baseitem_id="@baseproduct_id_Lighting_19" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Lighting_38" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Lighting_37" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_product_id_Lighting_38" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_product_id_Lighting_37" currency="TWD" listprice="757.5" />
+<!-- Begin attribute mapping for HLG028_2819-->
+<catentryattr attr_id="@attribute_id_Lighting_1" attrval_id="@attribute_value_id_Lighting_17_HLG028_2819" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Lighting_37" />
+<catentryattr attr_id="@attribute_id_Lighting_2" attrval_id="@attribute_value_id_Lighting_2_HLG028_2819" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Lighting_37" />
+<catentryattr attr_id="@attribute_id_Lighting_3" attrval_id="@attribute_value_id_Lighting_3_HLG028_2819" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Lighting_37" />
+
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Lighting_37" />
+<!-- End attribute mapping for HLG028_2819-->
+
+<!-- BEGIN items of HLG028_2819 -->
+<!-- BEGIN item bean HLG028_281901 -->
+<itemspc itemspc_id="@itemspc_id_Lighting_19" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Lighting_19" partnumber="HLG028_281901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Lighting_19" itemspc_id="@itemspc_id_Lighting_19" itemversn_id="@itemversn_id_Lighting_19" />
+<catentry catentry_id="@catentry_item_id_Lighting_38" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Lighting_19"	catenttype_id="ItemBean" mfname="LUM"	partnumber="HLG028_281901" markfordelete="0" baseitem_id="@baseproduct_id_Lighting_19" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Lighting_37"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Lighting_38" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Lighting_38" />
+<catgpenrel catgroup_id="@catgroup_id_Lighting" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Lighting_38" sequence="19.2" />
+<offer offer_id="@offer_catentry_item_id_Lighting_37" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Lighting_38" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="USD" price="25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="AUD" price="32.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="NZD" price="34.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="BRL" price="79.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="CAD" price="31.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="CNY" price="167.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="EUR" price="21.25" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="GBP" price="19.5" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="JPY" price="2742" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="KRW" price="28508" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="PLN" price="91.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="RON" price="97.75" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="RUB" price="1477.0" />
+<offerprice offer_id="@offer_catentry_item_id_Lighting_37" currency="TWD" price="757.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="USD" listprice="25" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="AUD" listprice="32.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="NZD" listprice="34.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="BRL" listprice="79.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="CAD" listprice="31.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="CNY" listprice="167.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="EUR" listprice="21.25" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="GBP" listprice="19.5" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="JPY" listprice="2742" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="KRW" listprice="28508" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="PLN" listprice="91.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="RON" listprice="97.75" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="RUB" listprice="1477.0" />
+<listprice catentry_id="@catentry_item_id_Lighting_38" currency="TWD" listprice="757.5" />
+<catentryattr attr_id="@attribute_id_Lighting_5" attrval_id="@attribute_value_id_Lighting_13"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Lighting_38" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HLG028_281901 -->
+<!-- END items of HLG028_2819 -->
+<!-- END catalog entry : HLG028_2819 -->
+<!-- END: Writing catalog entries -->
+
+

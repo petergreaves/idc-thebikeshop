@@ -1,0 +1,194 @@
+
+
+<!-- store logo eSpot -->
+<atchtgt
+	atchtgt_id="@eSpot_atchtgt_id_01"
+	storeent_id="@storeent_id_1"
+	member_id="&MEMBER_ID;"
+	identifier="HeaderStoreLogo"
+/>
+
+<atchtgtdsc
+	atchtgtdsc_id="@eSpot_atchtgtdsc_id_01"
+	atchtgt_id="@eSpot_atchtgt_id_01"
+	language_id="&en_US;"
+	name="Store Logo"
+	shortdescription="&STORE_IDENTIFIER;"
+/>
+
+<collateral collateral_id="@eSpot_collateral_id_01" storeent_id="@storeent_id_1" colltype_id="1" name="HeaderStoreLogo" url="StoreView?storeId=#storeId#">
+	<ISA>
+		<atchrel
+		atchrel_id="@eSpot_atchrel_id_01"
+		object_id="@eSpot_collateral_id_01"
+		atchobjtyp_id="4"
+		atchtgt_id="@eSpot_atchtgt_id_01"
+		atchrlus_id="0"
+		/>
+	</ISA>
+</collateral>
+
+<atchast
+  atchast_id="@eSpot_atchast_id_01"
+  storeent_id="@storeent_id_1"
+  atchtgt_id="@eSpot_atchtgt_id_01"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/logo.png"
+  directorypath="images/logo.png"
+/>
+
+<emspot 
+	emspot_id="@eSpot_emspot_id_01" 
+	storeent_id="@storeent_id_1"  
+	name="HeaderStoreLogo_Content" 
+	description="Display your store logo in the top-left corner of every store page" 
+	usagetype="MARKETING" 
+/>
+
+<dmemspotdef 
+	dmemspotdef_id="@eSpot_dmemspotdef_id_01" 
+	emspot_id="@eSpot_emspot_id_01" 
+	storeent_id="@storeent_id_1"
+	contenttype="MarketingContent" 
+	content="@eSpot_collateral_id_01"
+/>
+
+
+<!-- email store logo eSpot -->
+<atchtgt
+	atchtgt_id="@eSpot_atchtgt_id_02"
+	storeent_id="@storeent_id_1"
+	member_id="&MEMBER_ID;"
+	identifier="EmailBanner"
+/>
+
+<atchtgtdsc
+	atchtgtdsc_id="@eSpot_atchtgtdsc_id_02"
+	atchtgt_id="@eSpot_atchtgt_id_02"
+	language_id="&en_US;"
+	name="Email Banner"
+	shortdescription="Email Banner"
+/>
+
+<collateral collateral_id="@eSpot_collateral_id_02" storeent_id="@storeent_id_1" colltype_id="1" name="EmailBanner">
+	<ISA>
+		<atchrel
+		atchrel_id="@eSpot_atchrel_id_02"
+		object_id="@eSpot_collateral_id_02"
+		atchobjtyp_id="4"
+		atchtgt_id="@eSpot_atchtgt_id_02"
+		atchrlus_id="0"
+		/>
+	</ISA>
+</collateral>
+
+<atchast
+  atchast_id="@eSpot_atchast_id_02"
+  storeent_id="@storeent_id_1"
+  atchtgt_id="@eSpot_atchtgt_id_02"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/emailLogo.png"
+  directorypath="images/emailLogo.png"
+/>
+
+<emspot 
+	emspot_id="@eSpot_emspot_id_02" 
+	storeent_id="@storeent_id_1"  
+	name="EmailBanner_Content" 
+	description="Display your store logo as a page-wide banner in all store marketing e-mail messages." 
+	usagetype="MARKETING" 
+/>
+
+<dmemspotdef 
+	dmemspotdef_id="@eSpot_dmemspotdef_id_02" 
+	emspot_id="@eSpot_emspot_id_02" 
+	storeent_id="@storeent_id_1"
+	contenttype="MarketingContent" 
+	content="@eSpot_collateral_id_02"
+/>
+
+
+<!-- email store promo eSpot -->
+<atchtgt
+	atchtgt_id="@eSpot_atchtgt_id_03"
+	storeent_id="@storeent_id_1"
+	member_id="&MEMBER_ID;"
+	identifier="EmailBottom_Content"
+/>
+
+
+
+<collateral collateral_id="@eSpot_collateral_id_03" storeent_id="@storeent_id_1" colltype_id="1" name="EmailBottom_Content">
+	<ISA>
+		<atchrel
+		atchrel_id="@eSpot_atchrel_id_03"
+		object_id="@eSpot_collateral_id_03"
+		atchobjtyp_id="4"
+		atchtgt_id="@eSpot_atchtgt_id_03"
+		atchrlus_id="0"
+		/>
+	</ISA>
+</collateral>
+
+
+<emspot 
+	emspot_id="@eSpot_emspot_id_03" 
+	storeent_id="@storeent_id_1"  
+	name="EmailBottom_Content" 
+	description="Display an ad at the bottom of all store marketing e-mail messages." 
+	usagetype="MARKETING" 
+/>
+
+<dmemspotdef 
+	dmemspotdef_id="@eSpot_dmemspotdef_id_03" 
+	emspot_id="@eSpot_emspot_id_03" 
+	storeent_id="@storeent_id_1"
+	contenttype="MarketingContent" 
+	content="@eSpot_collateral_id_03"
+/>
+
+
+<cmfiledir cmfiledir_id="@eSpot_cmfiledir_id_dir_1" identifier="&STORE_DIRECTORY_LOWERCASE;" displayname="&STORE_DIR;"/>
+<cmfiledir cmfiledir_id="@eSpot_cmfiledir_id_dir_2" cmfiledir_parent="@eSpot_cmfiledir_id_dir_1" identifier="attachment" displayname="Attachment"/>
+
+<cmfile 
+	cmfile_id="@cmfile_id_logo_1" 
+	cmfilepath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/logo.png" 
+	promote_fs="1" 
+	upload_timestamp="2007-10-01 16:00:00.001" 
+	promote_timestamp="2007-10-01 16:00:00.001" 
+	associated="1" 
+	storage_type="-1" 
+	cmfiledir_id="@eSpot_cmfiledir_id_dir_2"
+	filesize="25"
+/>
+
+<cmfile 
+	cmfile_id="@cmfile_id_logo_2" 
+	cmfilepath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/emailLogo.png" 
+	promote_fs="1" 
+	upload_timestamp="2012-10-01 16:00:00.001" 
+	promote_timestamp="2012-10-01 16:00:00.001" 
+	associated="1" 
+	storage_type="-1" 
+	cmfiledir_id="@eSpot_cmfiledir_id_dir_2"
+	filesize="25"
+/>
+
+<!-- Content Area ESpot for product page tab 1 -->
+<collateral collateral_id="@collateral_id_prod_tab_1" storeent_id="@storeent_id_1" colltype_id="2" name="ProductPageTab1" uidisplayable="0" />
+<emspot emspot_id="@emspot_id_prod_tab_1" storeent_id="@storeent_id_1" name="Product_Page_Tab_1" description="Display text content in the product page for Tab 1." usagetype="MARKETING"  uidisplayable="0" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_prod_tab_1" emspot_id="@emspot_id_prod_tab_1" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_prod_tab_1" />
+
+<!-- Content Area ESpot for product page tab 2 -->
+<collateral collateral_id="@collateral_id_prod_tab_2" storeent_id="@storeent_id_1" colltype_id="2" name="ProductPageTab2" uidisplayable="0" />
+<emspot emspot_id="@emspot_id_prod_tab_2" storeent_id="@storeent_id_1" name="Product_Page_Tab_2" description="Display text content in the product page for Tab 2." usagetype="MARKETING" uidisplayable="0" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_prod_tab_2" emspot_id="@emspot_id_prod_tab_2" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_prod_tab_2" />
+
+<!-- Content Area ESpot for search page tab 1 -->
+<collateral collateral_id="@collateral_id_search_tab_1" storeent_id="@storeent_id_1" colltype_id="2" name="SearchPageTab1" uidisplayable="0" />
+<emspot emspot_id="@emspot_id_search_tab_1" storeent_id="@storeent_id_1" name="Search_Page_Tab_1" description="Display text content in the search page for Tab 1." usagetype="MARKETING" uidisplayable="0" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_search_tab_1" emspot_id="@emspot_id_search_tab_1" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_search_tab_1" />
+
+<!-- Content Area ESpot for search page tab 2 -->
+<collateral collateral_id="@collateral_id_search_tab_2" storeent_id="@storeent_id_1" colltype_id="2" name="SearchPageTab2" uidisplayable="0" />
+<emspot emspot_id="@emspot_id_search_tab_2" storeent_id="@storeent_id_1" name="Search_Page_Tab_2" description="Display text content in the search page for Tab 2." usagetype="MARKETING" uidisplayable="0" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_search_tab_2" emspot_id="@emspot_id_search_tab_2" storeent_id="@storeent_id_1" contenttype="MarketingContent" content="@collateral_id_search_tab_2" />

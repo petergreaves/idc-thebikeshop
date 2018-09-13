@@ -1,0 +1,185 @@
+
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenShirtsColor -->
+<attrdesc attr_id="@attribute_id_MenShirts_9" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_14" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="1" value="Mehrfarbig" integervalue="" floatvalue="" stringvalue="Mehrfarbig" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_21" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="2" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_29" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="3" value="Elfenbein" integervalue="" floatvalue="" stringvalue="Elfenbein" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_33" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="4" value="Hellblau" integervalue="" floatvalue="" stringvalue="Hellblau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_36" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="5" value="Grau" integervalue="" floatvalue="" stringvalue="Grau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_37" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="6" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_40" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="7" value="Lila" integervalue="" floatvalue="" stringvalue="Lila" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_41" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="8" value="Schwarz" integervalue="" floatvalue="" stringvalue="Schwarz" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_48" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="9" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_50" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&de_DE;" sequence="10" value="Taupe" integervalue="" floatvalue="" stringvalue="Taupe" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsColor -->
+<!--BEGIN Defining attribute description  MenShirtsSize -->
+<attrdesc attr_id="@attribute_id_MenShirts_8" attrtype_id="STRING" language_id="&de_DE;" name="Größe" description="Größe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_8" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_9" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_10" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_11" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_12" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_13" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&de_DE;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Collar -->
+<attrdesc attr_id="@attribute_id_MenShirts_6" attrtype_id="STRING" language_id="&de_DE;" name="Rund" description="Rund" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1101" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="V-Ausschnitt" integervalue="" floatvalue="" stringvalue="V-Ausschnitt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1114" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="V-Ausschnitt" integervalue="" floatvalue="" stringvalue="V-Ausschnitt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1115" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="V-Ausschnitt" integervalue="" floatvalue="" stringvalue="V-Ausschnitt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1120" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="V-Ausschnitt" integervalue="" floatvalue="" stringvalue="V-Ausschnitt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1102" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="2" value="Kentkragen" integervalue="" floatvalue="" stringvalue="Kentkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1110" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="2" value="Kentkragen" integervalue="" floatvalue="" stringvalue="Kentkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1112" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="2" value="Kentkragen" integervalue="" floatvalue="" stringvalue="Kentkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1103" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1104" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1106" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1118" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1121" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1122" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_35_MCL011_1111" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="4" value="Geknöpfter Stehkragen" integervalue="" floatvalue="" stringvalue="Geknöpfter Stehkragen" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_39_MCL011_1113" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="5" value="Rundhalsausschnitt" integervalue="" floatvalue="" stringvalue="Rundhalsausschnitt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_44_MCL011_1116" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="6" value="Kentkragen mit Nieten" integervalue="" floatvalue="" stringvalue="Kentkragen mit Nieten" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_45_MCL011_1117" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&de_DE;" sequence="7" value="Haifischkragen" integervalue="" floatvalue="" stringvalue="Haifischkragen" />
+<!--end of  Collar -->
+<!--start of  Sleeve length -->
+<attrdesc attr_id="@attribute_id_MenShirts_10" attrtype_id="STRING" language_id="&de_DE;" name="Armlänge" description="Armlänge" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1102" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="1" value="Kurz, lang" integervalue="" floatvalue="" stringvalue="Kurz, lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1106" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="1" value="Kurz, lang" integervalue="" floatvalue="" stringvalue="Kurz, lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1112" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="1" value="Kurz, lang" integervalue="" floatvalue="" stringvalue="Kurz, lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1117" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="1" value="Kurz, lang" integervalue="" floatvalue="" stringvalue="Kurz, lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1103" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1110" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1116" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1118" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1121" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1122" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="2" value="Lang" integervalue="" floatvalue="" stringvalue="Lang" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1104" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1111" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1113" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1114" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1115" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1120" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&de_DE;" sequence="3" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<!--end of  Sleeve length -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_MenShirts_7" attrtype_id="STRING" language_id="&de_DE;" name="Armlänge" description="Armlänge" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_7_MCL011_1101" attr_id="@attribute_id_MenShirts_7" valusage="1" language_id="&de_DE;" sequence="1" value="Kurz" integervalue="" floatvalue="" stringvalue="Kurz" />
+<!--end of  Sleeve Length -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenShirts_3" attrtype_id="STRING" language_id="&de_DE;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_3_MCL011_1101" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Viskose" integervalue="" floatvalue="" stringvalue="Viskose" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1102" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1103" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1104" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1106" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1110" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1111" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1112" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1114" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1115" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1117" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1121" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1122" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_38_MCL011_1113" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="3" value="Baumwolle/Seide" integervalue="" floatvalue="" stringvalue="Baumwolle/Seide" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_42_MCL011_1116" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="4" value="Polyester/Viskose" integervalue="" floatvalue="" stringvalue="Polyester/Viskose" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_47_MCL011_1118" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="5" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_49_MCL011_1120" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&de_DE;" sequence="6" value="Microfaser" integervalue="" floatvalue="" stringvalue="Microfaser" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenShirts_2" attrtype_id="STRING" language_id="&de_DE;" name="Schnitt" description="Schnitt" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1101" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="T-Shirt" integervalue="" floatvalue="" stringvalue="T-Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1113" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="T-Shirt" integervalue="" floatvalue="" stringvalue="T-Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1114" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="T-Shirt" integervalue="" floatvalue="" stringvalue="T-Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1115" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="T-Shirt" integervalue="" floatvalue="" stringvalue="T-Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1120" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="T-Shirt" integervalue="" floatvalue="" stringvalue="T-Shirt" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1102" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1103" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1110" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1116" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1118" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1121" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1122" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Hemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Hemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_26_MCL011_1104" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="3" value="Marinehemd mit durchgehender Knopfleiste" integervalue="" floatvalue="" stringvalue="Marinehemd mit durchgehender Knopfleiste" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1106" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="4" value="Anzugshemd" integervalue="" floatvalue="" stringvalue="Anzugshemd" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1112" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="4" value="Anzugshemd" integervalue="" floatvalue="" stringvalue="Anzugshemd" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1117" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="4" value="Anzugshemd" integervalue="" floatvalue="" stringvalue="Anzugshemd" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_34_MCL011_1111" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&de_DE;" sequence="5" value="T-Shirt mit Knopfleiste" integervalue="" floatvalue="" stringvalue="T-Shirt mit Knopfleiste" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_MenShirts_4" attrtype_id="STRING" language_id="&de_DE;" name="Anlass" description="Anlass" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1101" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1103" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1104" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1110" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1111" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1113" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1114" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1115" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1118" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1120" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1121" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1122" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1102" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1112" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1117" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_31_MCL011_1106" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Büro" integervalue="" floatvalue="" stringvalue="Büro" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_43_MCL011_1116" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&de_DE;" sequence="4" value="Offiziell" integervalue="" floatvalue="" stringvalue="Offiziell" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Pattern -->
+<attrdesc attr_id="@attribute_id_MenShirts_1" attrtype_id="STRING" language_id="&de_DE;" name="Muster" description="Muster" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1101" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1102" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1104" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1106" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1111" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1112" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1113" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1114" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1115" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1116" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1117" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1120" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1122" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Ohne
+" integervalue="" floatvalue="" stringvalue="Ohne
+" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1103" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kariert" integervalue="" floatvalue="" stringvalue="Kariert" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1110" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kariert" integervalue="" floatvalue="" stringvalue="Kariert" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_46_MCL011_1118" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="3" value="Kleinkariert" integervalue="" floatvalue="" stringvalue="Kleinkariert" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_51_MCL011_1121" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Gestreift" integervalue="" floatvalue="" stringvalue="Gestreift" />
+<!--end of  Pattern -->
+<!-- END Writing descriptive attribute descriptions -->

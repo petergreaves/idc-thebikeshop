@@ -1,0 +1,166 @@
+<!-- Only translate those fields that have  in them                  -->
+<!-- That would be calcodedsc.description and calcodedsc.longdescription -->
+
+
+
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcodedsc
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+-->
+
+<calcodedsc
+  calcode_id="@calcode_id_p2"
+  language_id="&pt_BR;"
+  description="Envio Gratuito!"
+  longdescription="Frete Grátis (não aéreo) para pedidos acima de US$70."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_2"
+	language_id="&pt_BR;"
+	admindesc="Desconto no Frete - Entre gratuita por método econômico em compras acima de US$70"
+	shortdesc="Envio Gratuito!"
+	longdesc="Frete Grátis (não aéreo) para pedidos acima de US$70."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p4"
+  language_id="&pt_BR;"
+  description="Clientes repetidos economizam R$ 15,00"
+  longdescription="Para todos os clientes que têm comprado com êxito conosco, retornem e economizem $5,00 em seu próximo pedido."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_4"
+	language_id="&pt_BR;"
+	admindesc="Desconto em Pedido - Clientes no segmento de Clientes Habituais recebem $5,00 de desconto no próximo pedido"
+	shortdesc="Clientes repetidos economizam R$ 15,00"
+	longdesc="Para todos os clientes que têm comprado com êxito conosco, retornem e economizem $5,00 em seu próximo pedido."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p6"
+  language_id="&pt_BR;"
+  description="Registre-se hoje e economize 7%."
+  longdescription="Registre-se conosco hoje e ecomonize 7% em seu próximo pedido."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_6"
+	language_id="&pt_BR;"
+	admindesc="Desconto no Pedido - Código de promoção para que clientes registrados economizem 7% no próximo pedido"
+	shortdesc="Registre-se hoje e economize 7%."
+	longdesc="Registre-se conosco hoje e ecomonize 7% em seu próximo pedido."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p10"
+  language_id="&pt_BR;"
+  description="Economize 10% em todos os pedidos"
+  longdescription="Economize 10% em todos os pedidos."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_10"
+	language_id="&pt_BR;"
+	admindesc="Economize 10% em todos os pedidos hoje"
+	shortdesc="Economize 10% em todos os pedidos"
+	longdesc="Economize 10% em todos os pedidos."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p11"
+  language_id="&pt_BR;"
+  description="Economize R$ 25 em todos os pedidos acima de R$ 200"
+  longdescription="Economize R$ 25 em todos os pedidos acima de R$ 200."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_11"
+	language_id="&pt_BR;"
+	admindesc="Economize $25 em todos os pedidos feitos antes de sábado"
+	shortdesc="Economize R$ 25 em todos os pedidos acima de R$ 200"
+	longdesc="Economize R$ 25 em todos os pedidos acima de R$ 200."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+<calcodedsc
+  calcode_id="@calcode_id_p13"
+  language_id="&pt_BR;"
+  description="Exatos US$5 Frete normal!"
+  longdescription="Use o frete normal dos Estados Unidos e pague somente o frete total de US$5 pelo envio do seu pedido."
+/>
+
+<px_description
+	px_promotion_id="@px_promotion_id_13"
+	language_id="&pt_BR;"
+	admindesc="Desconto na Remessa"
+	shortdesc="Exatos US$5 Frete normal!"
+	longdesc="Use o frete normal dos Estados Unidos e pague somente o frete total de US$5 pelo envio do seu pedido."
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>
+
+
+<calcodedsc
+  calcode_id="@calcode_id_p1"
+  language_id="&pt_BR;"
+  description="Economize 20% em Móveis!"
+  longdescription="Economize 20% em todos os itens de Mobília! Sem restrições!"
+/>
+<px_description
+	px_promotion_id="@px_promotion_id_1"
+	language_id="&pt_BR;"
+	admindesc="Desconto na Categoria - Receba 20% de desconto em móveis"
+	shortdesc="Economize 20% em Móveis!"
+	longdesc="Economize 20% em todos os itens de Mobília! Sem restrições!"
+	field1="&quot;"
+	field2="&quot;"
+	field3="&quot;"
+	field4="&quot;"
+	field5="&quot;"
+	optcounter="0"
+/>

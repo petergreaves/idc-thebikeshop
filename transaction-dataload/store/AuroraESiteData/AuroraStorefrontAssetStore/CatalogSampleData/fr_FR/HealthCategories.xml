@@ -1,0 +1,51 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Health -->
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Health"
+   name="Santé"
+   shortdescription="Santé"
+   published="1"
+   thumbnail="images/catalog/health/category/catr_hme_medicine.png"
+   fullimage="images/catalog/health/category/catr_hme_medicine.png"
+   keyword="Santé"
+/>
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Medicince"
+   name="Médicaments"
+   shortdescription="Médicaments"
+   published="1"
+   thumbnail="images/catalog/health/category/catr_hme_medicine.png"
+   fullimage="images/catalog/health/category/catr_hme_medicine.png"
+   keyword="Médicaments"
+/>
+
+<catgrpdesc
+   language_id="&fr_FR;"
+   catgroup_id="@catgroup_id_Vitamins"
+   name="Vitamines"
+   shortdescription="Vitamines"
+   published="1"
+   thumbnail="images/catalog/health/category/catr_hvt_vitamins.png"
+   fullimage="images/catalog/health/category/catr_hvt_vitamins.png"
+   keyword="Vitamines"
+/>
+<!-- End of Category Descriptions -->
+
+

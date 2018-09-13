@@ -1,0 +1,13 @@
+
+<!--SHPMODEDSC 
+Description of Shipping Mode - Language Specfic 
+-->
+
+<shpmodedsc 
+   description="Express" 
+   field1=""
+   field2="Express"
+   shipmode_id="@shipmode_id_1" 
+   language_id="&ja_JP;" 
+/>
+

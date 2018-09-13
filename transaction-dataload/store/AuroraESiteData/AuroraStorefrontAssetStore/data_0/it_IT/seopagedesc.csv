@@ -1,0 +1,13 @@
+﻿Seopage
+PageGroup,PageAdminName,URLKeyword,PageTitle,MetaDescription,MetaKeyword,ImageAltText
+Content,HelpPage,help,Guida in <seo: StoreName/>,Guida in <seo: StoreName/>,Guida in <seo: StoreName/>,Immagine per Guida <seo: StoreName/>
+Content,ContactUsPage,contact-us,Come contattarci per <seo: StoreName/>,Come contattarci per <seo: StoreName/>,Come contattarci per <seo: StoreName/>,Immagini per Come contattarci <seo: StoreName/>
+Content,ReturnPolicyPage,return-policy,Politica di restituzione per <seo: StoreName/>,Politica di restituzione per <seo: StoreName/>,Politica di restituzione per <seo: StoreName/>,Immagine per Politica di restituzione <seo: StoreName/>
+Content,PrivacyPolicyPage,privacy-policy,Norme di riservatezza del sito Web per <seo: StoreName/>,Norme di riservatezza del sito Web per <seo: StoreName/>,Norme di riservatezza del sito Web per <seo: StoreName/>,Immagine per Norme di riservatezza <seo: StoreName/>
+Content,CorporateInfoPage,corporate-info,Chi siamo per <seo: StoreName/>,Chi siamo per <seo: StoreName/>,Chi siamo per <seo: StoreName/>,Immagine per Chi siamo <seo: StoreName/>
+Content,CorporateContactUsPage,corporate-contact-us,Contatti aziendali per <seo: StoreName/>,Contatti aziendali per <seo: StoreName/>,Contatti aziendali per <seo: StoreName/>,Immagine per Contatti aziendali <seo: StoreName/>
+Content,SiteMapPage,sitemap,Mappa del sito per <seo: StoreName/>,Mappa del sito per <seo: StoreName/>,Mappa del sito per <seo: StoreName/>,Immagine per Mappa del sito <seo: StoreName/>
+Content,HomePage,,Benvenuti <seo: StoreName/>,Negozio <seo: StoreName/> in linea. <seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,Immagine per l'home page <seo: StoreName/>
+Content,AboutDressDesigner,apparel-designer,Informazioni sulla stilista,Informazioni sulla stilista per <seo: StoreName/>,Informazioni sulla stilista per <seo: StoreName/>,Immagine per Informazioni sulla stilista <seo: StoreName/>
+Content,AuroraStyleGuide,apparel-style-guide,Guida di stile per l'abbigliamento,Guida di stile per l'abbigliamento per <seo: StoreName/>,Guida di stile per l'abbigliamento per <seo: StoreName/>,Immagine per Guida di stile per l'abbigliamento <seo: StoreName/>
+Content,EveningSparkleDress,evening-dress-video,Video raccolta abiti eleganti da sera,Video raccolta abiti eleganti da sera per <seo: StoreName/>,Video raccolta abiti eleganti da sera per <seo: StoreName/>,Immagine per Video raccolta abiti eleganti da sera <seo: StoreName/>

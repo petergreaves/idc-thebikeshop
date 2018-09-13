@@ -1,0 +1,67 @@
+
+<colldesc 
+	collateral_id="@collateral_id_aboutdressdesigner_hero"
+	language_id="&es_ES;"
+	longmktgtext="&lt;div class=&quot;left_column left_column_5px static_page&quot; role=&quot;main&quot;&gt;			
+			&lt;div class=&quot; hero_image &quot;&gt;				
+				&lt;img alt=&quot;About the designer hero image&quot; src=&quot;[imagePath]StaticContent/images/[langlocale]/011B_EATDM_EliseKurkova_001.jpg&quot;/&gt;			
+			&lt;/div&gt;						
+			&lt;div class=&quot;header&quot;&gt;Acerca del Diseñador&lt;/div&gt;						
+			&lt;div class=&quot;three_column_content&quot;&gt;				
+				&lt;div class=&quot;column&quot; &gt;					
+					&lt;div class=&quot;text_holder&quot; &gt;						
+						&lt;p&gt;La galardonada diseñadora Elise Kurkova es una inspiración para los que aprecian el estilo, el diseño y la calidad sin compromisos.&lt;/p&gt;					
+						&lt;p&gt;&quot;Quiero que cuando una mujer se ponga una de mis creaciones se sienta como si estuviese disfrutando de uno de los mejores placeres de la vida.&quot;&lt;/p&gt;	
+					&lt;/div&gt;										
+					&lt;div class=&quot;espot&quot; style=&quot;position:relative;&quot;&gt;						
+						&lt;img alt=&quot;Dresses Image&quot; src=&quot;[imagePath]StaticContent/images/dresses_espot.png&quot;/&gt;					
+						&lt;a href=&quot;[fullPathHomeURL]/apparel/women/dresses&quot;&gt;						
+						&lt;div class=&quot;imagelink&quot; style=&quot;position: absolute; &nbsp;top: 220px; right: 0px; &quot;&gt;						
+						Vestidos							
+						&lt;/div&gt;						
+						&lt;/a&gt;					
+						&lt;/div&gt;					
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;					
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;						
+						&lt;div class=&quot;text_holder&quot;&gt;							
+						&lt;p&gt;Nacida en San Petersburgo, Rusia, Elise recuerda que de niña jugaba a disfrazarse con la ropa vieja de su madre y pasaba horas transformando cada prenda con&lt;/p&gt;						
+						&lt;/div&gt;			
+						&lt;/div&gt;							
+						&lt;div class=&quot;column border&quot;&gt;				
+						&lt;div class=&quot;text_holder&quot;&gt;					
+						&lt;p&gt;cualquier adorno que podía encontrar en su casa.&lt;/p&gt;					
+						&lt;p&gt;Su creatividad floreció durante sus años universitarios, cuando estudiaba Historia del Arte, especializándose en tendencias de moda del siglo XX.&lt;/p&gt;																		
+						&lt;p&gt;Fue en la escuela donde adquirió el gusto por la creación de ropa, cuando se le pidió que realizara el vestuario para la función teatral de fin de curso.&lt;/p&gt;	
+							&lt;p&gt;Esto despertó su deseo de crear sus propios diseños, por lo que tras finalizar sus estudios universitarios se trasladó a los Estados Unidos para estudiar diseño de modas.&lt;/p&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			
+						&lt;/div&gt;								
+						&lt;div class=&quot;quote&quot;&gt;					
+							&quot;Quiero que cuando una mujer se ponga una de mis creaciones se sienta como si estuviese disfrutando de uno de los mejores placeres de la vida.&quot;		
+						&lt;/div&gt;								
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;			
+						&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;					
+						&lt;div class=&quot;text_holder&quot;&gt;					
+							&lt;p&gt;Tras graduarse en 1998, Elise se trasladó a Nueva York, donde trabajó para varias casas de moda, en las que poco a poco fue adquiriendo experiencia en compras y marketing.&lt;/p&gt;				
+							&lt;p&gt;Elise empezó a colaborar con Madison's en 2007 para lanzar su primera colección, que estaba inspirada en su país de origen.&lt;/p&gt;		
+						&lt;/div&gt;			
+						&lt;/div&gt;									
+						&lt;div class=&quot;column border&quot;&gt;				
+						&lt;div class=&quot;text_holder&quot;&gt;				
+						&lt;p&gt;La colección Petroika presentaba ropa de invierno con un diseño elegante y funcional.&lt;/p&gt;					
+						&lt;p&gt;Y ahora, sus esfuerzos más recientes han dado como resultado la nueva colección Heritage.&lt;/p&gt;					
+						&lt;p&gt;Esta línea de trajes de noche ofrece propuestas muy variadas y para todos los gustos, desde diseños en piel originales y desenfadados hasta lentejuelas y satenes de seda sensuales y sofisticados.&lt;/p&gt;					
+						&lt;/div&gt;								
+						&lt;div class=&quot;espot&quot; style=&quot;position:relative;margin-left:1px;&quot;&gt;				
+						&lt;img alt=&quot;Suits Image&quot; src=&quot;[imagePath]StaticContent/images/suits_espot.png&quot;/&gt;						
+						&lt;a href=&quot;[fullPathHomeURL]/apparel/men/suits&quot;&gt;				
+						&lt;div class=&quot;imagelink&quot; style=&quot;top: 257px; right: 0px;&quot;&gt;							
+							Trajes						
+						&lt;/div&gt;				
+						&lt;/a&gt;					
+						&lt;/div&gt;				
+						&lt;/div&gt;				
+						&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;		
+						&lt;/div&gt;					
+						&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;				
+						&lt;/div&gt;"
+/>
+

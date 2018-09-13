@@ -1,0 +1,6 @@
+RegisterWidgetDef
+WidgetDefIdentifier,WidgetVendor,WidgetType,WidgetPath,WidgetDefinitionxml,WidgetState,Delete
+SampleHomePageContainer,ibm,2,Container/HomePageContainer.jsp,<Definition> </Definition>,1,
+SampleDepartmentPageContainer,ibm,2,Container/TopCategoryPageContainer.jsp,<Definition> </Definition>,1,
+SampleStaticContentContainer,ibm,2,Container/StaticContentContainer.jsp,<Definition> </Definition>,1,
+SampleContentPageContainer,ibm,2,Container/StaticContentPageDisplayContainer.jsp,<Definition> </Definition>,1,

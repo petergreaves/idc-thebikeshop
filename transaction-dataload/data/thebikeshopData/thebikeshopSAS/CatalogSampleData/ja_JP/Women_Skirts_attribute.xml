@@ -1,0 +1,141 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenSkirtsColor -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_9" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_15" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="1" value="ブルー" integervalue="" floatvalue="" stringvalue="ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_20" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="2" value="グリーン" integervalue="" floatvalue="" stringvalue="グリーン" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_25" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="3" value="ブラック" integervalue="" floatvalue="" stringvalue="ブラック" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_31" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="4" value="グレー" integervalue="" floatvalue="" stringvalue="グレー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_34" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="5" value="複数カラー" integervalue="" floatvalue="" stringvalue="複数カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_50" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ja_JP;" sequence="6" value="オレンジ" integervalue="" floatvalue="" stringvalue="オレンジ" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsColor -->
+<!--BEGIN Defining attribute description  WomenSkirtsSize -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_8" attrtype_id="STRING" language_id="&ja_JP;" name="サイズ" description="サイズ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_8" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_9" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_10" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_11" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_12" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_13" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_14" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ja_JP;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_7" attrtype_id="STRING" language_id="&ja_JP;" name="洗濯" description="洗濯" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0302" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0303" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0307" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0309" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0314" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0315" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0317" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0318" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0321" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0323" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="1" value="洗濯機洗い可" integervalue="" floatvalue="" stringvalue="洗濯機洗い可" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0305" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0306" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0311" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0313" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0316" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ドライ・クリーニング" integervalue="" floatvalue="" stringvalue="ドライ・クリーニング" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_4" attrtype_id="STRING" language_id="&ja_JP;" name="素材" description="素材" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0302" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="コットン/スパンデックス" integervalue="" floatvalue="" stringvalue="コットン/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0305" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="コットン/スパンデックス" integervalue="" floatvalue="" stringvalue="コットン/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0323" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="1" value="コットン/スパンデックス" integervalue="" floatvalue="" stringvalue="コットン/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_18_WCL003_0303" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="2" value="コットン・" integervalue="" floatvalue="" stringvalue="コットン・" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0306" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="3" value="フランネル" integervalue="" floatvalue="" stringvalue="フランネル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0314" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="3" value="フランネル" integervalue="" floatvalue="" stringvalue="フランネル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0307" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="4" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0318" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="4" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0321" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="4" value="綿混紡" integervalue="" floatvalue="" stringvalue="綿混紡" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0309" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="5" value="ポリエステル/スパンデックス" integervalue="" floatvalue="" stringvalue="ポリエステル/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0311" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="5" value="ポリエステル/スパンデックス" integervalue="" floatvalue="" stringvalue="ポリエステル/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_39_WCL003_0313" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="6" value="サテン" integervalue="" floatvalue="" stringvalue="サテン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_45_WCL003_0315" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="7" value="レーヨン/ナイロン/スパンデックス" integervalue="" floatvalue="" stringvalue="レーヨン/ナイロン/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_47_WCL003_0316" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="8" value="ポリエステル/レーヨン/スパンデックス" integervalue="" floatvalue="" stringvalue="ポリエステル/レーヨン/スパンデックス" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_49_WCL003_0317" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ja_JP;" sequence="9" value="ポリエステル" integervalue="" floatvalue="" stringvalue="ポリエステル" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_2" attrtype_id="STRING" language_id="&ja_JP;" name="スタイル" description="スタイル" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0302" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="フロント・オープン" integervalue="" floatvalue="" stringvalue="フロント・オープン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0307" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="フロント・オープン" integervalue="" floatvalue="" stringvalue="フロント・オープン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0323" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="1" value="フロント・オープン" integervalue="" floatvalue="" stringvalue="フロント・オープン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0303" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="プルオン" integervalue="" floatvalue="" stringvalue="プルオン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0305" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="プルオン" integervalue="" floatvalue="" stringvalue="プルオン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0309" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="2" value="プルオン" integervalue="" floatvalue="" stringvalue="プルオン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0306" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="3" value="シース" integervalue="" floatvalue="" stringvalue="シース" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0314" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="3" value="シース" integervalue="" floatvalue="" stringvalue="シース" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_35_WCL003_0311" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="4" value="ルーシュ" integervalue="" floatvalue="" stringvalue="ルーシュ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_38_WCL003_0313" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="5" value="フィット" integervalue="" floatvalue="" stringvalue="フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0315" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ペンシル" integervalue="" floatvalue="" stringvalue="ペンシル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0321" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="6" value="ペンシル" integervalue="" floatvalue="" stringvalue="ペンシル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_46_WCL003_0316" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="7" value="テーラード" integervalue="" floatvalue="" stringvalue="テーラード" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_48_WCL003_0317" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="8" value="ボックス・プリーツ" integervalue="" floatvalue="" stringvalue="ボックス・プリーツ" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_52_WCL003_0318" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ja_JP;" sequence="9" value="プリーツ" integervalue="" floatvalue="" stringvalue="プリーツ" />
+<!--end of  Style -->
+<!--start of  Length -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_3" attrtype_id="STRING" language_id="&ja_JP;" name="長さ" description="長さ" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0302" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0303" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0307" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0316" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0317" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0318" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0323" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="1" value="ミニ丈" integervalue="" floatvalue="" stringvalue="ミニ丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0305" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="ミディアム丈" integervalue="" floatvalue="" stringvalue="ミディアム丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0309" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="ミディアム丈" integervalue="" floatvalue="" stringvalue="ミディアム丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0313" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="2" value="ミディアム丈" integervalue="" floatvalue="" stringvalue="ミディアム丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0306" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="3" value="膝丈" integervalue="" floatvalue="" stringvalue="膝丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0311" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="3" value="膝丈" integervalue="" floatvalue="" stringvalue="膝丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0314" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="3" value="膝丈" integervalue="" floatvalue="" stringvalue="膝丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0321" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="3" value="膝丈" integervalue="" floatvalue="" stringvalue="膝丈" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_44_WCL003_0315" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ja_JP;" sequence="4" value="膝下" integervalue="" floatvalue="" stringvalue="膝下" />
+<!--end of  Length -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_5" attrtype_id="STRING" language_id="&ja_JP;" name="着用シーン" description="着用シーン" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0302" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0303" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0307" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0309" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0317" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0318" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0323" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="1" value="カジュアル" integervalue="" floatvalue="" stringvalue="カジュアル" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0305" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="2" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0306" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="2" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0314" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="2" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0321" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="2" value="キャリア" integervalue="" floatvalue="" stringvalue="キャリア" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0311" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="3" value="キャリア、カクテル、イブニング" integervalue="" floatvalue="" stringvalue="キャリア、カクテル、イブニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0315" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="3" value="キャリア、カクテル、イブニング" integervalue="" floatvalue="" stringvalue="キャリア、カクテル、イブニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0313" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="4" value="カクテル、イブニング" integervalue="" floatvalue="" stringvalue="カクテル、イブニング" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0316" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ja_JP;" sequence="4" value="カクテル、イブニング" integervalue="" floatvalue="" stringvalue="カクテル、イブニング" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Shape -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_1" attrtype_id="STRING" language_id="&ja_JP;" name="形状" description="形状" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0302" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="スタンダード・フィット" integervalue="" floatvalue="" stringvalue="スタンダード・フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0305" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="スタンダード・フィット" integervalue="" floatvalue="" stringvalue="スタンダード・フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0307" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="スタンダード・フィット" integervalue="" floatvalue="" stringvalue="スタンダード・フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0323" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="1" value="スタンダード・フィット" integervalue="" floatvalue="" stringvalue="スタンダード・フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0303" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="2" value="フロック" integervalue="" floatvalue="" stringvalue="フロック" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0309" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="2" value="フロック" integervalue="" floatvalue="" stringvalue="フロック" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0317" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="2" value="フロック" integervalue="" floatvalue="" stringvalue="フロック" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0306" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0311" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0314" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0315" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0316" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0321" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="3" value="A ライン" integervalue="" floatvalue="" stringvalue="A ライン" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_37_WCL003_0313" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="4" value="フィット" integervalue="" floatvalue="" stringvalue="フィット" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_51_WCL003_0318" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ja_JP;" sequence="5" value="パフボール" integervalue="" floatvalue="" stringvalue="パフボール" />
+<!--end of  Shape -->
+<!-- END Writing descriptive attribute descriptions -->

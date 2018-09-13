@@ -1,0 +1,5 @@
+BusinessUser,storeIdentifier=AuroraESite,,,,,,,,,,,,,,,,,,,
+logonId,personTitle,lastName,firstName,middleName,displayName,description,address1,address2,address3,city,state,country,zipCode,phone1,mobilePhone1,bestCallingTime
+darryljohnson@mycompany.com,Mr.,Johnson,Darryl,,Darryl Johnson,Category Manager,9111 First Avenue,,,Austin,TX,US,77071,5121234567,,E
+elainelee@mycompany.com,Ms.,Lee,Elaine,,Elaine Lee,Business User,4115 Main Street,,,New York,NY,US,10001,,,E
+

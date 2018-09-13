@@ -1,0 +1,4 @@
+<!-- Content Area ESpot for dresses hero image -->
+<collateral collateral_id="@collateral_id_eveningsparkledress_hero" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="EveningSparkleDressHeroImage" />
+<emspot emspot_id="@madisons_emspot_id_14100" storeent_id="&MAR_STOREENT_ID;"  name="EveningSparkleDressPageMainAd" description="Display the main ad on Evening Sparkle Dress page" usagetype="MARKETING" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_eveningsparkledress_hero" emspot_id="@madisons_emspot_id_14100" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_eveningsparkledress_hero" />

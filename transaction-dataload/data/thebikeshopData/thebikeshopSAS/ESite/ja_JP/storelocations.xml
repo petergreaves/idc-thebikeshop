@@ -1,0 +1,379 @@
+
+<stlocds stlocds_id="@stlocds_id_ja_JP_1" stloc_id="@stloc_id_1" language_id="&ja_JP;" name="シェアウェイ・ガーデンズ" description="シェアウェイ・ガーデンズ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_2" stloc_id="@stloc_id_2" language_id="&ja_JP;" name="ヨークデール・センター" description="ヨークデール・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_3" stloc_id="@stloc_id_3" language_id="&ja_JP;" name="マーカム・センター" description="マーカム・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_4" stloc_id="@stloc_id_4" language_id="&ja_JP;" name="マークビル・モール" description="マークビル・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_5" stloc_id="@stloc_id_5" language_id="&ja_JP;" name="バーナビー・センター" description="バーナビー・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_6" stloc_id="@stloc_id_6" language_id="&ja_JP;" name="イートン・センター" description="イートン・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_7" stloc_id="@stloc_id_7" language_id="&ja_JP;" name="ユニバーシティ・アベニュー" description="ユニバーシティ・アベニュー" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_8" stloc_id="@stloc_id_8" language_id="&ja_JP;" name="パークサイド・モール" description="パークサイド・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_9" stloc_id="@stloc_id_9" language_id="&ja_JP;" name="パシフィック・モール" description="パシフィック・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_10" stloc_id="@stloc_id_10" language_id="&ja_JP;" name="バンクーバー・モール" description="バンクーバー・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_11" stloc_id="@stloc_id_11" language_id="&ja_JP;" name="ブレークファスト・プレース" description="ブレークファスト・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_12" stloc_id="@stloc_id_12" language_id="&ja_JP;" name="リジャイナ・センター" description="リジャイナ・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_13" stloc_id="@stloc_id_13" language_id="&ja_JP;" name="エドモントン・プレース" description="エドモントン・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="ビクトリア・プレース" description="ビクトリア・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_15" stloc_id="@stloc_id_15" language_id="&ja_JP;" name="ニューブランズウィック・プレース" description="ニューブランズウィック・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_16" stloc_id="@stloc_id_16" language_id="&ja_JP;" name="ニューファウンドランド・プレース" description="ニューファウンドランド・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_17" stloc_id="@stloc_id_17" language_id="&ja_JP;" name="ノバスコシア・プレース" description="ノバスコシア・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_18" stloc_id="@stloc_id_18" language_id="&ja_JP;" name="モントリオール・プレース" description="モントリオール・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_19" stloc_id="@stloc_id_19" language_id="&ja_JP;" name="ケベック・プレース" description="ケベック・プレース" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="コルウッド BC" description="コルウッド BC" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="ナナイモ BC" description="ナナイモ BC" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="ビク BC2" description="ビク BC2" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="チリワック" description="チリワック" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="メディスンハット" description="メディスンハット" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="エドモントン 2" description="エドモントン 2" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_26" stloc_id="@stloc_id_26" language_id="&ja_JP;" name="カルガリー・モール" description="カルガリー・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_27" stloc_id="@stloc_id_27" language_id="&ja_JP;" name="ウィニペグ・モール" description="ウィニペグ・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="ウォータールー・モール" description="ウォータールー・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_29" stloc_id="@stloc_id_29" language_id="&ja_JP;" name="ラヴァル・モール" description="ラヴァル・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="モントリオール・モール" description="モントリオール・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_31" stloc_id="@stloc_id_31" language_id="&ja_JP;" name="QC モール" description="QC モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="シャーロットタウン・モール" description="シャーロットタウン・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_33" stloc_id="@stloc_id_33" language_id="&ja_JP;" name="フレデリクトン・モール" description="フレデリクトン・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_34" stloc_id="@stloc_id_34" language_id="&ja_JP;" name="フレデリクトン・スクエア" description="フレデリクトン・スクエア" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_35" stloc_id="@stloc_id_35" language_id="&ja_JP;" name="モンクトン・スクエア" description="モンクトン・スクエア" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="NFLD モール" description="NFLD モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="カルガリー・サークル・モール" description="カルガリー・サークル・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="ロンドン・アルバータ・モール" description="ロンドン・アルバータ・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="ワーデン・プラザ" description="ワーデン・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_40" stloc_id="@stloc_id_40" language_id="&ja_JP;" name="バサースト・プラザ" description="バサースト・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_41" stloc_id="@stloc_id_41" language_id="&ja_JP;" name="キール・プラザ" description="キール・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="オールトン・タワーズ・プラザ" description="オールトン・タワーズ・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_43" stloc_id="@stloc_id_43" language_id="&ja_JP;" name="シティー・センター・プラザ" description="シティー・センター・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_44" stloc_id="@stloc_id_44" language_id="&ja_JP;" name="ボロウ・プラザ" description="ボロウ・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_45" stloc_id="@stloc_id_45" language_id="&ja_JP;" name="ブロアー・プラザ" description="ブロアー・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_46" stloc_id="@stloc_id_46" language_id="&ja_JP;" name="ベイ・プラザ" description="ベイ・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_47" stloc_id="@stloc_id_47" language_id="&ja_JP;" name="イズリントン・プラザ" description="イズリントン・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="ダンフォース・プラザ" description="ダンフォース・プラザ" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="ジャクソンヴィル・モール" description="ジャクソンヴィル・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_50" stloc_id="@stloc_id_50" language_id="&ja_JP;" name="ジャクソンヴィル・センター" description="ジャクソンヴィル・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="ジャクソンヴィル・スクエア" description="ジャクソンヴィル・スクエア" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_52" stloc_id="@stloc_id_52" language_id="&ja_JP;" name="ジャクソンヴィル・アウトレット" description="ジャクソンヴィル・アウトレット" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="マイアミ・モール" description="マイアミ・モール" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_54" stloc_id="@stloc_id_54" language_id="&ja_JP;" name="マイアミ・センター" description="マイアミ・センター" />
+<stlocds stlocds_id="@stlocds_id_ja_JP_55" stloc_id="@stloc_id_55" language_id="&ja_JP;" name="マイアミ・スクエア" description="マイアミ・スクエア" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_1" stloc_id="@stloc_id_1" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_2" stloc_id="@stloc_id_2" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_3" stloc_id="@stloc_id_3" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_4" stloc_id="@stloc_id_4" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_5" stloc_id="@stloc_id_5" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_6" stloc_id="@stloc_id_6" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_7" stloc_id="@stloc_id_7" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_8" stloc_id="@stloc_id_8" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_9" stloc_id="@stloc_id_9" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_10" stloc_id="@stloc_id_10" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_11" stloc_id="@stloc_id_11" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_12" stloc_id="@stloc_id_12" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_13" stloc_id="@stloc_id_13" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_14" stloc_id="@stloc_id_14" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_15" stloc_id="@stloc_id_15" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_16" stloc_id="@stloc_id_16" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_17" stloc_id="@stloc_id_17" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_18" stloc_id="@stloc_id_18" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_19" stloc_id="@stloc_id_19" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_20" stloc_id="@stloc_id_20" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_21" stloc_id="@stloc_id_21" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_22" stloc_id="@stloc_id_22" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_23" stloc_id="@stloc_id_23" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_24" stloc_id="@stloc_id_24" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_25" stloc_id="@stloc_id_25" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_26" stloc_id="@stloc_id_26" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_27" stloc_id="@stloc_id_27" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_28" stloc_id="@stloc_id_28" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_29" stloc_id="@stloc_id_29" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_30" stloc_id="@stloc_id_30" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_31" stloc_id="@stloc_id_31" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_32" stloc_id="@stloc_id_32" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_33" stloc_id="@stloc_id_33" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_34" stloc_id="@stloc_id_34" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_35" stloc_id="@stloc_id_35" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_36" stloc_id="@stloc_id_36" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_37" stloc_id="@stloc_id_37" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_38" stloc_id="@stloc_id_38" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_39" stloc_id="@stloc_id_39" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_40" stloc_id="@stloc_id_40" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_41" stloc_id="@stloc_id_41" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="2" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_42" stloc_id="@stloc_id_42" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="5" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_43" stloc_id="@stloc_id_43" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_44" stloc_id="@stloc_id_44" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_45" stloc_id="@stloc_id_45" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_46" stloc_id="@stloc_id_46" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_47" stloc_id="@stloc_id_47" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_48" stloc_id="@stloc_id_48" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="5" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_49" stloc_id="@stloc_id_49" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_50" stloc_id="@stloc_id_50" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_51" stloc_id="@stloc_id_51" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="4" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_52" stloc_id="@stloc_id_52" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="BeautyCenter" displayname="ビューティー・センター" value="true" displayvalue="はい" displayable="1" sequence="3" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_5_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="4" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_6_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="5" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_7_stloc_id_53" stloc_id="@stloc_id_53" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Regular Store" displayvalue="正規店" displayable="1" sequence="6" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ja_JP;" name="CappuccinoBar" displayname="カプチーノ・バー" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ja_JP;" name="SushiRestaurant" displayname="寿司屋" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_54" stloc_id="@stloc_id_54" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Express Store" displayvalue="運送便の店" displayable="1" sequence="3" />
+
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_1_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ja_JP;" name="StoreHours" displayname="営業時間" value="Mon-Fri: 10am - 9pm&lt;br /&gt;Sat: 9am - 7pm&lt;br /&gt;Sun: 11am - 6pm&lt;br /&gt;" displayvalue="月 - 金: 午前 10 時 - 午後 9 時&lt;br /&gt;土: 午前 9 時 - 午後 7 時&lt;br /&gt;日: 午前 11 時 - 午後 6 時&lt;br /&gt;" displayable="1" sequence="99" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_2_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ja_JP;" name="DesignerStudio" displayname="デザイナー・スタジオ" value="true" displayvalue="はい" displayable="1" sequence="1" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_3_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ja_JP;" name="Electronics" displayname="電化製品
+" value="true" displayvalue="はい" displayable="1" sequence="2" />
+<stlocattr stlocattr_id="@stlocattr_id_ja_JP_4_stloc_id_55" stloc_id="@stloc_id_55" language_id="&ja_JP;" name="Type" displayname="タイプ" value="Outlet Store" displayvalue="アウトレット店" displayable="1" sequence="3" />

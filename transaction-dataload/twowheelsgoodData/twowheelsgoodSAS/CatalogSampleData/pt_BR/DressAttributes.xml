@@ -1,0 +1,75 @@
+
+<attrdesc attr_id="@swatchdress_size_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Tamanhos Disponíveis" description="Tamanhos Disponíveis" qtyunit_id="C62"/>
+<attrdesc attr_id="@swatchdress_color_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Cor" description="Cor" qtyunit_id="C62"/>
+
+
+
+
+
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_1" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="2" value="P" stringvalue="P" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_s_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_2" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="3" value="M" stringvalue="M" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_m_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_3" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="4" value="G" stringvalue="G" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_l_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_4" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="1" value="PP" stringvalue="PP" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xs_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_5" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="5" value="GG" stringvalue="GG" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xl_enabled.png"/>
+<attrvaldesc attrval_id="@swatchdress_size_attribute_value_6" attr_id="@swatchdress_size_attribute_id" valusage="1" language_id="&pt_BR;" sequence="6" value="GGG" stringvalue="GGG" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_size/size_xxl_enabled.png"/>
+
+
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_1" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="1" value="Vermelho" stringvalue="Vermelho" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_red.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_2" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="2" value="Azul petróleo" stringvalue="Azul petróleo" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_teal.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_3" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="3" value="Amarelo" stringvalue="Amarelo" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_yellow.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_4" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="4" value="Cinza" stringvalue="Cinza" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gray.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_5" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="5" value="Laranja"  stringvalue="Laranja" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_orange.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_6" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="6" value="Azul" stringvalue="Azul" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_blue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_7" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="7" value="Roxa" stringvalue="Roxa" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_8" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="8" value="Branco" stringvalue="Branco" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_white.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_9" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="9" value="Prata" stringvalue="Prata" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_silver.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_10" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="10" value="Marrom" stringvalue="Marrom" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_brown.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_11" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="11" value="Rosa"  stringvalue="Rosa" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_pink.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_12" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="12" value="Azul Claro" stringvalue="Azul Claro" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_lightblue.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_13" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Violeta" stringvalue="Violeta" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_purple.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_14" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Preta" stringvalue="Preta" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_black.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_15" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Bege" stringvalue="Bege" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_beige.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_16" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Azul Escuro" stringvalue="Azul Escuro" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_navy.png"/>
+
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_17" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Dourado" stringvalue="Dourado" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_gold.png"/>
+<attrvaldesc attrval_id="@swatchdress_color_attribute_value_18" attr_id="@swatchdress_color_attribute_id" valusage="1" language_id="&pt_BR;" sequence="13" value="Verde" stringvalue="Verde" qtyunit_id="C62" image1="&WCHPREFIX;&WCHASSETS_CATSTOREDIR;/images/catalog/apparel/women/Swatches/swatch_green.png"/>
+
+
+
+
+
+
+<attrdesc attr_id="@dress_construction_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Construção" description="construção" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_length_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Comprimento" description="comprimento" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_material_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Material" description="material" qtyunit_id="C62"/>
+<attrdesc attr_id="@dress_occasion_attribute_id" attrtype_id="STRING" language_id="&pt_BR;" name="Ocasião" description="ocasião" qtyunit_id="C62"/>
+
+
+
+
+<attrvaldesc attrval_id="@dress_construction_attribute_value_1" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&pt_BR;" sequence="19" value="Tricô" stringvalue="Tricô" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_construction_attribute_value_2" attr_id="@dress_construction_attribute_id" valusage="1" language_id="&pt_BR;" sequence="19" value="Tecido" stringvalue="Tecido" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_length_attribute_value_1" attr_id="@dress_length_attribute_id" valusage="1" language_id="&pt_BR;" sequence="20" value="Curta" stringvalue="Curta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_2" attr_id="@dress_length_attribute_id" valusage="1" language_id="&pt_BR;" sequence="21" value="Comprimento Médio" stringvalue="Comprimento Médio" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_length_attribute_value_3" attr_id="@dress_length_attribute_id" valusage="1" language_id="&pt_BR;" sequence="21" value="Comprida" stringvalue="Comprida" qtyunit_id="C62" />
+
+<attrvaldesc attrval_id="@dress_material_attribute_value_1" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="21" value="Sintético" stringvalue="Sintético" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_2" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="22" value="Georgette" stringvalue="Georgette" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_3" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="23" value="Algodão mesclado" stringvalue="Algodão mesclado" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_4" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="24" value="100% algodão" stringvalue="100% algodão" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_5" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="24" value="Seda" stringvalue="Seda" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_6" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="24" value="Denim" stringvalue="Denim" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_material_attribute_value_7" attr_id="@dress_material_attribute_id" valusage="1" language_id="&pt_BR;" sequence="24" value="Lã" stringvalue="Lã" qtyunit_id="C62" />
+
+
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_1" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&pt_BR;" sequence="25" value="Social &amp; Noite" stringvalue="Social &amp; Noite" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_2" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&pt_BR;" sequence="26" value="Informal" stringvalue="Informal" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_3" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&pt_BR;" sequence="27" value="Carreira" stringvalue="Carreira" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_4" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&pt_BR;" sequence="28" value="Carreira, casual" stringvalue="Carreira, Casual" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@dress_occasion_attribute_value_5" attr_id="@dress_occasion_attribute_id" valusage="1" language_id="&pt_BR;" sequence="26" value="Social &amp; Noite, Casual" stringvalue="Social &amp; Noite, Casual" qtyunit_id="C62" />
+

@@ -1,0 +1,33 @@
+
+	<!-- Define page definitions for the store pages -->	
+	<seopagedef
+	 seopagedef_id="@seocatpagedef_id_1"
+	 pagename="CATEGORY_PAGE"
+	 storeent_id="@storeent_id_1"
+	 lastupdate="2010-01-01 00:00:00.00"
+	 createdtime="2010-01-01 00:00:00.00"
+	/>	
+
+	<seopagedef
+	 seopagedef_id="@seocatpagedef_id_2"
+	 pagename="PRODUCT_PAGE"
+	 storeent_id="@storeent_id_1"
+	 lastupdate="2010-01-01 00:00:00.00"
+	 createdtime="2010-01-01 00:00:00.00"
+	/>	
+		
+	<seopagedefovr
+	 seopagedefovr_id="@seopagedefovr_id_1"
+	 seopagedef_id="@seocatpagedef_id_1"
+	 objecttype="CatalogGroup"
+	 object_id="0"
+	 apply_to_child="1"
+	/>	
+	
+	<seopagedefovr
+	 seopagedefovr_id="@seopagedefovr_id_2"
+	 seopagedef_id="@seocatpagedef_id_2"
+	 objecttype="CatalogEntry"
+	 object_id="0"
+	 apply_to_child="1"
+	/>		

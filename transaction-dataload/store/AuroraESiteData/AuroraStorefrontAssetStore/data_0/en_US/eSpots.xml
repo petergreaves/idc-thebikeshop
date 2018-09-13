@@ -1,0 +1,60 @@
+
+
+<atchast
+  atchast_id="@eSpot_atchast_id_03_en_US"
+  storeent_id="@storeent_id_1"
+  atchtgt_id="@eSpot_atchtgt_id_03"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/14B_EHT_FreeShipping_002.jpg"
+  directorypath="images/advertisements/en_US/14B_EHT_FreeShipping_002.jpg"
+/>
+
+<atchtgtdsc
+	atchtgtdsc_id="@eSpot_atchtgtdsc_id_03_en_US"
+	atchtgt_id="@eSpot_atchtgt_id_03"
+	language_id="&en_US;"
+	name="Email Store Promotion Logo"
+	shortdescription="Email Store Promotion Logo"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@eSpot_atchastlg_id_03_en_US"
+  atchast_id="@eSpot_atchast_id_03_en_US"
+  language_id="&en_US;"
+/>
+
+<cmfile 
+	cmfile_id="@cmfile_id_logo_en_US_3" 
+	cmfilepath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/14B_EHT_FreeShipping_002.jpg" 
+	promote_fs="1" 
+	upload_timestamp="2012-10-01 16:00:00.001" 
+	promote_timestamp="2012-10-01 16:00:00.001" 
+	associated="1" 
+	storage_type="-1" 
+	cmfiledir_id="@eSpot_cmfiledir_id_dir_2"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_prod_tab_1"
+	language_id="&en_US;"
+	longmktgtext="Description"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_prod_tab_2"
+	language_id="&en_US;"
+	longmktgtext="Other Customers Also Purchased"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_search_tab_1"
+	language_id="&en_US;"
+	longmktgtext="Products (&lt;span id=&quot;searchTabProdCount&quot;&gt;[productTotalCount]&lt;/span&gt;)"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_search_tab_2"
+	language_id="&en_US;"
+	longmktgtext="Articles &amp; Videos (&lt;span id=&quot;searchTabContentCount&quot;&gt;[contentTotalCount]&lt;/span&gt;)"
+/>
+

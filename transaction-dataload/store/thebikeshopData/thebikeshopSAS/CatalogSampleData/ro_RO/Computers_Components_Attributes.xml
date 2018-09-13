@@ -1,0 +1,68 @@
+
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : ComputersComponentsOperating System Class -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_3" attrtype_id="STRING" language_id="&ro_RO;" name="Clasă sistem de operare" description="Clasă sistem de operare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_3" attr_id="@attribute_id_ComputersComponents_3" valusage="1" language_id="&ro_RO;" sequence="1" value="Server" integervalue="" floatvalue="" stringvalue="Server" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_4" attr_id="@attribute_id_ComputersComponents_3" valusage="1" language_id="&ro_RO;" sequence="2" value="Workstation" integervalue="" floatvalue="" stringvalue="Staţie de lucru" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsOperating System Class -->
+<!--BEGIN Defining attribute description : ComputersComponentsRecording Speed -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_8" attrtype_id="STRING" language_id="&ro_RO;" name="Viteză înregistrare" description="Viteză înregistrare" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_12" attr_id="@attribute_id_ComputersComponents_8" valusage="1" language_id="&ro_RO;" sequence="1" value="8x" integervalue="" floatvalue="" stringvalue="8x" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_13" attr_id="@attribute_id_ComputersComponents_8" valusage="1" language_id="&ro_RO;" sequence="2" value="16x" integervalue="" floatvalue="" stringvalue="16x" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsRecording Speed -->
+<!--BEGIN Defining attribute description : ComputersComponentsVRAM -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_10" attrtype_id="STRING" language_id="&ro_RO;" name="VRAM" description="VRAM" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_20" attr_id="@attribute_id_ComputersComponents_10" valusage="1" language_id="&ro_RO;" sequence="1" value="1 GB" integervalue="" floatvalue="" stringvalue="1 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_21" attr_id="@attribute_id_ComputersComponents_10" valusage="1" language_id="&ro_RO;" sequence="2" value="3 GB" integervalue="" floatvalue="" stringvalue="3 GB" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsVRAM -->
+<!--BEGIN Defining attribute description : ComputersComponentsRAM Size -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_12" attrtype_id="STRING" language_id="&ro_RO;" name="Dimensiune RAM" description="Dimensiune RAM" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_23" attr_id="@attribute_id_ComputersComponents_12" valusage="1" language_id="&ro_RO;" sequence="1" value="2 GB" integervalue="" floatvalue="" stringvalue="2 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_24" attr_id="@attribute_id_ComputersComponents_12" valusage="1" language_id="&ro_RO;" sequence="2" value="4 GB" integervalue="" floatvalue="" stringvalue="4 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_25" attr_id="@attribute_id_ComputersComponents_12" valusage="1" language_id="&ro_RO;" sequence="3" value="8 GB" integervalue="" floatvalue="" stringvalue="8 GB" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsRAM Size -->
+<!--BEGIN Defining attribute description : ComputersComponentsSize -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_7" attrtype_id="STRING" language_id="&ro_RO;" name="Dimensiune" description="Dimensiune" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_10" attr_id="@attribute_id_ComputersComponents_7" valusage="1" language_id="&ro_RO;" sequence="1" value="4.7 GB" integervalue="" floatvalue="" stringvalue="4.7 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_11" attr_id="@attribute_id_ComputersComponents_7" valusage="1" language_id="&ro_RO;" sequence="2" value="8.5 GB" integervalue="" floatvalue="" stringvalue="8.5 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_16" attr_id="@attribute_id_ComputersComponents_7" valusage="1" language_id="&ro_RO;" sequence="3" value="500 GB" integervalue="" floatvalue="" stringvalue="500 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_17" attr_id="@attribute_id_ComputersComponents_7" valusage="1" language_id="&ro_RO;" sequence="4" value="1000 GB" integervalue="" floatvalue="" stringvalue="1000 GB" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_18" attr_id="@attribute_id_ComputersComponents_7" valusage="1" language_id="&ro_RO;" sequence="5" value="2000 GB" integervalue="" floatvalue="" stringvalue="2000 GB" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsSize -->
+<!--BEGIN Defining attribute description : ComputersComponentsCores -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_5" attrtype_id="STRING" language_id="&ro_RO;" name="Nuclee" description="Nuclee" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_6" attr_id="@attribute_id_ComputersComponents_5" valusage="1" language_id="&ro_RO;" sequence="1" value="4-core" integervalue="" floatvalue="" stringvalue="4 nuclee" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_7" attr_id="@attribute_id_ComputersComponents_5" valusage="1" language_id="&ro_RO;" sequence="2" value="6-core" integervalue="" floatvalue="" stringvalue="6 nuclee" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_8" attr_id="@attribute_id_ComputersComponents_5" valusage="1" language_id="&ro_RO;" sequence="3" value="8-core" integervalue="" floatvalue="" stringvalue="8 nuclee" qtyunit_id="C62" />
+<!--END Defining attribute description : ComputersComponentsCores -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_6" attrtype_id="STRING" language_id="&ro_RO;" name="Dimensiune" description="Dimensiune" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_9_CCM039_3903" attr_id="@attribute_id_ComputersComponents_6" valusage="1" language_id="&ro_RO;" sequence="1" value="4.7 GB, 8.5 GB" integervalue="" floatvalue="" stringvalue="4.7 GB, 8.5 GB" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_14_CCM039_3904" attr_id="@attribute_id_ComputersComponents_6" valusage="1" language_id="&ro_RO;" sequence="2" value="500 GB, 1000 GB, 2000 GB" integervalue="" floatvalue="" stringvalue="500 GB, 1000 GB, 2000 GB" />
+<!--end of  Size -->
+<!--start of  CPU Support -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_1" attrtype_id="STRING" language_id="&ro_RO;" name="Suport CPU" description="Suport CPU" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_1_CCM039_3901" attr_id="@attribute_id_ComputersComponents_1" valusage="1" language_id="&ro_RO;" sequence="1" value="64-bit" integervalue="" floatvalue="" stringvalue="64-bit" />
+<!--end of  CPU Support -->
+<!--start of  RAM Size -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_11" attrtype_id="STRING" language_id="&ro_RO;" name="Dimensiune RAM" description="Dimensiune RAM" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_22_CCM039_3906" attr_id="@attribute_id_ComputersComponents_11" valusage="1" language_id="&ro_RO;" sequence="1" value="2 GB, 4 GB, 8 GB" integervalue="" floatvalue="" stringvalue="2 GB, 4 GB, 8 GB" />
+<!--end of  RAM Size -->
+<!--start of  Brand -->
+
+
+
+<!--end of  Brand -->
+<!--start of  Operating System Support -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_4" attrtype_id="STRING" language_id="&ro_RO;" name="Suport sistem de operare" description="Suport sistem de operare" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_5_CCM039_3902" attr_id="@attribute_id_ComputersComponents_4" valusage="1" language_id="&ro_RO;" sequence="1" value="64-bit" integervalue="" floatvalue="" stringvalue="64-bit" />
+<!--end of  Operating System Support -->
+<!--start of  VRAM -->
+<attrdesc attr_id="@attribute_id_ComputersComponents_9" attrtype_id="STRING" language_id="&ro_RO;" name="VRAM" description="VRAM" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_ComputersComponents_19_CCM039_3905" attr_id="@attribute_id_ComputersComponents_9" valusage="1" language_id="&ro_RO;" sequence="1" value="1 GB, 3 GB" integervalue="" floatvalue="" stringvalue="1 GB, 3 GB" />
+<!--end of  VRAM -->
+<!-- END: Writing descriptive attribute descriptions -->
+

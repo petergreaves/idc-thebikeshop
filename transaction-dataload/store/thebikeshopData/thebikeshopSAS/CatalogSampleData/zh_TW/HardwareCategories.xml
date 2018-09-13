@@ -1,0 +1,72 @@
+  <!-- Only translate those fields that have  in them               -->
+  <!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+  
+  <!--
+  
+    Remember to encode conflicting characters:
+  
+    < &lt;
+    > &gt;
+    " &quot;
+  
+  -->
+  
+  <!-- Start of Category Descriptions -->
+  
+  <!-- Start of category descriptions for Hardware -->
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_Hardware"
+              name="硬體"
+              shortdescription="照明設備和扣件的多樣選擇"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="硬體"/>
+              
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_hardware_fasteners"
+              name="扣件
+								"
+              shortdescription="適合各種固定應用的螺絲、螺栓和螺帽"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_hw_fasteners.png"
+              keyword="扣件"/>            
+  
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_hardware_lighting"
+              name="照明"
+              shortdescription="各種形狀與大小的燈泡"
+              published="1"
+              thumbnail="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              fullimage="images/catalog/hardware/lighting/category/catr_hw_lighting.png"
+              keyword="照明"/>            
+  
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_hardware_fasteners_bolts"
+              name="螺栓"
+              shortdescription="設計用於長期固定的螺栓"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fbo_bolts.png"
+              keyword="螺栓"/>            
+  
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_hardware_fasteners_nuts"
+              name="螺帽"
+              shortdescription="各種拋光的高強度螺帽"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fnu_nuts.png"
+              keyword="螺帽"/> 
+              
+  <catgrpdesc language_id="&zh_TW;"
+              catgroup_id="@catgroup_id_hardware_fasteners_screws"
+              name="螺絲"
+              shortdescription="適用於任何固定需求的高品質螺絲"
+              published="1"
+              thumbnail="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              fullimage="images/catalog/hardware/fasteners/category/catr_fsc_screws.png"
+              keyword="螺絲"/>             
+  
+  <!-- End of Category Descriptions -->

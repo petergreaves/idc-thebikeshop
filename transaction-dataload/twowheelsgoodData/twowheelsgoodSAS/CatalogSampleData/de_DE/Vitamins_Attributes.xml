@@ -1,0 +1,57 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : VitaminsCategory -->
+<attrdesc attr_id="@attribute_id_Vitamins_6" attrtype_id="STRING" language_id="&de_DE;" name="Kategorie" description="Kategorie" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_6" attr_id="@attribute_id_Vitamins_6" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_8" attr_id="@attribute_id_Vitamins_6" valusage="1" language_id="&de_DE;" sequence="2" value="Gesundheitsfördernd" integervalue="" floatvalue="" stringvalue="Gesundheitsfördernd" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_14" attr_id="@attribute_id_Vitamins_6" valusage="1" language_id="&de_DE;" sequence="3" value="Naturheilmittel" integervalue="" floatvalue="" stringvalue="Naturheilmittel" qtyunit_id="C62" />
+<!--END Defining attribute description : VitaminsCategory -->
+<!--BEGIN Defining attribute description : VitaminsType -->
+<attrdesc attr_id="@attribute_id_Vitamins_5" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_5" attr_id="@attribute_id_Vitamins_5" valusage="1" language_id="&de_DE;" sequence="1" value="Riegel" integervalue="" floatvalue="" stringvalue="Riegel" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_12" attr_id="@attribute_id_Vitamins_5" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_16" attr_id="@attribute_id_Vitamins_5" valusage="1" language_id="&de_DE;" sequence="3" value="Pille" integervalue="" floatvalue="" stringvalue="Pille" qtyunit_id="C62" />
+<!--END Defining attribute description : VitaminsType -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Vitamins_4" attrtype_id="STRING" language_id="&de_DE;" name="Kategorie" description="Kategorie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3801" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3804" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3805" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3807" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3808" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_4_HVT038_3809" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="1" value="Vitamine und Mineralstoffe" integervalue="" floatvalue="" stringvalue="Vitamine und Mineralstoffe" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_7_HVT038_3802" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="2" value="Gesundheitsfördernd" integervalue="" floatvalue="" stringvalue="Gesundheitsfördernd" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_7_HVT038_3803" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="2" value="Gesundheitsfördernd" integervalue="" floatvalue="" stringvalue="Gesundheitsfördernd" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_13_HVT038_3806" attr_id="@attribute_id_Vitamins_4" valusage="1" language_id="&de_DE;" sequence="3" value="Naturheilmittel" integervalue="" floatvalue="" stringvalue="Naturheilmittel" />
+<!--end of  Category -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Vitamins_3" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_3_HVT038_3801" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="1" value="Riegel" integervalue="" floatvalue="" stringvalue="Riegel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_3_HVT038_3802" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="1" value="Riegel" integervalue="" floatvalue="" stringvalue="Riegel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_11_HVT038_3803" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_11_HVT038_3804" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_11_HVT038_3805" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_11_HVT038_3806" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_11_HVT038_3808" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="2" value="Kapsel" integervalue="" floatvalue="" stringvalue="Kapsel" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_15_HVT038_3807" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="3" value="Pille" integervalue="" floatvalue="" stringvalue="Pille" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_15_HVT038_3809" attr_id="@attribute_id_Vitamins_3" valusage="1" language_id="&de_DE;" sequence="3" value="Pille" integervalue="" floatvalue="" stringvalue="Pille" />
+<!--end of  Type -->
+<!--start of  Packaging -->
+<attrdesc attr_id="@attribute_id_Vitamins_1" attrtype_id="STRING" language_id="&de_DE;" name="Verpackung" description="Verpackung" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_1_HVT038_3801" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="1" value="Eingeschweißt" integervalue="" floatvalue="" stringvalue="Eingeschweißt" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_1_HVT038_3802" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="1" value="Eingeschweißt" integervalue="" floatvalue="" stringvalue="Eingeschweißt" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3803" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3804" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3805" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3806" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3807" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3808" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_Vitamins_9_HVT038_3809" attr_id="@attribute_id_Vitamins_1" valusage="1" language_id="&de_DE;" sequence="2" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<!--end of  Packaging -->
+<!--start of  Brand -->
+
+
+
+<!--end of  Brand -->

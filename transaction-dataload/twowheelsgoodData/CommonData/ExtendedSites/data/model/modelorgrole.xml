@@ -1,0 +1,34 @@
+	<!-- Create Partner Org -->
+	<mbrrel descendant_id="@partner_mbr_id" ancestor_id="-2001" sequence="1" />
+	<addrbook addrbook_id="@partner_addrbook_id" member_id="@partner_mbr_id" displayname="Internal use only." />
+	<address address_id="@partner_addr_id" member_id="@partner_mbr_id" addrbook_id="@partner_addrbook_id" status="P" isprimary="1" nickname="Extended Sites Seller Organization" selfaddress="1" addresstype="SB" address1="Street123" city="Toronto" country="CA" state="ON" zipcode="M3C-1L1" phone1="1-800-555-1234"/>
+	<mbrrole member_id="@partner_mbr_id" role_id="-19" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-16" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-3" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-14" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-17" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-9" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-12" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-11" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-18" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-20" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-4" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-27" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-29" orgentity_id="@partner_orgentity_id" />
+	<mbrrole member_id="@partner_mbr_id" role_id="-35" orgentity_id="@partner_orgentity_id" />
+
+	<!-- Create Business Indirect Hosting Org -->
+	<mbrrel descendant_id="@manufacturer_mbr_id" ancestor_id="-2001" sequence="1" />
+	<addrbook addrbook_id="@manufacturer_addrbook_id" member_id="@manufacturer_mbr_id" displayname="Internal use only." />
+	<address address_id="@manufacturer_addr_id" member_id="@manufacturer_mbr_id" addrbook_id="@manufacturer_addrbook_id" status="P" isprimary="1" nickname="Extended Sites Organization" selfaddress="1" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-4" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-9" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-12" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-16" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-17" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-18" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-19" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-20" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-27" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-29" orgentity_id="@manufacturer_orgentity_id" />
+	<mbrrole member_id="@manufacturer_mbr_id" role_id="-35" orgentity_id="@manufacturer_orgentity_id" />

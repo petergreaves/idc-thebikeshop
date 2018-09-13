@@ -1,0 +1,18 @@
+
+<srchtermassoc srchtermassoc_id="@srchtermassoc_id_en_US_2" associationtype="4" storeent_id="&CAT_STOREENT_ID;" language_id="&en_US;" status="0" scope="@catalog_id" />
+<srchtermassoc srchtermassoc_id="@srchtermassoc_id_en_US_3" associationtype="4" storeent_id="&CAT_STOREENT_ID;" language_id="&en_US;" status="0" scope="@catalog_id" />
+<srchtermassoc srchtermassoc_id="@srchtermassoc_id_en_US_4" associationtype="4" storeent_id="&CAT_STOREENT_ID;" language_id="&en_US;" status="0" scope="@catalog_id" />
+<srchtermassoc srchtermassoc_id="@srchtermassoc_id_en_US_5" associationtype="4" storeent_id="&CAT_STOREENT_ID;" language_id="&en_US;" status="0" scope="@catalog_id" />
+<srchtermassoc srchtermassoc_id="@srchtermassoc_id_en_US_6" associationtype="4" storeent_id="&CAT_STOREENT_ID;" language_id="&en_US;" status="0" scope="@catalog_id" />
+
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_2" type="1" term="map" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_2" type="2" term="GenericStaticContentPageLayoutView?pageName=SiteMapPage" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_3" type="1" term="help" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_3" type="2" term="GenericStaticContentPageLayoutView?pageName=SiteMapPage" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_4" type="1" term="home" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_4" type="2" term="StoreView" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_5" type="1" term="privacy" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_5" type="2" term="GenericStaticContentPageLayoutView?pageName=PrivacyPolicyPage" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_6" type="1" term="contact" />
+<srchterm srchtermassoc_id="@srchtermassoc_id_en_US_6" type="2" term="GenericStaticContentPageLayoutView?pageName=ContactUsPage" />
+

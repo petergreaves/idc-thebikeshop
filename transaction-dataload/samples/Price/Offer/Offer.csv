@@ -1,0 +1,3 @@
+Offer,,,,,,,,,,,,,,,,,,,
+PriceListName,CatentryPartNumber,Identifier,Precedence,StartDate,EndDate,QuantityUnitIdentifier,MinimumQuantity,MaximumQuantity,LastUpdate,Description,PriceInUSD,PriceInBRL,PriceInCAD,PriceInCNY,PriceInEUR,PriceInJPY,PriceInKRW,PriceInTWD,Delete
+AuroraEsite Products Price List loaded,AuroraWMDRS-001,2009,0,,,C62,1,5,,AuroraWMDRS-001 offer,15,,,120,,,,480,0

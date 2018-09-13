@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_fruits10001_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Fruits1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/1102B_EGRS_Apples_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_fruits10001_fr_FR"
+  atchtgt_id="@atchtgt_id_Fruits1001"
+  language_id="&fr_FR;"
+  name="Pommes Red Delicious"
+  shortdescription="Pommes Red Delicious 5 $ les 5 kg cette semaine uniquement !"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_fruits10001_fr_FR"
+  atchast_id="@atchast_id_fruits10001_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_fruits10001_fr_FR"
+  atchrel_id="@atchrel_id_Fruits1001"
+  language_id="&fr_FR;"
+  name="Pommes Red Delicious"
+  shortdescription="Pommes Red Delicious"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Fruits1001"
+	language_id="&fr_FR;"
+	marketingtext="Pommes Red Delicious" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_fruits10002_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Fruits1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/1103B_EGRS_Blackberries_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_fruits10002_fr_FR"
+  atchtgt_id="@atchtgt_id_Fruits1002"
+  language_id="&fr_FR;"
+  name="Mûres généreuses"
+  shortdescription="Mûres généreuses 3,99 $ par paquet cette semaine uniquement !"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_fruits10002_fr_FR"
+  atchast_id="@atchast_id_fruits10002_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_fruits10002_fr_FR"
+  atchrel_id="@atchrel_id_Fruits1002"
+  language_id="&fr_FR;"
+  name="Mûres généreuses"
+  shortdescription="Mûres généreuses"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Fruits1002"
+	language_id="&fr_FR;"
+	marketingtext="Mûres généreuses" 
+/>
+

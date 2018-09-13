@@ -1,0 +1,86 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenAccessoriesColor -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_6" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_10" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="1" value="Синий" integervalue="" floatvalue="" stringvalue="Синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_14" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="2" value="Коричневый" integervalue="" floatvalue="" stringvalue="Коричневый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_19" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="3" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_22" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="4" value="Пурпурный" integervalue="" floatvalue="" stringvalue="Пурпурный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_25" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="5" value="Желтая" integervalue="" floatvalue="" stringvalue="Желтая" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_28" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="6" value="Черный" integervalue="" floatvalue="" stringvalue="Черный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_31" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="7" value="Розовый" integervalue="" floatvalue="" stringvalue="Розовый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_33" attr_id="@attribute_id_WomenAccessories_6" valusage="1" language_id="&ru_RU;" sequence="8" value="Разные цвета" integervalue="" floatvalue="" stringvalue="Разные цвета" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenAccessoriesColor -->
+<!--BEGIN Defining attribute description  WomenAccessoriesSize -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_5" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_5" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="1" value="6 3/4" integervalue="" floatvalue="" stringvalue="6 3/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_6" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="2" value="7" integervalue="" floatvalue="" stringvalue="7" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_7" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="3" value="7 1/4" integervalue="" floatvalue="" stringvalue="7 1/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_8" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="4" value="7 1/2" integervalue="" floatvalue="" stringvalue="7 1/2" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_9" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="5" value="7 3/4" integervalue="" floatvalue="" stringvalue="7 3/4" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_37" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="6" value="32" integervalue="32" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_38" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="7" value="34" integervalue="34" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_39" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="8" value="36" integervalue="36" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_40" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="9" value="40" integervalue="40" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_41" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="10" value="42" integervalue="42" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_42" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="11" value="44" integervalue="44" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_43" attr_id="@attribute_id_WomenAccessories_5" valusage="1" language_id="&ru_RU;" sequence="12" value="46" integervalue="46" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenAccessoriesSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_2" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_2_WAC007_0701" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Шерсть" integervalue="" floatvalue="" stringvalue="Шерсть" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0704" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Растительное волокно" integervalue="" floatvalue="" stringvalue="Растительное волокно" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0706" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Растительное волокно" integervalue="" floatvalue="" stringvalue="Растительное волокно" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_12_WAC007_0707" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Растительное волокно" integervalue="" floatvalue="" stringvalue="Растительное волокно" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_16_WAC007_0705" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Ткань" integervalue="" floatvalue="" stringvalue="Ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0727" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0728" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0730" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0732" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0736" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_36_WAC007_0738" attr_id="@attribute_id_WomenAccessories_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Кожа" integervalue="" floatvalue="" stringvalue="Кожа" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_1" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_1_WAC007_0701" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Шляпа федора" integervalue="" floatvalue="" stringvalue="Шляпа федора" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_11_WAC007_0704" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Ковбойская шляпа" integervalue="" floatvalue="" stringvalue="Ковбойская шляпа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_15_WAC007_0705" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Широкополая шляпа" integervalue="" floatvalue="" stringvalue="Широкополая шляпа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_20_WAC007_0706" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="4" value="Шляпа клош" integervalue="" floatvalue="" stringvalue="Шляпа клош" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_23_WAC007_0707" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="5" value="Рафиевая шляпа" integervalue="" floatvalue="" stringvalue="Рафиевая шляпа" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_26_WAC007_0711" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="6" value="Солнцезащитные очки авиатор" integervalue="" floatvalue="" stringvalue="Солнцезащитные очки авиатор" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_29_WAC007_0713" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="7" value="Овальные солнцезащитные очки" integervalue="" floatvalue="" stringvalue="Овальные солнцезащитные очки" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_30_WAC007_0714" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="8" value="Прямоугольные солнцезащитные очки" integervalue="" floatvalue="" stringvalue="Прямоугольные солнцезащитные очки" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_32_WAC007_0715" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="9" value="Квадратные солнцезащитные очки" integervalue="" floatvalue="" stringvalue="Квадратные солнцезащитные очки" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_34_WAC007_0716" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="10" value="Солнцезащитные очки лисички" integervalue="" floatvalue="" stringvalue="Солнцезащитные очки лисички" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_35_WAC007_0725" attr_id="@attribute_id_WomenAccessories_1" valusage="1" language_id="&ru_RU;" sequence="11" value="Круглые солнцезащитные очки" integervalue="" floatvalue="" stringvalue="Круглые солнцезащитные очки" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_3" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="Нарядные" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0701" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0704" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0706" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0707" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0727" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0728" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0736" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_3_WAC007_0738" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0705" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Официальный" integervalue="" floatvalue="" stringvalue="Официальный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0730" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Официальный" integervalue="" floatvalue="" stringvalue="Официальный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_17_WAC007_0732" attr_id="@attribute_id_WomenAccessories_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Официальный" integervalue="" floatvalue="" stringvalue="Официальный" />
+<!--end of  Occasion -->
+<!--start of  Color -->
+<attrdesc attr_id="@attribute_id_WomenAccessories_7" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenAccessories_44_WAC007_0728" attr_id="@attribute_id_WomenAccessories_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Коричневый" integervalue="" floatvalue="" stringvalue="Коричневый" />
+<!--end of  Color -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

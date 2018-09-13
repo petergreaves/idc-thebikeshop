@@ -1,0 +1,1551 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute fulfillmentFrequency -->
+<attr attr_id="@attribute_id_Magazines_4" identifier="fulfillmentFrequency" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Magazines_4" attr_id="@attribute_id_Magazines_4" storeent_id="&CAT_STOREENT_ID;" identifier="1"	valusage="1" />
+<!--END Defining attribute fulfillmentFrequency -->
+<!--BEGIN Defining attribute paymentFrequency -->
+<attr attr_id="@attribute_id_Magazines_3" identifier="paymentFrequency" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Magazines_3" attr_id="@attribute_id_Magazines_3" storeent_id="&CAT_STOREENT_ID;" identifier="0"	valusage="1" />
+<!--END Defining attribute paymentFrequency -->
+<!--BEGIN Defining attribute timePeriod -->
+<attr attr_id="@attribute_id_Magazines_5" identifier="timePeriod" attrtype_id="INTEGER" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Magazines_5" attr_id="@attribute_id_Magazines_5" storeent_id="&CAT_STOREENT_ID;" identifier="1"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Magazines_6" attr_id="@attribute_id_Magazines_5" storeent_id="&CAT_STOREENT_ID;" identifier="2"	valusage="1" />
+<!--END Defining attribute timePeriod -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute Category -->
+<attr attr_id="@attribute_id_Magazines_2" identifier="Category" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Magazines_2_NMA026_2601" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2601" />
+<attrval attrval_id="@attribute_value_id_Magazines_7_NMA026_2602" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2602" />
+<attrval attrval_id="@attribute_value_id_Magazines_8_NMA026_2603" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2603" />
+<attrval attrval_id="@attribute_value_id_Magazines_9_NMA026_2604" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2604" />
+<attrval attrval_id="@attribute_value_id_Magazines_10_NMA026_2605" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2605" />
+<attrval attrval_id="@attribute_value_id_Magazines_10_NMA026_2609" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2609" />
+<attrval attrval_id="@attribute_value_id_Magazines_11_NMA026_2606" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2606" />
+<attrval attrval_id="@attribute_value_id_Magazines_13_NMA026_2607" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2607" />
+<attrval attrval_id="@attribute_value_id_Magazines_14_NMA026_2608" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2608" />
+<attrval attrval_id="@attribute_value_id_Magazines_15_NMA026_2610" attr_id="@attribute_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2610" />
+<!--END Descriptive attribute Category -->
+<!--BEGIN Descriptive attribute Published -->
+<attr attr_id="@attribute_id_Magazines_1" identifier="Published" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2601" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2601" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2602" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2602" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2603" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2603" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2604" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2604" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2605" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2605" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2606" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2606" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2608" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2608" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2609" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2609" />
+<attrval attrval_id="@attribute_value_id_Magazines_1_NMA026_2610" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2610" />
+<attrval attrval_id="@attribute_value_id_Magazines_12_NMA026_2607" attr_id="@attribute_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2607" />
+<!--END Descriptive attribute Published -->
+<!--BEGIN Descriptive attribute PickUpInStore -->
+<attr attr_id="@attribute_id_Magazines_PickUpInStore" identifier="PickUpInStore" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2601" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2602" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2603" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2604" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2605" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2609" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2606" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2607" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2608" />
+<attrval attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" attr_id="@attribute_id_Magazines_PickUpInStore" storeent_id="&CAT_STOREENT_ID;" identifier="NMA026_2610" />
+<!--END Descriptive attribute PickUpInStore -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry NMA026_2601 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2601" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Econo Sense" partnumber="NMA026_2601" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_1" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_1" baseitem_id="@baseproduct_id_Magazines_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_3" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_product_id_Magazines_1" currency="TWD" listprice="939.3" />
+<!-- Begin attribute mapping for NMA026_2601-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2601" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_1" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_2_NMA026_2601" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_1" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_1" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_1" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_1" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_1" />
+<!-- End attribute mapping for NMA026_2601-->
+
+<!-- BEGIN items of NMA026_2601 -->
+<!-- BEGIN item bean NMA026_260101 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_1" partnumber="NMA026_260101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_1" itemspc_id="@itemspc_id_Magazines_1" itemversn_id="@itemversn_id_Magazines_1" />
+<catentry catentry_id="@catentry_item_id_Magazines_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_1"	catenttype_id="ItemBean" mfname="Econo Sense"	partnumber="NMA026_260101" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_2" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_1" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_2" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_2" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_2" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_2" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260101 -->
+<!-- BEGIN item bean NMA026_260102 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_1" partnumber="NMA026_260102" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_2" itemspc_id="@itemspc_id_Magazines_2" itemversn_id="@itemversn_id_Magazines_1" />
+<catentry catentry_id="@catentry_item_id_Magazines_3" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_2"	catenttype_id="ItemBean" mfname="Econo Sense"	partnumber="NMA026_260102" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_3" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_3" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_3" sequence="1.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_2" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_3" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_3" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_3" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_3" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_3" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260102 -->
+<!-- END items of NMA026_2601 -->
+<!-- END catalog entry NMA026_2601 -->
+<!-- BEGIN catalog entry NMA026_2602 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2602" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_4" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Claudet" partnumber="NMA026_2602" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_4" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_4" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_2" baseitem_id="@baseproduct_id_Magazines_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_6" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_product_id_Magazines_4" currency="TWD" listprice="545.4" />
+<!-- Begin attribute mapping for NMA026_2602-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2602" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_4" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_7_NMA026_2602" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_4" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_4" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_4" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_4" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_4" />
+<!-- End attribute mapping for NMA026_2602-->
+
+<!-- BEGIN items of NMA026_2602 -->
+<!-- BEGIN item bean NMA026_260201 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_2" partnumber="NMA026_260201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_3" itemspc_id="@itemspc_id_Magazines_3" itemversn_id="@itemversn_id_Magazines_2" />
+<catentry catentry_id="@catentry_item_id_Magazines_5" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_3"	catenttype_id="ItemBean" mfname="Claudet"	partnumber="NMA026_260201" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_5" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_5" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_5" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_4" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_item_id_Magazines_5" currency="TWD" listprice="545.4" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_5" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_5" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_5" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_5" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260201 -->
+<!-- BEGIN item bean NMA026_260202 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_2" partnumber="NMA026_260202" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_4" itemspc_id="@itemspc_id_Magazines_4" itemversn_id="@itemversn_id_Magazines_2" />
+<catentry catentry_id="@catentry_item_id_Magazines_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_4"	catenttype_id="ItemBean" mfname="Claudet"	partnumber="NMA026_260202" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_4"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_6" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_6" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_6" sequence="2.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_5" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_item_id_Magazines_6" currency="TWD" listprice="545.4" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_6" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_6" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_6" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260202 -->
+<!-- END items of NMA026_2602 -->
+<!-- END catalog entry NMA026_2602 -->
+<!-- BEGIN catalog entry NMA026_2603 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2603" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Delish" partnumber="NMA026_2603" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_7" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_7" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_3" baseitem_id="@baseproduct_id_Magazines_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_9" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_product_id_Magazines_7" currency="TWD" listprice="666.6" />
+<!-- Begin attribute mapping for NMA026_2603-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2603" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_7" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_8_NMA026_2603" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_7" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_7" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_7" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_7" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_7" />
+<!-- End attribute mapping for NMA026_2603-->
+
+<!-- BEGIN items of NMA026_2603 -->
+<!-- BEGIN item bean NMA026_260301 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_3" partnumber="NMA026_260301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_5" itemspc_id="@itemspc_id_Magazines_5" itemversn_id="@itemversn_id_Magazines_3" />
+<catentry catentry_id="@catentry_item_id_Magazines_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_5"	catenttype_id="ItemBean" mfname="Delish"	partnumber="NMA026_260301" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_8" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_8" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_7" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_8" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_8" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_8" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_8" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260301 -->
+<!-- BEGIN item bean NMA026_260302 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_3" partnumber="NMA026_260302" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_6" itemspc_id="@itemspc_id_Magazines_6" itemversn_id="@itemversn_id_Magazines_3" />
+<catentry catentry_id="@catentry_item_id_Magazines_9" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_6"	catenttype_id="ItemBean" mfname="Delish"	partnumber="NMA026_260302" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_9" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_9" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_9" sequence="3.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_8" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_9" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_9" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_9" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_9" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_9" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260302 -->
+<!-- END items of NMA026_2603 -->
+<!-- END catalog entry NMA026_2603 -->
+<!-- BEGIN catalog entry NMA026_2604 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2604" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_10" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Photoritz" partnumber="NMA026_2604" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_10" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_10" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_4" baseitem_id="@baseproduct_id_Magazines_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_12" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_product_id_Magazines_10" currency="TWD" listprice="939.3" />
+<!-- Begin attribute mapping for NMA026_2604-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2604" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_10" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_9_NMA026_2604" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_10" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_10" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_10" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_10" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_10" />
+<!-- End attribute mapping for NMA026_2604-->
+
+<!-- BEGIN items of NMA026_2604 -->
+<!-- BEGIN item bean NMA026_260401 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_4" partnumber="NMA026_260401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_7" itemspc_id="@itemspc_id_Magazines_7" itemversn_id="@itemversn_id_Magazines_4" />
+<catentry catentry_id="@catentry_item_id_Magazines_11" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_7"	catenttype_id="ItemBean" mfname="Photoritz"	partnumber="NMA026_260401" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_10"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_11" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_11" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_11" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_10" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_11" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_11" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_11" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_11" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_11" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260401 -->
+<!-- BEGIN item bean NMA026_260402 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_4" partnumber="NMA026_260402" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_8" itemspc_id="@itemspc_id_Magazines_8" itemversn_id="@itemversn_id_Magazines_4" />
+<catentry catentry_id="@catentry_item_id_Magazines_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_8"	catenttype_id="ItemBean" mfname="Photoritz"	partnumber="NMA026_260402" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_10"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_12" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_12" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_12" sequence="4.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_11" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_12" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_12" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_12" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_12" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260402 -->
+<!-- END items of NMA026_2604 -->
+<!-- END catalog entry NMA026_2604 -->
+<!-- BEGIN catalog entry NMA026_2605 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2605" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Society Time" partnumber="NMA026_2605" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_13" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_13" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_5" baseitem_id="@baseproduct_id_Magazines_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_15" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_product_id_Magazines_13" currency="TWD" listprice="666.6" />
+<!-- Begin attribute mapping for NMA026_2605-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2605" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_13" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_10_NMA026_2605" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_13" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_13" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_13" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_13" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_13" />
+<!-- End attribute mapping for NMA026_2605-->
+
+<!-- BEGIN items of NMA026_2605 -->
+<!-- BEGIN item bean NMA026_260501 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_5" partnumber="NMA026_260501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_9" itemspc_id="@itemspc_id_Magazines_9" itemversn_id="@itemversn_id_Magazines_5" />
+<catentry catentry_id="@catentry_item_id_Magazines_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_9"	catenttype_id="ItemBean" mfname="Society Time"	partnumber="NMA026_260501" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_14" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_14" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_13" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_14" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_14" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_14" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_14" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260501 -->
+<!-- BEGIN item bean NMA026_260502 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_10" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_5" partnumber="NMA026_260502" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_10" itemspc_id="@itemspc_id_Magazines_10" itemversn_id="@itemversn_id_Magazines_5" />
+<catentry catentry_id="@catentry_item_id_Magazines_15" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_10"	catenttype_id="ItemBean" mfname="Society Time"	partnumber="NMA026_260502" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_15" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_15" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_15" sequence="5.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_14" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_15" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_15" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_15" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_15" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_15" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260502 -->
+<!-- END items of NMA026_2605 -->
+<!-- END catalog entry NMA026_2605 -->
+<!-- BEGIN catalog entry NMA026_2606 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2606" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_16" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Archaeo" partnumber="NMA026_2606" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_16" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_16" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_6" baseitem_id="@baseproduct_id_Magazines_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="USD" price="34" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="AUD" price="43.86" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="NZD" price="46.92" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="BRL" price="108.12" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="CAD" price="43.18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="CNY" price="227.12" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="EUR" price="28.9" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="GBP" price="26.52" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="JPY" price="3729" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="KRW" price="38772" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="PLN" price="123.76" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="RON" price="132.94" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="RUB" price="2008.72" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_18" currency="TWD" price="1030.2" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="USD" listprice="34" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="AUD" listprice="43.86" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="NZD" listprice="46.92" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="BRL" listprice="108.12" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="CAD" listprice="43.18" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="CNY" listprice="227.12" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="EUR" listprice="28.9" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="GBP" listprice="26.52" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="JPY" listprice="3729" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="KRW" listprice="38772" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="PLN" listprice="123.76" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="RON" listprice="132.94" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="RUB" listprice="2008.72" />
+<listprice catentry_id="@catentry_product_id_Magazines_16" currency="TWD" listprice="1030.2" />
+<!-- Begin attribute mapping for NMA026_2606-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2606" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_16" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_11_NMA026_2606" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_16" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_16" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_16" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_16" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_16" />
+<!-- End attribute mapping for NMA026_2606-->
+
+<!-- BEGIN items of NMA026_2606 -->
+<!-- BEGIN item bean NMA026_260601 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_11" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_6" partnumber="NMA026_260601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_11" itemspc_id="@itemspc_id_Magazines_11" itemversn_id="@itemversn_id_Magazines_6" />
+<catentry catentry_id="@catentry_item_id_Magazines_17" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_11"	catenttype_id="ItemBean" mfname="Archaeo"	partnumber="NMA026_260601" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_16"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_17" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_17" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_17" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="USD" price="34" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="AUD" price="43.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="NZD" price="46.92" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="BRL" price="108.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="CAD" price="43.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="CNY" price="227.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="EUR" price="28.9" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="GBP" price="26.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="JPY" price="3729" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="KRW" price="38772" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="PLN" price="123.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="RON" price="132.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="RUB" price="2008.72" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_16" currency="TWD" price="1030.2" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="USD" listprice="34" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="AUD" listprice="43.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="NZD" listprice="46.92" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="BRL" listprice="108.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="CAD" listprice="43.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="CNY" listprice="227.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="EUR" listprice="28.9" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="GBP" listprice="26.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="JPY" listprice="3729" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="KRW" listprice="38772" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="PLN" listprice="123.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="RON" listprice="132.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="RUB" listprice="2008.72" />
+<listprice catentry_id="@catentry_item_id_Magazines_17" currency="TWD" listprice="1030.2" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_17" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_17" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_17" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_17" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260601 -->
+<!-- BEGIN item bean NMA026_260602 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_12" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_6" partnumber="NMA026_260602" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_12" itemspc_id="@itemspc_id_Magazines_12" itemversn_id="@itemversn_id_Magazines_6" />
+<catentry catentry_id="@catentry_item_id_Magazines_18" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_12"	catenttype_id="ItemBean" mfname="Archaeo"	partnumber="NMA026_260602" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_16"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_18" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_18" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_18" sequence="6.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="USD" price="34" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="AUD" price="43.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="NZD" price="46.92" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="BRL" price="108.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="CAD" price="43.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="CNY" price="227.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="EUR" price="28.9" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="GBP" price="26.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="JPY" price="3729" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="KRW" price="38772" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="PLN" price="123.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="RON" price="132.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="RUB" price="2008.72" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_17" currency="TWD" price="1030.2" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="USD" listprice="34" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="AUD" listprice="43.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="NZD" listprice="46.92" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="BRL" listprice="108.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="CAD" listprice="43.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="CNY" listprice="227.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="EUR" listprice="28.9" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="GBP" listprice="26.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="JPY" listprice="3729" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="KRW" listprice="38772" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="PLN" listprice="123.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="RON" listprice="132.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="RUB" listprice="2008.72" />
+<listprice catentry_id="@catentry_item_id_Magazines_18" currency="TWD" listprice="1030.2" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_18" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_18" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_18" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_18" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260602 -->
+<!-- END items of NMA026_2606 -->
+<!-- END catalog entry NMA026_2606 -->
+<!-- BEGIN catalog entry NMA026_2607 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_7" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2607" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_19" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Sportfit" partnumber="NMA026_2607" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_7" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_19" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_19" sequence="7" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_7" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_7" baseitem_id="@baseproduct_id_Magazines_7" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_21" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_19" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_21" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_product_id_Magazines_19" currency="TWD" listprice="545.4" />
+<!-- Begin attribute mapping for NMA026_2607-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_12_NMA026_2607" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_19" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_13_NMA026_2607" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_19" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_19" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_19" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_19" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_19" />
+<!-- End attribute mapping for NMA026_2607-->
+
+<!-- BEGIN items of NMA026_2607 -->
+<!-- BEGIN item bean NMA026_260701 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_13" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_7" partnumber="NMA026_260701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_13" itemspc_id="@itemspc_id_Magazines_13" itemversn_id="@itemversn_id_Magazines_7" />
+<catentry catentry_id="@catentry_item_id_Magazines_20" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_13"	catenttype_id="ItemBean" mfname="Sportfit"	partnumber="NMA026_260701" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_19"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_20" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_20" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_20" sequence="7.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_19" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_20" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_19" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_item_id_Magazines_20" currency="TWD" listprice="545.4" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_20" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_20" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_20" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_20" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260701 -->
+<!-- BEGIN item bean NMA026_260702 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_14" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_7" partnumber="NMA026_260702" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_14" itemspc_id="@itemspc_id_Magazines_14" itemversn_id="@itemversn_id_Magazines_7" />
+<catentry catentry_id="@catentry_item_id_Magazines_21" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_14"	catenttype_id="ItemBean" mfname="Sportfit"	partnumber="NMA026_260702" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_19"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_21" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_21" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_21" sequence="7.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_20" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_21" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="USD" price="18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="AUD" price="23.22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="NZD" price="24.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="BRL" price="57.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="CAD" price="22.86" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="CNY" price="120.24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="EUR" price="15.3" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="GBP" price="14.04" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="JPY" price="1974" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="KRW" price="20526" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="PLN" price="65.52" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="RON" price="70.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="RUB" price="1063.44" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_20" currency="TWD" price="545.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="USD" listprice="18" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="AUD" listprice="23.22" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="NZD" listprice="24.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="BRL" listprice="57.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="CAD" listprice="22.86" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="CNY" listprice="120.24" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="EUR" listprice="15.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="GBP" listprice="14.04" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="JPY" listprice="1974" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="KRW" listprice="20526" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="PLN" listprice="65.52" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="RON" listprice="70.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="RUB" listprice="1063.44" />
+<listprice catentry_id="@catentry_item_id_Magazines_21" currency="TWD" listprice="545.4" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_21" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_21" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_21" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_21" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260702 -->
+<!-- END items of NMA026_2607 -->
+<!-- END catalog entry NMA026_2607 -->
+<!-- BEGIN catalog entry NMA026_2608 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_8" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2608" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_22" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Digiglee" partnumber="NMA026_2608" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_8" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_22" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_22" sequence="8" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_8" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_8" baseitem_id="@baseproduct_id_Magazines_8" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_24" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_22" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_24" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_product_id_Magazines_22" currency="TWD" listprice="666.6" />
+<!-- Begin attribute mapping for NMA026_2608-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2608" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_22" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_14_NMA026_2608" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_22" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_22" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_22" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_22" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_22" />
+<!-- End attribute mapping for NMA026_2608-->
+
+<!-- BEGIN items of NMA026_2608 -->
+<!-- BEGIN item bean NMA026_260801 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_15" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_8" partnumber="NMA026_260801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_15" itemspc_id="@itemspc_id_Magazines_15" itemversn_id="@itemversn_id_Magazines_8" />
+<catentry catentry_id="@catentry_item_id_Magazines_23" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_15"	catenttype_id="ItemBean" mfname="Digiglee"	partnumber="NMA026_260801" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_22"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_23" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_23" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_23" sequence="8.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_22" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_23" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_22" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_23" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_23" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_23" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_23" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_23" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260801 -->
+<!-- BEGIN item bean NMA026_260802 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_16" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_8" partnumber="NMA026_260802" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_16" itemspc_id="@itemspc_id_Magazines_16" itemversn_id="@itemversn_id_Magazines_8" />
+<catentry catentry_id="@catentry_item_id_Magazines_24" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_16"	catenttype_id="ItemBean" mfname="Digiglee"	partnumber="NMA026_260802" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_22"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_24" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_24" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_24" sequence="8.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_23" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_24" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="USD" price="22" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="AUD" price="28.38" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="NZD" price="30.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="BRL" price="69.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="CAD" price="27.94" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="CNY" price="146.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="EUR" price="18.7" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="GBP" price="17.16" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="JPY" price="2413" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="KRW" price="25087" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="PLN" price="80.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="RON" price="86.02" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="RUB" price="1299.76" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_23" currency="TWD" price="666.6" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="USD" listprice="22" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="AUD" listprice="28.38" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="NZD" listprice="30.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="BRL" listprice="69.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="CAD" listprice="27.94" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="CNY" listprice="146.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="EUR" listprice="18.7" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="GBP" listprice="17.16" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="JPY" listprice="2413" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="KRW" listprice="25087" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="PLN" listprice="80.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="RON" listprice="86.02" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="RUB" listprice="1299.76" />
+<listprice catentry_id="@catentry_item_id_Magazines_24" currency="TWD" listprice="666.6" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_24" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_24" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_24" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_24" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260802 -->
+<!-- END items of NMA026_2608 -->
+<!-- END catalog entry NMA026_2608 -->
+<!-- BEGIN catalog entry NMA026_2609 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_9" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2609" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_25" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Wedding Luxe" partnumber="NMA026_2609" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_9" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_25" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_25" sequence="9" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_9" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_9" baseitem_id="@baseproduct_id_Magazines_9" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_27" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_25" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_27" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_product_id_Magazines_25" currency="TWD" listprice="939.3" />
+<!-- Begin attribute mapping for NMA026_2609-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2609" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_25" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_10_NMA026_2609" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_25" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_25" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_25" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_25" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_25" />
+<!-- End attribute mapping for NMA026_2609-->
+
+<!-- BEGIN items of NMA026_2609 -->
+<!-- BEGIN item bean NMA026_260901 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_17" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_9" partnumber="NMA026_260901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_17" itemspc_id="@itemspc_id_Magazines_17" itemversn_id="@itemversn_id_Magazines_9" />
+<catentry catentry_id="@catentry_item_id_Magazines_26" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_17"	catenttype_id="ItemBean" mfname="Wedding Luxe"	partnumber="NMA026_260901" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_25"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_26" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_26" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_26" sequence="9.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_25" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_26" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_25" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_26" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_26" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_26" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_26" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_26" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260901 -->
+<!-- BEGIN item bean NMA026_260902 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_18" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_9" partnumber="NMA026_260902" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_18" itemspc_id="@itemspc_id_Magazines_18" itemversn_id="@itemversn_id_Magazines_9" />
+<catentry catentry_id="@catentry_item_id_Magazines_27" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_18"	catenttype_id="ItemBean" mfname="Wedding Luxe"	partnumber="NMA026_260902" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_25"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_27" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_27" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_27" sequence="9.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_26" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_27" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="USD" price="31" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="AUD" price="39.99" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="NZD" price="42.78" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="BRL" price="98.58" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="CAD" price="39.37" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="CNY" price="207.08" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="EUR" price="26.35" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="GBP" price="24.18" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="JPY" price="3400" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="KRW" price="35351" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="PLN" price="112.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="RON" price="121.21" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="RUB" price="1831.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_26" currency="TWD" price="939.3" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="USD" listprice="31" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="AUD" listprice="39.99" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="NZD" listprice="42.78" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="BRL" listprice="98.58" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="CAD" listprice="39.37" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="CNY" listprice="207.08" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="EUR" listprice="26.35" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="GBP" listprice="24.18" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="JPY" listprice="3400" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="KRW" listprice="35351" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="PLN" listprice="112.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="RON" listprice="121.21" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="RUB" listprice="1831.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_27" currency="TWD" listprice="939.3" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_27" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_27" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_27" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_27" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_260902 -->
+<!-- END items of NMA026_2609 -->
+<!-- END catalog entry NMA026_2609 -->
+<!-- BEGIN catalog entry NMA026_2610 -->
+<baseitem baseitem_id="@baseproduct_id_Magazines_10" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="NMA026_2610" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Magazines_28" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Natura" partnumber="NMA026_2610" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_10" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Magazines_28" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Magazines_28" sequence="10" />
+<storeitem baseitem_id="@baseproduct_id_Magazines_10" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Magazines_10" baseitem_id="@baseproduct_id_Magazines_10" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Magazines_30" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Magazines_28" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_product_id_Magazines_30" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_product_id_Magazines_28" currency="TWD" listprice="727.2" />
+<!-- Begin attribute mapping for NMA026_2610-->
+<catentryattr attr_id="@attribute_id_Magazines_1" attrval_id="@attribute_value_id_Magazines_1_NMA026_2610" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Magazines_28" />
+<catentryattr attr_id="@attribute_id_Magazines_2" attrval_id="@attribute_value_id_Magazines_15_NMA026_2610" usage="2" sequence="1.0" catentry_id="@catentry_product_id_Magazines_28" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Magazines_28" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Magazines_28" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Magazines_28" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="0" usage="1" sequence="2.0" catentry_id="@catentry_product_id_Magazines_28" />
+<!-- End attribute mapping for NMA026_2610-->
+
+<!-- BEGIN items of NMA026_2610 -->
+<!-- BEGIN item bean NMA026_261001 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_19" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_10" partnumber="NMA026_261001" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_19" itemspc_id="@itemspc_id_Magazines_19" itemversn_id="@itemversn_id_Magazines_10" />
+<catentry catentry_id="@catentry_item_id_Magazines_29" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_19"	catenttype_id="ItemBean" mfname="Natura"	partnumber="NMA026_261001" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_10" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_28"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_29" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_29" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_29" sequence="10.2" />
+<offer offer_id="@offer_catentry_item_id_Magazines_28" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_29" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_28" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_item_id_Magazines_29" currency="TWD" listprice="727.2" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_29" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_5"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_29" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_29" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_29" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_261001 -->
+<!-- BEGIN item bean NMA026_261002 -->
+<itemspc itemspc_id="@itemspc_id_Magazines_20" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Magazines_10" partnumber="NMA026_261002" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Magazines_20" itemspc_id="@itemspc_id_Magazines_20" itemversn_id="@itemversn_id_Magazines_10" />
+<catentry catentry_id="@catentry_item_id_Magazines_30" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Magazines_20"	catenttype_id="ItemBean" mfname="Natura"	partnumber="NMA026_261002" markfordelete="0" baseitem_id="@baseproduct_id_Magazines_10" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Magazines_28"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Magazines_30" sequence="2" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Magazines_30" />
+<catgpenrel catgroup_id="@catgroup_id_Magazines" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Magazines_30" sequence="10.3" />
+<offer offer_id="@offer_catentry_item_id_Magazines_29" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Magazines_30" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="USD" price="24" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="AUD" price="30.96" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="NZD" price="33.12" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="BRL" price="76.32" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="CAD" price="30.48" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="CNY" price="160.32" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="EUR" price="20.4" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="GBP" price="18.72" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="JPY" price="2633" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="KRW" price="27368" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="PLN" price="87.36" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="RON" price="93.84" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="RUB" price="1417.92" />
+<offerprice offer_id="@offer_catentry_item_id_Magazines_29" currency="TWD" price="727.2" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="USD" listprice="24" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="AUD" listprice="30.96" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="NZD" listprice="33.12" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="BRL" listprice="76.32" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="CAD" listprice="30.48" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="CNY" listprice="160.32" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="EUR" listprice="20.4" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="GBP" listprice="18.72" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="JPY" listprice="2633" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="KRW" listprice="27368" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="PLN" listprice="87.36" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="RON" listprice="93.84" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="RUB" listprice="1417.92" />
+<listprice catentry_id="@catentry_item_id_Magazines_30" currency="TWD" listprice="727.2" />
+<catentryattr attr_id="@attribute_id_Magazines_PickUpInStore" attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" usage="2" sequence="0.0" catentry_id="@catentry_item_id_Magazines_30" />
+<catentryattr attr_id="@attribute_id_Magazines_5" attrval_id="@attribute_value_id_Magazines_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Magazines_30" />
+<catentryattr attr_id="@attribute_id_Magazines_4" attrval_id="@attribute_value_id_Magazines_4"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Magazines_30" />
+<catentryattr attr_id="@attribute_id_Magazines_3" attrval_id="@attribute_value_id_Magazines_3"	usage="1" sequence="2.0" catentry_id="@catentry_item_id_Magazines_30" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean NMA026_261002 -->
+<!-- END items of NMA026_2610 -->
+<!-- END catalog entry NMA026_2610 -->
+<!-- END: Writing catalog entries -->
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!-- END: Writing descriptive attribute descriptions -->
+<!-- Catentsubs -->
+<catentsubs catentry_id="@catentry_product_id_Magazines_1" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_2" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_3" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_4" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_5" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_6" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_7" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_8" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_9" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_10" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_11" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_12" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_13" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_14" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_15" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_16" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_17" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_18" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_19" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_20" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_21" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_22" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_23" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_24" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_25" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_26" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_27" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_product_id_Magazines_28" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_29" subscptype_id="TIME-BASED" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_item_id_Magazines_30" subscptype_id="TIME-BASED" disallow_rec_order="1" />

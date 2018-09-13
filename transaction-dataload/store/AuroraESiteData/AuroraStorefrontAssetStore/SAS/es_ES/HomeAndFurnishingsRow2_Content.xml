@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_haf0002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_haf0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/1008B_EHFS_PerfectEverytime_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_haf0002_es_ES"
+  atchtgt_id="@atchtgt_id_haf0002"
+  language_id="&es_ES;"
+  name="Siempre perfecto"
+  shortdescription="15% de descuento en cafeteras especializadas"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_haf0002_es_ES"
+  atchast_id="@atchast_id_haf0002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_haf0002_es_ES"
+  atchrel_id="@atchrel_id_haf0002"
+  language_id="&es_ES;"
+  name="Siempre perfecto"
+  shortdescription="Siempre perfecto"
+/>
+<colldesc 
+	collateral_id="@collateral_id_haf0002"
+	language_id="&es_ES;"
+	marketingtext="Siempre perfecto" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_haf0003_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_haf0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/1009B_EHFS_SaveOnLighting_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_haf0003_es_ES"
+  atchtgt_id="@atchtgt_id_haf0003"
+  language_id="&es_ES;"
+  name="Ahorre en iluminación"
+  shortdescription="40% de descuento en una selección de lámparas de mesa"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_haf0003_es_ES"
+  atchast_id="@atchast_id_haf0003_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_haf0003_es_ES"
+  atchrel_id="@atchrel_id_haf0003"
+  language_id="&es_ES;"
+  name="Ahorre en iluminación"
+  shortdescription="Ahorre en iluminación"
+/>
+<colldesc 
+	collateral_id="@collateral_id_haf0003"
+	language_id="&es_ES;"
+	marketingtext="Ahorre en iluminación" 
+/>
+
+
+
+

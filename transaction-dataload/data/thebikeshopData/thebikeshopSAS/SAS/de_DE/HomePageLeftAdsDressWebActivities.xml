@@ -1,0 +1,53 @@
+
+
+<colldesc 
+	collateral_id="@collateral_id_300"
+	language_id="&de_DE;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Left/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Left&quot; role=&quot;region&quot; aria-label=&quot;home page Espot womens shoes&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Left_Slot&quot;&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                         Einfach Superbequem                       &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;                         Weiche Lederschuhe mit tollem Design und elastischem Rand für perfekten Sitz. Leicht und robust mit flachem Absatz bieten sie Ihnen täglichen Tragekomfort mit ihrer gepolsterten Innensohle und dem weichen Futter. Mehrfarbige Akzente mit Riemchen und Mustern stehen als Sonderbestellung zur Verfügung. &lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now womens shoes&quot; href=&quot;[fullPathHomeURL]/apparel/women/shoes&quot;&gt;Jetzt zuschlagen&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;       &lt;img alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Left/eyeCandy.jpg&quot; /&gt;                     &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_301"
+	language_id="&de_DE;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Middle/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Middle&quot; role=&quot;region&quot; aria-label=&quot;home page Espot mens shirts&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Middle_Slot&quot;&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;                       &lt;img alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Middle/mens.jpg&quot;&gt;                     &lt;/div&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                         50% auf Polohemden                       &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;                         Wählen Sie aus unserer Kollektion modischer, einfach zu kombinierender Polohemden für einen eleganten und dennoch lässigen Look. Verfügbar in einer ganzen Palette von Farben zeichnen sich diese Hemden durch exzellente Formstabilität und ein knitterarmes Material aus. Kostenloser Versand für alle Einkäufe über $60 vor Steuern. &lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now mens shirts&quot; href=&quot;[fullPathHomeURL]/apparel/men/shirts&quot;&gt;Jetzt zuschlagen&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_302"
+	language_id="&de_DE;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Right&quot; role=&quot;region&quot; aria-label=&quot;home page Espot kids&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Right_Slot&quot;&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                       Kindersachen                      &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;
+            Im Sommer zählen nur fröhliche Drucke, leuchtende Farben, bequeme Schnitte und robuste Stoffe. Ergänzen Sie die Garderobe Ihrer Kinder mit diesen bequemen und erschwinglichen Fashion-Stücken. Kaufen Sie für mindestens $100* und erhalten Sie einen Geschenkgutschein über $25. &lt;div class=&quot;finePrint&quot;&gt;                         *Vor Steuern. Geschenkgutscheine können bei Ihrem nächsten Besuch eingelöst werden. &lt;/div&gt;
+         &lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now girls category&quot; href=&quot;[fullPathHomeURL]/apparel/girls&quot;&gt;Jetzt zuschlagen&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;                     &lt;img alt=&quot;&quot; id=&quot;kids1&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/kids1.jpg&quot;&gt;                     &lt;img alt=&quot;&quot; id=&quot;kids2&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/kids2.png&quot;&gt;                   &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+

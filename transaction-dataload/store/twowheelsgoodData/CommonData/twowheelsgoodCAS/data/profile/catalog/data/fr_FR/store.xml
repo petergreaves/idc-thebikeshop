@@ -1,0 +1,20 @@
+<!--STOREENTDS 
+Since Store Services tool only supports one store address,
+staddress_id_cont is set to be the same as staddress_id_loc
+-->
+	<storeentds
+	 description="Magasin de ressources de catalogue de sites étendus"
+	 language_id="&fr_FR;"
+	 displayname="&STORE_IDENTIFIER_CPS;"
+	 storeent_id="@catalogStore"
+	/>
+	<storelang
+	language_id="&fr_FR;"
+	storeent_id="@catalogStore"
+	/>
+	<storlangds
+	 description="Etats-Unis"
+	 language_id="&fr_FR;"
+	 storeent_id="@catalogStore"
+    	language_id_desc="&fr_FR;"
+	/>

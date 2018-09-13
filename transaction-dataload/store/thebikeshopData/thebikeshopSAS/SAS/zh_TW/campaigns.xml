@@ -1,0 +1,96 @@
+
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be mbrgrpdesc.displayname and mbrgrpdesc.description  -->
+<!-- That would be colldesc.marketingtext                             -->
+
+
+<!-- Customer Profile Descriptions -->
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_1"
+   language_id="&zh_TW;"
+   displayname="已登錄客戶"
+   description="已向商店登錄的客戶"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_2"
+   language_id="&zh_TW;"
+   displayname="回流客戶"
+   description="至少已向商店下單一次的客戶"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_3"
+   language_id="&zh_TW;"
+   displayname="購物訪客"
+   description="尚未向商店登錄的購物者"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_4"
+   language_id="&zh_TW;"
+   displayname="男性客戶"
+   description="表明自己是男性的已登錄客戶"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_5"
+   language_id="&zh_TW;"
+   displayname="女性客戶"
+   description="表明自己是女性的已登錄客戶"
+/>
+
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_6"
+   language_id="&zh_TW;"
+   displayname="年齡在 40 歲以下的客戶"
+   description="年齡在 40 歲以下的客戶"
+/>
+
+<mbrgrpdesc
+   mbrgrp_id="@member_id_7"
+   language_id="&zh_TW;"
+   displayname="年齡在 40 歲（含）以上的客戶"
+   description="年齡在 40 歲（含）以上的客戶"
+/>
+
+
+<!-- Ad Copy Descriptions -->
+<!-- The colldesc.marketingtext will be used for alt text with the Ad Copy image -->
+
+<colldesc
+   collateral_id="@collateral_id_1"
+   language_id="&zh_TW;"
+   location="images/catalog/zh_TW/BuyOneGetOneFree_WineGlasses.jpg"
+   marketingtext="購買一份，即可獲贈一只酒杯"
+/>
+<colldesc
+   collateral_id="@collateral_id_2"
+   language_id="&zh_TW;"
+   location="images/catalog/zh_TW/TopSellingItem.jpg"
+   marketingtext="目前最暢銷的線上項目"
+/>
+<colldesc
+   collateral_id="@collateral_id_3"
+   language_id="&zh_TW;"
+   location="images/catalog/zh_TW/CategoryDiscount_Furniture.jpg"
+   marketingtext="「家具」種類全面 20% 折扣"
+/>
+<colldesc
+   collateral_id="@collateral_id_4"
+   language_id="&zh_TW;"
+   location="images/catalog/zh_TW/ShippingDiscount_FreeGroundShipping.jpg"
+   marketingtext="免費運送"
+/>
+
+<!-- The location and marketing text are intentionally left blank for collateral_id_5 -->
+<colldesc
+   collateral_id="@collateral_id_5"
+   language_id="&zh_TW;"
+   location=""
+   marketingtext=" "
+/>
+

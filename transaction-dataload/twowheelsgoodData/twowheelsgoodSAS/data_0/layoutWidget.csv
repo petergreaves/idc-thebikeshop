@@ -1,0 +1,3 @@
+LayoutWidget
+LayoutName,AdminName,ChildWidgetDefIdentifier,ChildWidgetAdminName,WidgetSequence,SlotID
+SiteMapPageLayout,ContentPageContainer,SiteMap_801,SiteMapWidget,0,1

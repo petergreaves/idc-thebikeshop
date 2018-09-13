@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_acc10001_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Accessories1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/0703B_EES_CrystalClear_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_acc10001_zh_CN"
+  atchtgt_id="@atchtgt_id_Accessories1001"
+  language_id="&zh_CN;"
+  name="清晰锐利"
+  shortdescription="清晰锐利，外接显示器 15% 折扣"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_acc10001_zh_CN"
+  atchast_id="@atchast_id_acc10001_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_acc10001_zh_CN"
+  atchrel_id="@atchrel_id_Accessories1001"
+  language_id="&zh_CN;"
+  name="清晰锐利"
+  shortdescription="清晰锐利"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Accessories1001"
+	language_id="&zh_CN;"
+	marketingtext="清晰锐利" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_acc10002_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Accessories1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/0702B_EES_Accessories_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_acc10002_zh_CN"
+  atchtgt_id="@atchtgt_id_Accessories1002"
+  language_id="&zh_CN;"
+  name="配件价格优惠"
+  shortdescription="配件价格优惠，计算机配件 25% 折扣"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_acc10002_zh_CN"
+  atchast_id="@atchast_id_acc10002_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_acc10002_zh_CN"
+  atchrel_id="@atchrel_id_Accessories1002"
+  language_id="&zh_CN;"
+  name="配件价格优惠"
+  shortdescription="配件价格优惠"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Accessories1002"
+	language_id="&zh_CN;"
+	marketingtext="配件价格优惠" 
+/>
+

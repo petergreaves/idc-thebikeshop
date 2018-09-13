@@ -1,0 +1,13 @@
+
+<!--SHPMODEDSC 
+Description of Shipping Mode - Language Specfic 
+-->
+
+<shpmodedsc 
+   description="快速" 
+   field1=""
+   field2="快速"
+   shipmode_id="@shipmode_id_1" 
+   language_id="&zh_TW;" 
+/>
+

@@ -1,0 +1,4 @@
+SearchAttribute,,
+identifier,indexScope,indexType
+_cat.OfferPrice_INR,0,CatalogEntry
+_cat.ListPrice_INR,0,CatalogEntry

@@ -1,0 +1,44 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be shpmodedsc.description, shpmodedsc.field2          -->
+
+<!--
+Table name: SHPMODEDSC 
+Description of Shipping Mode - Language Specfic 
+-->
+
+<shpmodedsc 
+   description="Обычная доставка в пределах США" 
+   field2="От 5 до 10 рабочих дней"
+   shipmode_id="@shipmode_id_1" 
+   language_id="&ru_RU;" 
+/>
+
+<shpmodedsc 
+   description="Доставка за ночь в пределах США" 
+   field2="1 рабочий день"
+   shipmode_id="@shipmode_id_2" 
+   language_id="&ru_RU;" 
+/>
+
+<shpmodedsc 
+   description="Двухдневная экспресс-доставка в пределах США" 
+   field2="2 рабочих дня"
+   shipmode_id="@shipmode_id_3" 
+   language_id="&ru_RU;" 
+/>
+
+<shpmodedsc 
+   description="Международная срочная доставка" 
+   field2="От 1 до 3 рабочих дней"
+   shipmode_id="@shipmode_id_4" 
+   language_id="&ru_RU;" 
+/>
+
+<shpmodedsc 
+   description="Международная обычная доставка" 
+   field2="От 7 до 14 рабочих дней"
+   shipmode_id="@shipmode_id_5" 
+   language_id="&ru_RU;" 
+/>
+

@@ -1,0 +1,916 @@
+<!-- BEGIN: Writing defining attributes and values -->
+<!--BEGIN Defining attribute : VitaminsCategory -->
+<attr attr_id="@attribute_id_Vitamins_6" identifier="VitaminsCategory" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_6" attr_id="@attribute_id_Vitamins_6" storeent_id="&CAT_STOREENT_ID;" identifier="Vitamins and minerals"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_8" attr_id="@attribute_id_Vitamins_6" storeent_id="&CAT_STOREENT_ID;" identifier="Health booster"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_14" attr_id="@attribute_id_Vitamins_6" storeent_id="&CAT_STOREENT_ID;" identifier="Naturopathic"	valusage="1" />
+<!--END Defining attribute : VitaminsCategory -->
+<!--BEGIN Defining attribute : VitaminsType -->
+<attr attr_id="@attribute_id_Vitamins_5" identifier="VitaminsType" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" displayable="1" comparable="1" attrusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_5" attr_id="@attribute_id_Vitamins_5" storeent_id="&CAT_STOREENT_ID;" identifier="Bar"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_12" attr_id="@attribute_id_Vitamins_5" storeent_id="&CAT_STOREENT_ID;" identifier="Capsule"	valusage="1" />
+<attrval attrval_id="@attribute_value_id_Vitamins_16" attr_id="@attribute_id_Vitamins_5" storeent_id="&CAT_STOREENT_ID;" identifier="Pill"	valusage="1" />
+<!--END Defining attribute : VitaminsType -->
+<!-- END: Writing defining attributes and values -->
+<!-- BEGIN: Writing descriptive attributes -->
+<!--BEGIN Descriptive attribute : Category -->
+<attr attr_id="@attribute_id_Vitamins_4" identifier="Category" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3801" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3801" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3804" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3804" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3805" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3805" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3807" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3807" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3808" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3808" />
+<attrval attrval_id="@attribute_value_id_Vitamins_4_HVT038_3809" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3809" />
+<attrval attrval_id="@attribute_value_id_Vitamins_7_HVT038_3802" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3802" />
+<attrval attrval_id="@attribute_value_id_Vitamins_7_HVT038_3803" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3803" />
+<attrval attrval_id="@attribute_value_id_Vitamins_13_HVT038_3806" attr_id="@attribute_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3806" />
+<!--END Descriptive attribute : Category -->
+<!--BEGIN Descriptive attribute : Type -->
+<attr attr_id="@attribute_id_Vitamins_3" identifier="Type" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Vitamins_3_HVT038_3801" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3801" />
+<attrval attrval_id="@attribute_value_id_Vitamins_3_HVT038_3802" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3802" />
+<attrval attrval_id="@attribute_value_id_Vitamins_11_HVT038_3803" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3803" />
+<attrval attrval_id="@attribute_value_id_Vitamins_11_HVT038_3804" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3804" />
+<attrval attrval_id="@attribute_value_id_Vitamins_11_HVT038_3805" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3805" />
+<attrval attrval_id="@attribute_value_id_Vitamins_11_HVT038_3806" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3806" />
+<attrval attrval_id="@attribute_value_id_Vitamins_11_HVT038_3808" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3808" />
+<attrval attrval_id="@attribute_value_id_Vitamins_15_HVT038_3807" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3807" />
+<attrval attrval_id="@attribute_value_id_Vitamins_15_HVT038_3809" attr_id="@attribute_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3809" />
+<!--END Descriptive attribute : Type -->
+<!--BEGIN Descriptive attribute : Packaging -->
+<attr attr_id="@attribute_id_Vitamins_1" identifier="Packaging" attrtype_id="STRING" attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;" attrusage="2" />
+<attrval attrval_id="@attribute_value_id_Vitamins_1_HVT038_3801" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3801" />
+<attrval attrval_id="@attribute_value_id_Vitamins_1_HVT038_3802" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3802" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3803" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3803" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3804" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3804" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3805" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3805" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3806" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3806" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3807" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3807" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3808" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3808" />
+<attrval attrval_id="@attribute_value_id_Vitamins_9_HVT038_3809" attr_id="@attribute_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" identifier="HVT038_3809" />
+<!--END Descriptive attribute : Packaging -->
+<!--BEGIN Descriptive attribute : Brand -->
+
+
+
+<!--END Descriptive attribute : Brand -->
+<!-- END: Writing descriptive attributes and values -->
+<!-- BEGIN: Writing Catalog Entries -->
+<!-- BEGIN catalog entry : HVT038_3801 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_1" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3801" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_1" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="VitaVerve" partnumber="HVT038_3801" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_1" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_1" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_1" sequence="1" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_1" baseitem_id="@baseproduct_id_Vitamins_1" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_2" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_1" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="USD" price="8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="AUD" price="10.32" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="NZD" price="11.04" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="BRL" price="25.44" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="CAD" price="10.16" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="CNY" price="53.44" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="EUR" price="6.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="GBP" price="6.24" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="JPY" price="878" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="KRW" price="9123" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="PLN" price="29.12" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="RON" price="31.28" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="RUB" price="472.64" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_2" currency="TWD" price="242.4" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_product_id_Vitamins_1" currency="TWD" listprice="242.4" />
+<!-- Begin attribute mapping for HVT038_3801-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_1_HVT038_3801" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_1" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_3_HVT038_3801" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_1" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3801" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_1" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_1" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_1" />
+<!-- End attribute mapping for HVT038_3801-->
+
+<!-- BEGIN items of HVT038_3801 -->
+<!-- BEGIN item bean HVT038_380101 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_1" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_1" partnumber="HVT038_380101" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_1" itemspc_id="@itemspc_id_Vitamins_1" itemversn_id="@itemversn_id_Vitamins_1" />
+<catentry catentry_id="@catentry_item_id_Vitamins_2" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_1"	catenttype_id="ItemBean" mfname="VitaVerve"	partnumber="HVT038_380101" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_1" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_1"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_2" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_2" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_2" sequence="1.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_1" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_2" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="USD" price="8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="AUD" price="10.32" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="NZD" price="11.04" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="BRL" price="25.44" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="CAD" price="10.16" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="CNY" price="53.44" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="EUR" price="6.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="GBP" price="6.24" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="JPY" price="878" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="KRW" price="9123" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="PLN" price="29.12" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="RON" price="31.28" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="RUB" price="472.64" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_1" currency="TWD" price="242.4" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="USD" listprice="8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="AUD" listprice="10.32" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="NZD" listprice="11.04" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="BRL" listprice="25.44" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="CAD" listprice="10.16" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="CNY" listprice="53.44" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="EUR" listprice="6.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="GBP" listprice="6.24" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="JPY" listprice="878" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="KRW" listprice="9123" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="PLN" listprice="29.12" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="RON" listprice="31.28" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="RUB" listprice="472.64" />
+<listprice catentry_id="@catentry_item_id_Vitamins_2" currency="TWD" listprice="242.4" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_2" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_2" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380101 -->
+<!-- END items of HVT038_3801 -->
+<!-- END catalog entry : HVT038_3801 -->
+<!-- BEGIN catalog entry : HVT038_3802 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_2" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3802" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_3" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="VitaVerve" partnumber="HVT038_3802" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_2" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_3" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_3" sequence="2" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_2" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_2" baseitem_id="@baseproduct_id_Vitamins_2" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_4" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_3" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="USD" price="10" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="AUD" price="12.9" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="NZD" price="13.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="BRL" price="31.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="CAD" price="12.7" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="CNY" price="66.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="EUR" price="8.5" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="GBP" price="7.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="JPY" price="1097" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="KRW" price="11403" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="PLN" price="36.4" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="RON" price="39.1" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="RUB" price="590.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_4" currency="TWD" price="303.0" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_3" currency="TWD" listprice="303.0" />
+<!-- Begin attribute mapping for HVT038_3802-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_1_HVT038_3802" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_3" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_3_HVT038_3802" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_3" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_7_HVT038_3802" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_3" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_3" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_3" />
+<!-- End attribute mapping for HVT038_3802-->
+
+<!-- BEGIN items of HVT038_3802 -->
+<!-- BEGIN item bean HVT038_380201 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_2" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_2" partnumber="HVT038_380201" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_2" itemspc_id="@itemspc_id_Vitamins_2" itemversn_id="@itemversn_id_Vitamins_2" />
+<catentry catentry_id="@catentry_item_id_Vitamins_4" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_2"	catenttype_id="ItemBean" mfname="VitaVerve"	partnumber="HVT038_380201" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_2" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_3"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_4" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_4" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_4" sequence="2.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_3" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_4" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="USD" price="10" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="AUD" price="12.9" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="NZD" price="13.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="BRL" price="31.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="CAD" price="12.7" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="CNY" price="66.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="EUR" price="8.5" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="GBP" price="7.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="JPY" price="1097" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="KRW" price="11403" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="PLN" price="36.4" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="RON" price="39.1" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="RUB" price="590.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_3" currency="TWD" price="303.0" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_4" currency="TWD" listprice="303.0" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_8"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_4" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_5"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_4" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380201 -->
+<!-- END items of HVT038_3802 -->
+<!-- END catalog entry : HVT038_3802 -->
+<!-- BEGIN catalog entry : HVT038_3803 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_3" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3803" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_5" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3803" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_3" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_5" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_5" sequence="3" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_3" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_3" baseitem_id="@baseproduct_id_Vitamins_3" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_6" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_5" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="USD" price="18.99" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="AUD" price="24.5" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="NZD" price="26.21" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="BRL" price="60.39" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="CAD" price="24.12" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="CNY" price="126.85" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="EUR" price="16.14" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="GBP" price="14.81" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="JPY" price="2083" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="KRW" price="21655" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="PLN" price="69.12" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="RON" price="74.25" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="RUB" price="1121.93" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_6" currency="TWD" price="575.4" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="USD" listprice="21" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="AUD" listprice="27.09" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="NZD" listprice="28.98" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="BRL" listprice="66.78" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="CAD" listprice="26.67" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="CNY" listprice="140.28" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="EUR" listprice="17.85" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="GBP" listprice="16.38" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="JPY" listprice="2303" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="KRW" listprice="23947" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="PLN" listprice="76.44" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="RON" listprice="82.11" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="RUB" listprice="1240.68" />
+<listprice catentry_id="@catentry_product_id_Vitamins_5" currency="TWD" listprice="636.3" />
+<!-- Begin attribute mapping for HVT038_3803-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3803" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_5" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_11_HVT038_3803" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_5" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_7_HVT038_3803" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_5" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_5" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_5" />
+<!-- End attribute mapping for HVT038_3803-->
+
+<!-- BEGIN items of HVT038_3803 -->
+<!-- BEGIN item bean HVT038_380301 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_3" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_3" partnumber="HVT038_380301" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_3" itemspc_id="@itemspc_id_Vitamins_3" itemversn_id="@itemversn_id_Vitamins_3" />
+<catentry catentry_id="@catentry_item_id_Vitamins_6" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_3"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380301" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_3" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_5"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_6" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_6" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_6" sequence="3.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_5" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_6" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="USD" price="18.99" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="AUD" price="24.5" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="NZD" price="26.21" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="BRL" price="60.39" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="CAD" price="24.12" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="CNY" price="126.85" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="EUR" price="16.14" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="GBP" price="14.81" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="JPY" price="2083" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="KRW" price="21655" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="PLN" price="69.12" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="RON" price="74.25" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="RUB" price="1121.93" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_5" currency="TWD" price="575.4" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="USD" listprice="21" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="AUD" listprice="27.09" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="NZD" listprice="28.98" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="BRL" listprice="66.78" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="CAD" listprice="26.67" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="CNY" listprice="140.28" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="EUR" listprice="17.85" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="GBP" listprice="16.38" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="JPY" listprice="2303" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="KRW" listprice="23947" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="PLN" listprice="76.44" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="RON" listprice="82.11" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="RUB" listprice="1240.68" />
+<listprice catentry_id="@catentry_item_id_Vitamins_6" currency="TWD" listprice="636.3" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_8"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_6" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_6" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380301 -->
+<!-- END items of HVT038_3803 -->
+<!-- END catalog entry : HVT038_3803 -->
+<!-- BEGIN catalog entry : HVT038_3804 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_4" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3804" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_7" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="VitaVerve" partnumber="HVT038_3804" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_4" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_7" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_7" sequence="4" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_4" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_4" baseitem_id="@baseproduct_id_Vitamins_4" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_8" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_7" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="USD" price="13.25" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="AUD" price="17.09" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="NZD" price="18.29" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="BRL" price="42.14" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="CAD" price="16.83" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="CNY" price="88.51" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="EUR" price="11.26" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="GBP" price="10.34" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="JPY" price="1453" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="KRW" price="15110" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="PLN" price="48.23" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="RON" price="51.81" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="RUB" price="782.81" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_8" currency="TWD" price="401.48" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="USD" listprice="14" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="AUD" listprice="18.06" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="NZD" listprice="19.32" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="BRL" listprice="44.52" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="CAD" listprice="17.78" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="CNY" listprice="93.52" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="EUR" listprice="11.9" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="GBP" listprice="10.92" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="JPY" listprice="1536" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="KRW" listprice="15965" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="PLN" listprice="50.96" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="RON" listprice="54.74" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="RUB" listprice="827.12" />
+<listprice catentry_id="@catentry_product_id_Vitamins_7" currency="TWD" listprice="424.2" />
+<!-- Begin attribute mapping for HVT038_3804-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3804" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_7" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_11_HVT038_3804" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_7" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3804" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_7" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_7" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_7" />
+<!-- End attribute mapping for HVT038_3804-->
+
+<!-- BEGIN items of HVT038_3804 -->
+<!-- BEGIN item bean HVT038_380401 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_4" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_4" partnumber="HVT038_380401" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_4" itemspc_id="@itemspc_id_Vitamins_4" itemversn_id="@itemversn_id_Vitamins_4" />
+<catentry catentry_id="@catentry_item_id_Vitamins_8" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_4"	catenttype_id="ItemBean" mfname="VitaVerve"	partnumber="HVT038_380401" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_4" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_7"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_8" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_8" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_8" sequence="4.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_7" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_8" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="USD" price="13.25" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="AUD" price="17.09" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="NZD" price="18.29" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="BRL" price="42.14" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="CAD" price="16.83" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="CNY" price="88.51" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="EUR" price="11.26" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="GBP" price="10.34" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="JPY" price="1453" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="KRW" price="15110" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="PLN" price="48.23" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="RON" price="51.81" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="RUB" price="782.81" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_7" currency="TWD" price="401.48" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="USD" listprice="14" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="AUD" listprice="18.06" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="NZD" listprice="19.32" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="BRL" listprice="44.52" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="CAD" listprice="17.78" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="CNY" listprice="93.52" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="EUR" listprice="11.9" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="GBP" listprice="10.92" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="JPY" listprice="1536" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="KRW" listprice="15965" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="PLN" listprice="50.96" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="RON" listprice="54.74" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="RUB" listprice="827.12" />
+<listprice catentry_id="@catentry_item_id_Vitamins_8" currency="TWD" listprice="424.2" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_8" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_8" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380401 -->
+<!-- END items of HVT038_3804 -->
+<!-- END catalog entry : HVT038_3804 -->
+<!-- BEGIN catalog entry : HVT038_3805 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_5" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3805" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_9" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3805" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_5" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_9" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_9" sequence="5" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_5" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_5" baseitem_id="@baseproduct_id_Vitamins_5" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_10" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_9" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="USD" price="9.49" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="AUD" price="12.24" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="NZD" price="13.1" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="BRL" price="30.18" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="CAD" price="12.05" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="CNY" price="63.39" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="EUR" price="8.07" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="GBP" price="7.4" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="JPY" price="1041" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="KRW" price="10822" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="PLN" price="34.54" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="RON" price="37.11" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="RUB" price="560.67" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_10" currency="TWD" price="287.55" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_9" currency="TWD" listprice="303.0" />
+<!-- Begin attribute mapping for HVT038_3805-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3805" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_9" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_11_HVT038_3805" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_9" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3805" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_9" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_9" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_9" />
+<!-- End attribute mapping for HVT038_3805-->
+
+<!-- BEGIN items of HVT038_3805 -->
+<!-- BEGIN item bean HVT038_380501 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_5" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_5" partnumber="HVT038_380501" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_5" itemspc_id="@itemspc_id_Vitamins_5" itemversn_id="@itemversn_id_Vitamins_5" />
+<catentry catentry_id="@catentry_item_id_Vitamins_10" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_5"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380501" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_5" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_9"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_10" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_10" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_10" sequence="5.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_9" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_10" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="USD" price="9.49" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="AUD" price="12.24" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="NZD" price="13.1" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="BRL" price="30.18" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="CAD" price="12.05" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="CNY" price="63.39" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="EUR" price="8.07" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="GBP" price="7.4" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="JPY" price="1041" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="KRW" price="10822" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="PLN" price="34.54" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="RON" price="37.11" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="RUB" price="560.67" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_9" currency="TWD" price="287.55" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_10" currency="TWD" listprice="303.0" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_10" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_10" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380501 -->
+<!-- END items of HVT038_3805 -->
+<!-- END catalog entry : HVT038_3805 -->
+<!-- BEGIN catalog entry : HVT038_3806 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_6" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3806" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_11" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3806" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_6" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_11" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_11" sequence="6" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_6" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_6" baseitem_id="@baseproduct_id_Vitamins_6" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_12" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_11" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="USD" price="23.49" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="AUD" price="30.3" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="NZD" price="32.42" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="BRL" price="74.7" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="CAD" price="29.83" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="CNY" price="156.91" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="EUR" price="19.97" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="GBP" price="18.32" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="JPY" price="2577" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="KRW" price="26787" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="PLN" price="85.5" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="RON" price="91.85" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="RUB" price="1387.79" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_12" currency="TWD" price="711.75" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_product_id_Vitamins_11" currency="TWD" listprice="787.8" />
+<!-- Begin attribute mapping for HVT038_3806-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3806" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_11" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_11_HVT038_3806" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_11" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_13_HVT038_3806" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_11" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_11" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_11" />
+<!-- End attribute mapping for HVT038_3806-->
+
+<!-- BEGIN items of HVT038_3806 -->
+<!-- BEGIN item bean HVT038_380601 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_6" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_6" partnumber="HVT038_380601" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_6" itemspc_id="@itemspc_id_Vitamins_6" itemversn_id="@itemversn_id_Vitamins_6" />
+<catentry catentry_id="@catentry_item_id_Vitamins_12" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_6"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380601" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_6" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_11"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_12" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_12" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_12" sequence="6.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_11" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_12" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="USD" price="23.49" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="AUD" price="30.3" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="NZD" price="32.42" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="BRL" price="74.7" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="CAD" price="29.83" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="CNY" price="156.91" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="EUR" price="19.97" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="GBP" price="18.32" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="JPY" price="2577" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="KRW" price="26787" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="PLN" price="85.5" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="RON" price="91.85" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="RUB" price="1387.79" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_11" currency="TWD" price="711.75" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="USD" listprice="26" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="AUD" listprice="33.54" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="NZD" listprice="35.88" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="BRL" listprice="82.68" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="CAD" listprice="33.02" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="CNY" listprice="173.68" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="EUR" listprice="22.1" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="GBP" listprice="20.28" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="JPY" listprice="2852" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="KRW" listprice="29649" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="PLN" listprice="94.64" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="RON" listprice="101.66" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="RUB" listprice="1536.08" />
+<listprice catentry_id="@catentry_item_id_Vitamins_12" currency="TWD" listprice="787.8" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_14"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_12" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_12" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380601 -->
+<!-- END items of HVT038_3806 -->
+<!-- END catalog entry : HVT038_3806 -->
+<!-- BEGIN catalog entry : HVT038_3807 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_7" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3807" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_13" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3807" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_7" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_13" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_13" sequence="7" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_7" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_7" baseitem_id="@baseproduct_id_Vitamins_7" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_14" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_13" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="USD" price="6.69" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="AUD" price="8.63" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="NZD" price="9.23" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="BRL" price="21.27" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="CAD" price="8.5" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="CNY" price="44.69" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="EUR" price="5.69" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="GBP" price="5.22" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="JPY" price="734" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="KRW" price="7629" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="PLN" price="24.35" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="RON" price="26.16" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="RUB" price="395.25" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_14" currency="TWD" price="202.71" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="USD" listprice="7" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="AUD" listprice="9.03" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="NZD" listprice="9.66" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="BRL" listprice="22.26" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="CAD" listprice="8.89" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="CNY" listprice="46.76" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="EUR" listprice="5.95" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="GBP" listprice="5.46" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="JPY" listprice="768" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="KRW" listprice="7982" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="PLN" listprice="25.48" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="RON" listprice="27.37" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="RUB" listprice="413.56" />
+<listprice catentry_id="@catentry_product_id_Vitamins_13" currency="TWD" listprice="212.1" />
+<!-- Begin attribute mapping for HVT038_3807-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3807" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_13" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_15_HVT038_3807" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_13" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3807" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_13" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_13" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_13" />
+<!-- End attribute mapping for HVT038_3807-->
+
+<!-- BEGIN items of HVT038_3807 -->
+<!-- BEGIN item bean HVT038_380701 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_7" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_7" partnumber="HVT038_380701" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_7" itemspc_id="@itemspc_id_Vitamins_7" itemversn_id="@itemversn_id_Vitamins_7" />
+<catentry catentry_id="@catentry_item_id_Vitamins_14" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_7"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380701" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_7" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_13"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_14" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_14" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_14" sequence="7.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_13" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_14" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="USD" price="6.69" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="AUD" price="8.63" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="NZD" price="9.23" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="BRL" price="21.27" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="CAD" price="8.5" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="CNY" price="44.69" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="EUR" price="5.69" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="GBP" price="5.22" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="JPY" price="734" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="KRW" price="7629" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="PLN" price="24.35" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="RON" price="26.16" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="RUB" price="395.25" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_13" currency="TWD" price="202.71" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="USD" listprice="7" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="AUD" listprice="9.03" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="NZD" listprice="9.66" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="BRL" listprice="22.26" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="CAD" listprice="8.89" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="CNY" listprice="46.76" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="EUR" listprice="5.95" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="GBP" listprice="5.46" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="JPY" listprice="768" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="KRW" listprice="7982" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="PLN" listprice="25.48" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="RON" listprice="27.37" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="RUB" listprice="413.56" />
+<listprice catentry_id="@catentry_item_id_Vitamins_14" currency="TWD" listprice="212.1" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_14" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_16"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_14" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380701 -->
+<!-- END items of HVT038_3807 -->
+<!-- END catalog entry : HVT038_3807 -->
+<!-- BEGIN catalog entry : HVT038_3808 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_8" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3808" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_15" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3808" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_8" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_15" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_15" sequence="8" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_8" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_8" baseitem_id="@baseproduct_id_Vitamins_8" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_16" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_15" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="USD" price="10.59" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="AUD" price="13.66" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="NZD" price="14.61" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="BRL" price="33.68" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="CAD" price="13.45" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="CNY" price="70.74" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="EUR" price="9.0" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="GBP" price="8.26" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="JPY" price="1162" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="KRW" price="12076" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="PLN" price="38.55" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="RON" price="41.41" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="RUB" price="625.66" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_16" currency="TWD" price="320.88" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="USD" listprice="12" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="AUD" listprice="15.48" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="NZD" listprice="16.56" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="BRL" listprice="38.16" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="CAD" listprice="15.24" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="CNY" listprice="80.16" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="EUR" listprice="10.2" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="GBP" listprice="9.36" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="JPY" listprice="1316" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="KRW" listprice="13684" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="PLN" listprice="43.68" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="RON" listprice="46.92" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="RUB" listprice="708.96" />
+<listprice catentry_id="@catentry_product_id_Vitamins_15" currency="TWD" listprice="363.6" />
+<!-- Begin attribute mapping for HVT038_3808-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3808" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_15" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_11_HVT038_3808" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_15" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3808" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_15" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_15" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_15" />
+<!-- End attribute mapping for HVT038_3808-->
+
+<!-- BEGIN items of HVT038_3808 -->
+<!-- BEGIN item bean HVT038_380801 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_8" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_8" partnumber="HVT038_380801" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_8" itemspc_id="@itemspc_id_Vitamins_8" itemversn_id="@itemversn_id_Vitamins_8" />
+<catentry catentry_id="@catentry_item_id_Vitamins_16" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_8"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380801" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_8" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_15"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_16" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_16" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_16" sequence="8.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_15" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_16" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="USD" price="10.59" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="AUD" price="13.66" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="NZD" price="14.61" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="BRL" price="33.68" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="CAD" price="13.45" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="CNY" price="70.74" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="EUR" price="9.0" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="GBP" price="8.26" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="JPY" price="1162" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="KRW" price="12076" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="PLN" price="38.55" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="RON" price="41.41" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="RUB" price="625.66" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_15" currency="TWD" price="320.88" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="USD" listprice="12" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="AUD" listprice="15.48" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="NZD" listprice="16.56" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="BRL" listprice="38.16" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="CAD" listprice="15.24" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="CNY" listprice="80.16" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="EUR" listprice="10.2" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="GBP" listprice="9.36" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="JPY" listprice="1316" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="KRW" listprice="13684" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="PLN" listprice="43.68" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="RON" listprice="46.92" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="RUB" listprice="708.96" />
+<listprice catentry_id="@catentry_item_id_Vitamins_16" currency="TWD" listprice="363.6" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_16" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_12"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_16" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380801 -->
+<!-- END items of HVT038_3808 -->
+<!-- END catalog entry : HVT038_3808 -->
+<!-- BEGIN catalog entry : HVT038_3809 -->
+<baseitem baseitem_id="@baseproduct_id_Vitamins_9" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM"  quantitymeasure="C62" markfordelete="0" partnumber="HVT038_3809" quantitymultiple="1.0" />
+<catentry catentry_id="@catentry_product_id_Vitamins_17" member_id="&CAT_MEMBER_ID;" catenttype_id="ProductBean" mfname="Healthy Boost" partnumber="HVT038_3809" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_9" buyable="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_product_id_Vitamins_17" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_product_id_Vitamins_17" sequence="9" />
+<storeitem baseitem_id="@baseproduct_id_Vitamins_9" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_id_Vitamins_9" baseitem_id="@baseproduct_id_Vitamins_9" expirationdate="9999-12-15 00:00:00.000000" versionname="version" />
+<offer offer_id="@offer_catentry_product_id_Vitamins_18" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_product_id_Vitamins_17" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="USD" price="9.29" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="AUD" price="11.98" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="NZD" price="12.82" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="BRL" price="29.54" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="CAD" price="11.8" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="CNY" price="62.06" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="EUR" price="7.9" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="GBP" price="7.25" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="JPY" price="1019" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="KRW" price="10594" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="PLN" price="33.82" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="RON" price="36.32" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="RUB" price="548.85" />
+<offerprice offer_id="@offer_catentry_product_id_Vitamins_18" currency="TWD" price="281.49" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_product_id_Vitamins_17" currency="TWD" listprice="303.0" />
+<!-- Begin attribute mapping for HVT038_3809-->
+<catentryattr attr_id="@attribute_id_Vitamins_1" attrval_id="@attribute_value_id_Vitamins_9_HVT038_3809" usage="2" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_17" />
+
+<catentryattr attr_id="@attribute_id_Vitamins_3" attrval_id="@attribute_value_id_Vitamins_15_HVT038_3809" usage="2" sequence="2.0" catentry_id="@catentry_product_id_Vitamins_17" />
+<catentryattr attr_id="@attribute_id_Vitamins_4" attrval_id="@attribute_value_id_Vitamins_4_HVT038_3809" usage="2" sequence="3.0" catentry_id="@catentry_product_id_Vitamins_17" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="0" usage="1" sequence="0.0" catentry_id="@catentry_product_id_Vitamins_17" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="0" usage="1" sequence="1.0" catentry_id="@catentry_product_id_Vitamins_17" />
+<!-- End attribute mapping for HVT038_3809-->
+
+<!-- BEGIN items of HVT038_3809 -->
+<!-- BEGIN item bean HVT038_380901 -->
+<itemspc itemspc_id="@itemspc_id_Vitamins_9" member_id="&CAT_MEMBER_ID;" markfordelete="0"  baseitem_id="@baseproduct_id_Vitamins_9" partnumber="HVT038_380901" discontinued="N" />
+<versionspc versionspc_id="@versionspc_id_Vitamins_9" itemspc_id="@itemspc_id_Vitamins_9" itemversn_id="@itemversn_id_Vitamins_9" />
+<catentry catentry_id="@catentry_item_id_Vitamins_18" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_id_Vitamins_9"	catenttype_id="ItemBean" mfname="Healthy Boost"	partnumber="HVT038_380901" markfordelete="0" baseitem_id="@baseproduct_id_Vitamins_9" buyable="1" />
+<catentrel catentry_id_parent="@catentry_product_id_Vitamins_17"	catreltype_id="PRODUCT_ITEM" catentry_id_child="@catentry_item_id_Vitamins_18" sequence="1" quantity="1" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_item_id_Vitamins_18" />
+<catgpenrel catgroup_id="@catgroup_id_Vitamins" catalog_id="&CATALOG_ID;" catentry_id="@catentry_item_id_Vitamins_18" sequence="9.2" />
+<offer offer_id="@offer_catentry_item_id_Vitamins_17" startdate="2000-06-19 00:00:00.000000" catentry_id="@catentry_item_id_Vitamins_18" precedence="0" published="1" identifier="1" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="USD" price="9.29" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="AUD" price="11.98" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="NZD" price="12.82" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="BRL" price="29.54" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="CAD" price="11.8" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="CNY" price="62.06" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="EUR" price="7.9" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="GBP" price="7.25" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="JPY" price="1019" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="KRW" price="10594" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="PLN" price="33.82" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="RON" price="36.32" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="RUB" price="548.85" />
+<offerprice offer_id="@offer_catentry_item_id_Vitamins_17" currency="TWD" price="281.49" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="USD" listprice="10" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="AUD" listprice="12.9" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="NZD" listprice="13.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="BRL" listprice="31.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="CAD" listprice="12.7" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="CNY" listprice="66.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="EUR" listprice="8.5" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="GBP" listprice="7.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="JPY" listprice="1097" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="KRW" listprice="11403" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="PLN" listprice="36.4" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="RON" listprice="39.1" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="RUB" listprice="590.8" />
+<listprice catentry_id="@catentry_item_id_Vitamins_18" currency="TWD" listprice="303.0" />
+<catentryattr attr_id="@attribute_id_Vitamins_6" attrval_id="@attribute_value_id_Vitamins_6"	usage="1" sequence="0.0" catentry_id="@catentry_item_id_Vitamins_18" />
+<catentryattr attr_id="@attribute_id_Vitamins_5" attrval_id="@attribute_value_id_Vitamins_16"	usage="1" sequence="1.0" catentry_id="@catentry_item_id_Vitamins_18" />
+
+
+
+
+<!-- Non-ATP inventory -->
+
+<!-- Physical store inventory -->
+
+<!-- END item bean HVT038_380901 -->
+<!-- END items of HVT038_3809 -->
+<!-- END catalog entry : HVT038_3809 -->
+<!-- END: Writing catalog entries -->
+
+

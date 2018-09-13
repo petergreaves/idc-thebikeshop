@@ -1,0 +1,301 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel"
+   name="Abbigliamento"
+   shortdescription="Gli stili più moderni per tutta la famiglia."
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="abbigliamento per la famiglia, tessuti, camicie, pantaloni, maglie, abiti, abito"
+/>
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="Donna"
+   shortdescription="Donna"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="casual, cocktail, gonna, maglione, sera"
+/>
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="Uomo"
+   shortdescription="Uomo"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="casual, camicia, maglione, abiti, pantaloni, cintura, cravatte"
+/>
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="Ragazza"
+   shortdescription="Ragazza"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="casual, sportivo, gonna, maglione, ragazza"
+/>
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="Ragazzi"
+   shortdescription="ragazzi"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="casual, sportivo, pantaloni, jeans, maglione, bambino"
+/>
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="Abiti"
+   shortdescription="Abiti"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="casual, cocktail, gonna, maglione, sera"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="Giacche"
+   shortdescription="Giacche"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="casual, sportivo, cuoio, leggero, cappotto"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="Camicie"
+   shortdescription="Camicie"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="casual, business, maglietta, resistente"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="Abiti"
+   shortdescription="Abiti"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="casual, formale, bottone, lana"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="casual, jeans, dritto, comodo, pantalone elegante"
+/>
+
+
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="Accessori"
+   shortdescription="Accessori"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="seta, cravatta, cuoio, cintura, cappello"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="Scarpe"
+   shortdescription="Scarpe"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="casual, francesina, sneaker, sportivo, da passeggio"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="Maglie"
+   shortdescription="Maglie"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="casual, cocktail,top, sera"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="denim, jeans, abbigliamento bambini, ragazze"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="Scarpe"
+   shortdescription="Scarpe"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="danza, scarpette, corsa, atletica"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="Camicette"
+   shortdescription="Camicette"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="casual, business, leggero, sera"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="Maglioni"
+   shortdescription="Maglioni"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="casual, lupetto, top, pullover"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="Gonne"
+   shortdescription="Gonne"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="casual, denim, mini, raso"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="casual, taglio dritto, formale, denim"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="Scarpe"
+   shortdescription="Scarpe"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="casual, ballerine, cuoio, punta aperta, tacchi alti, stivali"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="Borsette"
+   shortdescription="Borsette"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="casual, sacca, cuoio, borsetta"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="Accessori"
+   shortdescription="Accessori"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="casual, pelle, cintura, borsetta, cappello, occhiali"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="Pantaloni"
+   shortdescription="Pantaloni"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="denim, svasato, bambino, jeans"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="Gonne"
+   shortdescription="Gonne"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="casual, cocktail,gonne, sera"
+/>
+
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="Maglie"
+   shortdescription="Maglie"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="casual, maglietta, giubbotto, maglione"
+/>
+
+<catgrpdesc
+   language_id="&it_IT;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="Scarpe"
+   shortdescription="Scarpe"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="casual, tela, corsa, cuoio"
+/>
+
+<!-- End of Category Descriptions -->

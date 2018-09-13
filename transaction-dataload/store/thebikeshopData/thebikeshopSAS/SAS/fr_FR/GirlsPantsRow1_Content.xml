@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_310003_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_31003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/063B_EGIS_Denim_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_310003_fr_FR"
+  atchtgt_id="@atchtgt_id_31003"
+  language_id="&fr_FR;"
+  name="Denim"
+  shortdescription="Promo sur le denim, moins 35 % sur les jeans pour fille"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_310003_fr_FR"
+  atchast_id="@atchast_id_310003_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_310003_fr_FR"
+  atchrel_id="@atchrel_id_31003"
+  language_id="&fr_FR;"
+  name="Denim"
+  shortdescription="Denim"
+/>
+<colldesc 
+	collateral_id="@collateral_id_31003"
+	language_id="&fr_FR;"
+	marketingtext="Denim" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_320003_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_32003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/067B_EGIS_SummClearance_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_320003_fr_FR"
+  atchtgt_id="@atchtgt_id_32003"
+  language_id="&fr_FR;"
+  name="Soldes d'été"
+  shortdescription="Soldes d'été, économisez 50 % sur les jupes et robes pour fille"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_320003_fr_FR"
+  atchast_id="@atchast_id_320003_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_320003_fr_FR"
+  atchrel_id="@atchrel_id_32003"
+  language_id="&fr_FR;"
+  name="Soldes d'été"
+  shortdescription="Soldes d'été"
+/>
+<colldesc 
+	collateral_id="@collateral_id_32003"
+	language_id="&fr_FR;"
+	marketingtext="Soldes d'été" 
+/>
+

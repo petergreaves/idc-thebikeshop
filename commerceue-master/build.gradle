@@ -1,0 +1,137 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+apply plugin: 'run-engine'
+
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies {
+		classpath ':runengine-plugins:+'
+	}
+}
+
+evaluationDependsOn(':commerceue-app')
+evaluationDependsOn(':commerceue-ear')
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+ext.serverName = 'commerceueServer_' + new Date().format('yyyyMMddHHmmss')
+ext.serverDisplayName = 'Customization Test Server'
+ext.customArchiveName = 'xc-customization'
+ext.earName = 'commerceue-ear'
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task build {
+	description 'Builds the commerceue SDK package'
+	group 'Build'
+}
+
+if (((System.getenv('JOB_NAME') != null) && (System.getenv('BUILD_ID') != null)) || ((System.getenv('JOB_NAME') != "") && (System.getenv('BUILD_ID') != ""))) {
+	server{
+		name serverName
+		home project.libertyHome
+		copyConfiguration("${projectDir}/server")
+		
+		configureServer{
+			libs("${workspaceDir}/master/engineLib")
+			configProperties "${projectDir}/server/config.properties"
+
+			def wcHostName = project.hasProperty('wcHostName') ? project.wcHostName : 'localhost'
+			def searchStoreHostName = project.hasProperty('searchStoreHostName') ? project.searchStoreHostName : 'localhost'
+
+			run('add-spi-registry','spiRegistry','spiuser','{xor}Lz4sLChvLTs=')
+
+			run('set-transaction-server', wcHostName, '5443')
+			run('set-search-server', searchStoreHostName, '3738')
+
+			run('add-system-property', 'user.timezone', 'UTC')
+		}
+	}
+}
+
+/////////////////////////////////////////////
+// Create External Package for UCD to Consume
+/////////////////////////////////////////////
+task copyAssets(type: Copy, dependsOn:  [':commerceue-app:build', ':commerceue-ear:build', 'build'] ) {
+	description = 'Zip CommerceUE project'
+	group = 'Zip custom commerceue web project'
+
+	from ("$workspaceDir/commerceue-ear/build/libs") {
+		include '**/*.ear'
+		into 'code'
+	}
+
+	from ("$workspaceDir/master/version.txt")
+	destinationDir file("$buildDir/temp")
+
+	doLast {
+		def masterVersion = new File("$buildDir/temp/version.txt")
+		def tempVersion = new File("$workspaceDir/commerceue-master/version.txt").text
+		masterVersion.append(System.getProperty("line.separator") + "$tempVersion")
+	}
+}
+
+task zipXcDataloadData(type: Zip) {
+	description = 'Zip Transaction Server xC dataload files'
+	group = 'Zip custom transaction server xC dataload files'
+
+	from ("$workspaceDir/transaction-dataload/data/xC") {
+		exclude('**/README.md')
+	}
+
+	includeEmptyDirs = false
+	archiveName "data.zip"
+	destinationDir file("$buildDir/temp")
+}
+
+task bundle(type: Zip, dependsOn:  ['copyAssets', 'zipXcDataloadData'] ) {
+	description = 'Zip Commerceue assets'
+	group = 'Zip commerceue custom web project'
+
+	def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+	from "$workspaceDir/commerceue-master/build/temp"
+	archiveName "${customArchiveName}-${buildLabel}.zip"
+	destinationDir file("$workspaceDir/commerceue-master/build/distributions")
+	doLast {
+        println "Note: ${archiveName} bundle available in: $workspaceDir/commerceue-master/build/distributions"
+    }
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

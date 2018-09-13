@@ -1,0 +1,306 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel"
+   name="Bekleidung
+"
+   shortdescription="Brandaktuelle Mode für die ganze Familie."
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="Kleidung für die Familie, Kleider, Shirts, Hemden, Hosen, Tops, Röcke, Kleid, Rock"
+/>
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="Damen
+"
+   shortdescription="Damen
+"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="Freizeit, Cocktail, Röcke, Pullover, Abend"
+/>
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="Herren"
+   shortdescription="Herren"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="Freizeit, T-Shirt, Pullover, Anzüge, Hosen, Gürtel, Krawatten"
+/>
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="Mädchen"
+   shortdescription="Mädchen"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="Freizeit, Sport, Röcke, Pullover, Kind"
+/>
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="Jungen"
+   shortdescription="Jungen"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="Freizeit, Sport, Hosen, Jeans, Pullover, Kind"
+/>
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="Kleider
+"
+   shortdescription="Kleider
+"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="Freizeit, Cocktail, Röcke, Pullover, Abend"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="Jacken"
+   shortdescription="Jacken"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="Freizeit, Sport, Leder, leicht, Mantel"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="Hemden"
+   shortdescription="Hemden"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="Freizeit, Business, Henley, strapazierfähig"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="Anzüge"
+   shortdescription="Anzüge"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="Freizeit, formell, geknöpft, Wolle"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="Hosen"
+   shortdescription="Hosen"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="Freizeit, Jeans, gerade Form, bequeme Form, Anzughose"
+/>
+
+
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="Accessoires"
+   shortdescription="Accessoires"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="Seide, Krawatte, Leder, Gürtel, Hüte"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="Schuhe"
+   shortdescription="Schuhe"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="Freizeit, Oxford, Turnschuhe, Sport, Laufen"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="Oberteile"
+   shortdescription="Oberteile"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="Freizeit, Cocktail, Oberteile, Abend"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="Hosen"
+   shortdescription="Hosen"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="Denim, Jeans, Kinderkleidung, Mädchen"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="Schuhe"
+   shortdescription="Schuhe"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="Ballett, Ballerinas, Laufen, athletisch"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="Blusen"
+   shortdescription="Blusen"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="Freizeit, Business, leicht, Abend"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="Pullover"
+   shortdescription="Pullover"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="Freizeit, Rollkragen, Designerpullover, Pullover"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="Röcke"
+   shortdescription="Röcke"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="Freizeit, Denim, Mini, Satin"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="Hosen"
+   shortdescription="Hosen"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="Freizeit, gerader Schnitt, formell, Denim"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="Schuhe"
+   shortdescription="Schuhe"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="Freizeit, ohne Absatz, Leder, zehenfrei, hoher Absatz, Stiefel"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="Handtaschen"
+   shortdescription="Handtaschen"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="Freizeit, Shopper, Leder, Clutch"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="Accessoires"
+   shortdescription="Accessoires"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="Freizeit, Leder, Gürtel, Handtaschen, Hüte, Brillen"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="Hosen"
+   shortdescription="Hosen"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="Denim, Bootcut, Kleinkinder, Jeans"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="Röcke"
+   shortdescription="Röcke"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="Freizeit, Cocktail, Röcke, Abend"
+/>
+
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="Oberteile"
+   shortdescription="Oberteile"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="Freizeit, T-Shirt, Westen, Pullover"
+/>
+
+<catgrpdesc
+   language_id="&de_DE;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="Schuhe"
+   shortdescription="Schuhe"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="Freizeit, Stoff, Laufen, Leder"
+/>
+
+<!-- End of Category Descriptions -->

@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110001_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0402B_EMS_SuitUp_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110001_pt_BR"
+  atchtgt_id="@atchtgt_id_11001"
+  language_id="&pt_BR;"
+  name="Terno"
+  shortdescription="Venda de Ternos 20% de desconto em ternos masculinos"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110001_pt_BR"
+  atchast_id="@atchast_id_110001_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110001_pt_BR"
+  atchrel_id="@atchrel_id_11001"
+  language_id="&pt_BR;"
+  name="Terno"
+  shortdescription="Terno"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11001"
+	language_id="&pt_BR;"
+	marketingtext="Terno" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120001_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/0412B_EMS_SilkTie_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120001_pt_BR"
+  atchtgt_id="@atchtgt_id_12001"
+  language_id="&pt_BR;"
+  name="Gravata de Seda"
+  shortdescription="Venda de Gravatas de Seda 50% de desconto com a compra de um terno"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120001_pt_BR"
+  atchast_id="@atchast_id_120001_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120001_pt_BR"
+  atchrel_id="@atchrel_id_12001"
+  language_id="&pt_BR;"
+  name="Gravata de Seda"
+  shortdescription="Gravata de Seda"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12001"
+	language_id="&pt_BR;"
+	marketingtext="Gravata de Seda" 
+/>
+

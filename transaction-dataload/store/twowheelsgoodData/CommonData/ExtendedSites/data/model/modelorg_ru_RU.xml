@@ -1,0 +1,13 @@
+	<!-- Create Partner Org -->
+	<orgentity orgentity_id="@partner_orgentity_id" dn="&ORG_DN_RESELLER;" orgentitytype="O" orgentityname="Организация продавца расширенных сайтов" >
+		<isa>
+			<member member_id="@partner_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>
+
+	<!-- Create Hosting Org -->
+	<orgentity orgentity_id="@manufacturer_orgentity_id" dn="&ORGANIZATION_DN;" orgentitytype="O" orgentityname="Организация расширенных сайтов" >
+		<isa>
+			<member member_id="@manufacturer_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>

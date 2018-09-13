@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_acc10001_de_DE"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Accessories1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/de_DE/0703B_EES_CrystalClear_001.jpg"
+  directorypath="images/advertisements/de_DE"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_acc10001_de_DE"
+  atchtgt_id="@atchtgt_id_Accessories1001"
+  language_id="&de_DE;"
+  name="Kristallklar"
+  shortdescription="Kristallklar: 15% auf externe Bildschirme"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_acc10001_de_DE"
+  atchast_id="@atchast_id_acc10001_de_DE"
+  language_id="&de_DE;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_acc10001_de_DE"
+  atchrel_id="@atchrel_id_Accessories1001"
+  language_id="&de_DE;"
+  name="Kristallklar"
+  shortdescription="Kristallklar"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Accessories1001"
+	language_id="&de_DE;"
+	marketingtext="Kristallklar" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_acc10002_de_DE"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Accessories1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/de_DE/0702B_EES_Accessories_001.jpg"
+  directorypath="images/advertisements/de_DE"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_acc10002_de_DE"
+  atchtgt_id="@atchtgt_id_Accessories1002"
+  language_id="&de_DE;"
+  name="Beim Zubehör sparen"
+  shortdescription="Beim Zubehör sparen: 25% auf Computerzubehör"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_acc10002_de_DE"
+  atchast_id="@atchast_id_acc10002_de_DE"
+  language_id="&de_DE;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_acc10002_de_DE"
+  atchrel_id="@atchrel_id_Accessories1002"
+  language_id="&de_DE;"
+  name="Beim Zubehör sparen"
+  shortdescription="Beim Zubehör sparen"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Accessories1002"
+	language_id="&de_DE;"
+	marketingtext="Beim Zubehör sparen" 
+/>
+

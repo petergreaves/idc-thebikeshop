@@ -1,0 +1,131 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenShirtsBlousesSize -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_7" attrtype_id="STRING" language_id="&pt_BR;" name="Tamanho" description="Tamanho" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_7" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="1" value="PP" integervalue="" floatvalue="" stringvalue="PP" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_8" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="2" value="P" integervalue="" floatvalue="" stringvalue="P" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_9" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_10" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="4" value="G" integervalue="" floatvalue="" stringvalue="G" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_11" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="5" value="GG" integervalue="" floatvalue="" stringvalue="GG" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_12" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="6" value="GGG" integervalue="" floatvalue="" stringvalue="GGG" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_13" attr_id="@attribute_id_WomenShirtsBlouses_7" valusage="1" language_id="&pt_BR;" sequence="7" value="GGGG" integervalue="" floatvalue="" stringvalue="GGGG" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShirtsBlousesSize -->
+<!--BEGIN Defining attribute description  WomenShirtsBlousesColor -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_8" attrtype_id="STRING" language_id="&pt_BR;" name="Cor" description="Cor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_14" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="1" value="Branco" integervalue="" floatvalue="" stringvalue="Branco" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_18" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="2" value="Marrom" integervalue="" floatvalue="" stringvalue="Marrom" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_24" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="3" value="Multicor" integervalue="" floatvalue="" stringvalue="Multicor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_29" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="4" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_31" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="5" value="Rosa" integervalue="" floatvalue="" stringvalue="Rosa" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_35" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="6" value="Cinza" integervalue="" floatvalue="" stringvalue="Cinza" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_38" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="7" value="Bege" integervalue="" floatvalue="" stringvalue="Bege" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_44" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="8" value="Preta" integervalue="" floatvalue="" stringvalue="Preta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_54" attr_id="@attribute_id_WomenShirtsBlouses_8" valusage="1" language_id="&pt_BR;" sequence="9" value="Vermelho" integervalue="" floatvalue="" stringvalue="Vermelho" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShirtsBlousesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_6" attrtype_id="STRING" language_id="&pt_BR;" name="Comprimento da Manga" description="Comprimento da Manga" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_6_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Manga 3/4" integervalue="" floatvalue="" stringvalue="Manga 3/4" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Mangas japonesas" integervalue="" floatvalue="" stringvalue="Mangas japonesas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Mangas japonesas" integervalue="" floatvalue="" stringvalue="Mangas japonesas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_17_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Mangas japonesas" integervalue="" floatvalue="" stringvalue="Mangas japonesas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_23_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="3" value="Sem alça" integervalue="" floatvalue="" stringvalue="Sem alça" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_28_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="4" value="Mangas compridas" integervalue="" floatvalue="" stringvalue="Mangas compridas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_28_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="4" value="Mangas compridas" integervalue="" floatvalue="" stringvalue="Mangas compridas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="5" value="Mangas curtas" integervalue="" floatvalue="" stringvalue="Mangas curtas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="5" value="Mangas curtas" integervalue="" floatvalue="" stringvalue="Mangas curtas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_34_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="5" value="Mangas curtas" integervalue="" floatvalue="" stringvalue="Mangas curtas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_43_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="6" value="Sem mangas" integervalue="" floatvalue="" stringvalue="Sem mangas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_43_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="6" value="Sem mangas" integervalue="" floatvalue="" stringvalue="Sem mangas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="7" value="Mangas compridas" integervalue="" floatvalue="" stringvalue="Mangas compridas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="7" value="Mangas compridas" integervalue="" floatvalue="" stringvalue="Mangas compridas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_48_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="7" value="Mangas compridas" integervalue="" floatvalue="" stringvalue="Mangas compridas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_53_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_6" valusage="1" language_id="&pt_BR;" sequence="8" value="Mangas curtas bufantes" integervalue="" floatvalue="" stringvalue="Mangas curtas bufantes" />
+<!--end of  Sleeve Length -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_5" attrtype_id="STRING" language_id="&pt_BR;" name="Limpeza" description="Limpeza" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_5_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_22_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_5" valusage="1" language_id="&pt_BR;" sequence="2" value="Lavagem a seco" integervalue="" floatvalue="" stringvalue="Lavagem a seco" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_2" attrtype_id="STRING" language_id="&pt_BR;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Algodão mesclado" integervalue="" floatvalue="" stringvalue="Algodão mesclado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Algodão mesclado" integervalue="" floatvalue="" stringvalue="Algodão mesclado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Algodão mesclado" integervalue="" floatvalue="" stringvalue="Algodão mesclado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Algodão mesclado" integervalue="" floatvalue="" stringvalue="Algodão mesclado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_2_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Algodão mesclado" integervalue="" floatvalue="" stringvalue="Algodão mesclado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_16_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Algodão, spandex" integervalue="" floatvalue="" stringvalue="Algodão, spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Algodão" integervalue="" floatvalue="" stringvalue="Algodão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Algodão" integervalue="" floatvalue="" stringvalue="Algodão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_26_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Algodão" integervalue="" floatvalue="" stringvalue="Algodão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_33_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="4" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_36_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="5" value="Poliéster e spandex" integervalue="" floatvalue="" stringvalue="Poliéster e spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Georgette" integervalue="" floatvalue="" stringvalue="Georgette" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Georgette" integervalue="" floatvalue="" stringvalue="Georgette" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Georgette" integervalue="" floatvalue="" stringvalue="Georgette" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_42_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="6" value="Georgette" integervalue="" floatvalue="" stringvalue="Georgette" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_46_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_2" valusage="1" language_id="&pt_BR;" sequence="7" value="Poliéster/spandex" integervalue="" floatvalue="" stringvalue="Poliéster/spandex" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_1" attrtype_id="STRING" language_id="&pt_BR;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_1_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="1" value="Camisa esporte" integervalue="" floatvalue="" stringvalue="Camisa esporte" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_15_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Blusa justa" integervalue="" floatvalue="" stringvalue="Blusa justa" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_15_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Blusa justa" integervalue="" floatvalue="" stringvalue="Blusa justa" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_19_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Espartilho" integervalue="" floatvalue="" stringvalue="Espartilho" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Camisa formal" integervalue="" floatvalue="" stringvalue="Camisa formal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Camisa formal" integervalue="" floatvalue="" stringvalue="Camisa formal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_25_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Camisa formal" integervalue="" floatvalue="" stringvalue="Camisa formal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_32_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Top justo" integervalue="" floatvalue="" stringvalue="Top justo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_32_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Top justo" integervalue="" floatvalue="" stringvalue="Top justo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_39_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Top solto" integervalue="" floatvalue="" stringvalue="Top solto" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Top informal" integervalue="" floatvalue="" stringvalue="Top informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Top informal" integervalue="" floatvalue="" stringvalue="Top informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Top informal" integervalue="" floatvalue="" stringvalue="Top informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_41_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Top informal" integervalue="" floatvalue="" stringvalue="Top informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_49_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="8" value="Top drapeado" integervalue="" floatvalue="" stringvalue="Top drapeado" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_51_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_1" valusage="1" language_id="&pt_BR;" sequence="9" value="Camisa justa" integervalue="" floatvalue="" stringvalue="Camisa justa" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenShirtsBlouses_3" attrtype_id="STRING" language_id="&pt_BR;" name="Ocasião" description="Ocasião" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0102" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0104" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0107" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0108" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0109" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0110" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0111" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0121" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_3_WCL001_0126" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_20_WCL001_0105" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Informal, coquetel, noite" integervalue="" floatvalue="" stringvalue="Informal, coquetel, noite" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0106" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0113" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_27_WCL001_0115" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="3" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_47_WCL001_0119" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="4" value="Escritório" integervalue="" floatvalue="" stringvalue="Escritório" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_50_WCL001_0120" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="5" value="Coquetel, noite" integervalue="" floatvalue="" stringvalue="Coquetel, noite" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShirtsBlouses_52_WCL001_0123" attr_id="@attribute_id_WomenShirtsBlouses_3" valusage="1" language_id="&pt_BR;" sequence="6" value="Informal, carreira" integervalue="" floatvalue="" stringvalue="Informal, carreira" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

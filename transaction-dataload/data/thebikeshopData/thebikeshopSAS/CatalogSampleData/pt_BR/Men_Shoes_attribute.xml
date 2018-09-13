@@ -1,0 +1,73 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenShoesShoe Size -->
+<attrdesc attr_id="@attribute_id_MenShoes_5" attrtype_id="INTEGER" language_id="&pt_BR;" name="Tamanho do Sapato" description="Tamanho do Sapato" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_5" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="1" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_6" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="2" value="9" integervalue="9" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_7" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="3" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_8" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="4" value="10.5" integervalue="" floatvalue="10.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_9" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="5" value="11" integervalue="11" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_10" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="6" value="11.5" integervalue="" floatvalue="11.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_11" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="7" value="12" integervalue="12" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_12" attr_id="@attribute_id_MenShoes_5" valusage="1" language_id="&pt_BR;" sequence="8" value="13" integervalue="13" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShoesShoe Size -->
+<!--BEGIN Defining attribute description  MenShoesColor -->
+<attrdesc attr_id="@attribute_id_MenShoes_4" attrtype_id="STRING" language_id="&pt_BR;" name="Cor" description="Cor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_4" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="1" value="Preta" integervalue="" floatvalue="" stringvalue="Preta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_16" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="2" value="Conhaque" integervalue="" floatvalue="" stringvalue="Conhaque" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_19" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="3" value="Marrom" integervalue="" floatvalue="" stringvalue="Marrom" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_24" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="4" value="Castanho claro" integervalue="" floatvalue="" stringvalue="Castanho claro" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_25" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="5" value="Cinza" integervalue="" floatvalue="" stringvalue="Cinza" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_27" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="6" value="Marinho" integervalue="" floatvalue="" stringvalue="Marinho" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_29" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="7" value="Multicor" integervalue="" floatvalue="" stringvalue="Multicor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_30" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="8" value="Marrom escuro" integervalue="" floatvalue="" stringvalue="Marrom escuro" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_32" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="9" value="Preto/vermelho" integervalue="" floatvalue="" stringvalue="Preto/vermelho" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_33" attr_id="@attribute_id_MenShoes_4" valusage="1" language_id="&pt_BR;" sequence="10" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShoesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenShoes_1" attrtype_id="STRING" language_id="&pt_BR;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_1_MSH012_1201" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="1" value="Loafer" integervalue="" floatvalue="" stringvalue="Loafer" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_13_MSH012_1202" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Mocassim" integervalue="" floatvalue="" stringvalue="Mocassim" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_17_MSH012_1204" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Brogue" integervalue="" floatvalue="" stringvalue="Brogue" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_20_MSH012_1206" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Oxford" integervalue="" floatvalue="" stringvalue="Oxford" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_20_MSH012_1208" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Oxford" integervalue="" floatvalue="" stringvalue="Oxford" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_20_MSH012_1210" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Oxford" integervalue="" floatvalue="" stringvalue="Oxford" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_20_MSH012_1213" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Oxford" integervalue="" floatvalue="" stringvalue="Oxford" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_26_MSH012_1214" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_26_MSH012_1215" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_26_MSH012_1217" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_26_MSH012_1220" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_26_MSH012_1222" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_28_MSH012_1216" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_31_MSH012_1218" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Atlético" integervalue="" floatvalue="" stringvalue="Atlético" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_31_MSH012_1219" attr_id="@attribute_id_MenShoes_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Atlético" integervalue="" floatvalue="" stringvalue="Atlético" />
+<!--end of  Style -->
+<!--start of  Width -->
+<attrdesc attr_id="@attribute_id_MenShoes_2" attrtype_id="STRING" language_id="&pt_BR;" name="Largura" description="Largura" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_2_MSH012_1201" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Largo" integervalue="" floatvalue="" stringvalue="Largo" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_2_MSH012_1208" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Largo" integervalue="" floatvalue="" stringvalue="Largo" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_2_MSH012_1216" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Largo" integervalue="" floatvalue="" stringvalue="Largo" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_2_MSH012_1218" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Largo" integervalue="" floatvalue="" stringvalue="Largo" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1202" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1204" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1213" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1214" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1215" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1217" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1220" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_14_MSH012_1222" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Comum" integervalue="" floatvalue="" stringvalue="Comum" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_21_MSH012_1206" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Estreito" integervalue="" floatvalue="" stringvalue="Estreito" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_21_MSH012_1210" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Estreito" integervalue="" floatvalue="" stringvalue="Estreito" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShoes_21_MSH012_1219" attr_id="@attribute_id_MenShoes_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Estreito" integervalue="" floatvalue="" stringvalue="Estreito" />
+<!--end of  Width -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

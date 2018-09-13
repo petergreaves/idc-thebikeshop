@@ -1,0 +1,4 @@
+CatalogFilterCategory,,,,,,,,,,,,
+CatalogFilterName,StoreIdentifier,CatalogIdentifier,SelectionType,CatalogGroupIdentifier,ConditionGroupRelation,Delete,Field1,Field2,Field3,Field4,Field5
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Exclude,Dresses,Or,0,111,222,333,,555
+CatalogFilterB,AuroraESite,ExtendedSitesCatalogAssetStore,Include,Apparel,And,0,,,,,

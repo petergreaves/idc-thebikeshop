@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE import SYSTEM "store-data-assets.dtd">
+
+<import loadItemName="StoreDataSecOne">
+	&parentorg.xml;
+	&parentorgrole.xml;
+
+	&store.xml;
+	&command.xml;
+	&campaign.xml;
+	&promotions.xml;
+	&accesscontrol.xml;
+	&eSpots.xml;
+	&seo.xml;
+	&seocatalog.xml;
+	&storeconf.xml;
+	
+	&en_US_store.xml;
+	&en_US_accesscontrol.xml;
+	&en_US_seocatalog.xml;
+	
+	&ja_JP_store.xml;
+	&ja_JP_accesscontrol.xml;
+	&ja_JP_seocatalog.xml;
+	
+	&zh_TW_store.xml;
+	&zh_TW_accesscontrol.xml;
+	&zh_TW_seocatalog.xml;
+
+	&zh_CN_store.xml;
+	&zh_CN_accesscontrol.xml;
+	&zh_CN_seocatalog.xml;
+	
+	<!--
+	&ko_KR_store.xml;
+	&ko_KR_accesscontrol.xml;
+	&ko_KR_seocatalog.xml;-->
+	
+	&de_DE_store.xml;
+	&de_DE_accesscontrol.xml;
+	&de_DE_seocatalog.xml;
+	
+	&es_ES_store.xml;
+	&es_ES_accesscontrol.xml;
+	&es_ES_seocatalog.xml;
+	
+	&fr_FR_store.xml;
+	&fr_FR_accesscontrol.xml;
+	&fr_FR_seocatalog.xml;
+	
+	&it_IT_store.xml;
+	&it_IT_accesscontrol.xml;	
+	&it_IT_seocatalog.xml;
+	
+	&pt_BR_store.xml;
+	&pt_BR_accesscontrol.xml;
+	&pt_BR_seocatalog.xml;
+
+	&ru_RU_store.xml;
+	&ru_RU_accesscontrol.xml;
+	&ru_RU_seocatalog.xml;
+
+	&ro_RO_store.xml;
+	&ro_RO_accesscontrol.xml;
+	&ro_RO_seocatalog.xml;
+
+	<!--
+	&pl_PL_store.xml;
+	&pl_PL_accesscontrol.xml;
+	&pl_PL_seocatalog.xml;-->
+
+	<!-- The following files are specified in ibm-wc-load.xml -->
+	<!-- paymentinfo.xml, modelorg.xml, & contract.xml -->
+
+	&en_US_searchterm-mappings.xml;
+	&de_DE_searchterm-mappings.xml;
+	&es_ES_searchterm-mappings.xml;
+	&fr_FR_searchterm-mappings.xml;
+	&it_IT_searchterm-mappings.xml;
+	&ja_JP_searchterm-mappings.xml;
+	<!--
+	&ko_KR_searchterm-mappings.xml;
+	&pl_PL_searchterm-mappings.xml;-->
+	&pt_BR_searchterm-mappings.xml;
+	&zh_CN_searchterm-mappings.xml;
+	&zh_TW_searchterm-mappings.xml;
+	
+	&ro_RO_searchterm-mappings.xml;
+	&ru_RU_searchterm-mappings.xml;
+			
+	&staticmarketingcontent.xml;
+	&en_US_staticmarketingcontent.xml;
+	&de_DE_staticmarketingcontent.xml;
+	&es_ES_staticmarketingcontent.xml;
+	&fr_FR_staticmarketingcontent.xml;
+	&it_IT_staticmarketingcontent.xml;
+	&pt_BR_staticmarketingcontent.xml;
+	&ja_JP_staticmarketingcontent.xml;
+	<!--
+	&ko_KR_staticmarketingcontent.xml;
+	&pl_PL_staticmarketingcontent.xml;-->
+	&zh_CN_staticmarketingcontent.xml;
+	&zh_TW_staticmarketingcontent.xml;
+	
+	&ro_RO_staticmarketingcontent.xml;
+	&ru_RU_staticmarketingcontent.xml;
+	
+	&en_US_eSpots.xml;
+	&de_DE_eSpots.xml; 
+	&es_ES_eSpots.xml; 
+	&fr_FR_eSpots.xml; 
+	&it_IT_eSpots.xml; 
+	&pt_BR_eSpots.xml; 
+	<!--
+	&pl_PL_eSpots.xml; 
+	&ko_KR_eSpots.xml; -->
+	&ja_JP_eSpots.xml; 
+	&zh_CN_eSpots.xml; 
+	&zh_TW_eSpots.xml; 
+	&ro_RO_eSpots.xml; 
+	&ru_RU_eSpots.xml;	
+	&ckEditorConfig.xml;
+	&cmcUIHiding.xml;
+	<!-- ======== Optional language support below ======== -->
+
+	<!-- Remove comments if supporting he_IL
+	&he_IL_store.xml;
+	&he_IL_accesscontrol.xml;
+	&he_IL_seocatalog.xml;
+	&he_IL_searchterm-mappings.xml;
+	&he_IL_staticmarketingcontent.xml;
+	&he_IL_eSpots.xml;
+	-->
+
+	<!-- Remove comments if supporting iw_IL
+	&iw_IL_store.xml;
+	&iw_IL_accesscontrol.xml;
+	&iw_IL_seocatalog.xml;
+	&iw_IL_searchterm-mappings.xml;
+	&iw_IL_staticmarketingcontent.xml;
+	&iw_IL_eSpots.xml;
+	-->
+	
+	<!-- Remove comments if supporting ar_EG
+	&ar_EG_store.xml;
+	&ar_EG_accesscontrol.xml;
+	&ar_EG_seocatalog.xml;
+	&ar_EG_searchterm-mappings.xml;	
+	&ar_EG_staticmarketingcontent.xml;
+	&ar_EG_eSpots.xml;
+	-->
+	
+	<!-- Remove comments if supporting tr_TR
+	&tr_TR_store.xml;
+	&tr_TR_accesscontrol.xml;
+	&tr_TR_seocatalog.xml;
+	&tr_TR_searchterm-mappings.xml;
+	&tr_TR_staticmarketingcontent.xml;
+	&tr_TR_eSpots.xml;
+	-->
+	
+</import>

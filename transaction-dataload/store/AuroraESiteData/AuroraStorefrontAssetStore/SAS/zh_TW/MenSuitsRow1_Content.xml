@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110001_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/0402B_EMS_SuitUp_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110001_zh_TW"
+  atchtgt_id="@atchtgt_id_11001"
+  language_id="&zh_TW;"
+  name="西裝"
+  shortdescription="西裝特賣 男士西裝八折"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110001_zh_TW"
+  atchast_id="@atchast_id_110001_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110001_zh_TW"
+  atchrel_id="@atchrel_id_11001"
+  language_id="&zh_TW;"
+  name="西裝"
+  shortdescription="西裝"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11001"
+	language_id="&zh_TW;"
+	marketingtext="西裝" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120001_zh_TW"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_TW/0412B_EMS_SilkTie_001.jpg"
+  directorypath="images/advertisements/zh_TW"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120001_zh_TW"
+  atchtgt_id="@atchtgt_id_12001"
+  language_id="&zh_TW;"
+  name="絲質領帶"
+  shortdescription="絲質領帶特賣 隨西裝購買打五折"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120001_zh_TW"
+  atchast_id="@atchast_id_120001_zh_TW"
+  language_id="&zh_TW;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120001_zh_TW"
+  atchrel_id="@atchrel_id_12001"
+  language_id="&zh_TW;"
+  name="絲質領帶"
+  shortdescription="絲質領帶"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12001"
+	language_id="&zh_TW;"
+	marketingtext="絲質領帶" 
+/>
+

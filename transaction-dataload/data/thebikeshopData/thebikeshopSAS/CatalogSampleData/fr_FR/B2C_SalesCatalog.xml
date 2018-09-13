@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2c_sales" 
+    language_id="&fr_FR;" 
+    name="Exemple de données de magasin de vente grand public Aurora"
+    shortdescription="Exemple de données de magasin de vente grand public Aurora"
+    longdescription="Catalogue de vente présentant six rayons (Vêtements, Electronique, Epicerie, Santé, Habitation et ameublement, Bulletins et magazines) pour illustrer des caractéristiques de catalogue dans un magasin de vente grand public."
+    thumbnail=""
+    fullimage="" 
+  />
+  

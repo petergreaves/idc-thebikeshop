@@ -1,0 +1,28 @@
+<!-- Load Manufacturer Org information -->
+<orgentity orgentity_id="@esite_orgentity_id" dn="&ORGANIZATION_DN_HOS;" >
+	<isa>
+		<member member_id="@esite_mbr_id" type="O" state="1"/>
+	</isa>
+</orgentity>
+
+<!-- Create the Store ID and add our unique STORE_IDENTIFIER to the storeent table.
+     The STORE_IDENTIFIER and Organization DN (orgentity table) uniquely define our store the the database. -->
+<storeent
+storeent_id="@storeent_id_1"
+member_id="@esite_mbr_id"
+type="S"
+identifier="&STORE_IDENTIFIER_HOS;"
+/>
+
+<!-- Relate the store entity to the Fulfillment Center and a store group.  Define the store directory.  
+     Specify that this store does not support ATP (allocationgoodfor). -->
+<store
+store_id="@storeent_id_1"
+allocationgoodfor="0"
+inventorysystem="-5"
+bopmpadfactor="0"
+ffmcselectionflags="0"
+rejectedordexpiry="259200"
+pricerefflags="8"
+quotegoodfor="43200"
+/>

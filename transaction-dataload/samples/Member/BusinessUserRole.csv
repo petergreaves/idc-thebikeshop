@@ -1,0 +1,7 @@
+BusinessUserRole,storeIdentifier=AuroraESite,,
+logonId,roleName,storeIdentifier,delete
+johndoe@mycompany.com,Workspace Manager
+darryljohnson@mycompany.com,Category Manager,ExtendedSitesCatalogAssetStore
+elainelee@mycompany.com,Category Manager,ExtendedSitesCatalogAssetStore
+elainelee@mycompany.com,Marketing Director,AuroraESite
+

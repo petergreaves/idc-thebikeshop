@@ -1,0 +1,41 @@
+
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Magazines_2" attrtype_id="STRING" language_id="&de_DE;" name="Kategorie" description="Kategorie" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_2_NMA026_2601" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="1" value="Finanzwesen" integervalue="" floatvalue="" stringvalue="Finanzwesen" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_7_NMA026_2602" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="2" value="Mode" integervalue="" floatvalue="" stringvalue="Mode" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_8_NMA026_2603" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="3" value="Lebensmittel" integervalue="" floatvalue="" stringvalue="Lebensmittel" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_9_NMA026_2604" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="4" value="Fotografie" integervalue="" floatvalue="" stringvalue="Fotografie" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_10_NMA026_2605" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="5" value="Lifestyle" integervalue="" floatvalue="" stringvalue="Lifestyle" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_10_NMA026_2609" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="5" value="Lifestyle" integervalue="" floatvalue="" stringvalue="Lifestyle" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_11_NMA026_2606" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="6" value="Architektur" integervalue="" floatvalue="" stringvalue="Architektur" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_13_NMA026_2607" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="7" value="Sport" integervalue="" floatvalue="" stringvalue="Sport" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_14_NMA026_2608" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="8" value="Elektronik" integervalue="" floatvalue="" stringvalue="Elektronik" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_15_NMA026_2610" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&de_DE;" sequence="9" value="Gesundheit" integervalue="" floatvalue="" stringvalue="Gesundheit" />
+<!--end of  Category -->
+<!--start of  Published -->
+<attrdesc attr_id="@attribute_id_Magazines_1" attrtype_id="STRING" language_id="&de_DE;" name="Publiziert" description="Publiziert" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2601" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2602" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2603" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2604" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2605" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2606" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2608" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2609" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2610" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="1" value="Monatlich" integervalue="" floatvalue="" stringvalue="Monatlich" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_12_NMA026_2607" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&de_DE;" sequence="2" value="Wöchentlich" integervalue="" floatvalue="" stringvalue="Wöchentlich" />
+<!--end of  Published -->
+<!--start of  PickUpInStore -->
+<attrdesc attr_id="@attribute_id_Magazines_PickUpInStore" attrtype_id="STRING" language_id="&de_DE;" name="Einkauf im Geschäft" description="Einkauf im Geschäft" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="1" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="2" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="3" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="4" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="5" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="5" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="6" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="7" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="8" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&de_DE;" sequence="9" value="Nein" integervalue="" floatvalue="" stringvalue="false" />
+<!--end of  PickUpInStore -->
+<!-- END: Writing descriptive attribute descriptions -->

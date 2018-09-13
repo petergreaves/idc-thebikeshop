@@ -1,0 +1,143 @@
+<%--
+ =================================================================
+  Licensed Materials - Property of IBM
+
+  WebSphere Commerce
+
+  (C) Copyright IBM Corp. 2016 All Rights Reserved.
+
+  US Government Users Restricted Rights - Use, duplication or
+  disclosure restricted by GSA ADP Schedule Contract with
+  IBM Corp.
+ =================================================================
+--%>
+
+<!-- BEGIN PreviewModeTab.jspf -->
+<%@ page import="java.text.SimpleDateFormat" %>
+<c:set var="toolsLocale" value="${WCParam.toolsLocale }"/>
+<c:if test="${! empty previewContext.properties['WCP_TOOLSLOCALE'] }">
+	<c:set var="toolsLocale" value="${previewContext.properties['WCP_TOOLSLOCALE']}"/>
+</c:if>
+<fmt:setLocale value="${toolsLocale}" />
+<fmt:setLocale value="${CommandContext.locale}" />
+<c:set var="pmt_includedMemberGroupNames" value=""/>
+<c:if test="${!empty WCParam.includedMemberGroupIds || !empty previewContext.properties['WCP_PREVIEWMGRPIDS']}">
+	<c:if test="${!empty WCParam.includedMemberGroupDisplayNames || !empty previewContext.properties['WCP_PREVIEWMGRPNAMES']}">
+		<c:set var="pmt_includedMemberGroupNames" value="${WCParam.includedMemberGroupDisplayNames}"/>
+		<c:if test="${!empty previewContext.properties['WCP_PREVIEWMGRPNAMES'] }">
+			<c:set var="pmt_includedMemberGroupNames" value="${previewContext.properties['WCP_PREVIEWMGRPNAMES']}"/>
+			<%
+				pageContext.setAttribute("pmt_includedMemberGroupNames", java.net.URLDecoder.decode((String)pageContext.getAttribute("pmt_includedMemberGroupNames"), "UTF-8"));
+			 %>
+		 </c:if>
+	</c:if>
+</c:if>
+
+<c:set var="pmt_timestamp" value="${CommandContext.timeStamp }"/>
+<c:set var="pmt_status" value="${CommandContext.previewStatus }"/>
+<%
+SimpleDateFormat pmt_sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.S");
+String pmt_start = request.getParameter("start");
+
+String previewTimestamp = pmt_start;
+if (pageContext.getAttribute("pmt_timestamp")!=null) {
+	previewTimestamp = pageContext.getAttribute("pmt_timestamp").toString();
+}
+pageContext.setAttribute("pmt_start", (pmt_start == null || pmt_start.length() == 0 || pmt_start.equals("null") ? pmt_sdf.parse(previewTimestamp) : pmt_sdf.parse(pmt_start)));
+
+%>
+
+<script>
+	function showPreviewModeAlert() {
+		document.getElementById("previewModeDialog").style.display = "block";
+	}
+
+	function hidePreviewModeAlert() {
+		document.getElementById("previewModeDialog").style.display = "none";
+	}
+	function handlePreviewDialogTab(event, object) {
+		if (event.keyCode == KeyCodes.TAB) {
+			event.preventDefault ? event.preventDefault() : event.returnValue = false;
+			if (object.id == "sp_close_button") {
+				document.getElementById('closePreviewModeDialogButton').focus();
+			} else if (object.id == "closePreviewModeDialogButton") {
+				document.getElementById('sp_close_button').focus();
+			}
+		}
+	}
+</script>
+
+<div class="previewModeTab" role="region" aria-label="<wcst:message key="previewModeTabTitle" bundle="${previewText}"/>">
+	<div class="pmt_button">
+		<div class="pmt_left"></div>
+		<a id="previewModeTab_Text" class="pmt_middle" href="javascript:void(0);" onclick="showPreviewModeAlert(); document.getElementById('sp_close_button').focus();" role="button"><wcst:message key="previewModeTabTitle" bundle="${previewText}"/></a>
+		<div class="pmt_right"></div>
+	</div>
+	<c:choose>
+		<c:when test="${CommandContext.locale == 'iw_IL' || CommandContext.locale == 'ar_EG'}">
+			<link rel="stylesheet" type="text/css" href="${staticIBMAssetContextRoot}/tools/preview/css/store_preview_bidi.css"></link>
+		</c:when>
+		<c:otherwise>
+			<link rel="stylesheet" type="text/css" href="${staticIBMAssetContextRoot}/tools/preview/css/store_preview.css"></link>
+		</c:otherwise>
+	</c:choose>
+
+	<div id="previewModeDialog" role="dialog" aria-labelledby="sp_header_text" class="store_preview_dialog_window" style="display: none; z-index: 250;">
+		<div class="sp_header_top">
+			<div class="sp_header">
+				<span id="sp_header_text"><wcst:message key="previewModeTabTitle" bundle="${previewText}"/></span>
+				<a id="sp_close_button" onkeydown="handlePreviewDialogTab(event, this);" role="button" title="<wcst:message key='storePreviewCloseBtnText' bundle='${previewText}'/>" aria-label="<wcst:message key='storePreviewCloseBtnText' bundle='${previewText}'/>" id='closePreviewModeDialog' href='javascript:hidePreviewModeAlert();document.getElementById("previewModeTab_Text").focus();'>
+					<img onmouseover="this.src='${staticIBMAssetContextRoot}/images/preview/storepreview_window_close_icon_hover.png'"
+						onmouseout="this.src='${staticIBMAssetContextRoot}/images/preview/storepreview_window_close_icon.png'"
+						onmousedown="this.src='${staticIBMAssetContextRoot}/images/preview/storepreview_window_close_icon_press.png'"
+						src="${staticIBMAssetContextRoot}/images/preview/storepreview_window_close_icon.png" alt=""/>
+				</a>
+			</div>
+			<div class="sp_whitespace_background">
+				<div class="sp_content_container">
+					<strong class="sp_bold"><wcst:message key='previewModeTabMessage' bundle='${previewText}'/></strong><br/>
+					<strong class="sp_bold"><wcst:message key='storePreviewStartTimeMsg' bundle='${previewText}'/></strong> <fmt:formatDate value='${pmt_start}' type='both'/>
+					<c:choose>
+						<c:when test="${pmt_status}">
+							<br/><strong class="sp_bold"><wcst:message key='storePreviewTimeStatus' bundle='${previewText}'/></strong> <wcst:message key='storePreviewTimeStatusStatic' bundle='${previewText}'/>
+						</c:when>
+						<c:otherwise>
+							<br/><strong class="sp_bold"><wcst:message key='storePreviewTimeStatus' bundle='${previewText}'/></strong> <wcst:message key='storePreviewTimeStatusRolling' bundle='${previewText}'/> - <fmt:formatDate value='${pmt_timestamp}' type='both'/>
+						</c:otherwise>
+					</c:choose>
+					<br/><strong class="sp_bold"><wcst:message key='storePreviewInvStatusTitle' bundle='${previewText}'/></strong>
+					<c:choose>
+						<c:when test="${previewContext.properties['previewInventory'] == '-1'}">
+							<wcst:message key='storePreviewInvStatusDupWthCnst' bundle='${previewText}'/>
+						</c:when>
+						<c:when test="${previewContext.properties['previewInventory'] == '1'}">
+							<wcst:message key='storePreviewInvStatusDupWthoutCnst' bundle='${previewText}'/>
+						</c:when>
+						<c:otherwise>
+							<wcst:message key='storePreviewInvStatusReal' bundle='${previewText}'/>
+						</c:otherwise>
+					</c:choose>
+					<c:if test="${!empty WCParam.includedMemberGroupIds || !empty previewContext.properties['WCP_PREVIEWMGRPIDS']}">
+						<br/><strong class="sp_bold"><wcst:message key='storePreviewCustomerSegments' bundle='${previewText}'/></strong> ${pmt_includedMemberGroupNames}
+					</c:if>
+				</div>
+				<div class="sp_optionsContainer">
+					<div class="sp_rightContainer">
+						<a role="button"
+							aria-labelledby="closePreviewModeButtonLeft"
+							id="closePreviewModeDialogButton"
+							class="sp_light_button"
+							href="javascript:void(0);"
+							onkeydown="handlePreviewDialogTab(event, this);"
+							onclick="hidePreviewModeAlert();document.getElementById('previewModeTab_Text').focus();">
+							<div id="closePreviewModeButtonLeft" class="sp_button_text"><wcst:message key='storePreviewCloseBtnText' bundle='${previewText}'/></div>
+							<div id="closePreviewModeButtonRight" class="sp_button_right"></div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- END PreviewModeTab.jspf -->

@@ -1,0 +1,1121 @@
+<!-- 
+  Create promotions.
+	
+  Tables Updated: 
+  calcode, px_promotion, clcdpromo
+
+  All special characters must be encoded < = &lt;  > = &gt;  ' = &quot;
+  Sometimes double encoding is necessary  &gt; = &amp;&#103;&#116;&#059;
+
+  calcode.displaylevel	= 0 (amounts calculated should be displayed with each orderitem)
+				= 1 (amounts calculated should be displayed with each order    )
+                        = 2 (amounts calculated should be displayed with each product  )
+                        = 3 (amounts calculated should be displayed with each item     )
+                        = 4 (amounts calculated should be displayed with each contract )
+
+-->
+
+<px_group
+  px_group_id="@px_group_id_Product"
+  storeent_id="&MAR_STOREENT_ID;"
+  grpname="ProductLevelPromotion"
+/>
+
+<px_group
+  px_group_id="@px_group_id_Shipping"
+  storeent_id="&MAR_STOREENT_ID;"
+  grpname="ShippingPromotion"
+/>
+
+<px_group
+  px_group_id="@px_group_id_Order"
+  storeent_id="&MAR_STOREENT_ID;"
+  grpname="OrderLevelPromotion"
+/>
+
+
+
+
+
+<!-- Free Ground Shipping -->
+
+<calcode
+  calcode_id="@calcode_id_p2"
+  code="Free Ground Shipping"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Shipping Discount - Free Ground Delivery when you buy more than $70 USD"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_2"
+   priority="200"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="-1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Shipping"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Free Ground Shipping" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Free Ground Shipping&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;ShippingPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Shipping Discount - Free Ground Delivery when you buy more than $70 USD&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Free Ground Shipping on orders over $70&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Free Ground Shipping!&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;01-01-2004 12:00:00&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;-1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelFixedShippingDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;01-01-2004&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;70&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;true&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.ShippingModeFilter&quot;&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;StoreIdentifier&gt;&MAR_STORE_IDENTIFIER;&lt;/StoreIdentifier&gt;&lt;Carrier&gt;XYZ Carrier&lt;/Carrier&gt;&lt;ShippingCode&gt;US Regular Delivery&lt;/ShippingCode&gt;&lt;/Filter&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.FixedCostShippingAdjustment&quot;&gt;&lt;FixedCost&gt;0&lt;/FixedCost&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;AdjustmentType&gt;IndividualAffectedItems&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_2"
+   calcode_id="@calcode_id_p2"
+/>
+
+
+<shpmodclcd
+   shpmodclcd_id="@shpmodclcd_id_1"
+   store_id="&MAR_STOREENT_ID;"
+   shipmode_id="@shipmode_id_1"
+   calcode_id="@calcode_id_p2"
+/>
+
+
+
+
+
+
+<!-- Repeat Customers save $5.00 USD -->
+
+<calcode
+  calcode_id="@calcode_id_p4"
+  code="Discount for Repeat Customers"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Order Discount - Customers in the Repeat customer segment receive $5.00 of their next order"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_4"
+   priority="200"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Order"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Discount for Repeat Customers" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Discount for Repeat Customers&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;OrderLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Order Discount - Customers in the Repeat customer segment receive $5.00 of their next order&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Repeat customers save $5.00 USD. No restrictions apply.&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Repeat customers save $5.00 USD.&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;01-01-2004 12:00:00&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelValueDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;01-01-2004&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;TargetedProfile&gt;&lt;CustomerProfileKey&gt;&lt;OwnerDN&gt;&MAR_ORGANIZATION_DN;&lt;/OwnerDN&gt;&lt;ProfileName&gt;Repeat Customers&lt;/ProfileName&gt;&lt;/CustomerProfileKey&gt;&lt;/TargetedProfile&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.FixedAmountOffAdjustment&quot;&gt;&lt;AmountOff&gt;5&lt;/AmountOff&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_4"
+   calcode_id="@calcode_id_p4"
+/>
+
+
+
+
+
+<!-- REGISTER7 - Register and save 7% on your next order -->
+
+<calcode
+  calcode_id="@calcode_id_p6"
+  code="Register and Save"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Order Discount - Promotion code for Registered customers to save 7% on their next order"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_6"
+   priority="250"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Order"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="1"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Register and Save" 
+   code="REGISTER7"
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Register and Save&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;OrderLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Order Discount - Promotion code for Registered customers to save 7% on their next order&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Register with us today and save 7% on your next order.&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Register today and save 7%&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;250&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;01-01-2004 12:00:00&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelPercentDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;01-01-2004&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeCue&gt;REGISTER7&lt;/PromotionCodeCue&gt;&lt;PromotionCodeRequired&gt;true&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;TargetedProfile&gt;&lt;CustomerProfileKey&gt;&lt;OwnerDN&gt;&MAR_ORGANIZATION_DN;&lt;/OwnerDN&gt;&lt;ProfileName&gt;Registered Customers&lt;/ProfileName&gt;&lt;/CustomerProfileKey&gt;&lt;/TargetedProfile&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.PercentOffAdjustment&quot;&gt;&lt;Percentage&gt;7&lt;/Percentage&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_6"
+   calcode_id="@calcode_id_p6"
+/>
+
+
+
+<!-- Get 10% all orders today (this is really effective everyday) -->
+
+<calcode
+  calcode_id="@calcode_id_p10"
+  code="Save 10% on all orders today"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Order Discount - Save 10% on all orders today"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_10"
+   priority="250"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Order"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Save 10% on all orders today" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Save 10% on all orders today&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;OrderLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Save 10% off all orders today&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Buy today and save 10% of your entire purchase&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Save 10% off all orders today&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;29-07-2008 22:12:49&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;-1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelPercentDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;29-07-2008&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.PercentOffAdjustment&quot;&gt;&lt;Percentage&gt;10&lt;/Percentage&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_10"
+   calcode_id="@calcode_id_p10"
+/>
+
+
+<!-- Save $25 of all orders over $200 USD (this is really effective everyday) -->
+
+<calcode
+  calcode_id="@calcode_id_p11"
+  code="Save $25 on all orders over $200 USD"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Order Discount - Save $25 on all orders over $200"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_11"
+   priority="250"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Order"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Save $25 on all orders over $200 USD" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Save $25 on all orders over $200 USD&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;OrderLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Save $25 on all orders before Saturday&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Save $25 off your order if you buy before Saturday&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Save $25 on all orders before Saturday&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;29-07-2008 22:12:40&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;-1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelValueDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;29-07-2008&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;200&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.FixedAmountOffAdjustment&quot;&gt;&lt;AmountOff&gt;0&lt;/AmountOff&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;200&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.FixedAmountOffAdjustment&quot;&gt;&lt;AmountOff&gt;25&lt;/AmountOff&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_11"
+   calcode_id="@calcode_id_p11"
+/>
+
+
+
+
+<!-- Flat $5 US-Regular Shipping -->
+
+<calcode
+  calcode_id="@calcode_id_p13"
+  code="Flat Shipping"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="1"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Shipping Discount - $5 shipping for all orders"
+/>
+
+
+<px_promotion
+   px_promotion_id="@px_promotion_id_13"
+   priority="200"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="-1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Shipping"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Flat Shipping" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Flat Shipping&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;ShippingPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Shipping discount&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Purchase now and your order will get a flat shipping of only $5&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Buy now and shipping is only $5&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;30-07-2008 21:34:54&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;-1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;OrderLevelFixedShippingDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;30-07-2008&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Cost&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;true&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.ShippingModeFilter&quot;&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;StoreIdentifier&gt;&MAR_STORE_IDENTIFIER;&lt;/StoreIdentifier&gt;&lt;Carrier&gt;XYZ Carrier&lt;/Carrier&gt;&lt;ShippingCode&gt;US Regular Delivery&lt;/ShippingCode&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Filter&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.FixedCostShippingAdjustment&quot;&gt;&lt;FixedCost&gt;5&lt;/FixedCost&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;AdjustmentType&gt;wholeOrder&lt;/AdjustmentType&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/>
+
+ 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_13"
+   calcode_id="@calcode_id_p13"
+/>
+
+
+<shpmodclcd
+   shpmodclcd_id="@shpmodclcd_id_13"
+   store_id="&MAR_STOREENT_ID;"
+   shipmode_id="@shipmode_id_1"
+   calcode_id="@calcode_id_p13"
+/>
+<!-- 
+<px_element
+	px_element_id="@px_element_id_10"
+	px_promotion_id="@px_promotion_id_2"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_11"
+	px_promotion_id="@px_promotion_id_2"
+	name="PurchaseCondition2"
+	type="PurchaseCondition"
+	subtype="OrderLevelFixedShippingDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_12"
+	px_promotion_id="@px_promotion_id_2"
+	name="IncludeShipModeIdentifier3"
+	type="IncludeShipModeIdentifier"
+	subtype="Identifier_ShipMode"
+	parent="PurchaseCondition2"
+	sequence="1.0"
+	optcounter="0"
+/>
+<px_promoauth
+	px_promotion_id="@px_promotion_id_2"
+	promotiontype="OrderLevelFixedShippingDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Free Ground Shipping"
+/>
+
+<px_element
+	px_element_id="@px_element_id_188"
+	px_promotion_id="@px_promotion_id_4"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_189"
+	px_promotion_id="@px_promotion_id_4"
+	name="IncludeMemberGroupIdentifier2"
+	type="IncludeMemberGroupIdentifier"
+	subtype="Identifier_MemberGroup"
+	parent="TargetingCondition1"
+	sequence="1.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_190"
+	px_promotion_id="@px_promotion_id_4"
+	name="PurchaseCondition3"
+	type="PurchaseCondition"
+	subtype="OrderLevelValueDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_191"
+	px_promotion_id="@px_promotion_id_4"
+	name="DiscountRange4"
+	type="DiscountRange"
+	subtype="OrderLevelFixedAmountOffDiscountRange"
+	parent="PurchaseCondition3"
+	sequence="0.0"
+	optcounter="0"
+/>
+
+<px_promoauth
+	px_promotion_id="@px_promotion_id_4"
+	promotiontype="OrderLevelValueDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Discount for Repeat Customers"
+/>
+
+
+<px_element
+	px_element_id="@px_element_id_20"
+	px_promotion_id="@px_promotion_id_6"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_21"
+	px_promotion_id="@px_promotion_id_6"
+	name="IncludeMemberGroupIdentifier2"
+	type="IncludeMemberGroupIdentifier"
+	subtype="Identifier_MemberGroup"
+	parent="TargetingCondition1"
+	sequence="1.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_22"
+	px_promotion_id="@px_promotion_id_6"
+	name="PurchaseCondition3"
+	type="PurchaseCondition"
+	subtype="OrderLevelPercentDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_23"
+	px_promotion_id="@px_promotion_id_6"
+	name="DiscountRange4"
+	type="DiscountRange"
+	subtype="OrderLevelPercentOffDiscountRange"
+	parent="PurchaseCondition3"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_promoauth
+	px_promotion_id="@px_promotion_id_6"
+	promotiontype="OrderLevelPercentDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Register and Save"
+/>
+
+<px_element
+	px_element_id="@px_element_id_24"
+	px_promotion_id="@px_promotion_id_10"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_25"
+	px_promotion_id="@px_promotion_id_10"
+	name="PurchaseCondition2"
+	type="PurchaseCondition"
+	subtype="OrderLevelPercentDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_26"
+	px_promotion_id="@px_promotion_id_10"
+	name="DiscountRange3"
+	type="DiscountRange"
+	subtype="OrderLevelPercentOffDiscountRange"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_promoauth
+	px_promotion_id="@px_promotion_id_10"
+	promotiontype="OrderLevelPercentDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Save 10% on all orders today"
+/>
+
+<px_element
+	px_element_id="@px_element_id_180"
+	px_promotion_id="@px_promotion_id_11"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_181"
+	px_promotion_id="@px_promotion_id_11"
+	name="PurchaseCondition2"
+	type="PurchaseCondition"
+	subtype="OrderLevelValueDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_182"
+	px_promotion_id="@px_promotion_id_11"
+	name="DiscountRange3"
+	type="DiscountRange"
+	subtype="OrderLevelFixedAmountOffDiscountRange"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_183"
+	px_promotion_id="@px_promotion_id_11"
+	name="DiscountRange4"
+	type="DiscountRange"
+	subtype="OrderLevelFixedAmountOffDiscountRange"
+	parent="PurchaseCondition2"
+	sequence="200.0"
+	optcounter="0"
+/>
+<px_promoauth
+	px_promotion_id="@px_promotion_id_11"
+	promotiontype="OrderLevelValueDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Save $25 on all orders over $200 USD"
+/>
+
+<px_element
+	px_element_id="@px_element_id_13"
+	px_promotion_id="@px_promotion_id_13"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_14"
+	px_promotion_id="@px_promotion_id_13"
+	name="PurchaseCondition2"
+	type="PurchaseCondition"
+	subtype="OrderLevelFixedShippingDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_15"
+	px_promotion_id="@px_promotion_id_13"
+	name="IncludeShipModeIdentifier3"
+	type="IncludeShipModeIdentifier"
+	subtype="Identifier_ShipMode"
+	parent="PurchaseCondition2"
+	sequence="1.0"
+	optcounter="0"
+/>
+<px_promoauth
+	px_promotion_id="@px_promotion_id_13"
+	promotiontype="OrderLevelFixedShippingDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Flat Shipping"
+/>
+
+<px_promocd
+	px_promocd_id="@px_promocd_id_2"
+	px_promotion_id="@px_promotion_id_6"
+	code="REGISTER7"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_16"
+	px_element_id="@px_element_id_11"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_17"
+	px_element_id="@px_element_id_11"
+	name="MinimumPurchase"
+	value="70"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_18"
+	px_element_id="@px_element_id_11"
+	name="FixedCost"
+	value="0"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_19"
+	px_element_id="@px_element_id_11"
+	name="AdjustmentType"
+	value="IndividualAffectedItems"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_20"
+	px_element_id="@px_element_id_12"
+	name="Id"
+	value="@px_elementnvp_id_20_shipmode1"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_21"
+	px_element_id="@px_element_id_14"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_22"
+	px_element_id="@px_element_id_14"
+	name="MinimumPurchase"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_23"
+	px_element_id="@px_element_id_14"
+	name="FixedCost"
+	value="5"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_24"
+	px_element_id="@px_element_id_14"
+	name="AdjustmentType"
+	value="wholeOrder"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_25"
+	px_element_id="@px_element_id_15"
+	name="Id"
+	value="@px_elementnvp_id_25_shipmode1"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_30"
+	px_element_id="@px_element_id_21"
+	name="Id"
+	value="@px_elementnvp_id_30_mbrgrp1"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_31"
+	px_element_id="@px_element_id_22"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_32"
+	px_element_id="@px_element_id_23"
+	name="LowerBound"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_33"
+	px_element_id="@px_element_id_23"
+	name="Percentage"
+	value="7"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_34"
+	px_element_id="@px_element_id_25"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_35"
+	px_element_id="@px_element_id_26"
+	name="LowerBound"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_36"
+	px_element_id="@px_element_id_26"
+	name="Percentage"
+	value="10"
+	optcounter="0"
+/>
+
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_203"
+	px_element_id="@px_element_id_181"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_204"
+	px_element_id="@px_element_id_182"
+	name="LowerBound"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_205"
+	px_element_id="@px_element_id_182"
+	name="AmountOff"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_206"
+	px_element_id="@px_element_id_183"
+	name="LowerBound"
+	value="200"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_207"
+	px_element_id="@px_element_id_183"
+	name="AmountOff"
+	value="25"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_212"
+	px_element_id="@px_element_id_189"
+	name="Id"
+	value="@px_elementnvp_id_212_mbrgrp1"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_213"
+	px_element_id="@px_element_id_190"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_214"
+	px_element_id="@px_element_id_191"
+	name="LowerBound"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_215"
+	px_element_id="@px_element_id_191"
+	name="AmountOff"
+	value="5"
+	optcounter="0"
+/> -->
+
+<!-- Save 20% on Furniture Category -->
+
+<calcode
+  calcode_id="@calcode_id_p1"
+  code="Furniture Category Discount"
+  calusage_id="-1"
+  storeent_id="&MAR_STOREENT_ID;"
+  groupby="0"
+  published="1"
+  sequence="0"
+  combination="2"
+  calmethod_id="-3"
+  calmethod_id_app="-4"
+  calmethod_id_qfy="-2"
+  displaylevel="0"
+  startdate="2004-01-01-00.00.00.000000"
+  enddate="2999-12-31-23.59.59.000000"
+  flags="0"
+  precedence="0"
+  description="Category Discount - Save 20% on Furniture"
+/>
+<px_promotion
+   px_promotion_id="@px_promotion_id_1"
+   priority="200"
+   status="1"
+   exclsve="0"
+   type="0"
+   perordlmt="-1"
+   pershopperlmt="-1"
+   totallmt="-1"
+   px_group_id="@px_group_id_Product"
+   storeent_id="&MAR_STOREENT_ID;"
+   version="1"
+   revision="0"
+   cdrequired="0"
+   startdate="2004-01-01-12.00.00.000000"
+   enddate="2999-12-31-12.00.00.000000"
+   tgtsales="0"
+   name="Furniture Category Discount" 
+   xmlparam="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;Promotion impl=&quot;com.ibm.commerce.marketing.promotion.DefaultPromotion&quot;&gt;&lt;PromotionKey&gt;&lt;PromotionName&gt;Furniture Category Discount&lt;/PromotionName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;Version&gt;1&lt;/Version&gt;&lt;Revision&gt;0&lt;/Revision&gt;&lt;/PromotionKey&gt;&lt;PromotionGroupKey&gt;&lt;GroupName&gt;ProductLevelPromotion&lt;/GroupName&gt;&lt;StoreKey&gt;&lt;DN&gt;&MAR_ORGANIZATION_DN;&lt;/DN&gt;&lt;Identifier&gt;&MAR_STORE_IDENTIFIER;&lt;/Identifier&gt;&lt;/StoreKey&gt;&lt;/PromotionGroupKey&gt;&lt;TypedNLDescription impl=&quot;com.ibm.commerce.marketing.promotion.TypedNLDescription&quot;&gt;&lt;DefaultLocale&gt;en_US&lt;/DefaultLocale&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;admin&quot;&gt;Category Discount - Save 20% on Furniture&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;long&quot;&gt;Save 20% on all Furniture items!  No restrictions!&lt;/Description&gt;&lt;Description locale=&quot;en_US&quot; type=&quot;short&quot;&gt;Save 20% on Furniture!&lt;/Description&gt;&lt;/TypedNLDescription&gt;&lt;Priority&gt;200&lt;/Priority&gt;&lt;Exclusive&gt;0&lt;/Exclusive&gt;&lt;ExemptPolicyList/&gt;&lt;ExplicitlyAppliedPolicyList/&gt;&lt;Status&gt;0&lt;/Status&gt;&lt;LastUpdate&gt;01-01-2004 12:00:00&lt;/LastUpdate&gt;&lt;LastUpdateBy&gt;&lt;CustomerKey&gt;&lt;LogonId&gt;wcsadmin&lt;/LogonId&gt;&lt;/CustomerKey&gt;&lt;/LastUpdateBy&gt;&lt;PerOrderLimit&gt;-1&lt;/PerOrderLimit&gt;&lt;PerShopperLimit&gt;-1&lt;/PerShopperLimit&gt;&lt;ApplicationLimit&gt;-1&lt;/ApplicationLimit&gt;&lt;TargetSales&gt;0&lt;/TargetSales&gt;&lt;CorrespondingRBDTypeName&gt;CategoryLevelPercentDiscount&lt;/CorrespondingRBDTypeName&gt;&lt;Schedule impl=&quot;com.ibm.commerce.marketing.promotion.schedule.PromotionSchedule&quot;&gt;&lt;DateRange impl=&quot;com.ibm.commerce.marketing.promotion.schedule.DateRangeSchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;01-01-2004&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;31-12-9999&lt;/End&gt;&lt;/DateRange&gt;&lt;TimeWithinADay impl=&quot;com.ibm.commerce.marketing.promotion.schedule.TimeRangeWithinADaySchedule&quot;&gt;&lt;Start inclusive=&quot;true&quot;&gt;00:00:00&lt;/Start&gt;&lt;End inclusive=&quot;true&quot;&gt;23:59:59&lt;/End&gt;&lt;/TimeWithinADay&gt;&lt;Week impl=&quot;com.ibm.commerce.marketing.promotion.schedule.WeekDaySchedule&quot;&gt;&lt;WeekDay&gt;SUNDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;MONDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;TUESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;WEDNESDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;THURSDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;FRIDAY&lt;/WeekDay&gt;&lt;WeekDay&gt;SATURDAY&lt;/WeekDay&gt;&lt;/Week&gt;&lt;/Schedule&gt;&lt;PromotionType&gt;0&lt;/PromotionType&gt;&lt;PromotionCodeRequired&gt;false&lt;/PromotionCodeRequired&gt;&lt;SkipTargetingConditionOnProperPromotionCodeEntered&gt;false&lt;/SkipTargetingConditionOnProperPromotionCodeEntered&gt;&lt;CheckTargetingConditionAtRuntime&gt;true&lt;/CheckTargetingConditionAtRuntime&gt;&lt;PromotionCodeCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PromotionCodeCondition&quot;/&gt;&lt;Targeting impl=&quot;com.ibm.commerce.marketing.promotion.condition.TargetingCondition&quot;&gt;&lt;/Targeting&gt;&lt;CustomConditions/&gt;&lt;PurchaseCondition impl=&quot;com.ibm.commerce.marketing.promotion.condition.PurchaseCondition&quot;&gt;&lt;Pattern impl=&quot;com.ibm.commerce.marketing.promotion.condition.Pattern&quot;&gt;&lt;Constraint impl=&quot;com.ibm.commerce.marketing.promotion.condition.Constraint&quot;&gt;&lt;WeightedRange impl=&quot;com.ibm.commerce.marketing.promotion.condition.WeightedRange&quot;&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;Weight&gt;1&lt;/Weight&gt;&lt;/WeightedRange&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.CategoryFilter&quot;&gt;&lt;IncludeCategory&gt;&lt;CategoryKey&gt;&lt;DN&gt;ou=&CAT_STORE_DIR_LOWERCASE;,o=extended sites organization,o=root organization&lt;/DN&gt;&lt;Name&gt;Furniture&lt;/Name&gt;&lt;/CategoryKey&gt;&lt;/IncludeCategory&gt;&lt;/Filter&gt;&lt;/FilterChain&gt;&lt;/Constraint&gt;&lt;/Pattern&gt;&lt;Distribution impl=&quot;com.ibm.commerce.marketing.promotion.reward.Distribution&quot;&gt;&lt;Type&gt;Volume&lt;/Type&gt;&lt;Base&gt;Quantity&lt;/Base&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.DistributionRange&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;1&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;true&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;RewardChoice&gt;&lt;Reward impl=&quot;com.ibm.commerce.marketing.promotion.reward.DefaultReward&quot;&gt;&lt;AdjustmentFunction impl=&quot;com.ibm.commerce.marketing.promotion.reward.AdjustmentFunction&quot;&gt;&lt;FilterChain impl=&quot;com.ibm.commerce.marketing.promotion.condition.FilterChain&quot;&gt;&lt;Filter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyFilter&quot;/&gt;&lt;/FilterChain&gt;&lt;Adjustment impl=&quot;com.ibm.commerce.marketing.promotion.reward.PercentOffVolumeDiscountAdjustment&quot;&gt;&lt;AdjustmentType&gt;AllAffectedItems&lt;/AdjustmentType&gt;&lt;Range impl=&quot;com.ibm.commerce.marketing.promotion.reward.Range&quot;&gt;&lt;UpperBound&gt;-1&lt;/UpperBound&gt;&lt;LowerBound&gt;0&lt;/LowerBound&gt;&lt;UpperBoundIncluded&gt;false&lt;/UpperBoundIncluded&gt;&lt;LowerBoundIncluded&gt;true&lt;/LowerBoundIncluded&gt;&lt;Amount&gt;20&lt;/Amount&gt;&lt;Currency&gt;USD&lt;/Currency&gt;&lt;/Range&gt;&lt;/Adjustment&gt;&lt;/AdjustmentFunction&gt;&lt;/Reward&gt;&lt;/RewardChoice&gt;&lt;/Range&gt;&lt;PatternFilter impl=&quot;com.ibm.commerce.marketing.promotion.condition.DummyPatternFilter&quot;/&gt;&lt;/Distribution&gt;&lt;/PurchaseCondition&gt;&lt;/Promotion&gt;"
+/> 
+<clcdpromo
+   px_promotion_id="@px_promotion_id_1"
+   calcode_id="@calcode_id_p1"
+/>
+<catgpcalcd
+   catgpcalcd_id="@catgpcalcd_id_1"
+   store_id="&MAR_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Furniture"
+   calcode_id="@calcode_id_p1"
+/>
+<!-- <px_promoauth
+	px_promotion_id="@px_promotion_id_1"
+	promotiontype="CategoryLevelPercentDiscount"
+	dailystarttime="2000-01-01 00:00:00.0"
+	dailyendtime="2000-01-01 23:59:59.0"
+	weekday_sun="1"
+	weekday_mon="1"
+	weekday_tue="1"
+	weekday_wed="1"
+	weekday_thu="1"
+	weekday_fri="1"
+	weekday_sat="1"
+	ctlparam="CMC"
+	optcounter="0"
+	adminstvename="Furniture Category Discount"
+/>
+<px_element
+	px_element_id="@px_element_id_102"
+	px_promotion_id="@px_promotion_id_1"
+	name="TargetingCondition1"
+	type="TargetingCondition"
+	subtype="TargetingCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_103"
+	px_promotion_id="@px_promotion_id_1"
+	name="PurchaseCondition2"
+	type="PurchaseCondition"
+	subtype="CategoryLevelPercentDiscountPurchaseCondition"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_104"
+	px_promotion_id="@px_promotion_id_1"
+	name="IncludeCategoryIdentifier3"
+	type="IncludeCategoryIdentifier"
+	subtype="Identifier_Category"
+	parent="PurchaseCondition2"
+	sequence="1.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_105"
+	px_promotion_id="@px_promotion_id_1"
+	name="DiscountRange4"
+	type="DiscountRange"
+	subtype="ProductLevelPercentOffDiscountRange"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_106"
+	px_promotion_id="@px_promotion_id_1"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_107"
+	px_promotion_id="@px_promotion_id_2"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_108"
+	px_promotion_id="@px_promotion_id_4"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition3"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_109"
+	px_promotion_id="@px_promotion_id_6"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition3"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_110"
+	px_promotion_id="@px_promotion_id_10"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_111"
+	px_promotion_id="@px_promotion_id_11"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_element
+	px_element_id="@px_element_id_112"
+	px_promotion_id="@px_promotion_id_13"
+	name="IncludePaymentTypeIdentifier1"
+	type="IncludePaymentTypeIdentifier"
+	subtype="Identifier_PaymentType"
+	parent="PurchaseCondition2"
+	sequence="0.0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_124"
+	px_element_id="@px_element_id_103"
+	name="Currency"
+	value="USD"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_125"
+	px_element_id="@px_element_id_104"
+	name="Id"
+	value="@px_elementnvp_id_125_cat1"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_126"
+	px_element_id="@px_element_id_105"
+	name="LowerBound"
+	value="0"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_127"
+	px_element_id="@px_element_id_105"
+	name="Percentage"
+	value="20"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_216"
+	px_element_id="@px_element_id_106"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_217"
+	px_element_id="@px_element_id_107"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_218"
+	px_element_id="@px_element_id_108"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_219"
+	px_element_id="@px_element_id_109"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_220"
+	px_element_id="@px_element_id_110"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_221"
+	px_element_id="@px_element_id_111"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/>
+<px_elementnvp
+	px_elementnvp_id="@px_elementnvp_id_222"
+	px_element_id="@px_element_id_112"
+	name="PaymentType"
+	value="Any"
+	optcounter="0"
+/> -->

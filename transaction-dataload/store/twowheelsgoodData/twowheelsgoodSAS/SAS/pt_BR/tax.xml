@@ -1,0 +1,47 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be calcodedsc.description, calcodedsc.longdescription -->
+<!-- That would be calscaleds.description, taxcgryds.description      -->
+
+
+<!--Table name:  CALCODEDSC -->
+<!--Purpose: Store description of CALCODE -->
+
+<calcodedsc
+   calcode_id="@calcode_id_3"
+   description="Código de cálculo para Imposto sobre Venda de 5%"
+   language_id="&pt_BR;" 	
+   longdescription="Código de cálculo para Imposto sobre Venda de 5%" 
+/>
+<calcodedsc
+   calcode_id="@calcode_id_4"
+   description="Código de Cálculo para Imposto sobre Remessa de 0%"
+   language_id="&pt_BR;" 	
+   longdescription="Código de Cálculo para Imposto sobre Remessa de 0%" 
+/>
+
+
+<!--Table name:  CALSCALEDS-->
+<!--Purpose: Store description of CALSCALE Scale Code -->
+
+<calscaleds
+   calscale_id="@calscale_id_13" 
+   description="Imposto sobre Vendas de 5%"
+   language_id="&pt_BR;" 
+/>
+<calscaleds
+   calscale_id="@calscale_id_14" 
+   description="Imposto sobre Remessa de 0%"
+   language_id="&pt_BR;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_1" 
+   description="Imposto sobre Vendas"
+   language_id="&pt_BR;" 
+/>
+<taxcgryds
+   taxcgry_id="@taxcgry_id_2" 
+   description="Imposto sobre Remessa"
+   language_id="&pt_BR;" 
+/>
+

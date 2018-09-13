@@ -1,0 +1,227 @@
+<!-- 
+  Creates a scale code and range for 5% Tax and also makes these store defaults.
+  
+  Tables Updated:
+  jurstgroup, jurst, jurstgprel, taxcgry, calcode, calrule, calscale, calrange, calrlookup, crulescale
+-->
+
+
+<!-- Tables:  JURSTGROUP, JURST and JURSTGPREL -->
+<!-- Purpose: To define juristictions, shared with shipping, but different subclass -->
+
+<!--
+     jurstgroup.subclass=2 is for tax
+     jurst.subclass=2      is for tax
+     jurstgprel.subclass=2 is for tax
+-->
+
+<jurstgroup
+   jurstgroup_id="@jurstgroup_id_0"
+   subclass="2" 
+   storeent_id="&MAR_STOREENT_ID;"
+   code="Jurisdiction for Tax"
+   markfordelete="0"
+/>
+
+<jurst
+   jurst_id="@jurst_id_0"
+   country="United States"
+   storeent_id="&MAR_STOREENT_ID;" 
+   code="Jurisdiction for Tax" 
+   subclass="2"
+   markfordelete="0"
+/>
+
+<jurstgprel 
+  jurst_id="@jurst_id_0"
+  jurstgroup_id="@jurstgroup_id_0"
+  subclass="2" 
+/>
+
+
+<!--Table name:  TAXCGRY -->
+<!--Purpose: To store tax category like GST , PST etc. , prereq TAXTYPE -->
+
+<taxcgry 
+   taxcgry_id="@taxcgry_id_1" 
+   taxtype_id="-3" 
+   storeent_id="&MAR_STOREENT_ID;" 
+   name="Federal Sales" 
+   calculationseq="0"
+   displayseq="0"
+   displayusage="0"
+   markfordelete="0"
+/>
+
+<taxcgry 
+   taxcgry_id="@taxcgry_id_2" 
+   taxtype_id="-4" 
+   storeent_id="&MAR_STOREENT_ID;" 
+   name="Federal Ship" 
+   calculationseq="0"
+   displayseq="0"
+   displayusage="0"
+   markfordelete="0"
+/>
+
+
+
+<!--Table name:  CALCODE -->
+<!--Purpose: Set up CALCODE for Taxes -->
+
+<calcode
+   calcode_id="@calcode_id_3" 
+   code="Sales Tax"
+   calusage_id="-3"
+   storeent_id="&MAR_STOREENT_ID;" 
+   groupby="0"
+   published="1"
+   sequence="3"
+   calmethod_id="-43" 
+   calmethod_id_app="-44" 
+   calmethod_id_qfy="-42"
+   displaylevel="0"
+   flags="0"
+   precedence="0"
+/>
+
+<calcode
+   calcode_id="@calcode_id_4" 
+   code="Shipping Tax"
+   calusage_id="-4"
+   storeent_id="&MAR_STOREENT_ID;" 
+   groupby="0"
+   published="1"
+   sequence="4"
+   calmethod_id="-63" 
+   calmethod_id_app="-64" 
+   calmethod_id_qfy="-62"
+   displaylevel="0"
+   flags="0"
+   precedence="0"
+/>
+
+<calcode
+   calcode_id="@calcode_id_5" 
+   code="Default"
+   calusage_id="-3"
+   storeent_id="&MAR_STOREENT_ID;" 
+   groupby="0"
+   published="1"
+   sequence="2"
+   calmethod_id="-43" 
+   calmethod_id_app="-44" 
+   calmethod_id_qfy="-42"
+   displaylevel="0"
+   flags="0"
+   precedence="0"
+/>
+
+
+<!--Table name:  CALRULE-->
+<!--Purpose: To store Calculation Rules for tax category , PREREQ TAXCGRY -->
+
+<calrule
+   calrule_id="@calrule_id_7"
+   calcode_id="@calcode_id_3" 	
+   taxcgry_id="@taxcgry_id_1"
+   sequence="3" 
+   combination="2" 
+   calmethod_id="-47" 
+   calmethod_id_qfy="-46" 
+   flags="1"
+   identifier="100"
+/>
+
+<calrule
+   calrule_id="@calrule_id_8"
+   calcode_id="@calcode_id_4" 	
+   taxcgry_id="@taxcgry_id_2"
+   sequence="4" 
+   combination="2" 
+   calmethod_id="-67" 
+   calmethod_id_qfy="-66" 
+   flags="1"
+   identifier="101"
+/>
+
+
+
+<!--Table name:  CALSCALE -->
+<!--Create Scale Code for Taxes , (Currency , if set applies to corresponding range) -->
+
+<calscale 
+   calscale_id="@calscale_id_13"
+   code="Preloaded Sales Tax Scale" 
+   storeent_id="&MAR_STOREENT_ID;"
+   calusage_id="-3" 
+   calmethod_id="-53" 
+/>
+
+<calscale 
+   calscale_id="@calscale_id_14"
+   code="Preloaded Shipping Tax Scale" 
+   storeent_id="&MAR_STOREENT_ID;"
+   calusage_id="-4" 
+   calmethod_id="-73" 
+/> 
+
+
+
+
+<!--Table name:  CALRANGE -->
+<!--Create Range for Scale Codes -->
+
+<calrange 
+   calrange_id="@calrange_id_13" 
+   calscale_id="@calscale_id_13"
+   calmethod_id="-59" 
+   rangestart="0.00000"
+   cumulative="0"
+   markfordelete="0"
+/>
+
+<calrange 
+   calrange_id="@calrange_id_14" 
+   calscale_id="@calscale_id_14"
+   calmethod_id="-77" 
+   rangestart="0.00000"
+   cumulative="0"
+   markfordelete="0"
+/>
+
+
+
+
+<!--Table name:  CALRLOOKUP -->
+<!--Purpose: To define lookup value (one record per currency) for a given CALRANGE_ID -->
+
+<calrlookup
+   calrlookup_id="@calrlookup_id_13" 
+   calrange_id="@calrange_id_13" 	
+   value="5.00"
+/>
+
+<calrlookup
+   calrlookup_id="@calrlookup_id_14" 
+   calrange_id="@calrange_id_14" 	
+   value="0.00"
+/>
+
+	
+
+<!--Table name:  CRULESCALE-->
+<!--Purpose: To relate the CALRULE and CALSCALE -->
+
+<crulescale
+   calrule_id="@calrule_id_7" 
+   calscale_id="@calscale_id_13"
+/>
+
+<crulescale
+   calrule_id="@calrule_id_8" 
+   calscale_id="@calscale_id_14"
+/>
+
+
+

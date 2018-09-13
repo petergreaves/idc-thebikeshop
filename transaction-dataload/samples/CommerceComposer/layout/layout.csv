@@ -1,0 +1,7 @@
+Layout
+LayoutName,PageGroup,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault,StartDate,EndDate,Priority,Delete
+SampleHomePageLayout,,Sample home page,The layout for the home page.,Any,1,FALSE,FALSE,,,,
+SampleStaticContentLayout,,"Sample any page, five slots, right sidebar",The layout for a search landing page.,Any,1,FALSE,FALSE,,,,
+SampleDepartmentPageLayout,,Sample department,The layout to be used by department pages.,Any,1,FALSE,FALSE,,,,
+SampleContentPageLayout,,"Sample any page, single slot",The layout for content pages.,Any,1,FALSE,FALSE,,,,
+SampleDefaultContentPageLayout,Content,"Sample any page, single slot",The default layout for content pages.,Web,1,FALSE,TRUE,,,,

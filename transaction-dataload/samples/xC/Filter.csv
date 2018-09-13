@@ -1,0 +1,3 @@
+Filter
+FilterId,Path,Template,TemplateType,Delete
+101,,"{ ""orderIdentifier"": { ""uniqueID"": """", ""externalOrderID"": """", ""customerOrderNumber"": """" }, ""orderAmount"": { ""grandTotal"": { ""value"": 0, ""currency"": """" } }, ""orderItem"": [ { ""orderItemIdentifier"": { ""uniqueID"": """", ""externalOrderItemID"": """" }, ""itemAttributes"": { }, ""correlationGroup"": """" } ] }",,0

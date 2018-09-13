@@ -1,0 +1,4 @@
+StoreLocation,storeIdentifier=AuroraESite
+physicalStore,phone,fax,address1,address2,address3,city,state,country,zipCode,email,geoNode,shipModeStoreIdentifier,Code,Carrier,startDate,endDate,active,latitude,longitude,name,description,image1,image2,field1,field2,field3,Delete
+AuroraESite,,,,,,,,,,,Toronto,AuroraStorefrontAssetStore,PickupInStore,,,,,,,,,,,,,,0
+

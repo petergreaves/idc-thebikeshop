@@ -1,0 +1,10 @@
+﻿RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription
+HomePageContainer,Home page container,Home page container widget
+ContentPageContainer,Single column container,A single column container widget
+DepartmentPageContainer,Two column (left sidebar and split row content) container,A two column (left sidebar and split row content) container widget
+SubCategoryPageContainer,Two column (left sidebar) container,A two column (left sidebar) container widget
+SearchLandingPageContainer,Single column with header banner container,A single column with header banner container widget
+SearchResultPageContainer,Two column (left sidebar and with tabs) container,A two column (left sidebar with tabs) container widget
+StaticContentContainer,Two column (right sidebar) container,A two column (right sidebar) container widget
+ProductPageContainer,Product page container,Product page container widget

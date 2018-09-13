@@ -1,0 +1,6 @@
+	<!-- Create Hosting Hub Org -->
+	<orgentity orgentity_id="@channel_orgentity_id" dn="&ORG_DN_HCP_PART;&ORGANIZATION_DN;" orgentitytype="OU" orgentityname="扩展站点中心组织" >
+		<isa>
+			<member member_id="@channel_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>

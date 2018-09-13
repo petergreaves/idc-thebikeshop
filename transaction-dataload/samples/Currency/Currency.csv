@@ -1,0 +1,3 @@
+Currency,,,,,
+setCurrency,setCurrencyCode,setCurrencyExponent,setCurrencyNote
+INR,356,-2,

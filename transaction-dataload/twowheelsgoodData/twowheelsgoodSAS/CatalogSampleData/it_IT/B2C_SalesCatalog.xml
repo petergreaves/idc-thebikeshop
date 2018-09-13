@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2c_sales" 
+    language_id="&it_IT;" 
+    name="Dati di esempio Aurora consumer direct"
+    shortdescription="Dati di esempio Aurora Consumer Direct"
+    longdescription="Un catalogo vendite che visualizza sei reparti (Abbigliamento, Elettronica, Alimentari, Salute, Casa e arredamento, Newsletter e Riviste) per mostrare le funzioni di catalogo in un negozio consumer direct."
+    thumbnail=""
+    fullimage="" 
+  />
+  

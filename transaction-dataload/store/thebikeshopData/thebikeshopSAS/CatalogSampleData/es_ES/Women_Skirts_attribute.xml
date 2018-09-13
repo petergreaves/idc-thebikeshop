@@ -1,0 +1,141 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenSkirtsColor -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_9" attrtype_id="STRING" language_id="&es_ES;" name="Color" description="Color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_15" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="1" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_20" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="2" value="Verde" integervalue="" floatvalue="" stringvalue="Verde" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_25" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="3" value="Negro" integervalue="" floatvalue="" stringvalue="Negro" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_31" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="4" value="Gris" integervalue="" floatvalue="" stringvalue="Gris" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_34" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="5" value="Multicolor" integervalue="" floatvalue="" stringvalue="Multicolor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_50" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&es_ES;" sequence="6" value="Naranja" integervalue="" floatvalue="" stringvalue="Naranja" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsColor -->
+<!--BEGIN Defining attribute description  WomenSkirtsSize -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_8" attrtype_id="STRING" language_id="&es_ES;" name="Talla" description="Talla" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_8" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_9" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_10" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_11" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_12" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_13" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_14" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&es_ES;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_7" attrtype_id="STRING" language_id="&es_ES;" name="Limpieza" description="Limpieza" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0302" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0303" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0307" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0309" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0314" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0315" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0317" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0318" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0321" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0323" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="1" value="Lavar a máquina" integervalue="" floatvalue="" stringvalue="Lavar a máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0305" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="2" value="Limpieza en seco" integervalue="" floatvalue="" stringvalue="Limpieza en seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0306" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="2" value="Limpieza en seco" integervalue="" floatvalue="" stringvalue="Limpieza en seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0311" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="2" value="Limpieza en seco" integervalue="" floatvalue="" stringvalue="Limpieza en seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0313" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="2" value="Limpieza en seco" integervalue="" floatvalue="" stringvalue="Limpieza en seco" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0316" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&es_ES;" sequence="2" value="Limpieza en seco" integervalue="" floatvalue="" stringvalue="Limpieza en seco" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_4" attrtype_id="STRING" language_id="&es_ES;" name="Tejido" description="Tejido" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0302" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón/spandex" integervalue="" floatvalue="" stringvalue="Algodón/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0305" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón/spandex" integervalue="" floatvalue="" stringvalue="Algodón/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0323" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="1" value="Algodón/spandex" integervalue="" floatvalue="" stringvalue="Algodón/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_18_WCL003_0303" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="2" value="Algodón" integervalue="" floatvalue="" stringvalue="Algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0306" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="3" value="Franela" integervalue="" floatvalue="" stringvalue="Franela" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0314" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="3" value="Franela" integervalue="" floatvalue="" stringvalue="Franela" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0307" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="4" value="Mezcla de algodón" integervalue="" floatvalue="" stringvalue="Mezcla de algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0318" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="4" value="Mezcla de algodón" integervalue="" floatvalue="" stringvalue="Mezcla de algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0321" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="4" value="Mezcla de algodón" integervalue="" floatvalue="" stringvalue="Mezcla de algodón" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0309" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="5" value="Poliéster/spandex" integervalue="" floatvalue="" stringvalue="Poliéster/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0311" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="5" value="Poliéster/spandex" integervalue="" floatvalue="" stringvalue="Poliéster/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_39_WCL003_0313" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="6" value="Raso" integervalue="" floatvalue="" stringvalue="Raso" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_45_WCL003_0315" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="7" value="Rayón/nylon/spandex" integervalue="" floatvalue="" stringvalue="Rayón/nylon/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_47_WCL003_0316" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="8" value="Poliéster/rayón/spandex" integervalue="" floatvalue="" stringvalue="Poliéster/rayón/spandex" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_49_WCL003_0317" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&es_ES;" sequence="9" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_2" attrtype_id="STRING" language_id="&es_ES;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0302" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="1" value="Abertura delantera" integervalue="" floatvalue="" stringvalue="Abertura delantera" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0307" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="1" value="Abertura delantera" integervalue="" floatvalue="" stringvalue="Abertura delantera" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0323" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="1" value="Abertura delantera" integervalue="" floatvalue="" stringvalue="Abertura delantera" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0303" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="2" value="De vuelo" integervalue="" floatvalue="" stringvalue="De vuelo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0305" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="2" value="De vuelo" integervalue="" floatvalue="" stringvalue="De vuelo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0309" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="2" value="De vuelo" integervalue="" floatvalue="" stringvalue="De vuelo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0306" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="3" value="Tubo" integervalue="" floatvalue="" stringvalue="Tubo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0314" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="3" value="Tubo" integervalue="" floatvalue="" stringvalue="Tubo" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_35_WCL003_0311" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="4" value="Fruncida" integervalue="" floatvalue="" stringvalue="Fruncida" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_38_WCL003_0313" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="5" value="Ajustada" integervalue="" floatvalue="" stringvalue="Ajustada" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0315" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="6" value="Recta" integervalue="" floatvalue="" stringvalue="Recta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0321" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="6" value="Recta" integervalue="" floatvalue="" stringvalue="Recta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_46_WCL003_0316" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="7" value="Entallada" integervalue="" floatvalue="" stringvalue="Entallada" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_48_WCL003_0317" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="8" value="Tableada" integervalue="" floatvalue="" stringvalue="Tableada" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_52_WCL003_0318" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&es_ES;" sequence="9" value="Plisada" integervalue="" floatvalue="" stringvalue="Plisada" />
+<!--end of  Style -->
+<!--start of  Length -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_3" attrtype_id="STRING" language_id="&es_ES;" name="Longitud" description="Longitud" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0302" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0303" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0307" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0316" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0317" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0318" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0323" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="1" value="Corta" integervalue="" floatvalue="" stringvalue="Corta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0305" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="2" value="Largo medio" integervalue="" floatvalue="" stringvalue="Largo medio" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0309" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="2" value="Largo medio" integervalue="" floatvalue="" stringvalue="Largo medio" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0313" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="2" value="Largo medio" integervalue="" floatvalue="" stringvalue="Largo medio" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0306" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="3" value="Hasta la rodilla" integervalue="" floatvalue="" stringvalue="Hasta la rodilla" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0311" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="3" value="Hasta la rodilla" integervalue="" floatvalue="" stringvalue="Hasta la rodilla" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0314" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="3" value="Hasta la rodilla" integervalue="" floatvalue="" stringvalue="Hasta la rodilla" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0321" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="3" value="Hasta la rodilla" integervalue="" floatvalue="" stringvalue="Hasta la rodilla" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_44_WCL003_0315" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&es_ES;" sequence="4" value="Justo debajo de la rodilla" integervalue="" floatvalue="" stringvalue="Justo debajo de la rodilla" />
+<!--end of  Length -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_5" attrtype_id="STRING" language_id="&es_ES;" name="Ocasión" description="Ocasión" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0302" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0303" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0307" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0309" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0317" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0318" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0323" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0305" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="2" value="Profesional" integervalue="" floatvalue="" stringvalue="Profesional" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0306" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="2" value="Profesional" integervalue="" floatvalue="" stringvalue="Profesional" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0314" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="2" value="Profesional" integervalue="" floatvalue="" stringvalue="Profesional" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0321" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="2" value="Profesional" integervalue="" floatvalue="" stringvalue="Profesional" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0311" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="3" value="Profesional, fiesta, noche" integervalue="" floatvalue="" stringvalue="Profesional, fiesta, noche" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0315" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="3" value="Profesional, fiesta, noche" integervalue="" floatvalue="" stringvalue="Profesional, fiesta, noche" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0313" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="4" value="Fiesta, noche" integervalue="" floatvalue="" stringvalue="Fiesta, noche" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0316" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&es_ES;" sequence="4" value="Fiesta, noche" integervalue="" floatvalue="" stringvalue="Fiesta, noche" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Shape -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_1" attrtype_id="STRING" language_id="&es_ES;" name="Forma" description="Forma" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0302" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="1" value="Corte estándar" integervalue="" floatvalue="" stringvalue="Corte estándar" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0305" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="1" value="Corte estándar" integervalue="" floatvalue="" stringvalue="Corte estándar" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0307" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="1" value="Corte estándar" integervalue="" floatvalue="" stringvalue="Corte estándar" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0323" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="1" value="Corte estándar" integervalue="" floatvalue="" stringvalue="Corte estándar" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0303" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="2" value="Con relieve" integervalue="" floatvalue="" stringvalue="Con relieve" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0309" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="2" value="Con relieve" integervalue="" floatvalue="" stringvalue="Con relieve" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0317" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="2" value="Con relieve" integervalue="" floatvalue="" stringvalue="Con relieve" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0306" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0311" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0314" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0315" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0316" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0321" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="3" value="Evasé" integervalue="" floatvalue="" stringvalue="Evasé" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_37_WCL003_0313" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="4" value="Ajustada" integervalue="" floatvalue="" stringvalue="Ajustada" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_51_WCL003_0318" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&es_ES;" sequence="5" value="Globo" integervalue="" floatvalue="" stringvalue="Globo" />
+<!--end of  Shape -->
+<!-- END Writing descriptive attribute descriptions -->

@@ -1,0 +1,45 @@
+
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Magazines_2" attrtype_id="STRING" language_id="&zh_CN;" name="类别" description="类别" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_2_NMA026_2601" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="1" value="金融
+" integervalue="" floatvalue="" stringvalue="金融
+" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_7_NMA026_2602" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="2" value="时尚" integervalue="" floatvalue="" stringvalue="时尚" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_8_NMA026_2603" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="3" value="食品" integervalue="" floatvalue="" stringvalue="食品" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_9_NMA026_2604" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="4" value="摄影" integervalue="" floatvalue="" stringvalue="摄影" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_10_NMA026_2605" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="5" value="生活方式" integervalue="" floatvalue="" stringvalue="生活方式" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_10_NMA026_2609" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="5" value="生活方式" integervalue="" floatvalue="" stringvalue="生活方式" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_11_NMA026_2606" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="6" value="建筑" integervalue="" floatvalue="" stringvalue="建筑" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_13_NMA026_2607" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="7" value="体育" integervalue="" floatvalue="" stringvalue="体育" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_14_NMA026_2608" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="8" value="电子" integervalue="" floatvalue="" stringvalue="电子" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_15_NMA026_2610" attr_id="@attribute_id_Magazines_2" valusage="1" language_id="&zh_CN;" sequence="9" value="保健品" integervalue="" floatvalue="" stringvalue="保健品" />
+<!--end of  Category -->
+<!--start of  Published -->
+<attrdesc attr_id="@attribute_id_Magazines_1" attrtype_id="STRING" language_id="&zh_CN;" name="已发布
+" description="已发布
+" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2601" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2602" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2603" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2604" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2605" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2606" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2608" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2609" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_1_NMA026_2610" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="1" value="每月" integervalue="" floatvalue="" stringvalue="每月" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_12_NMA026_2607" attr_id="@attribute_id_Magazines_1" valusage="1" language_id="&zh_CN;" sequence="2" value="每周" integervalue="" floatvalue="" stringvalue="每周" />
+<!--end of  Published -->
+<!--start of  PickUpInStore -->
+<attrdesc attr_id="@attribute_id_Magazines_PickUpInStore" attrtype_id="STRING" language_id="&zh_CN;" name="店内购买" description="店内购买" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2601" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="1" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2602" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="2" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2603" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="3" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2604" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="4" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2605" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="5" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2609" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="5" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2606" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="6" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2607" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="7" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2608" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="8" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<attrvaldesc attrval_id="@attribute_value_id_Magazines_PickUpInStore_NMA026_2610" attr_id="@attribute_id_Magazines_PickUpInStore" valusage="1" language_id="&zh_CN;" sequence="9" value="否" integervalue="" floatvalue="" stringvalue="false" />
+<!--end of  PickUpInStore -->
+<!-- END: Writing descriptive attribute descriptions -->

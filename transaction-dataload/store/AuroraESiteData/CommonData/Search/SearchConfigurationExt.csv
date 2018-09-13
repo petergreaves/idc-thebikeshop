@@ -1,0 +1,7 @@
+SearchConfigurationExt
+INDEXTYPE, INDEXSCOPE, LANGUAGE_ID, INDEXSUBTYPE, CONFIG, Delete
+CatalogEntry,,,Structured,,0
+CatalogEntry,,,Unstructured,,0
+CatalogEntry,,,WebContent,,0
+CatalogGroup,,,Structured,,0
+CatalogEntry,,generic,Inventory,,0

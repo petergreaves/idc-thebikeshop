@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2b_sales" 
+    language_id="&it_IT;" 
+    name="Dati di esempio Aurora B2B direct"
+    shortdescription="Dati di esempio Aurora B2B direct"
+    longdescription="Un catalogo vendite che visualizza un reparto hardware con più categorie secondarie per mostrare le funzioni del catalogo in un negozio B2B direct."
+    thumbnail=""
+    fullimage="" 
+  />
+  

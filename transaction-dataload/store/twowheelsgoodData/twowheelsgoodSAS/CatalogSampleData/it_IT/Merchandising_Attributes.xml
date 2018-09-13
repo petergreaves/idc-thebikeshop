@@ -1,0 +1,8 @@
+
+<!--start of Merchandising -->
+<attrdesc attr_id="@attribute_id_Merchandising_1" attrtype_id="STRING" language_id="&it_IT;" name="Esclusivo" description="Esclusivo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" valusage="1" language_id="&it_IT;" sequence="1" value="Esclusivo" integervalue="" floatvalue="" stringvalue="Esclusivo" /> 
+
+<attrdesc attr_id="@attribute_id_Merchandising_2" attrtype_id="STRING" language_id="&it_IT;" name="Svendita" description="Svendita" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" valusage="1" language_id="&it_IT;" sequence="1" value="Svendita" integervalue="" floatvalue="" stringvalue="Svendita" /> 
+<!--end of Merchandising -->

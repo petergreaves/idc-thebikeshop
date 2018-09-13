@@ -1,0 +1,73 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenAccessoriesSize -->
+<attrdesc attr_id="@attribute_id_MenAccessories_4" attrtype_id="STRING" language_id="&fr_FR;" name="Taille" description="Taille" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_4" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_5" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_6" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_7" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_8" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_9" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_21" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="7" value="Extra long" integervalue="" floatvalue="" stringvalue="Extra long" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_23" attr_id="@attribute_id_MenAccessories_4" valusage="1" language_id="&fr_FR;" sequence="8" value="Longueur standard" integervalue="" floatvalue="" stringvalue="Longueur standard" qtyunit_id="C62" />
+<!--END Defining attribute description  MenAccessoriesSize -->
+<!--BEGIN Defining attribute description  MenAccessoriesColor -->
+<attrdesc attr_id="@attribute_id_MenAccessories_5" attrtype_id="STRING" language_id="&fr_FR;" name="Couleur" description="Couleur" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_10" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="1" value="Havane" integervalue="" floatvalue="" stringvalue="Havane" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_13" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="2" value="Caramel" integervalue="" floatvalue="" stringvalue="Caramel" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_16" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="3" value="Noir" integervalue="" floatvalue="" stringvalue="Noir" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_18" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="4" value="Crème" integervalue="" floatvalue="" stringvalue="Crème" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_22" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="5" value="Orange" integervalue="" floatvalue="" stringvalue="Orange" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_24" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="6" value="Marine/rayure jaune" integervalue="" floatvalue="" stringvalue="Marine/rayure jaune" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_25" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="7" value="Bleu/rayure grise" integervalue="" floatvalue="" stringvalue="Bleu/rayure grise" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_27" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="8" value="Rouge" integervalue="" floatvalue="" stringvalue="Rouge" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_29" attr_id="@attribute_id_MenAccessories_5" valusage="1" language_id="&fr_FR;" sequence="9" value="Bleu" integervalue="" floatvalue="" stringvalue="Bleu" qtyunit_id="C62" />
+<!--END Defining attribute description  MenAccessoriesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenAccessories_2" attrtype_id="STRING" language_id="&fr_FR;" name="Matière" description="Matière" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_2_MAC013_1301" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Laine feutrée" integervalue="" floatvalue="" stringvalue="Laine feutrée" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_2_MAC013_1308" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Laine feutrée" integervalue="" floatvalue="" stringvalue="Laine feutrée" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_2_MAC013_1309" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Laine feutrée" integervalue="" floatvalue="" stringvalue="Laine feutrée" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_2_MAC013_1310" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="1" value="Laine feutrée" integervalue="" floatvalue="" stringvalue="Laine feutrée" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_11_MAC013_1305" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="2" value="Paille" integervalue="" floatvalue="" stringvalue="Paille" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_20_MAC013_1315" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Soie" integervalue="" floatvalue="" stringvalue="Soie" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_20_MAC013_1316" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Soie" integervalue="" floatvalue="" stringvalue="Soie" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_20_MAC013_1317" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Soie" integervalue="" floatvalue="" stringvalue="Soie" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_20_MAC013_1319" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="3" value="Soie" integervalue="" floatvalue="" stringvalue="Soie" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_26_MAC013_1318" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="4" value="Polyester" integervalue="" floatvalue="" stringvalue="Polyester" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_30_MAC013_1320" attr_id="@attribute_id_MenAccessories_2" valusage="1" language_id="&fr_FR;" sequence="5" value="Mélange soie/polyester" integervalue="" floatvalue="" stringvalue="Mélange soie/polyester" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenAccessories_1" attrtype_id="STRING" language_id="&fr_FR;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_1_MAC013_1301" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Décontracté" integervalue="" floatvalue="" stringvalue="Décontracté" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_1_MAC013_1305" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Décontracté" integervalue="" floatvalue="" stringvalue="Décontracté" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_1_MAC013_1309" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Décontracté" integervalue="" floatvalue="" stringvalue="Décontracté" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_1_MAC013_1310" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="1" value="Décontracté" integervalue="" floatvalue="" stringvalue="Décontracté" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_14_MAC013_1308" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="2" value="Activité professionnelle" integervalue="" floatvalue="" stringvalue="Activité professionnelle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1315" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1316" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1317" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1318" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1319" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_19_MAC013_1320" attr_id="@attribute_id_MenAccessories_1" valusage="1" language_id="&fr_FR;" sequence="3" value="Robe" integervalue="" floatvalue="" stringvalue="Robe" />
+<!--end of  Style -->
+<!--start of  Feature -->
+<attrdesc attr_id="@attribute_id_MenAccessories_6" attrtype_id="STRING" language_id="&fr_FR;" name="Caractéristique" description="Caractéristique" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_31_MAC013_1325" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="1" value="Boucle" integervalue="" floatvalue="" stringvalue="Boucle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_31_MAC013_1328" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="1" value="Boucle" integervalue="" floatvalue="" stringvalue="Boucle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_31_MAC013_1330" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="1" value="Boucle" integervalue="" floatvalue="" stringvalue="Boucle" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_32_MAC013_1326" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="2" value="Plaque" integervalue="" floatvalue="" stringvalue="Plaque" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_32_MAC013_1331" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="2" value="Plaque" integervalue="" floatvalue="" stringvalue="Plaque" />
+<attrvaldesc attrval_id="@attribute_value_id_MenAccessories_33_MAC013_1332" attr_id="@attribute_id_MenAccessories_6" valusage="1" language_id="&fr_FR;" sequence="3" value="Reversible en marron" integervalue="" floatvalue="" stringvalue="Reversible en marron" />
+<!--end of  Feature -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

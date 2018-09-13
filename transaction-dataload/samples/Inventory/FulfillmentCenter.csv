@@ -1,0 +1,4 @@
+FulfillmentCenter,storeIdentifier=AuroraESite
+Name,DefaultShipOffset,MarkForDelete,ExtFfmStoreNum,InventoryOpFlags,MaxNumPick,PickDelayInMin,DropShip,Delete
+AuroraESite,86400,0,,0,25,5,N,0
+

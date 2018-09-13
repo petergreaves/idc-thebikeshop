@@ -1,0 +1,100 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_100_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_100"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/save_15_off_purchase.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_100_pt_BR"
+  atchtgt_id="@atchtgt_id_100"
+  language_id="&pt_BR;"
+  name="15% de Desconto"
+  shortdescription="Ganhe 15% de Desconto na Compra Inteira"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_100_pt_BR"
+  atchast_id="@atchast_id_100_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_100_pt_BR"
+  atchrel_id="@atchrel_id_100"
+  language_id="&pt_BR;"
+  name="15% de Desconto"
+  shortdescription="Ganhe 15% de Desconto na Compra Inteira"
+/>
+<colldesc 
+	collateral_id="@collateral_id_100"
+	language_id="&pt_BR;"
+	marketingtext="Ganhe 15% de Desconto na Compra Inteira" 
+/>
+
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_101_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_101"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/097B_EHT_FreeShipping_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/png"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_101_pt_BR"
+  atchtgt_id="@atchtgt_id_101"
+  language_id="&pt_BR;"
+  name="Entrega Grátis"
+  shortdescription="Frete Grátis nas ordens acima de $100"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_101_pt_BR"
+  atchast_id="@atchast_id_101_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_101_pt_BR"
+  atchrel_id="@atchrel_id_101"
+  language_id="&pt_BR;"
+  name="Entrega Grátis"
+  shortdescription="Entrega Grátis"
+/>
+<colldesc 
+	collateral_id="@collateral_id_101"
+	language_id="&pt_BR;"
+	marketingtext="Entrega Grátis" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_header_left"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;div style=&quot;padding:10px 0;background-color:#f5f5f5;color:#C64200;font-size:15px;text-align:center;&quot;&gt;&lt;b&gt;ECONOMIZE 20%&lt;/b&gt; em todas as Novidades&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_header_right"
+	language_id="&pt_BR;"
+	longmktgtext="&lt;div style=&quot;padding:10px 0;background-color:#f5f5f5;color:#707070;font-size:15px;text-align:center;&quot;&gt;&lt;b&gt;RECEBA 15% DE DESCONTO&lt;/b&gt; Em Toda Sua Compra&lt;/div&gt;"
+/>
+

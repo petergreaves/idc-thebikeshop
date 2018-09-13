@@ -1,0 +1,71 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Grocery -->
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Grocery"
+   name="Cumpărături"
+   shortdescription="Cumpărături"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Cumpărături"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Meat"
+   name="Carne"
+   shortdescription="Carne"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gme_meat.png"
+   fullimage="images/catalog/grocery/category/catr_gme_meat.png"
+   keyword="Carne"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Fruit"
+   name="Fructe"
+   shortdescription="Fructe"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gfr_fruit.png"
+   fullimage="images/catalog/grocery/category/catr_gfr_fruit.png"
+   keyword="Fructe"
+/>
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Dairy"
+   name="Lactate"
+   shortdescription="Lactate"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Lactate"
+/>
+
+<catgrpdesc
+   language_id="&ro_RO;"
+   catgroup_id="@catgroup_id_Vegetables"
+   name="Legume"
+   shortdescription="Legume"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gve_vegetables.png"
+   fullimage="images/catalog/grocery/category/catr_gve_vegetables.png"
+   keyword="Legume"
+/>
+
+<!-- End of Category Descriptions -->
+
+

@@ -1,0 +1,148 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  GirlsDressesSkirtsSize -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_8" attrtype_id="INTEGER" language_id="&de_DE;" name="Größe" description="Größe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_8" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="1" value="6" integervalue="6" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_9" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="2" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_10" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="3" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_11" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="4" value="12" integervalue="12" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_15" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="5" value="2 Jahre" integervalue="" floatvalue="" stringvalue="2 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_16" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="6" value="3 Jahre" integervalue="" floatvalue="" stringvalue="3 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_17" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="7" value="4 Jahre" integervalue="" floatvalue="" stringvalue="4 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_18" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="8" value="5 Jahre" integervalue="" floatvalue="" stringvalue="5 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_25" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="9" value="12 Monate" integervalue="" floatvalue="" stringvalue="12 Monate" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_26" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="10" value="18 Monate" integervalue="" floatvalue="" stringvalue="18 Monate" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_27" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="11" value="24 Monate" integervalue="" floatvalue="" stringvalue="24 Monate" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_41" attr_id="@attribute_id_GirlsDressesSkirts_8" valusage="1" language_id="&de_DE;" sequence="12" value="14" integervalue="14" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsDressesSkirtsSize -->
+<!--BEGIN Defining attribute description  GirlsDressesSkirtsColor -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_9" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_12" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="1" value="Mehrfarbig" integervalue="" floatvalue="" stringvalue="Mehrfarbig" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_28" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="2" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_35" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="3" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_38" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="4" value="Apricot" integervalue="" floatvalue="" stringvalue="Apricot" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_42" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="5" value="Anthrazit" integervalue="" floatvalue="" stringvalue="Anthrazit" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_48" attr_id="@attribute_id_GirlsDressesSkirts_9" valusage="1" language_id="&de_DE;" sequence="6" value="Schwarz" integervalue="" floatvalue="" stringvalue="Schwarz" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsDressesSkirtsColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_6" attrtype_id="STRING" language_id="&de_DE;" name="Armlänge" description="Armlänge" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_6_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_6_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_6_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_6_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_6_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="1" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_23_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="2" value="Schulterflügel" integervalue="" floatvalue="" stringvalue="Schulterflügel" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_34_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Langarm" integervalue="" floatvalue="" stringvalue="Langarm" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_34_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="3" value="Langarm" integervalue="" floatvalue="" stringvalue="Langarm" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_44_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="4" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_44_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_6" valusage="1" language_id="&de_DE;" sequence="4" value="Ärmellos" integervalue="" floatvalue="" stringvalue="Ärmellos" />
+<!--end of  Sleeve Length -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_7" attrtype_id="STRING" language_id="&de_DE;" name="Alter" description="Alter" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_7_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="1" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_7_GCL019_1911" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="1" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_7_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="1" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_7_GCL019_1916" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="1" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_14_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="2" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_14_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="2" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_14_GCL019_1908" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="2" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_14_GCL019_1915" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="2" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_24_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="3" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_24_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="3" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_24_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="3" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_24_GCL019_1910" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="3" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_24_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="3" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_37_GCL019_1906" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="4" value="12 - 24 Monate, 2 - 5," integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5," />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_39_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="5" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_39_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_7" valusage="1" language_id="&de_DE;" sequence="5" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_3" attrtype_id="STRING" language_id="&de_DE;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_3_GCL019_1910" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolle" integervalue="" floatvalue="" stringvalue="Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_20_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Polyester" integervalue="" floatvalue="" stringvalue="Polyester" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_20_GCL019_1906" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="2" value="Polyester" integervalue="" floatvalue="" stringvalue="Polyester" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_32_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="3" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_32_GCL019_1908" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="3" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_32_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="3" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_32_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="3" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_40_GCL019_1911" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="4" value="Polyester-Viskose-Mischung" integervalue="" floatvalue="" stringvalue="Polyester-Viskose-Mischung" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_40_GCL019_1916" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="4" value="Polyester-Viskose-Mischung" integervalue="" floatvalue="" stringvalue="Polyester-Viskose-Mischung" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_45_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="5" value="Polyester und Baumwolle" integervalue="" floatvalue="" stringvalue="Polyester und Baumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_46_GCL019_1915" attr_id="@attribute_id_GirlsDressesSkirts_3" valusage="1" language_id="&de_DE;" sequence="6" value="Baumwolle mit Polyester" integervalue="" floatvalue="" stringvalue="Baumwolle mit Polyester" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_1" attrtype_id="STRING" language_id="&de_DE;" name="Schnitt" description="Schnitt" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_1_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Sommerkleid
+" integervalue="" floatvalue="" stringvalue="Sommerkleid
+" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_1_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="1" value="Sommerkleid
+" integervalue="" floatvalue="" stringvalue="Sommerkleid
+" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_19_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Anzug" integervalue="" floatvalue="" stringvalue="Anzug" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_19_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Anzug" integervalue="" floatvalue="" stringvalue="Anzug" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_19_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Anzug" integervalue="" floatvalue="" stringvalue="Anzug" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_19_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Anzug" integervalue="" floatvalue="" stringvalue="Anzug" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_19_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="2" value="Anzug" integervalue="" floatvalue="" stringvalue="Anzug" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_30_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="3" value="Trägerrock" integervalue="" floatvalue="" stringvalue="Trägerrock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_30_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="3" value="Trägerrock" integervalue="" floatvalue="" stringvalue="Trägerrock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1906" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1908" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1910" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1911" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1915" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_36_GCL019_1916" attr_id="@attribute_id_GirlsDressesSkirts_1" valusage="1" language_id="&de_DE;" sequence="4" value="Rock" integervalue="" floatvalue="" stringvalue="Rock" />
+<!--end of  Style -->
+<!--start of  Length -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_2" attrtype_id="STRING" language_id="&de_DE;" name="Länge" description="Länge" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_2_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="Mittellang" integervalue="" floatvalue="" stringvalue="Mittellang" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_2_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="Mittellang" integervalue="" floatvalue="" stringvalue="Mittellang" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_2_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="Mittellang" integervalue="" floatvalue="" stringvalue="Mittellang" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_2_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="Mittellang" integervalue="" floatvalue="" stringvalue="Mittellang" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_2_GCL019_1910" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="1" value="Mittellang" integervalue="" floatvalue="" stringvalue="Mittellang" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1906" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1908" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1911" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1915" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_31_GCL019_1916" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="2" value="Kniefrei" integervalue="" floatvalue="" stringvalue="Kniefrei" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_43_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_2" valusage="1" language_id="&de_DE;" sequence="3" value="Maxi" integervalue="" floatvalue="" stringvalue="Maxi" />
+<!--end of  Length -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_GirlsDressesSkirts_4" attrtype_id="STRING" language_id="&de_DE;" name="Anlass" description="Anlass" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_4_GCL019_1901" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit, Party" integervalue="" floatvalue="" stringvalue="Freizeit, Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_4_GCL019_1902" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit, Party" integervalue="" floatvalue="" stringvalue="Freizeit, Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_4_GCL019_1906" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit, Party" integervalue="" floatvalue="" stringvalue="Freizeit, Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_21_GCL019_1903" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Party" integervalue="" floatvalue="" stringvalue="Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_21_GCL019_1904" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Party" integervalue="" floatvalue="" stringvalue="Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_21_GCL019_1911" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Party" integervalue="" floatvalue="" stringvalue="Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_21_GCL019_1914" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="2" value="Party" integervalue="" floatvalue="" stringvalue="Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1905" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1907" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1908" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1909" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1910" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1912" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_33_GCL019_1913" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="3" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_47_GCL019_1915" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="4" value="Schule, Party" integervalue="" floatvalue="" stringvalue="Schule, Party" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsDressesSkirts_47_GCL019_1916" attr_id="@attribute_id_GirlsDressesSkirts_4" valusage="1" language_id="&de_DE;" sequence="4" value="Schule, Party" integervalue="" floatvalue="" stringvalue="Schule, Party" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

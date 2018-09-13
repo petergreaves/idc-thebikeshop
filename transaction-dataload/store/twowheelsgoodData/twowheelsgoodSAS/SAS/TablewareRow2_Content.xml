@@ -1,0 +1,132 @@
+<emspot emspot_id="@madisons_emspot_id_Tableware1000" storeent_id="&MAR_STOREENT_ID;"  name="TablewareRow2_Content" description="Display ads on Tableware category page" usagetype="MARKETING" />
+
+
+<!-- 
+	Web activity  - TablewareRow2_Content
+	
+	Made up of the following parts:
+	1) Create a content plus an attachment for the image files
+	2) Create a web activity for these advertisements
+-->
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<atchtgt
+	atchtgt_id="@atchtgt_id_Tableware1001"
+	storeent_id="&MAR_STOREENT_ID;"
+	member_id="&MAR_MEMBER_ID;"
+	identifier="Tableware_Atct_1"
+/>
+
+<collateral collateral_id="@collateral_id_Tableware1001" storeent_id="&MAR_STOREENT_ID;" colltype_id="1" name="Tableware_Atct_1">
+	<ISA>
+		<atchrel
+		atchrel_id="@atchrel_id_Tableware1001"
+		object_id="@collateral_id_Tableware1001"
+		atchobjtyp_id="4"
+		atchtgt_id="@atchtgt_id_Tableware1001"
+		atchrlus_id="0"
+		/>
+	</ISA>
+</collateral>
+
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<atchtgt
+	atchtgt_id="@atchtgt_id_Tableware1002"
+	storeent_id="&MAR_STOREENT_ID;"
+	member_id="&MAR_MEMBER_ID;"
+	identifier="Tableware_Atct_2"
+/>
+
+<collateral collateral_id="@collateral_id_Tableware1002" storeent_id="&MAR_STOREENT_ID;" colltype_id="1" name="Tableware_Atct_2">
+	<ISA>
+		<atchrel
+		atchrel_id="@atchrel_id_Tableware1002"
+		object_id="@collateral_id_Tableware1002"
+		atchobjtyp_id="4"
+		atchtgt_id="@atchtgt_id_Tableware1002"
+		atchrlus_id="0"
+		/>
+	</ISA>
+</collateral>
+
+<!--                 -->
+<!-- Web activity    -->
+<!--                 -->
+<dmactivity behavior="0"
+  dmactivity_id="@dmactivity_id_collateral_Tableware1001"
+  storeent_id="&MAR_STOREENT_ID;"
+  name="TablewareRow2_Content"
+  version="1"
+  published="1"
+  state="1"
+  startdate="2007-10-01 16:00:00.001"
+  enddate="2999-12-31 23:59:59.001"
+  priority="1"
+  dmacttype_id="0"
+  repeatable="1"
+  created="2007-10-01 16:00:00.001"
+  lastupdate="2007-10-01 16:00:00.001"
+  lastupdatedby="DM_MbrId=-1000&amp;DM_StoreId=10101&amp;DM_PznId=GenericPersonalizationId"
+  description="Display ads on Tableware category page"
+  
+  optcounter="0"
+/>
+
+<dmelement
+  dmelement_id="@dmelement_id0_collateral_Tableware1001"
+  name="0"
+  dmeletemplate_id="6"
+  dmactivity_id="@dmactivity_id_collateral_Tableware1001"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id1_collateral_Tableware1001"
+  name="1"
+  dmeletemplate_id="105" parent="0" sequence="1000.0"
+  dmactivity_id="@dmactivity_id_collateral_Tableware1001"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id2_collateral_Tableware1001"
+  name="2"
+  dmeletemplate_id="301" parent="0" sequence="2000.0"
+  dmactivity_id="@dmactivity_id_collateral_Tableware1001"
+  optcounter="0"
+/>
+
+<dmtriglstn
+  dmelement_id="@dmelement_id1_collateral_Tableware1001"
+  name="DisplayEms"
+  storeent_id="&MAR_STOREENT_ID;"
+  allusers="1"
+  dmactivity_id="@dmactivity_id_collateral_Tableware1001"
+  optcounter="0"
+/>
+
+<dmelementnvp
+  dmelement_id="@dmelement_id1_collateral_Tableware1001"
+  name="emsId"
+  value="@dmelement_id1_collateral_Tableware1001"
+  triggermatch="1"
+  optcounter="0"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_collateral_Tableware1001"
+  name="collateralIdList"
+  value="@dmelement_id2_collateral_Tableware1001_col1"
+  triggermatch="0"
+  optcounter="0"
+  sequence="1"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_collateral_Tableware1001"
+  name="collateralIdList"
+  value="@dmelement_id2_collateral_Tableware1002_col1"
+  triggermatch="0"
+  optcounter="0"
+  sequence="2"
+/>

@@ -1,0 +1,59 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="当プロバイダーについて
+" description="チャネル・ストアの「このサイトについて」ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="チャネル・ストアの共通ヘッダー用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="チャネル・ストアの「お問い合わせ」ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="チャネル・ストアの「お問い合わせ確認」ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="チャネル・ストアのストア作成ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="チャネル・ストアの「よくある質問」ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="チャネル・ストアのログオン・ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="チャネル・ストアのログオン・フォーム・ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="チャネル・ストアのナビゲーション・フレーム用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="チャネル・ストアの価格ページ用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="チャネル・ストアの「ご登録」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="チャネル・ストアの「ご登録完了」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="チャネル・ストアの「提供されるサービス」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="チャネル・ストアの索引ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="チャネル・ストアから一般公開領域へのリンク用のビュー" language_id="&ja_JP;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="チャネル・ストアの「ようこそ」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="チャネル・ストアの「ご登録」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="チャネル・ストアの「ご登録完了」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="チャネル・ストアの「ご登録」ページ用のビュー" language_id="&ja_JP;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="チャネル・ストアの「ご登録完了」ページ用のビュー" language_id="&ja_JP;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="チャネル・ストア全ユーザー・ビュー" description="全ユーザーがアクセスできるチャネル・ストア・ビュー" language_id="&ja_JP;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="全ユーザーがチャネル・ストア全ユーザー・ビューを実行" description="全ユーザーがチャネル・ストア全ユーザー・ビューを実行" language_id="&ja_JP;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="チャネル組織の契約管理者がメンバー・リソースに対して作成コマンドを実行" description="チャネル組織に契約を作成できる契約管理者" language_id="&ja_JP;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="チャネル組織の契約管理者が契約リソースに対して契約展開コマンドを実行" description="チャネル組織に契約を展開できる契約管理者" language_id="&ja_JP;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="チャネル組織の契約管理者が契約 Databean リソース・グループを表示" description="チャネル組織に契約 Databean を表示する契約管理者" language_id="&ja_JP;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="チャネル・ポリシー・グループ" description="このポリシー・グループにはチャネルに固有のすべてのポリシーが含まれます。" language_id="&ja_JP;"/>
+

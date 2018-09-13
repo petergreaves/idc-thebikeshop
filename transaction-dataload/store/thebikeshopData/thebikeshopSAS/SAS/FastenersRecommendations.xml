@@ -1,0 +1,186 @@
+<collateral collateral_id="@collateral_id_fasteners_espot_title_1" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="FastenersESpotCategoryTitle" />
+<emspot emspot_id="@fasteners_emspot_categories_id" storeent_id="&MAR_STOREENT_ID;"  name="FastenersRow3_Categories" description="FastenersCategoryRecommendationForStores" usagetype="MARKETING" />
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_fasteners_espot_title_1" emspot_id="@fasteners_emspot_categories_id" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_fasteners_espot_title_1" />
+
+<dmactivity behavior="0"
+  dmactivity_id="@dmactivity_id_fasteners"
+  storeent_id="&MAR_STOREENT_ID;"
+  name="FastenersRow3_Categories"
+  version="1"
+  published="1"
+  state="1"
+  startdate="2007-10-01 16:00:00.001"
+  enddate="2999-12-31 23:59:59.001"
+  priority="1"
+  dmacttype_id="0"
+  repeatable="1"
+  created="2007-10-01 16:00:00.001"
+  lastupdate="2007-10-01 16:00:00.001"
+  lastupdatedby="DM_MbrId=-1000&amp;DM_PznId=GenericPersonalizationId"
+  description="FastenersCategoryRecommendationsForStores"
+  optcounter="0"
+/>
+
+<dmelement
+  dmelement_id="@dmelement_id0_fasteners0004"
+  name="0"
+  dmeletemplate_id="6"
+  dmactivity_id="@dmactivity_id_fasteners"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id1_fasteners0004"
+  name="1"
+  dmeletemplate_id="105" parent="0" sequence="1000.0"
+  dmactivity_id="@dmactivity_id_fasteners"
+  optcounter="0"
+/>
+<dmelement
+  dmelement_id="@dmelement_id2_fasteners0004"
+  name="2"
+  dmeletemplate_id="302" parent="0" sequence="2000.0"
+  dmactivity_id="@dmactivity_id_fasteners"
+  optcounter="0"
+/>
+
+<dmtriglstn
+  dmelement_id="@dmelement_id1_fasteners0004"
+  name="DisplayEms"
+  storeent_id="&MAR_STOREENT_ID;"
+  allusers="1"
+  dmactivity_id="@dmactivity_id_fasteners"
+  optcounter="0"
+/>
+
+<dmelementnvp
+  dmelement_id="@dmelement_id1_fasteners0004"
+  name="emsId"
+  value="@dmelement_id1_fasteners0004"
+  triggermatch="1"
+  optcounter="0"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_fasteners0004"
+  name="categoryIdList"
+  value="@dmelement_id2_fasteners0004_cat1"
+  triggermatch="0"
+  optcounter="0"
+  sequence="1"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_fasteners0004"
+  name="categoryIdList"
+  value="@dmelement_id2_fasteners0004_cat2"
+  triggermatch="0"
+  optcounter="0"
+  sequence="2"
+/>
+<dmelementnvp
+  dmelement_id="@dmelement_id2_fasteners0004"
+  name="categoryIdList"
+  value="@dmelement_id2_fasteners0004_cat3"
+  triggermatch="0"
+  optcounter="0"
+  sequence="3"
+/>
+
+<collateral collateral_id="@collateral_id_fasteners_espot_title_2" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="FastenersESpotCatEntriesTitle" />
+<emspot emspot_id="@fasteners_emspot_catentries_id" storeent_id="&MAR_STOREENT_ID;"  name="FastenersRow4_CatEntries" description="Product Recommendation in Fasteners" usagetype="MARKETING" />
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_fasteners_espot_title2" emspot_id="@fasteners_emspot_catentries_id" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_fasteners_espot_title_2" />
+<dmemspotcmd dmemspotcmd_id="@fasteners_dmemspotcmd_id_catentries" contenttype="MarketingContent" storeent_id="&MAR_STOREENT_ID;" emspot_id="@fasteners_emspot_catentries_id" dmemspotord_id="-3" />
+
+<dmactivity behavior="0"
+    dmactivity_id="@dmactivity_id2_fasteners"
+    storeent_id="&MAR_STOREENT_ID;"
+    name="FastenersRow4_CatEntries"
+    version="1"
+    published="1"
+    state="1"
+    startdate="2007-10-01 16:00:00.001"
+    enddate="2999-12-31 23:59:59.001"
+    priority="1"
+    dmacttype_id="0"
+    repeatable="1"
+    created="2007-10-01 16:00:00.001"
+    lastupdate="2007-10-01 16:00:00.001"
+    lastupdatedby="DM_MbrId=-1000&amp;DM_PznId=GenericPersonalizationId"
+    description="Product Recommendation in Fasteners"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@dmelement_id0_fasteners001"
+    name="p20"
+    dmeletemplate_id="6"
+    dmactivity_id="@dmactivity_id2_fasteners"
+    sequence="0"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@dmelement_id1_fasteners001"
+    name="p21"
+    dmeletemplate_id="105"
+    dmactivity_id="@dmactivity_id2_fasteners"
+    parent="p20"
+    sequence="1000"
+    optcounter="0"  />
+
+<dmelement
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="p22"
+    dmeletemplate_id="303"
+    dmactivity_id="@dmactivity_id2_fasteners"
+    parent="p20"
+    sequence="2000"
+    optcounter="0"  />
+
+<dmtriglstn
+    dmelement_id="@dmelement_id1_fasteners001"
+    name="DisplayEms"
+    storeent_id="&MAR_STOREENT_ID;"
+    allusers="1"
+    dmactivity_id="@dmactivity_id2_fasteners"
+    optcounter="0"  />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id1_fasteners001"
+    name="emsId"
+    value="@dmelement_id1_fasteners001"
+    triggermatch="1"
+    optcounter="0"  />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="catalogEntryIdList"
+    value="@dmelement_id2_fasteners001_prod1"
+    triggermatch="0"
+    optcounter="0"  
+    />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="catalogEntryIdList"
+    value="@dmelement_id2_fasteners001_prod2"
+    triggermatch="0"
+    optcounter="0"  />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="catalogEntryIdList"
+    value="@dmelement_id2_fasteners001_prod3"
+    triggermatch="0"
+    optcounter="0"  />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="catalogEntryIdList"
+    value="@dmelement_id2_fasteners001_prod4"
+    triggermatch="0"
+    optcounter="0" 
+     />
+
+<dmelementnvp
+    dmelement_id="@dmelement_id2_fasteners001"
+    name="catalogEntryIdList"
+    value="@dmelement_id2_fasteners001_prod5"
+    triggermatch="0"
+    optcounter="0"  />

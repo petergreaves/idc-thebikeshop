@@ -1,0 +1,125 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenPantsColor -->
+<attrdesc attr_id="@attribute_id_WomenPants_8" attrtype_id="STRING" language_id="&pt_BR;" name="Cor" description="Cor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_12" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&pt_BR;" sequence="1" value="Azul" integervalue="" floatvalue="" stringvalue="Azul" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_17" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&pt_BR;" sequence="2" value="Preta" integervalue="" floatvalue="" stringvalue="Preta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_30" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&pt_BR;" sequence="3" value="Cinza" integervalue="" floatvalue="" stringvalue="Cinza" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_32" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&pt_BR;" sequence="4" value="Marrom" integervalue="" floatvalue="" stringvalue="Marrom" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_34" attr_id="@attribute_id_WomenPants_8" valusage="1" language_id="&pt_BR;" sequence="5" value="Bege" integervalue="" floatvalue="" stringvalue="Bege" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenPantsColor -->
+<!--BEGIN Defining attribute description  WomenPantsSize -->
+<attrdesc attr_id="@attribute_id_WomenPants_7" attrtype_id="STRING" language_id="&pt_BR;" name="Tamanho" description="Tamanho" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_7" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&pt_BR;" sequence="1" value="PP" integervalue="" floatvalue="" stringvalue="PP" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_8" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&pt_BR;" sequence="2" value="P" integervalue="" floatvalue="" stringvalue="P" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_9" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&pt_BR;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_10" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&pt_BR;" sequence="4" value="G" integervalue="" floatvalue="" stringvalue="G" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_11" attr_id="@attribute_id_WomenPants_7" valusage="1" language_id="&pt_BR;" sequence="5" value="GG" integervalue="" floatvalue="" stringvalue="GG" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenPantsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenPants_5" attrtype_id="STRING" language_id="&pt_BR;" name="Limpeza" description="Limpeza" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0401" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0402" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0405" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0406" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0407" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0408" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0410" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0412" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0413" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0414" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0415" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0416" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0417" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0418" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0419" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_5_WCL004_0420" attr_id="@attribute_id_WomenPants_5" valusage="1" language_id="&pt_BR;" sequence="1" value="Lavagem à máquina" integervalue="" floatvalue="" stringvalue="Lavagem à máquina" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenPants_2" attrtype_id="STRING" language_id="&pt_BR;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0401" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0405" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0406" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0407" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_2_WCL004_0420" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0402" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0408" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0410" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0412" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0413" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0414" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0416" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0417" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_14_WCL004_0419" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="2" value="Poliéster" integervalue="" floatvalue="" stringvalue="Poliéster" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_33_WCL004_0415" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="3" value="Algodão" integervalue="" floatvalue="" stringvalue="Algodão" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_38_WCL004_0418" attr_id="@attribute_id_WomenPants_2" valusage="1" language_id="&pt_BR;" sequence="4" value="Cotelê" integervalue="" floatvalue="" stringvalue="Cotelê" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenPants_1" attrtype_id="STRING" language_id="&pt_BR;" name="Estilo" description="Estilo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_1_WCL004_0401" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="1" value="Jeans de denim" integervalue="" floatvalue="" stringvalue="Jeans de denim" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0402" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Calças formais" integervalue="" floatvalue="" stringvalue="Calças formais" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0408" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Calças formais" integervalue="" floatvalue="" stringvalue="Calças formais" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_13_WCL004_0414" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="2" value="Calças formais" integervalue="" floatvalue="" stringvalue="Calças formais" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0405" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Jeans skinny" integervalue="" floatvalue="" stringvalue="Jeans skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0407" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Jeans skinny" integervalue="" floatvalue="" stringvalue="Jeans skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_18_WCL004_0420" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="3" value="Jeans skinny" integervalue="" floatvalue="" stringvalue="Jeans skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_21_WCL004_0406" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="4" value="Jeans com pernas largas" integervalue="" floatvalue="" stringvalue="Jeans com pernas largas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_27_WCL004_0410" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="5" value="Calças justas" integervalue="" floatvalue="" stringvalue="Calças justas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0412" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Calças" integervalue="" floatvalue="" stringvalue="Calças" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0413" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Calças" integervalue="" floatvalue="" stringvalue="Calças" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0415" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Calças" integervalue="" floatvalue="" stringvalue="Calças" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_28_WCL004_0419" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="6" value="Calças" integervalue="" floatvalue="" stringvalue="Calças" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_35_WCL004_0416" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="7" value="Calças flare" integervalue="" floatvalue="" stringvalue="Calças flare" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_36_WCL004_0417" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="8" value="Calças elásticas" integervalue="" floatvalue="" stringvalue="Calças elásticas" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_37_WCL004_0418" attr_id="@attribute_id_WomenPants_1" valusage="1" language_id="&pt_BR;" sequence="9" value="Calças cotelê" integervalue="" floatvalue="" stringvalue="Calças cotelê" />
+<!--end of  Style -->
+<!--start of  Leg -->
+<attrdesc attr_id="@attribute_id_WomenPants_6" attrtype_id="STRING" language_id="&pt_BR;" name="Perna" description="Perna" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0401" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0402" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0414" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0415" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0417" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0418" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_6_WCL004_0419" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="1" value="Perna reta" integervalue="" floatvalue="" stringvalue="Perna reta" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0405" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Skinny" integervalue="" floatvalue="" stringvalue="Skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0407" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Skinny" integervalue="" floatvalue="" stringvalue="Skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0410" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Skinny" integervalue="" floatvalue="" stringvalue="Skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_20_WCL004_0420" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="2" value="Skinny" integervalue="" floatvalue="" stringvalue="Skinny" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_23_WCL004_0406" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="3" value="Perna larga" integervalue="" floatvalue="" stringvalue="Perna larga" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_26_WCL004_0408" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="4" value="Flare" integervalue="" floatvalue="" stringvalue="Flare" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_26_WCL004_0416" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="4" value="Flare" integervalue="" floatvalue="" stringvalue="Flare" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_29_WCL004_0412" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="5" value="Bootcut" integervalue="" floatvalue="" stringvalue="Bootcut" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_31_WCL004_0413" attr_id="@attribute_id_WomenPants_6" valusage="1" language_id="&pt_BR;" sequence="6" value="Flare e bootcut" integervalue="" floatvalue="" stringvalue="Flare e bootcut" />
+<!--end of  Leg -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenPants_3" attrtype_id="STRING" language_id="&pt_BR;" name="Ocasião" description="Ocasião" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0401" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0405" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0406" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0407" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0410" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0415" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0416" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0417" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0418" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_3_WCL004_0420" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="1" value="Informal" integervalue="" floatvalue="" stringvalue="Informal" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0402" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0408" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0412" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0413" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0414" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenPants_15_WCL004_0419" attr_id="@attribute_id_WomenPants_3" valusage="1" language_id="&pt_BR;" sequence="2" value="Carreira" integervalue="" floatvalue="" stringvalue="Carreira" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

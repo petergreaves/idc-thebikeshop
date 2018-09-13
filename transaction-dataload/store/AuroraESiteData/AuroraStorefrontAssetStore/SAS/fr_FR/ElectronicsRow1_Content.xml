@@ -1,0 +1,44 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_elec0001_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_elec0001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/0701B_EEM_DeskLaptops_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_elec0001_fr_FR"
+  atchtgt_id="@atchtgt_id_elec0001"
+  language_id="&fr_FR;"
+  name="Bureaux et ordinateurs portables"
+  shortdescription="Ordinateurs de bureau et portables personnalisés. Configurez la machine de vos rêves"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_elec0001_fr_FR"
+  atchast_id="@atchast_id_elec0001_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_elec0001_fr_FR"
+  atchrel_id="@atchrel_id_elec0001"
+  language_id="&fr_FR;"
+  name="Bureaux et ordinateurs portables"
+  shortdescription="Bureaux et ordinateurs portables"
+/>
+<colldesc 
+	collateral_id="@collateral_id_elec0001"
+	language_id="&fr_FR;"
+	marketingtext="Bureaux et ordinateurs portables" 
+/>
+

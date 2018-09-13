@@ -1,0 +1,265 @@
+
+<!-- TRANSLATORS: DO NOT TRANSLATE ANY TEXT WITHIN [] (SUCH AS [storeName]) -->
+<colldesc 
+	collateral_id="@collateral_id_static_1"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Dear [userName],&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;お客様のパスワードの再設定のご依頼を受け付けました。&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;お客様の確認コード:&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;パスワードの再設定要求を開始したブラウザーで、確認コードを使用してください。&lt;/p&gt;
+														&lt;br /&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;ありがとうございました。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] チーム&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_2"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Dear customer,&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;E メール・アドレス: [senderEmail] からの [senderName] は、買い物候補リストを作成しました。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;参照するには、以下のリンクをクリックしてください。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot;href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;ありがとうございました。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] チーム&lt;/p&gt;&lt;br/&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_3"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;ヘルプ&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;よくある質問&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;オーダー方法&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] でのご購入は簡単です。当店ではじめて購入される場合には、以下の 3 つの簡単なステップに従ってください: &lt;/p&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;カタログをブラウズする。&lt;/li&gt;
+&lt;li&gt;欲しいアイテムをショッピング・カートに追加する。&lt;/li&gt;
+&lt;li&gt;チェックアウト・フローを完了する。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;p&gt;顧客として登録する場合は、E メール・アドレスとパスワードをお尋ねします。  これにより、次回のショッピングの時には既にあなたの情報が保管されているので、もう一度入力する必要はありません。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;支払いはどのようにするのですか?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Visa、MasterCard、または American Express を利用できます。チェックアウトをする際に、支払いをするクレジット・カード番号の入力が要求されます。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;クレジット・カードの使用は安全ですか?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] でのすべてのお取引は、100% 安全・安心であることが保証されています。すなわち、[storeName] でショッピングを行った結果、不正な料金がご使用のクレジット・カードに請求されていた場合、それに対して支払いを行う必要はありません。より安心してご利用いただくために、カードの下 5 桁と有効期限のみを入力することができます。いったんオーダー情報を送信してから、電話でカード番号の残りの部分をお知らせください。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;自分のオーダーの状況確認はどのようにするのですか?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;各ページの上部にある「マイ・アカウント」リンクをクリックするだけで、[storeName] で発行したオーダーの状況を確認できます。そこからまだ配送処理に入っていないオーダーを表示または変更できます。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_4"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;問い合わせ先 &lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;連絡先情報
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;こちらで対応いたします。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;オーダーに関するサポートが必要な場合は、support@[storeName].com までお問い合わせください。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;[storeName] についてさらに質問がある場合や、当店または当 Web サイトに関するフィードバックをお送りいただく場合は、questions@[storeName].com までお問い合わせください。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+	/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_5"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;返品ポリシー
+&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;弊社ポリシー
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;何らかの理由によりオーダーに完全には満足できない場合は、オーダーの全額返金の方法について、カスタマー・サービスまでお問い合わせください。 次回のオーダーを心からお待ちしております。
+&lt;/p&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_6"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;プライバシー・ポリシー &lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;個人情報 &lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] はプライバシーを保護し、配慮しています。Web サイトの [storeName] へのアクセスにあたり、お名前やその他の個人情報を通知いただく必要はありません。 必要に応じ、配送および請求目的のために、個人情報はセキュア・サーバーに保管されます。これらの情報は、お客様の同意なしに第三者に販売されたり、連絡に使用されたりすることはありません。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;ご連絡をさしあげたり、オーダーを処理したりするのに必要な個人情報をインターネットを通じておたずねする場合は、どのようにその情報を使用するかを事前にお知らせしています。 この情報を今後の連絡に使用しないでほしいというご希望があれば、その旨お申し出いただければご希望を順守いたします。 &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;[storeName] によって収集された情報は、許可されている [storeName] 社員によって 3 つの目的のためだけに内部使用されます。第 1 に、どの分野、機能、および商品に最も人気があるかを判断してサイトを改善するためです。 第 2 に、サイト利用者に合わせてサイトを個別設定するためです。 たとえば、過去の趣向を基に、気に入っていただけると思われる商品や機能をお勧めすることがあります。 最後に、当サイトをご利用になった方々のドメインを追跡管理いたします。 当方ではこのデータを分析し、トレンドおよび統計を調査後、データを破棄します。 &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;以上が、お客様に対する弊社のコミットメントです。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_7"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;弊社について
+&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;弊社概要
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] は 1957 年にニューヨーク市で、商品やサービスを扱う小さな店舗としてスタートしました。現在では、世界 15 カ国で、800 を超える [storeName] 百貨店を展開しています。[storeName] の従業員は、125,000 人を超えます。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;高品質の商品を適正価格で提供するというコミットメントで始まった事柄は、現在に至るまで [storeName].com で引き継がれています。このオンライン・ショップでは、従来型の店舗でお客様の信頼を得てきたブランドやスタイルを 24 時間いつでも同様に手に入れることができます。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;弊社の商品をご覧になり、気に入っていただければ幸いです。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;目標&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;弊社の使命は、お客様に可能な限り最善で最も便利なオンライン・ショッピングを体験していただくことです。そのため、開けやすく、地球に優しい梱包で商品をお届けする取り組みを行っており、また、主要なクレジット・カードをすべてご利用いただけます。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;企業の責任&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] は、ビジネスにおけるあらゆる面で健康な生活を支援します。「安全なコミュニティー」イニシャティブから環境サステナビリティー・プロジェクトに至るまで、弊社のショッパー、その多様性、コミュニティー、健康、安全に対する責任を担えることを誇りとしています。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_8"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;連絡先 [storeName] 企業&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;[storeName] 本社&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;弊社は、最高の顧客サービスをお客様に提供することを個人的にお約束いたします。ご質問やコメントを送信される場合には、迅速な返信を可能にするために、以下の企業部門の中から最も適するものをお選びください。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;ヒューマン・リソース&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;ヒューマン・リソース・オフィスの営業時間は、月曜日から金曜日の 8AM から 5PM EST です。E メールでのお問い合わせ先は careers@[storeName].com で、いつでもご利用いただけます。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;コンシューマー・リレーションズ&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;コンシューマー・リレーションズ・オフィスの営業時間は、水曜日から金曜日の 8AM から 5PM EST です。E メールでのお問い合わせ先は relations@[storeName].com で、いつでもご利用いただけます。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;企業の責任&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] の企業の責任の詳細については、「弊社について」ページをご覧いただくか、または info@[storeName].com 宛てにメッセージをお送りください。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] 企業の本社所在地:&lt;/p&gt;
+&lt;p&gt;Street123&lt;/p&gt;
+&lt;p&gt;Toronto Ontario&lt;/p&gt;
+&lt;p&gt;Canada M3C-1L1&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_10"
+	language_id="&ja_JP;"
+	marketingtext="&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;弊社の使命は、お客様に可能な限り最善で最も便利なオンライン・ショッピングを体験していただくことです。そのため、開けやすく、地球に優しい梱包で商品をお届けする取り組みを行っています。&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;詳しくは、&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot;class=&quot;link&quot; href=&quot;[LINK1]&quot;&gt;「プライバシー・ポリシー」&lt;/a&gt;を参照してください。&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot; class=&quot;link&quot;href=&quot;[LINK2]&quot;&gt;www.[STORE_NAME].com&lt;/a&gt; | Copyright [STORE_NAME], NY. 2012.&lt;/p&gt;"
+
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_11"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;p&gt; [userName] 様、&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;ご依頼に基づき、お客様のパスワードを送付いたします。&lt;br /&gt;&lt;br /&gt;お客様のパスワード: [password]&lt;br /&gt;&lt;br /&gt;パスワードでは大文字と小文字を区別する必要があります。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;ありがとうございました。&lt;br /&gt;[storeName] チーム&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_12"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Dear User,&lt;/h2&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;お客様のアカウントはアクティブになっています。&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;下記のリンクをクリックしてログインし、ショッピングを続けてください。 														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot; href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;ありがとうございました。&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;[storeName] チーム&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_13"
+	language_id="&ja_JP;"
+	marketingtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Thank you for ordering from [storeName]. お客様のオーダー番号 [orderNumber] は、お支払いの与信の問題で完了できません。次のアイテムを購入される場合は、1-800-555-1234 (米国) にお電話ください。
+[storeName] でお買い上げいただき、ありがとうございます。&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_14"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Thank you for ordering from [storeName]. オーダー番号 [orderNumber] で支払い与信を受け取りました。このパッケージを追跡する場合は、次の配送追跡番号をご使用ください: &lt;strong&gt;[trackingNumber]&lt;/strong&gt;。アイテムを他の配送先住所に配送する場合、または他の配送方法をご使用になる場合は、それらの配送詳細情報が記載された別の E メールをお送りします。
+お客様のオーダーについてご質問や問題がございましたら、E メール orders@[storeName].com または電話 1-800-555-1234 でお問い合わせください。[storeName] でお買い上げいただき、ありがとうございます。&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_15"
+	language_id="&ja_JP;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Dear [userName],&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;お客様のパスワードの再設定のご依頼を受け付けました。&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;お客様の確認コード:&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;確認コードをコピーして次のページで入力し、パスワードを再設定してください。&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[resetPasswordFormURL]&lt;/p&gt;
+														&lt;br /&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;ありがとうございました。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] チーム&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+

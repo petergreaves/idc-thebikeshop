@@ -1,0 +1,4 @@
+SeopageDesc
+PageGroup,PageAdminName,PageTitle,MetaDescription,MetaKeyword,ImageAltText,Delete
+Content,SampleHelpPage,Help at <seo: StoreName/>,Help at <seo: StoreName/>,Help at <seo: StoreName/>,Image for <seo: StoreName/> Help,
+Content,SampleHomePage,Welcome to <seo: StoreName/>,Shop <seo: StoreName/> online. <seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,Image for <seo: StoreName/> home page,

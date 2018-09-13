@@ -1,0 +1,4 @@
+RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription,Delete
+SampleSiteWidget,Site widget exemple,La description du widget ,
+SampleStoreWidget,Store widget exemple,La description du widget,

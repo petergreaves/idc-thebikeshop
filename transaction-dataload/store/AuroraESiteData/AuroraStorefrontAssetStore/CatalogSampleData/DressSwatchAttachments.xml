@@ -1,0 +1,1020 @@
+<!-- Holds information about the 'Attachment' directory where all the swatch attachments are stored -->
+<cmfiledir cmfiledir_id="@cmfiledir_swtach_id_dir_1" identifier="&STORE_DIRECTORY_LOWERCASE;" displayname="&STORE_DIR;"/>
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_id_dir_2" cmfiledir_parent="@cmfiledir_swtach_id_dir_1" identifier="attachment" displayname="Attachment"/>
+
+<!-- AuroraWMDRS-1 -->
+
+<!-- AuroraWMDRS-1 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_1" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-1" displayname="AuroraWMDRS-1"/>
+
+<!-- AuroraWMDRS-1_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-1_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_1_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_1" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_1_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_1_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_1" filesize="25"/>
+
+<!-- AuroraWMDRS-1_swatchcolor_Teal -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-1_swatchcolor_Teal"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_1_swatchcolor_Teal" object_id="@catentry_product_id_apparel_women_dresses_1" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Teal" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_1_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Teal" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_teal_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_1_swatchcolor_Teal" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_teal_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_1" filesize="25"/>
+
+<!-- AuroraWMDRS-1_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-1_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_1_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_1" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_1_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_1_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_1_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0028_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_1" filesize="25"/>
+
+<!-- AuroraWMDRS-2 -->
+
+<!-- AuroraWMDRS-2 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_2" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-2" displayname="AuroraWMDRS-2"/>
+
+<!-- AuroraWMDRS-2_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-2_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_2_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_2" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_2_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_2_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_2" filesize="25"/>
+
+<!-- AuroraWMDRS-2_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-2_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_2_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_2" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_2_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_2_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_2" filesize="25"/>
+
+<!-- AuroraWMDRS-2_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-2_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_2_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_2" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_2_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_2_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_2" filesize="25"/>
+
+<!-- AuroraWMDRS-2_swatchcolor_Teal -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-2_swatchcolor_Teal"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_2_swatchcolor_Teal" object_id="@catentry_product_id_apparel_women_dresses_2" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Teal" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_2_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_2_swatchcolor_Teal" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_teal_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_2_swatchcolor_Teal" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0015_a_teal_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_2" filesize="25"/>
+
+<!-- AuroraWMDRS-3 -->
+
+<!-- AuroraWMDRS-3 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_3" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-3" displayname="AuroraWMDRS-3"/>
+
+<!-- AuroraWMDRS-3_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-3_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_3_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_3" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_3_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_3_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_3" filesize="25"/>
+
+<!-- AuroraWMDRS-3_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-3_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_3_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_3" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_3_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_3_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_3" filesize="25"/>
+
+<!-- AuroraWMDRS-3_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-3_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_3_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_3" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_3_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_3_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_3_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0026_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_3" filesize="25"/>
+
+<!-- AuroraWMDRS-4 -->
+
+<!-- AuroraWMDRS-4 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_4" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-4" displayname="AuroraWMDRS-4"/>
+
+<!-- AuroraWMDRS-4_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-4_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_4_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_4" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_4_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_4_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_4" filesize="25"/>
+
+<!-- AuroraWMDRS-4_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-4_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_4_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_4" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_4_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_4_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_4" filesize="25"/>
+
+<!-- AuroraWMDRS-4_swatchcolor_White -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-4_swatchcolor_White"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_4_swatchcolor_White" object_id="@catentry_product_id_apparel_women_dresses_4" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_White" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_4_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_4_swatchcolor_White" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_white_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_4_swatchcolor_White" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0007_a_white_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_4" filesize="25"/>
+
+<!-- AuroraWMDRS-5 -->
+
+<!-- AuroraWMDRS-5 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_5" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-5" displayname="AuroraWMDRS-5"/>
+
+<!-- AuroraWMDRS-5_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-5_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_5_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_5" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_5_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_5_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_5" filesize="25"/>
+
+<!-- AuroraWMDRS-5_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-5_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_5_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_5" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_5_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_5_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_5" filesize="25"/>
+
+<!-- AuroraWMDRS-5_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-5_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_5_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_5" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_5_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_5_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_5" filesize="25"/>
+
+<!-- AuroraWMDRS-5_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-5_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_5_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_5" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_5_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_5_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_5_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0003_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_5" filesize="25"/>
+
+<!-- AuroraWMDRS-6 -->
+
+<!-- AuroraWMDRS-6 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_6" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-6" displayname="AuroraWMDRS-6"/>
+
+<!-- AuroraWMDRS-6_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-6_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_6_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_6" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_6_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0006_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_6_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0006_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_6" filesize="25"/>
+
+<!-- AuroraWMDRS-6_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-6_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_6_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_6" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_6_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_6_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0006_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_6_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0006_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_6" filesize="25"/>
+
+<!-- AuroraWMDRS-7 -->
+
+<!-- AuroraWMDRS-7 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_7" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-7" displayname="AuroraWMDRS-7"/>
+
+<!-- AuroraWMDRS-7_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-7_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_7_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_7" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_7_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_7_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_7" filesize="25"/>
+
+<!-- AuroraWMDRS-7_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-7_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_7_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_7" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_7_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_7_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_7" filesize="25"/>
+
+<!-- AuroraWMDRS-7_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-7_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_7_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_7" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_7_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_7_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_7" filesize="25"/>
+
+<!-- AuroraWMDRS-7_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-7_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_7_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_7" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_7_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_7_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_7_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0001_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_7" filesize="25"/>
+
+<!-- AuroraWMDRS-8 -->
+
+<!-- AuroraWMDRS-8 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_8" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-8" displayname="AuroraWMDRS-8"/>
+
+<!-- AuroraWMDRS-8_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-8_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_8_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_8" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_8_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_8_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_8" filesize="25"/>
+
+<!-- AuroraWMDRS-8_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-8_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_8_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_8" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_8_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_8_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_8" filesize="25"/>
+
+<!-- AuroraWMDRS-8_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-8_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_8_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_8" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_8_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_8_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_8" filesize="25"/>
+
+<!-- AuroraWMDRS-8_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-8_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_8_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_8" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_8_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_8_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_8_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0030_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_8" filesize="25"/>
+
+<!-- AuroraWMDRS-9 -->
+
+<!-- AuroraWMDRS-9 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_9" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-9" displayname="AuroraWMDRS-9"/>
+
+<!-- AuroraWMDRS-9_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-9_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_9_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_9" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_9_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_9_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_9" filesize="25"/>
+
+<!-- AuroraWMDRS-9_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-9_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_9_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_9" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_9_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_9_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_9" filesize="25"/>
+
+<!-- AuroraWMDRS-9_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-9_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_9_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_9" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_9_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_9_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_9_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0005_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_9" filesize="25"/>
+
+<!-- AuroraWMDRS-10 -->
+
+<!-- AuroraWMDRS-10 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_10" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-10" displayname="AuroraWMDRS-10"/>
+
+<!-- AuroraWMDRS-10_swatchcolor_Black -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-10_swatchcolor_Black"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_10_swatchcolor_Black" object_id="@catentry_product_id_apparel_women_dresses_10" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Black" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_10_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Black" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_black_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_10_swatchcolor_Black" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_black_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_10" filesize="25"/>
+
+<!-- AuroraWMDRS-10_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-10_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_10_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_10" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_10_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_10_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_10" filesize="25"/>
+
+<!-- AuroraWMDRS-10_swatchcolor_Light Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Light_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-10_swatchcolor_Light Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_10_swatchcolor_Light_Blue" object_id="@catentry_product_id_apparel_women_dresses_10" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Light_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_10_swatchcolor_Light_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_10_swatchcolor_Light_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_lightblue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_10_swatchcolor_Light_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0010_a_lightblue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_10" filesize="25"/>
+
+<!-- AuroraWMDRS-11 -->
+
+<!-- AuroraWMDRS-11 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_11" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-11" displayname="AuroraWMDRS-11"/>
+
+<!-- AuroraWMDRS-11_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-11_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_11_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_11" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_11_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_11_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_11" filesize="25"/>
+
+<!-- AuroraWMDRS-11_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-11_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_11_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_11" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_11_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_11_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_11" filesize="25"/>
+
+<!-- AuroraWMDRS-11_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-11_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_11_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_11" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_11_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_11_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_11_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0031_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_11" filesize="25"/>
+
+<!-- AuroraWMDRS-12 -->
+
+<!-- AuroraWMDRS-12 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_12" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-12" displayname="AuroraWMDRS-12"/>
+
+<!-- AuroraWMDRS-12_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-12_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_12_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_12" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_12_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_12_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_12" filesize="25"/>
+
+<!-- AuroraWMDRS-12_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-12_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_12_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_12" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_12_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_12_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_12" filesize="25"/>
+
+<!-- AuroraWMDRS-12_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-12_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_12_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_12" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_12_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_12_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_12_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0014_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_12" filesize="25"/>
+
+<!-- AuroraWMDRS-13 -->
+
+<!-- AuroraWMDRS-13 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_13" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-13" displayname="AuroraWMDRS-13"/>
+
+<!-- AuroraWMDRS-13_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-13_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_13_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_13" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_13_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_13_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_13" filesize="25"/>
+
+<!-- AuroraWMDRS-13_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-13_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_13_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_13" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_13_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_13_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_13" filesize="25"/>
+
+<!-- AuroraWMDRS-13_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-13_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_13_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_13" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_13_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_13_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_13" filesize="25"/>
+
+<!-- AuroraWMDRS-13_swatchcolor_Teal -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-13_swatchcolor_Teal"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_13_swatchcolor_Teal" object_id="@catentry_product_id_apparel_women_dresses_13" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Teal" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_13_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_13_swatchcolor_Teal" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_teal_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_13_swatchcolor_Teal" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0008_a_teal_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_13" filesize="25"/>
+
+<!-- AuroraWMDRS-15 -->
+
+<!-- AuroraWMDRS-15 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_15" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-15" displayname="AuroraWMDRS-15"/>
+
+<!-- AuroraWMDRS-15_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-15_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_15_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_15" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_15_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_15_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_15" filesize="25"/>
+
+<!-- AuroraWMDRS-15_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-15_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_15_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_15" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_15_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_15_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_15" filesize="25"/>
+
+<!-- AuroraWMDRS-15_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-15_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_15_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_15" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_15_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_15_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_15" filesize="25"/>
+
+<!-- AuroraWMDRS-15_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-15_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_15_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_15" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_15_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_15_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_15_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0023_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_15" filesize="25"/>
+
+<!-- AuroraWMDRS-16 -->
+
+<!-- AuroraWMDRS-16 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_16" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-16" displayname="AuroraWMDRS-16"/>
+
+<!-- AuroraWMDRS-16_swatchcolor_Beige -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Beige" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-16_swatchcolor_Beige"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_16_swatchcolor_Beige" object_id="@catentry_product_id_apparel_women_dresses_16" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Beige" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_16_swatchcolor_Beige" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Beige" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_beige_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_16_swatchcolor_Beige" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_beige_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_16" filesize="25"/>
+
+<!-- AuroraWMDRS-16_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-16_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_16_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_16" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_16_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_16_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_16" filesize="25"/>
+
+<!-- AuroraWMDRS-16_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-16_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_16_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_16" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_16_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_16_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_16" filesize="25"/>
+
+<!-- AuroraWMDRS-16_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-16_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_16_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_16" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_16_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_16_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_16_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0013_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_16" filesize="25"/>
+
+<!-- AuroraWMDRS-17 -->
+
+<!-- AuroraWMDRS-17 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_17" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-17" displayname="AuroraWMDRS-17"/>
+
+<!-- AuroraWMDRS-17_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-17_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_17_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_17" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_17_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_17_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_17" filesize="25"/>
+
+<!-- AuroraWMDRS-17_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-17_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_17_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_17" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_17_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_17_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_17" filesize="25"/>
+
+<!-- AuroraWMDRS-17_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-17_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_17_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_17" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_17_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_17_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_17_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0002_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_17" filesize="25"/>
+
+<!-- AuroraWMDRS-19 -->
+
+<!-- AuroraWMDRS-19 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_19" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-19" displayname="AuroraWMDRS-19"/>
+
+<!-- AuroraWMDRS-19_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-19_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_19_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_19" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_19_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_19_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_19" filesize="25"/>
+
+<!-- AuroraWMDRS-19_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-19_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_19_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_19" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_19_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_19_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_19" filesize="25"/>
+
+<!-- AuroraWMDRS-19_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-19_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_19_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_19" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_19_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_19_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_19_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0032_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_19" filesize="25"/>
+
+<!-- AuroraWMDRS-20 -->
+
+<!-- AuroraWMDRS-20 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_20" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-20" displayname="AuroraWMDRS-20"/>
+
+<!-- AuroraWMDRS-20_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-20_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_20_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_20" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_20_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_20_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_20" filesize="25"/>
+
+<!-- AuroraWMDRS-20_swatchcolor_Gold -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Gold" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-20_swatchcolor_Gold"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_20_swatchcolor_Gold" object_id="@catentry_product_id_apparel_women_dresses_20" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Gold" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_20_swatchcolor_Gold" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Gold" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_gold_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_20_swatchcolor_Gold" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_gold_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_20" filesize="25"/>
+
+<!-- AuroraWMDRS-20_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-20_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_20_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_20" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_20_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_20_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_20" filesize="25"/>
+
+<!-- AuroraWMDRS-20_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-20_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_20_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_20" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_20_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_20_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_20_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0024_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_20" filesize="25"/>
+
+<!-- AuroraWMDRS-21 -->
+
+<!-- AuroraWMDRS-21 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_21" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-21" displayname="AuroraWMDRS-21"/>
+
+<!-- AuroraWMDRS-21_swatchcolor_Dark Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-21_swatchcolor_Dark Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" object_id="@catentry_product_id_apparel_women_dresses_21" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_darkblue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_21_swatchcolor_Dark_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_darkblue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_21" filesize="25"/>
+
+<!-- AuroraWMDRS-21_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-21_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_21_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_21" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_21_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_21_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_21" filesize="25"/>
+
+<!-- AuroraWMDRS-21_swatchcolor_Light Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Light_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-21_swatchcolor_Light Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_21_swatchcolor_Light_Blue" object_id="@catentry_product_id_apparel_women_dresses_21" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Light_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_21_swatchcolor_Light_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_21_swatchcolor_Light_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_lightblue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_21_swatchcolor_Light_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0036_a_lightblue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_21" filesize="25"/>
+
+<!-- AuroraWMDRS-22 -->
+
+<!-- AuroraWMDRS-22 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_22" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-22" displayname="AuroraWMDRS-22"/>
+
+<!-- AuroraWMDRS-22_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-22_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_22_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_22" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_22_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_22_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_22" filesize="25"/>
+
+<!-- AuroraWMDRS-22_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-22_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_22_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_22" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_22_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_22_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_22" filesize="25"/>
+
+<!-- AuroraWMDRS-22_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-22_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_22_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_22" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_22_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_22_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_22_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0011_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_22" filesize="25"/>
+
+<!-- AuroraWMDRS-23 -->
+
+<!-- AuroraWMDRS-23 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_23" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-23" displayname="AuroraWMDRS-23"/>
+
+<!-- AuroraWMDRS-23_swatchcolor_Black -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-23_swatchcolor_Black"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_23_swatchcolor_Black" object_id="@catentry_product_id_apparel_women_dresses_23" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Black" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_23_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Black" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_black_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_23_swatchcolor_Black" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_black_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_23" filesize="25"/>
+
+<!-- AuroraWMDRS-23_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-23_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_23_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_23" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_23_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_23_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_23" filesize="25"/>
+
+<!-- AuroraWMDRS-23_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-23_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_23_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_23" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_23_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_23_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_23_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0020_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_23" filesize="25"/>
+
+<!-- AuroraWMDRS-24 -->
+
+<!-- AuroraWMDRS-24 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_24" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-24" displayname="AuroraWMDRS-24"/>
+
+<!-- AuroraWMDRS-24_swatchcolor_Beige -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Beige" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-24_swatchcolor_Beige"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_24_swatchcolor_Beige" object_id="@catentry_product_id_apparel_women_dresses_24" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Beige" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_24_swatchcolor_Beige" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Beige" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_beige_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_24_swatchcolor_Beige" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_beige_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_24" filesize="25"/>
+
+<!-- AuroraWMDRS-24_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-24_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_24_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_24" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_24_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_24_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_24" filesize="25"/>
+
+<!-- AuroraWMDRS-24_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-24_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_24_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_24" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_24_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_24_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_24" filesize="25"/>
+
+<!-- AuroraWMDRS-24_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-24_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_24_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_24" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_24_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_24_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_24_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0027_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_24" filesize="25"/>
+
+<!-- AuroraWMDRS-25 -->
+
+<!-- AuroraWMDRS-25 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_25" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-25" displayname="AuroraWMDRS-25"/>
+
+<!-- AuroraWMDRS-25_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-25_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_25_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_25" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_25_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_25_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_25" filesize="25"/>
+
+<!-- AuroraWMDRS-25_swatchcolor_Gold -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Gold" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-25_swatchcolor_Gold"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_25_swatchcolor_Gold" object_id="@catentry_product_id_apparel_women_dresses_25" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Gold" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_25_swatchcolor_Gold" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Gold" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_gold_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_25_swatchcolor_Gold" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_gold_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_25" filesize="25"/>
+
+<!-- AuroraWMDRS-25_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-25_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_25_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_25" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_25_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_25_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_25" filesize="25"/>
+
+<!-- AuroraWMDRS-25_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-25_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_25_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_25" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_25_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_25_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_25_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0033_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_25" filesize="25"/>
+
+<!-- AuroraWMDRS-26 -->
+
+<!-- AuroraWMDRS-26 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_26" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-26" displayname="AuroraWMDRS-26"/>
+
+<!-- AuroraWMDRS-26_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-26_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_26_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_26" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_26_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_26_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_26" filesize="25"/>
+
+<!-- AuroraWMDRS-26_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-26_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_26_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_26" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_26_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_26_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_26" filesize="25"/>
+
+<!-- AuroraWMDRS-26_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-26_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_26_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_26" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_26_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_26_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_26" filesize="25"/>
+
+<!-- AuroraWMDRS-26_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-26_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_26_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_26" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_26_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_26_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_26_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0021_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_26" filesize="25"/>
+
+<!-- AuroraWMDRS-27 -->
+
+<!-- AuroraWMDRS-27 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_27" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-27" displayname="AuroraWMDRS-27"/>
+
+<!-- AuroraWMDRS-27_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-27_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_27_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_27" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_27_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_27_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_27" filesize="25"/>
+
+<!-- AuroraWMDRS-27_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-27_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_27_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_27" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_27_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_27_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_27" filesize="25"/>
+
+<!-- AuroraWMDRS-27_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-27_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_27_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_27" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_27_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_27_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_27" filesize="25"/>
+
+<!-- AuroraWMDRS-27_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-27_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_27_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_27" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_27_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_27_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_27_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0019_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_27" filesize="25"/>
+
+<!-- AuroraWMDRS-28 -->
+
+<!-- AuroraWMDRS-28 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_28" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-28" displayname="AuroraWMDRS-28"/>
+
+<!-- AuroraWMDRS-28_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-28_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_28_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_28" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_28_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_28_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_28" filesize="25"/>
+
+<!-- AuroraWMDRS-28_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-28_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_28_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_28" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_28_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_28_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_28" filesize="25"/>
+
+<!-- AuroraWMDRS-28_swatchcolor_White -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-28_swatchcolor_White"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_28_swatchcolor_White" object_id="@catentry_product_id_apparel_women_dresses_28" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_White" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_28_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_White" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_white_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_28_swatchcolor_White" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_white_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_28" filesize="25"/>
+
+<!-- AuroraWMDRS-28_swatchcolor_Yellow -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-28_swatchcolor_Yellow"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_28_swatchcolor_Yellow" object_id="@catentry_product_id_apparel_women_dresses_28" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Yellow" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_28_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_28_swatchcolor_Yellow" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_yellow_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_28_swatchcolor_Yellow" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0022_a_yellow_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_28" filesize="25"/>
+
+<!-- AuroraWMDRS-29 -->
+
+<!-- AuroraWMDRS-29 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_29" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-29" displayname="AuroraWMDRS-29"/>
+
+<!-- AuroraWMDRS-29_swatchcolor_Black -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-29_swatchcolor_Black"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_29_swatchcolor_Black" object_id="@catentry_product_id_apparel_women_dresses_29" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Black" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_29_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Black" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_black_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_29_swatchcolor_Black" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_black_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_29" filesize="25"/>
+
+<!-- AuroraWMDRS-29_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-29_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_29_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_29" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_29_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_29_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_29" filesize="25"/>
+
+<!-- AuroraWMDRS-29_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-29_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_29_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_29" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_29_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_29_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_29" filesize="25"/>
+
+<!-- AuroraWMDRS-29_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-29_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_29_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_29" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_29_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_29_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_29_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0012_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_29" filesize="25"/>
+
+<!-- AuroraWMDRS-30 -->
+
+<!-- AuroraWMDRS-30 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_30" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-30" displayname="AuroraWMDRS-30"/>
+
+<!-- AuroraWMDRS-30_swatchcolor_Black -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-30_swatchcolor_Black"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_30_swatchcolor_Black" object_id="@catentry_product_id_apparel_women_dresses_30" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Black" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_30_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Black" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_black_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_30_swatchcolor_Black" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_black_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_30" filesize="25"/>
+
+<!-- AuroraWMDRS-30_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-30_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_30_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_30" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_30_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_30_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_30" filesize="25"/>
+
+<!-- AuroraWMDRS-30_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-30_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_30_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_30" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_30_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_30_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_30_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0009_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_30" filesize="25"/>
+
+<!-- AuroraWMDRS-31 -->
+
+<!-- AuroraWMDRS-31 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_31" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-31" displayname="AuroraWMDRS-31"/>
+
+<!-- AuroraWMDRS-31_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-31_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_31_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_31" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_31_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_31_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_31" filesize="25"/>
+
+<!-- AuroraWMDRS-31_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-31_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_31_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_31" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_31_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_31_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_31" filesize="25"/>
+
+<!-- AuroraWMDRS-31_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-31_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_31_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_31" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_31_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_31_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_31_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0029_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_31" filesize="25"/>
+
+<!-- AuroraWMDRS-32 -->
+
+<!-- AuroraWMDRS-32 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_32" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-32" displayname="AuroraWMDRS-32"/>
+
+<!-- AuroraWMDRS-32_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-32_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_32_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_32" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_32_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_32_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_32" filesize="25"/>
+
+<!-- AuroraWMDRS-32_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-32_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_32_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_32" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_32_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_32_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_32" filesize="25"/>
+
+<!-- AuroraWMDRS-32_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-32_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_32_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_32" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_32_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_32_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_32" filesize="25"/>
+
+<!-- AuroraWMDRS-32_swatchcolor_Teal -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-32_swatchcolor_Teal"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_32_swatchcolor_Teal" object_id="@catentry_product_id_apparel_women_dresses_32" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Teal" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_32_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_32_swatchcolor_Teal" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_teal_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_32_swatchcolor_Teal" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0025_a_teal_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_32" filesize="25"/>
+
+<!-- AuroraWMDRS-33 -->
+
+<!-- AuroraWMDRS-33 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_33" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-33" displayname="AuroraWMDRS-33"/>
+
+<!-- AuroraWMDRS-33_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-33_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_33_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_33" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_33_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_33_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_33" filesize="25"/>
+
+<!-- AuroraWMDRS-33_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-33_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_33_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_33" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_33_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_33_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_33" filesize="25"/>
+
+<!-- AuroraWMDRS-33_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-33_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_33_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_33" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_33_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_33_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_33" filesize="25"/>
+
+<!-- AuroraWMDRS-33_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-33_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_33_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_33" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_33_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_33_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_33_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0037_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_33" filesize="25"/>
+
+<!-- AuroraWMDRS-34 -->
+
+<!-- AuroraWMDRS-34 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_34" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-34" displayname="AuroraWMDRS-34"/>
+
+<!-- AuroraWMDRS-34_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-34_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_34_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_34" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_34_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_34_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_34" filesize="25"/>
+
+<!-- AuroraWMDRS-34_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-34_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_34_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_34" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_34_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_34_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_34" filesize="25"/>
+
+<!-- AuroraWMDRS-34_swatchcolor_White -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-34_swatchcolor_White"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_34_swatchcolor_White" object_id="@catentry_product_id_apparel_women_dresses_34" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_White" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_34_swatchcolor_White" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_34_swatchcolor_White" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_white_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_34_swatchcolor_White" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0039_a_white_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_34" filesize="25"/>
+
+<!-- AuroraWMDRS-35 -->
+
+<!-- AuroraWMDRS-35 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_35" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-35" displayname="AuroraWMDRS-35"/>
+
+<!-- AuroraWMDRS-35_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-35_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_35_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_35" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_35_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_35_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_35" filesize="25"/>
+
+<!-- AuroraWMDRS-35_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-35_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_35_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_35" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_35_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_35_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_35" filesize="25"/>
+
+<!-- AuroraWMDRS-35_swatchcolor_Yellow -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-35_swatchcolor_Yellow"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_35_swatchcolor_Yellow" object_id="@catentry_product_id_apparel_women_dresses_35" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Yellow" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_35_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_35_swatchcolor_Yellow" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_yellow_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_35_swatchcolor_Yellow" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0017_a_yellow_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_35" filesize="25"/>
+
+<!-- AuroraWMDRS-36 -->
+
+<!-- AuroraWMDRS-36 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_36" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-36" displayname="AuroraWMDRS-36"/>
+
+<!-- AuroraWMDRS-36_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-36_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_36_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_36" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_36_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_36_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_36" filesize="25"/>
+
+<!-- AuroraWMDRS-36_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-36_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_36_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_36" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_36_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_36_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_36" filesize="25"/>
+
+<!-- AuroraWMDRS-36_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-36_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_36_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_36" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_36_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_36_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_36" filesize="25"/>
+
+<!-- AuroraWMDRS-36_swatchcolor_Pink -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-36_swatchcolor_Pink"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_36_swatchcolor_Pink" object_id="@catentry_product_id_apparel_women_dresses_36" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Pink" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_36_swatchcolor_Pink" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_36_swatchcolor_Pink" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_pink_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_36_swatchcolor_Pink" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0004_a_pink_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_36" filesize="25"/>
+
+<!-- AuroraWMDRS-37 -->
+
+<!-- AuroraWMDRS-37 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_37" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-37" displayname="AuroraWMDRS-37"/>
+
+<!-- AuroraWMDRS-37_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-37_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_37_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_37" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_37_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_37_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_37" filesize="25"/>
+
+<!-- AuroraWMDRS-37_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-37_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_37_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_37" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_37_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_37_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_37" filesize="25"/>
+
+<!-- AuroraWMDRS-37_swatchcolor_Orange -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-37_swatchcolor_Orange"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_37_swatchcolor_Orange" object_id="@catentry_product_id_apparel_women_dresses_37" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Orange" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_37_swatchcolor_Orange" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Orange" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_orange_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_37_swatchcolor_Orange" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_orange_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_37" filesize="25"/>
+
+<!-- AuroraWMDRS-37_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-37_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_37_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_37" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_37_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_37_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_37_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0018_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_37" filesize="25"/>
+
+<!-- AuroraWMDRS-38 -->
+
+<!-- AuroraWMDRS-38 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_38" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-38" displayname="AuroraWMDRS-38"/>
+
+<!-- AuroraWMDRS-38_swatchcolor_Green -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-38_swatchcolor_Green"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_38_swatchcolor_Green" object_id="@catentry_product_id_apparel_women_dresses_38" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Green" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_38_swatchcolor_Green" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Green" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_green_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_38_swatchcolor_Green" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_green_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_38" filesize="25"/>
+
+<!-- AuroraWMDRS-38_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-38_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_38_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_38" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_38_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_38_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_38" filesize="25"/>
+
+<!-- AuroraWMDRS-38_swatchcolor_Red -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-38_swatchcolor_Red"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_38_swatchcolor_Red" object_id="@catentry_product_id_apparel_women_dresses_38" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Red" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_38_swatchcolor_Red" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Red" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_red_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_38_swatchcolor_Red" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_red_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_38" filesize="25"/>
+
+<!-- AuroraWMDRS-38_swatchcolor_Yellow -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-38_swatchcolor_Yellow"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_38_swatchcolor_Yellow" object_id="@catentry_product_id_apparel_women_dresses_38" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Yellow" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_38_swatchcolor_Yellow" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_38_swatchcolor_Yellow" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_yellow_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_38_swatchcolor_Yellow" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0035_a_yellow_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_38" filesize="25"/>
+
+<!-- AuroraWMDRS-39 -->
+
+<!-- AuroraWMDRS-39 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_39" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-39" displayname="AuroraWMDRS-39"/>
+
+<!-- AuroraWMDRS-39_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-39_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_39_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_39" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_39_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_39_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_39" filesize="25"/>
+
+<!-- AuroraWMDRS-39_swatchcolor_Gray -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-39_swatchcolor_Gray"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_39_swatchcolor_Gray" object_id="@catentry_product_id_apparel_women_dresses_39" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Gray" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_39_swatchcolor_Gray" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Gray" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_gray_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_39_swatchcolor_Gray" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_gray_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_39" filesize="25"/>
+
+<!-- AuroraWMDRS-39_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-39_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_39_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_39" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_39_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_39_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_39" filesize="25"/>
+
+<!-- AuroraWMDRS-39_swatchcolor_Teal -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-39_swatchcolor_Teal"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_39_swatchcolor_Teal" object_id="@catentry_product_id_apparel_women_dresses_39" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Teal" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_39_swatchcolor_Teal" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_39_swatchcolor_Teal" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_teal_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_39_swatchcolor_Teal" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0038_a_teal_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_39" filesize="25"/>
+
+<!-- AuroraWMDRS-40 -->
+
+<!-- AuroraWMDRS-40 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_40" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-40" displayname="AuroraWMDRS-40"/>
+
+<!-- AuroraWMDRS-40_swatchcolor_Black -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-40_swatchcolor_Black"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_40_swatchcolor_Black" object_id="@catentry_product_id_apparel_women_dresses_40" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Black" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_40_swatchcolor_Black" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Black" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_black_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_40_swatchcolor_Black" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_black_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_40" filesize="25"/>
+
+<!-- AuroraWMDRS-40_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-40_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_40_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_40" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_40_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_40_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_40" filesize="25"/>
+
+<!-- AuroraWMDRS-40_swatchcolor_Brown -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-40_swatchcolor_Brown"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_40_swatchcolor_Brown" object_id="@catentry_product_id_apparel_women_dresses_40" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Brown" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_40_swatchcolor_Brown" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Brown" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_brown_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_40_swatchcolor_Brown" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_brown_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_40" filesize="25"/>
+
+<!-- AuroraWMDRS-40_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-40_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_40_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_40" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_40_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_40_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_40_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0016_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_40" filesize="25"/>
+
+<!-- AuroraWMDRS-41 -->
+
+<!-- AuroraWMDRS-41 directory -->
+<cmfiledir cmfiledir_id="@cmfiledir_swatch_image_dir_41" cmfiledir_parent="@cmfiledir_swatch_id_dir_2" identifier="aurorawmdrs-41" displayname="AuroraWMDRS-41"/>
+
+<!-- AuroraWMDRS-41_swatchcolor_Blue -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-41_swatchcolor_Blue"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_41_swatchcolor_Blue" object_id="@catentry_product_id_apparel_women_dresses_41" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Blue" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_41_swatchcolor_Blue" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Blue" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_blue_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_41_swatchcolor_Blue" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_blue_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_41" filesize="25"/>
+
+<!-- AuroraWMDRS-41_swatchcolor_Purple -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-41_swatchcolor_Purple"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_41_swatchcolor_Purple" object_id="@catentry_product_id_apparel_women_dresses_41" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Purple" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_41_swatchcolor_Purple" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Purple" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_purple_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_41_swatchcolor_Purple" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_purple_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_41" filesize="25"/>
+
+<!-- AuroraWMDRS-41_swatchcolor_Silver -->
+<atchtgt atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" member_id="&CAT_MEMBER_ID;" identifier="AuroraWMDRS-41_swatchcolor_Silver"/>
+<atchrel atchrel_id="@atchrel_id_AuroraWMDRS_41_swatchcolor_Silver" object_id="@catentry_product_id_apparel_women_dresses_41" atchobjtyp_id="3" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Silver" atchrlus_id="@atchrlus_id_swatch_image"/>
+<atchast atchast_id="@atchast_id_AuroraWMDRS_41_swatchcolor_Silver" storeent_id="&CAT_STOREENT_ID;" atchtgt_id="@atchtgt_id_AuroraWMDRS_41_swatchcolor_Silver" atchastpath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_silver_s.jpg" directorypath="images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/" mimetype="image/jpg"/>
+<cmfile cmfile_id="@cmfile_id_AuroraWMDRS_41_swatchcolor_Silver" cmfilepath="/&STORE_DIR;/images/catalog/apparel/women/wcl000_dresses/patternswatches_28x28/wcl000_0034_a_silver_s.jpg" promote_fs="1" upload_timestamp="2012-10-01 16:00:00.001" promote_timestamp="2012-10-01 16:00:00.001" associated="1" storage_type="-1" cmfiledir_id="@cmfiledir_swatch_image_dir_41" filesize="25"/>

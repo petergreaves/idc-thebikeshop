@@ -1,0 +1,44 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nam0001_zh_CN"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_nam0001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/zh_CN/081B_ENM_SubscribeSave_001.jpg"
+  directorypath="images/advertisements/zh_CN"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nam0001_zh_CN"
+  atchtgt_id="@atchtgt_id_nam0001"
+  language_id="&zh_CN;"
+  name="订阅优惠"
+  shortdescription="订阅优惠 - 订阅两本或以上杂志可享受 25% 折扣"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nam0001_zh_CN"
+  atchast_id="@atchast_id_nam0001_zh_CN"
+  language_id="&zh_CN;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nam0001_zh_CN"
+  atchrel_id="@atchrel_id_nam0001"
+  language_id="&zh_CN;"
+  name="订阅优惠"
+  shortdescription="订阅优惠"
+/>
+<colldesc 
+	collateral_id="@collateral_id_nam0001"
+	language_id="&zh_CN;"
+	marketingtext="订阅优惠" 
+/>
+

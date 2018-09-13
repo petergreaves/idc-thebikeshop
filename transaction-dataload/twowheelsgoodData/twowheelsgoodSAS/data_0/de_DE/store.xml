@@ -1,0 +1,77 @@
+
+	<!-- Define contact information for the store.  Can be edited through WebSphere Commerce Accelerator. -->
+	<staddress
+	 staddress_id="@staddress_id_de_DE_1"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; contact_de_DE"
+	 address1="Modehausstraße 11"
+	 address2="Whg. 4"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Modenhausen"
+	 state="ON"
+	 zipcode="67 1xx"
+	 country="BW"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<staddress
+	 staddress_id="@staddress_id_de_DE_2"
+	 member_id="&MEMBER_ID;"
+	 nickname="&STORE_IDENTIFIER; location_de_DE"
+	 address1="Modehausstraße 11"
+	 address2="Whg. 4"
+	 businesstitle="&STORE_IDENTIFIER;"
+	 city="Modenhausen"
+	 state="ON"
+	 zipcode="67 1xx"
+	 country="BW"
+	 phone1="1-800-555-1234"
+	 fax1="1-800-555-4321"
+	 email1="info@&STORE_IDENTIFIER;.xxx"
+	/>
+	
+	<!--STOREENTDS 
+	-->
+	<storeentds
+	 description="Commerce-Modell - Geschäftsentität"
+	 language_id="&de_DE;" 
+	 displayname="&STORE_IDENTIFIER;"
+	 storeent_id="@storeent_id_1"
+	 staddress_id_cont="@staddress_id_de_DE_1"
+	 staddress_id_loc="@staddress_id_de_DE_2"
+	/>
+	
+	<!-- Define store default language. -->
+	<storelang
+	language_id="&de_DE;" 
+	storeent_id="@storeent_id_1"
+	/>
+
+	<!-- Description of the store language and fulfillment center. -->
+	
+	<storlangds
+	 description="United States"
+	 language_id="&de_DE;" 
+	 storeent_id="@storeent_id_1"
+    	 language_id_desc="&de_DE;"
+	/>
+		
+	<shpmodedsc description="In Filiale abholen" shipmode_id="@pickup_shipmode_id" language_id="&de_DE;"/>
+	
+	<invadjdesc
+	description="Physische Zählung"
+	invadjcode_id="@invadjcode_id_1"
+	language_id="&de_DE;" 
+   />
+	<invadjdesc
+	description="Makulatur"
+	invadjcode_id="@invadjcode_id_2"
+	language_id="&de_DE;" 
+   />
+	<invadjdesc
+	description="Löschen"
+	invadjcode_id="@invadjcode_id_3"
+	language_id="&de_DE;" 
+   />

@@ -1,0 +1,31 @@
+	<acactgrp acactgrp_id="@StorefrontAllUsersViews" groupname="&STORE_IDENTIFIER;AllUsersViews" member_id="-2001"/>
+	<acactgrp acactgrp_id="@StorefrontRegisteredCustomerViews" groupname="&STORE_IDENTIFIER;RegisteredCustomerViews" member_id="-2001"/>
+	<acactgrp acactgrp_id="@StorefrontCatalogBrowsingViews" groupname="&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="-2001"/>
+	<acactgrp acactgrp_id="@StorefrontCheckoutFlowViews" groupname="&STORE_IDENTIFIER;CheckoutFlowViews" member_id="-2001"/>
+	<acactgrp acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" groupname="&STORE_IDENTIFIER;CSSRViews" member_id="-2001"/>
+	
+	<!-- Policy creation and subscriptions -->
+	<acpolicy acpolicy_id="@acpolicy_id_1" policyname="AllUsersExecute&STORE_IDENTIFIER;AllUsersViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontAllUsersViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_2" policyname="AllUsersExecute&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontCatalogBrowsingViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_3" policyname="AllUsersExecute&STORE_IDENTIFIER;CheckoutFlowViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@AllUsers" acactgrp_id="@StorefrontCheckoutFlowViews" acresgrp_id="@ViewCommandResourceGroup" policytype="2"/>
+	<acpolicy acpolicy_id="@acpolicy_id_4" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;RegisteredCustomerViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontRegisteredCustomerViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_5" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CatalogBrowsingViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontCatalogBrowsingViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_6" policyname="RegisteredCustomersForOrgFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CheckoutFlowViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@RegisteredCustomersForOrg" acactgrp_id="@StorefrontCheckoutFlowViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+	<acpolicy acpolicy_id="@acpolicy_id_20" policyname="CSSRFor&STORE_IDENTIFIER;Execute&STORE_IDENTIFIER;CSSRViews" member_id="&MEMBER_ID;" mbrgrp_id="@-2001@CustomerServiceRepresentativesAndSupervisorsForOrg" acactgrp_id="@CustomerServiceRepresentativesAndSupervisorsViews" acresgrp_id="@ViewCommandResourceGroup" policytype="3"/>
+
+	<acpolgrp acpolgrp_id="@acpolgrp_id_1" name="&STORE_IDENTIFIER; PolicyGroup" member_id="&MEMBER_ID;"/>
+	<acpolgppol acpolgrp_id="@acpolgrp_id_1" acpolicy_id="@acpolicy_id_1"/>
+	<acpolgppol acpolgrp_id="@acpolgrp_id_1" acpolicy_id="@acpolicy_id_2"/>
+	<acpolgppol acpolgrp_id="@acpolgrp_id_1" acpolicy_id="@acpolicy_id_3"/>
+	<acpolgppol acpolgrp_id="@acpolgrp_id_1" acpolicy_id="@acpolicy_id_4"/>
+	<acpolgppol acpolgrp_id="@acpolgrp_id_1" acpolicy_id="@acpolicy_id_20"/>
+	<acplgpsubs acpolgrp_id="@acpolgrp_id_1" orgentity_id="&ORGANIZATION_ID;"/>
+	
+	<acpolgrp acpolgrp_id="@ManagementAndAdministrationPolicyGroup@-2001" name="ManagementAndAdministrationPolicyGroup" member_id="-2001"/>
+	<acplgpsubs acpolgrp_id="@ManagementAndAdministrationPolicyGroup@-2001" orgentity_id="&ORGANIZATION_ID;"/>
+	
+	<acpolgrp acpolgrp_id="@CommonShoppingPolicyGroup@-2001" name="CommonShoppingPolicyGroup" member_id="-2001"/>
+	<acplgpsubs acpolgrp_id="@CommonShoppingPolicyGroup@-2001" orgentity_id="&ORGANIZATION_ID;"/>
+	
+	<acpolgrp acpolgrp_id="@B2CPolicyGroup@-2001" name="B2CPolicyGroup" member_id="-2001"/>
+	<acplgpsubs acpolgrp_id="@B2CPolicyGroup@-2001" orgentity_id="&ORGANIZATION_ID;"/>

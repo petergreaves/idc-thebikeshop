@@ -1,0 +1,88 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : VegetablesBrand -->
+<attrdesc attr_id="@attribute_id_Vegetables_6" attrtype_id="STRING" language_id="&ru_RU;" name="Торговая марка" description="Торговая марка" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_6" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&ru_RU;" sequence="1" value="Oxford Orchards" integervalue="" floatvalue="" stringvalue="Oxford Orchards" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_15" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&ru_RU;" sequence="2" value="Winston Organics" integervalue="" floatvalue="" stringvalue="Winston Organics" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_22" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&ru_RU;" sequence="3" value="Bluthe Potato Co." integervalue="" floatvalue="" stringvalue="Bluthe Potato Co." qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_26" attr_id="@attribute_id_Vegetables_6" valusage="1" language_id="&ru_RU;" sequence="4" value="California Sun" integervalue="" floatvalue="" stringvalue="California Sun" qtyunit_id="C62" />
+<!--END Defining attribute description : VegetablesBrand -->
+<!--BEGIN Defining attribute description : VegetablesType -->
+<attrdesc attr_id="@attribute_id_Vegetables_7" attrtype_id="STRING" language_id="&ru_RU;" name="Тип" description="Тип" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_7" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Горох" integervalue="" floatvalue="" stringvalue="Горох" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_10" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Салат" integervalue="" floatvalue="" stringvalue="Салат" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_12" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="3" value="Болгарский перец" integervalue="" floatvalue="" stringvalue="Болгарский перец" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_16" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="4" value="Огурцы" integervalue="" floatvalue="" stringvalue="Огурцы" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_18" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="5" value="Лук" integervalue="" floatvalue="" stringvalue="Лук" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_23" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="6" value="Красный картофель" integervalue="" floatvalue="" stringvalue="Красный картофель" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_27" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="7" value="Помидоры" integervalue="" floatvalue="" stringvalue="Помидоры" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_29" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="8" value="Брокколи" integervalue="" floatvalue="" stringvalue="Брокколи" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_32" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="9" value="Морковь" integervalue="" floatvalue="" stringvalue="Морковь" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_34" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="10" value="Баклажан" integervalue="" floatvalue="" stringvalue="Баклажан" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_36" attr_id="@attribute_id_Vegetables_7" valusage="1" language_id="&ru_RU;" sequence="11" value="Капуста" integervalue="" floatvalue="" stringvalue="Капуста" qtyunit_id="C62" />
+<!--END Defining attribute description : VegetablesType -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Size -->
+<attrdesc attr_id="@attribute_id_Vegetables_1" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3401" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3403" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3405" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3406" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3407" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_1_GVE034_3411" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Средний" integervalue="" floatvalue="" stringvalue="Средний" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3402" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Большой" integervalue="" floatvalue="" stringvalue="Большой" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3404" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Большой" integervalue="" floatvalue="" stringvalue="Большой" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3408" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Большой" integervalue="" floatvalue="" stringvalue="Большой" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_8_GVE034_3410" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Большой" integervalue="" floatvalue="" stringvalue="Большой" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_30_GVE034_3409" attr_id="@attribute_id_Vegetables_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Небольшой" integervalue="" floatvalue="" stringvalue="Небольшой" />
+<!--end of  Size -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Vegetables_5" attrtype_id="STRING" language_id="&ru_RU;" name="Категория" description="Категория" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3401" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3402" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3403" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3404" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3405" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3406" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3407" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3408" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3409" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3410" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_5_GVE034_3411" attr_id="@attribute_id_Vegetables_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Овощи" integervalue="" floatvalue="" stringvalue="Овощи" />
+<!--end of  Category -->
+<!--start of  Price -->
+<attrdesc attr_id="@attribute_id_Vegetables_3" attrtype_id="STRING" language_id="&ru_RU;" name="Цена" description="Цена" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3401" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3402" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3403" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3404" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3405" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3407" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3408" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3409" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3410" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_3_GVE034_3411" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="1" value="/lb" integervalue="" floatvalue="" stringvalue="/фунт" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_20_GVE034_3406" attr_id="@attribute_id_Vegetables_3" valusage="1" language_id="&ru_RU;" sequence="2" value="/10 lb Bag" integervalue="" floatvalue="" stringvalue="/10 фунтов" />
+<!--end of  Price -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Vegetables_4" attrtype_id="STRING" language_id="&ru_RU;" name="Тип" description="Тип" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_4_GVE034_3401" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="1" value="Горох" integervalue="" floatvalue="" stringvalue="Горох" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_9_GVE034_3402" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="2" value="Салат" integervalue="" floatvalue="" stringvalue="Салат" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_11_GVE034_3403" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="3" value="Болгарский перец" integervalue="" floatvalue="" stringvalue="Болгарский перец" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_14_GVE034_3404" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="4" value="Огурцы" integervalue="" floatvalue="" stringvalue="Огурцы" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_17_GVE034_3405" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="5" value="Лук" integervalue="" floatvalue="" stringvalue="Лук" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_21_GVE034_3406" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="6" value="Красный картофель" integervalue="" floatvalue="" stringvalue="Красный картофель" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_25_GVE034_3407" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="7" value="Помидоры" integervalue="" floatvalue="" stringvalue="Помидоры" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_28_GVE034_3408" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="8" value="Брокколи" integervalue="" floatvalue="" stringvalue="Брокколи" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_31_GVE034_3409" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="9" value="Морковь" integervalue="" floatvalue="" stringvalue="Морковь" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_33_GVE034_3410" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="10" value="Баклажан" integervalue="" floatvalue="" stringvalue="Баклажан" />
+<attrvaldesc attrval_id="@attribute_value_id_Vegetables_35_GVE034_3411" attr_id="@attribute_id_Vegetables_4" valusage="1" language_id="&ru_RU;" sequence="11" value="Капуста" integervalue="" floatvalue="" stringvalue="Капуста" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->

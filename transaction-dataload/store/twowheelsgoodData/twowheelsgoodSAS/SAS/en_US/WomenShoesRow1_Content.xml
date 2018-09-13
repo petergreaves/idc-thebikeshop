@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_410004_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_41004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/0302B_EWS_EveSparkle_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_410004_en_US"
+  atchtgt_id="@atchtgt_id_41004"
+  language_id="&en_US;"
+  name="Evening Sparkle"
+  shortdescription="Evening Sparkle 15% off women&apos;s evening dresses"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_410004_en_US"
+  atchast_id="@atchast_id_410004_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_410004_en_US"
+  atchrel_id="@atchrel_id_41004"
+  language_id="&en_US;"
+  name="Evening Sparkle"
+  shortdescription="Evening Sparkle"
+/>
+<colldesc 
+	collateral_id="@collateral_id_41004"
+	language_id="&en_US;"
+	marketingtext="Evening Sparkle" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_420004_en_US"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_42004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/en_US/0311B_EWS_ShoeSale_001.jpg"
+  directorypath="images/advertisements/en_US"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_420004_en_US"
+  atchtgt_id="@atchtgt_id_42004"
+  language_id="&en_US;"
+  name="Shoe Sale"
+  shortdescription="Women &apos; s Shoe Sale Buy 2 pairs, get the 3rd for free"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_420004_en_US"
+  atchast_id="@atchast_id_420004_en_US"
+  language_id="&en_US;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_420004_en_US"
+  atchrel_id="@atchrel_id_42004"
+  language_id="&en_US;"
+  name="Shoe Sale"
+  shortdescription="Shoe Sale"
+/>
+<colldesc 
+	collateral_id="@collateral_id_42004"
+	language_id="&en_US;"
+	marketingtext="Shoe Sale" 
+/>
+

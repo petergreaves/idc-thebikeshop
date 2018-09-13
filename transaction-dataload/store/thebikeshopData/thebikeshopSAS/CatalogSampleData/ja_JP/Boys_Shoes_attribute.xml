@@ -1,0 +1,84 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  BoysShoesColor -->
+<attrdesc attr_id="@attribute_id_BoysShoes_7" attrtype_id="STRING" language_id="&ja_JP;" name="カラー" description="カラー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_21" attr_id="@attribute_id_BoysShoes_7" valusage="1" language_id="&ja_JP;" sequence="1" value="ブラック" integervalue="" floatvalue="" stringvalue="ブラック" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_25" attr_id="@attribute_id_BoysShoes_7" valusage="1" language_id="&ja_JP;" sequence="2" value="ブラウン" integervalue="" floatvalue="" stringvalue="ブラウン" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_28" attr_id="@attribute_id_BoysShoes_7" valusage="1" language_id="&ja_JP;" sequence="3" value="ブルー" integervalue="" floatvalue="" stringvalue="ブルー" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_31" attr_id="@attribute_id_BoysShoes_7" valusage="1" language_id="&ja_JP;" sequence="4" value="オレンジ" integervalue="" floatvalue="" stringvalue="オレンジ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_35" attr_id="@attribute_id_BoysShoes_7" valusage="1" language_id="&ja_JP;" sequence="5" value="栗色" integervalue="" floatvalue="" stringvalue="栗色" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysShoesColor -->
+<!--BEGIN Defining attribute description  BoysShoesSize -->
+<attrdesc attr_id="@attribute_id_BoysShoes_6" attrtype_id="INTEGER" language_id="&ja_JP;" name="サイズ" description="サイズ" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_6" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="1" value="1" integervalue="1" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_7" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="2" value="2" integervalue="2" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_8" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="3" value="3" integervalue="3" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_9" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="4" value="4" integervalue="4" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_10" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="5" value="5" integervalue="5" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_11" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="6" value="5.5" integervalue="" floatvalue="5.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_12" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="7" value="6" integervalue="6" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_13" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="8" value="6.5" integervalue="" floatvalue="6.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_14" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="9" value="7" integervalue="7" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_15" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="10" value="7.5" integervalue="" floatvalue="7.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_16" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="11" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_17" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="12" value="8.5" integervalue="" floatvalue="8.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_18" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="13" value="9" integervalue="9" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_19" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="14" value="9.5" integervalue="" floatvalue="9.5" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_20" attr_id="@attribute_id_BoysShoes_6" valusage="1" language_id="&ja_JP;" sequence="15" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<!--END Defining attribute description  BoysShoesSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_BoysShoes_5" attrtype_id="STRING" language_id="&ja_JP;" name="年齢" description="年齢" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_5_BSH016_1601" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8 - 16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_5_BSH016_1602" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8 - 16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_5_BSH016_1604" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8 - 16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_27_BSH016_1603" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0 - 2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_27_BSH016_1605" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0 - 2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_27_BSH016_1607" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0 - 2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_27_BSH016_1608" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="2" value="0-2" integervalue="" floatvalue="" stringvalue="0 - 2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_34_BSH016_1606" attr_id="@attribute_id_BoysShoes_5" valusage="1" language_id="&ja_JP;" sequence="3" value="2-7" integervalue="" floatvalue="" stringvalue="2 - 7" />
+<!--end of  Age -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BoysShoes_1" attrtype_id="STRING" language_id="&ja_JP;" name="スタイル" description="スタイル" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_1_BSH016_1601" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="1" value="キャンバス・シューズ" integervalue="" floatvalue="" stringvalue="キャンバス・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_1_BSH016_1604" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="1" value="キャンバス・シューズ" integervalue="" floatvalue="" stringvalue="キャンバス・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_1_BSH016_1607" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="1" value="キャンバス・シューズ" integervalue="" floatvalue="" stringvalue="キャンバス・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_22_BSH016_1602" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="2" value="カジュアル・シューズ" integervalue="" floatvalue="" stringvalue="カジュアル・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_22_BSH016_1603" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="2" value="カジュアル・シューズ" integervalue="" floatvalue="" stringvalue="カジュアル・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_22_BSH016_1605" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="2" value="カジュアル・シューズ" integervalue="" floatvalue="" stringvalue="カジュアル・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_32_BSH016_1606" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="3" value="ドレス・シューズ" integervalue="" floatvalue="" stringvalue="ドレス・シューズ" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_36_BSH016_1608" attr_id="@attribute_id_BoysShoes_1" valusage="1" language_id="&ja_JP;" sequence="4" value="スニーカー" integervalue="" floatvalue="" stringvalue="スニーカー" />
+<!--end of  Style -->
+<!--start of  Width -->
+<attrdesc attr_id="@attribute_id_BoysShoes_3" attrtype_id="STRING" language_id="&ja_JP;" name="幅" description="幅" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1601" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1602" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1603" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1604" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1605" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1606" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1607" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_3_BSH016_1608" attr_id="@attribute_id_BoysShoes_3" valusage="1" language_id="&ja_JP;" sequence="1" value="N、M、R、W" integervalue="" floatvalue="" stringvalue="N、M、R、W" />
+<!--end of  Width -->
+<!--start of  Feature -->
+<attrdesc attr_id="@attribute_id_BoysShoes_2" attrtype_id="STRING" language_id="&ja_JP;" name="フィーチャー" description="フィーチャー" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_2_BSH016_1601" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="1" value="バルガナイズド・ソール" integervalue="" floatvalue="" stringvalue="バルガナイズド・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_2_BSH016_1604" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="1" value="バルガナイズド・ソール" integervalue="" floatvalue="" stringvalue="バルガナイズド・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1602" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1603" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1605" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1606" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1607" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysShoes_23_BSH016_1608" attr_id="@attribute_id_BoysShoes_2" valusage="1" language_id="&ja_JP;" sequence="2" value="ラバー・ソール" integervalue="" floatvalue="" stringvalue="ラバー・ソール" />
+<!--end of  Feature -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

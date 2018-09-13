@@ -1,0 +1,23 @@
+<!--********************************************************************-->
+<!--  Licensed Materials - Property of IBM                              -->
+<!--                                                                    -->
+<!--  WebSphere Commerce                                                -->
+<!--                                                                    -->
+<!--  (c) Copyright IBM Corp. 2014                                      -->
+<!--                                                                    -->
+<!--  US Government Users Restricted Rights - Use, duplication or       -->
+<!--  disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+<!--                                                                    -->
+<!--********************************************************************-->
+
+<!ENTITY % wcs.dtd SYSTEM "wcs.dtd">
+%wcs.dtd;
+
+<!ENTITY % ForeignKeys.dtd SYSTEM "ForeignKeys.dtd">
+%ForeignKeys.dtd;
+
+<!ENTITY store-references.xml SYSTEM "store-references.xml">
+<!ENTITY catalog-references.xml SYSTEM "catalog-references.xml">
+<!ENTITY catalog.xml SYSTEM "catalog.xml">
+
+

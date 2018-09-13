@@ -1,0 +1,117 @@
+<!-- Create bundles (loose association of buyable items (SKUs)). -->
+<!-- Start of bundle   -->
+<catentry catentry_id="@catentry_kit_id_Casual_Yet_Classic_1" member_id="&CAT_MEMBER_ID;" catenttype_id="BundleBean" mfname="Hermitage Collection, Borsati" partnumber="BCL014_1417" markfordelete="0" buyable="1"/>
+<catgpenrel catgroup_id="@catgroup_id_BoysPants" catalog_id="&CATALOG_ID;" catentry_id="@catentry_kit_id_Casual_Yet_Classic_1" sequence="0"/>
+<catentrel catentry_id_parent="@catentry_kit_id_Casual_Yet_Classic_1" catreltype_id="BUNDLE_COMPONENT" catentry_id_child="@catentry_product_id_BoysTops_85" sequence="0" quantity="1"/>
+<catentrel catentry_id_parent="@catentry_kit_id_Casual_Yet_Classic_1" catreltype_id="BUNDLE_COMPONENT" catentry_id_child="@catentry_product_id_BoysPants_11" sequence="1" quantity="1"/>
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_kit_id_Casual_Yet_Classic_1"/>
+<catentsubs catentry_id="@catentry_kit_id_Casual_Yet_Classic_1" subscptype_id="NONE" disallow_rec_order="1" />
+
+<catentry catentry_id="@catentry_bundle_id_Stylish_latte_1" member_id="&CAT_MEMBER_ID;" catenttype_id="BundleBean" partnumber="HAP027_2744" mfname="Kitchenel,KitchenComfort" markfordelete="0" buyable="1"/>
+<catgpenrel catgroup_id="@catgroup_id_Appliances" catalog_id="&CATALOG_ID;" catentry_id="@catentry_bundle_id_Stylish_latte_1" sequence="0"/>
+<catentrel catentry_id_parent="@catentry_bundle_id_Stylish_latte_1" catreltype_id="BUNDLE_COMPONENT" catentry_id_child="@catentry_item_id_Appliances_60" sequence="0" quantity="1"/>
+<catentrel catentry_id_parent="@catentry_bundle_id_Stylish_latte_1" catreltype_id="BUNDLE_COMPONENT" catentry_id_child="@catentry_item_id_Tableware_44" sequence="1" quantity="1"/>
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_bundle_id_Stylish_latte_1"/>
+<!--End of Bundle -->
+
+<!-- Create kits (fixed association of buyable items (SKUs)). -->
+<baseitem baseitem_id="@baseitem_kit_id_Men_accessory_1" member_id="&CAT_MEMBER_ID;" itemtype_id="STKT" quantitymeasure="C62" markfordelete="0" partnumber="MAC013_1333" quantitymultiple="1.0"/>
+<storeitem baseitem_id="@baseitem_kit_id_Men_accessory_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_kit_id_Men_accessory_1" baseitem_id="@baseitem_kit_id_Men_accessory_1" expirationdate="2999-12-31 23:59:59.000000" versionname="version"/>
+<itemspc itemspc_id="@itemspc_kit_id_Men_accessory_1_1" member_id="&CAT_MEMBER_ID;" markfordelete="0" baseitem_id="@baseitem_kit_id_Men_accessory_1" partnumber="MAC013_1333" discontinued="N"/>
+<catentry catentry_id="@catentry_bundle_id_Men_accessory_1" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_kit_id_Men_accessory_1_1" catenttype_id="PackageBean" mfname="Cassetti, Borsati" partnumber="MAC013_1333" markfordelete="0" baseitem_id="@baseitem_kit_id_Men_accessory_1" buyable="1"/>
+<catgpenrel catgroup_id="@catgroup_id_MenAccessories" catalog_id="&CATALOG_ID;" catentry_id="@catentry_bundle_id_Men_accessory_1" sequence="0"/>
+<catentrel catentry_id_parent="@catentry_bundle_id_Men_accessory_1" catreltype_id="PACKAGE_COMPONENT" catentry_id_child="@catentry_item_id_MenAccessories_55" sequence="1" quantity="1"/>
+<catentrel catentry_id_parent="@catentry_bundle_id_Men_accessory_1" catreltype_id="PACKAGE_COMPONENT" catentry_id_child="@catentry_item_id_MenAccessories_47" sequence="0" quantity="1"/>
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_bundle_id_Men_accessory_1"/>
+<offer offer_id="@offerprice_offer_Men_accessory_1" startdate="2003-01-01 00:00:00.000000" catentry_id="@catentry_bundle_id_Men_accessory_1" precedence="0" published="1" identifier="101" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="USD" price="42" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="AUD" price="54.18" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="NZD" price="57.96" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="BRL" price="133.56" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="CAD" price="53.34" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="CNY" price="280.56" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="EUR" price="35.7" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="GBP" price="32.76" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="JPY" price="4607" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="KRW" price="47894" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="PLN" price="152.88" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="RON" price="164.22" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="RUB" price="2481.36" />
+<offerprice offer_id="@offerprice_offer_Men_accessory_1" currency="TWD" price="1272.6" />
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="USD"   listprice="45"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="AUD"   listprice="58.05"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="NZD"   listprice="62.1"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="BRL"   listprice="143.1"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="CAD"   listprice="57.15"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="CNY"   listprice="300.6"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="EUR"   listprice="38.25"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="GBP"   listprice="35.1"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="JPY"   listprice="4936"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="KRW"   listprice="51315"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="PLN"   listprice="163.8"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="RON"   listprice="175.95"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="RUB"   listprice="2658.6"/>
+<listprice catentry_id="@catentry_bundle_id_Men_accessory_1"   currency="TWD"   listprice="1363.5"/>
+<versionspc versionspc_id="@versionspc_id_Men_accessory_1" itemspc_id="@itemspc_kit_id_Men_accessory_1_1" itemversn_id="@itemversn_kit_id_Men_accessory_1" />
+
+<catentsubs catentry_id="@catentry_bundle_id_Men_accessory_1" subscptype_id="NONE" disallow_rec_order="1" />
+
+<baseitem baseitem_id="@baseitem_kit_id_CristieGlassware_1" member_id="&CAT_MEMBER_ID;" itemtype_id="STKT" quantitymeasure="C62" markfordelete="0" partnumber="HTA029_2932" quantitymultiple="1.0"/>
+<storeitem baseitem_id="@baseitem_kit_id_CristieGlassware_1" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0" />
+<itemversn itemversn_id="@itemversn_kit_id_CristieGlassware_1" baseitem_id="@baseitem_kit_id_CristieGlassware_1" expirationdate="2999-12-31 23:59:59.000000" versionname="version"/>
+<itemspc itemspc_id="@itemspc_kit_id_CristieGlassware_1_1" member_id="&CAT_MEMBER_ID;" markfordelete="0" baseitem_id="@baseitem_kit_id_CristieGlassware_1" partnumber="HTA029_2932" discontinued="N"/>
+<catentry  catentry_id="@catentry_kit_id_CristieGlassware_1" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_kit_id_CristieGlassware_1_1" catenttype_id="PackageBean" mfname="Cristie Glassware" partnumber="HTA029_2932" markfordelete="0" baseitem_id="@baseitem_kit_id_CristieGlassware_1" buyable="1"/>
+<catgpenrel catgroup_id="@catgroup_id_Tableware" catalog_id="&CATALOG_ID;" catentry_id="@catentry_kit_id_CristieGlassware_1" sequence="0"/>
+<catentrel catentry_id_parent="@catentry_kit_id_CristieGlassware_1" catreltype_id="PACKAGE_COMPONENT" catentry_id_child="@catentry_item_id_Tableware_32" sequence="0" quantity="4"/>
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_kit_id_CristieGlassware_1"/>
+
+<!-- offer and price details -->
+<offer offer_id="@offerprice_offer_CristieGlassware_2" startdate="2003-01-01 00:00:00.000000" catentry_id="@catentry_kit_id_CristieGlassware_1" precedence="0" published="1" identifier="101" flags="1" tradeposcn_id="&TRADEPOSCN_ID;" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="USD" price="32" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="AUD" price="41.28" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="NZD" price="44.16" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="BRL" price="101.76" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="CAD" price="40.64" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="CNY" price="213.76" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="EUR" price="27.2" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="GBP" price="24.96" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="JPY" price="3510" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="KRW" price="36491" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="PLN" price="116.48" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="RON" price="125.12" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="RUB" price="1890.56" />
+<offerprice offer_id="@offerprice_offer_CristieGlassware_2" currency="TWD" price="969.6" />
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="USD"   listprice="35"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="AUD"   listprice="45.15"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="NZD"   listprice="48.3"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="BRL"   listprice="111.3"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="CAD"   listprice="44.45"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="CNY"   listprice="233.8"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="EUR"   listprice="29.75"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="GBP"   listprice="27.3"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="JPY"   listprice="3839"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="KRW"   listprice="39912"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="PLN"   listprice="127.4"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="RON"   listprice="136.85"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="RUB"   listprice="2067.8"/>
+<listprice catentry_id="@catentry_kit_id_CristieGlassware_1"   currency="TWD"   listprice="1060.5"/>
+
+<versionspc versionspc_id="@versionspc_id_CristieGlassware_1" itemspc_id="@itemspc_kit_id_CristieGlassware_1_1" itemversn_id="@itemversn_kit_id_CristieGlassware_1" />
+
+<!-- non recurring  -->
+<catentsubs catentry_id="@catentry_kit_id_CristieGlassware_1" subscptype_id="NONE" disallow_rec_order="1" />
+<catentsubs catentry_id="@catentry_bundle_id_Stylish_latte_1" subscptype_id="NONE" disallow_rec_order="1" />
+<!-- End of KIT -->
+
+<!-- Dynamic Kit -->
+<baseitem baseitem_id="@baseitem_dynamickit_id_computers_11" member_id="&CAT_MEMBER_ID;" itemtype_id="ITEM" quantitymeasure="C62" markfordelete="0" partnumber="AuroraPC-001" quantitymultiple="1.0" />
+<storeitem baseitem_id="@baseitem_dynamickit_id_computers_11" storeent_id="&CAT_STOREENT_ID;" trackinventory="Y" forcebackorder="N" releaseseparately="N" returnnotdesired="N" backorderable="Y" creditable="Y" minqtyforsplit="0"/>
+<itemversn itemversn_id="@itemversn_dynamickit_id_computers_11" baseitem_id="@baseitem_dynamickit_id_computers_11" expirationdate="2999-12-31 00:00:00.000000" versionname="version" />
+<itemspc itemspc_id="@itemspc_dynamickit_id_computers_11" member_id="&CAT_MEMBER_ID;" markfordelete="0" baseitem_id="@baseitem_dynamickit_id_computers_11"  partnumber="AuroraPC-001"  discontinued="N" />
+<versionspc versionspc_id="@versionspc_dynamickit_id_computers_11" itemspc_id="@itemspc_dynamickit_id_computers_11" itemversn_id="@itemversn_dynamickit_id_computers_11" />
+
+<catentry catentry_id="@catentry_dynamickit_id_computers_11" member_id="&CAT_MEMBER_ID;" itemspc_id="@itemspc_dynamickit_id_computers_11" catenttype_id="DynamicKitBean" mfname="AuroraPCSupplier" partnumber="AuroraPC-001" markfordelete="0" baseitem_id="@baseitem_dynamickit_id_computers_11" buyable="0" />
+<storecent storeent_id="&CAT_STOREENT_ID;" catentry_id="@catentry_dynamickit_id_computers_11"/>
+<catgpenrel catgroup_id="@catgroup_id_Electronics" catalog_id="&CATALOG_ID;" catentry_id="@catentry_dynamickit_id_computers_11" sequence="0"/>
+<!-- End of Dynamic Kit -->

@@ -1,0 +1,92 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenShoesShoe Size -->
+<attrdesc attr_id="@attribute_id_WomenShoes_6" attrtype_id="STRING" language_id="&zh_TW;" name="鞋子尺寸" description="鞋子尺寸" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_6" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_7" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_8" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_9" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_15" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_32" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_33" attr_id="@attribute_id_WomenShoes_6" valusage="1" language_id="&zh_TW;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShoesShoe Size -->
+<!--BEGIN Defining attribute description  WomenShoesColor -->
+<attrdesc attr_id="@attribute_id_WomenShoes_5" attrtype_id="STRING" language_id="&zh_TW;" name="顏色" description="顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_5" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="1" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_11" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="2" value="多種顏色" integervalue="" floatvalue="" stringvalue="多種顏色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_18" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="3" value="紅色" integervalue="" floatvalue="" stringvalue="紅色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_20" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="4" value="銀色" integervalue="" floatvalue="" stringvalue="銀色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_23" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="5" value="棕色" integervalue="" floatvalue="" stringvalue="棕色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_31" attr_id="@attribute_id_WomenShoes_5" valusage="1" language_id="&zh_TW;" sequence="6" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenShoesColor -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Toe -->
+<attrdesc attr_id="@attribute_id_WomenShoes_4" attrtype_id="STRING" language_id="&zh_TW;" name="露趾" description="露趾" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0501" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="1" value="小尖頭" integervalue="" floatvalue="" stringvalue="小尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0502" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="1" value="小尖頭" integervalue="" floatvalue="" stringvalue="小尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0526" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="1" value="小尖頭" integervalue="" floatvalue="" stringvalue="小尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0528" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="1" value="小尖頭" integervalue="" floatvalue="" stringvalue="小尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_4_WSH005_0533" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="1" value="小尖頭" integervalue="" floatvalue="" stringvalue="小尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0503" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="2" value="露趾" integervalue="" floatvalue="" stringvalue="露趾" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0512" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="2" value="露趾" integervalue="" floatvalue="" stringvalue="露趾" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0514" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="2" value="露趾" integervalue="" floatvalue="" stringvalue="露趾" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0515" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="2" value="露趾" integervalue="" floatvalue="" stringvalue="露趾" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_14_WSH005_0519" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="2" value="露趾" integervalue="" floatvalue="" stringvalue="露趾" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_17_WSH005_0509" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="3" value="圓頭" integervalue="" floatvalue="" stringvalue="圓頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_17_WSH005_0518" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="3" value="圓頭" integervalue="" floatvalue="" stringvalue="圓頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_19_WSH005_0510" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="4" value="尖頭" integervalue="" floatvalue="" stringvalue="尖頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0524" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="5" value="硬頭" integervalue="" floatvalue="" stringvalue="硬頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0525" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="5" value="硬頭" integervalue="" floatvalue="" stringvalue="硬頭" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_29_WSH005_0527" attr_id="@attribute_id_WomenShoes_4" valusage="1" language_id="&zh_TW;" sequence="5" value="硬頭" integervalue="" floatvalue="" stringvalue="硬頭" />
+<!--end of  Toe -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenShoes_1" attrtype_id="STRING" language_id="&zh_TW;" name="樣式" description="樣式" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0501" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="1" value="平底娃娃鞋" integervalue="" floatvalue="" stringvalue="平底娃娃鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0502" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="1" value="平底娃娃鞋" integervalue="" floatvalue="" stringvalue="平底娃娃鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0503" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="1" value="平底娃娃鞋" integervalue="" floatvalue="" stringvalue="平底娃娃鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_1_WSH005_0510" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="1" value="平底娃娃鞋" integervalue="" floatvalue="" stringvalue="平底娃娃鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_16_WSH005_0509" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="2" value="包頭鞋" integervalue="" floatvalue="" stringvalue="包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_21_WSH005_0512" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="3" value="露趾細跟包頭鞋" integervalue="" floatvalue="" stringvalue="露趾細跟包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0514" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="4" value="細跟包頭鞋" integervalue="" floatvalue="" stringvalue="細跟包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0518" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="4" value="細跟包頭鞋" integervalue="" floatvalue="" stringvalue="細跟包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_24_WSH005_0519" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="4" value="細跟包頭鞋" integervalue="" floatvalue="" stringvalue="細跟包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_25_WSH005_0515" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="5" value="高跟包頭鞋" integervalue="" floatvalue="" stringvalue="高跟包頭鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_28_WSH005_0524" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="6" value="及踝短靴" integervalue="" floatvalue="" stringvalue="及踝短靴" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_30_WSH005_0525" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="7" value="高跟靴" integervalue="" floatvalue="" stringvalue="高跟靴" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_34_WSH005_0526" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="8" value="細跟中筒靴" integervalue="" floatvalue="" stringvalue="細跟中筒靴" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_34_WSH005_0528" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="8" value="細跟中筒靴" integervalue="" floatvalue="" stringvalue="細跟中筒靴" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_35_WSH005_0527" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="9" value="短靴" integervalue="" floatvalue="" stringvalue="短靴" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_36_WSH005_0533" attr_id="@attribute_id_WomenShoes_1" valusage="1" language_id="&zh_TW;" sequence="10" value="細跟靴" integervalue="" floatvalue="" stringvalue="細跟靴" />
+<!--end of  Style -->
+<!--start of  Width -->
+<attrdesc attr_id="@attribute_id_WomenShoes_2" attrtype_id="STRING" language_id="&zh_TW;" name="寬度" description="寬度" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0501" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0502" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0503" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0509" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0510" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0512" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0514" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0515" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0518" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0519" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0524" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0525" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0526" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0527" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0528" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_2_WSH005_0533" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="1" value="8 號" integervalue="" floatvalue="" stringvalue="8 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_12" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="2" value="7.5 號" integervalue="" floatvalue="" stringvalue="7.5 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_22" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="3" value="7 號" integervalue="" floatvalue="" stringvalue="7 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_27" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="4" value="9 號" integervalue="" floatvalue="" stringvalue="9 號" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenShoes_37" attr_id="@attribute_id_WomenShoes_2" valusage="1" language_id="&zh_TW;" sequence="5" value="6 號" integervalue="" floatvalue="" stringvalue="6 號" />
+<!--end of  Width -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

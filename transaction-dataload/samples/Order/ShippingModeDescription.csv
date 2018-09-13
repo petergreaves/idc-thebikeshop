@@ -1,0 +1,8 @@
+﻿ShippingModeDescription,,,,
+shippingMode,shippingCarrier,description,languageId,delete
+Standard Shipping,XYZ Carrier,Standard Shipping,-1,0
+Two Days Shipping,XYZ Carrier,Two Days Shipping,-1,0
+One Day Shipping,XYZ Carrier,One Day Shipping,-1,0
+Standard Shipping,XYZ Carrier,Livraison standard,-2,0
+Two Days Shipping,XYZ Carrier,Livraison dans deux jours,-2,0
+One Day Shipping,XYZ Carrier,Livraison dans un jour,-2,0

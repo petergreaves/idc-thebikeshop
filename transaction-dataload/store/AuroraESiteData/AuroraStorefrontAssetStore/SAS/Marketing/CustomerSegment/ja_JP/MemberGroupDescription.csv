@@ -1,0 +1,9 @@
+MemberGroupDescription
+memberGroupName,shortDescription,longDescription,langId,delete
+Registered Customers,登録された顧客,ストアに登録した顧客,-10,0
+Repeat Customers,リピーター,ストアに最低 1 つのオーダーを出した顧客,-10,0
+Guest Shoppers,ゲスト・ショッパー,ストアに登録していないショッパー,-10,0
+Male Customers,男性の顧客,性別を男性で登録した顧客,-10,0
+Female Customers,女性の顧客,性別を女性で登録した顧客,-10,0
+Customers who are under 40 years of age,40 歳未満の顧客,40 歳未満の顧客,-10,0
+Customers who are 40 years of age or older,40 歳以上の顧客,40 歳以上の顧客,-10,0

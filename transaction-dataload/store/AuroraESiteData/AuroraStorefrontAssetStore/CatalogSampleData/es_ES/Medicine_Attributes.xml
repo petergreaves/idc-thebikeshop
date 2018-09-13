@@ -1,0 +1,66 @@
+
+<!-- BEGIN  Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description   MedicinceCategory -->
+<attrdesc attr_id="@attribute_id_Medicince_6" attrtype_id="STRING" language_id="&es_ES;" name="Categoría" description="Categoría" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_6" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="1" value="Remedio contra el resfriado" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_11" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="2" value="Refuerzo inmunitario" integervalue="" floatvalue="" stringvalue="Refuerzo inmunitario" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_15" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="3" value="Naturopático" integervalue="" floatvalue="" stringvalue="Naturopático" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_20" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="4" value="Remedio contra el dolor" integervalue="" floatvalue="" stringvalue="Remedio contra el dolor" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_22" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="5" value="Remedio contra el resfriado y la sinusitis" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado y la sinusitis" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_28" attr_id="@attribute_id_Medicince_6" valusage="1" language_id="&es_ES;" sequence="6" value="Remedio contra el resfriado y la gripe" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado y la gripe" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceCategory -->
+<!--BEGIN Defining attribute description   MedicinceType -->
+<attrdesc attr_id="@attribute_id_Medicince_5" attrtype_id="STRING" language_id="&es_ES;" name="Tipo" description="Tipo" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_5" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&es_ES;" sequence="1" value="Pastilla" integervalue="" floatvalue="" stringvalue="Pastilla" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_10" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&es_ES;" sequence="2" value="Tableta" integervalue="" floatvalue="" stringvalue="Tableta" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_14" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&es_ES;" sequence="3" value="Comprimido" integervalue="" floatvalue="" stringvalue="Comprimido" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_17" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&es_ES;" sequence="4" value="Cápsula" integervalue="" floatvalue="" stringvalue="Cápsula" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_25" attr_id="@attribute_id_Medicince_5" valusage="1" language_id="&es_ES;" sequence="5" value="Líquido" integervalue="" floatvalue="" stringvalue="Líquido" qtyunit_id="C62" />
+<!--END Defining attribute description   MedicinceType -->
+<!-- END  Writing defining attribute descriptions -->
+<!-- BEGIN  Writing descriptive attribute descriptions -->
+<!--start of  Category -->
+<attrdesc attr_id="@attribute_id_Medicince_4" attrtype_id="STRING" language_id="&es_ES;" name="Categoría" description="Categoría" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_4_HME037_3701" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="1" value="Remedio contra el resfriado" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_9_HME037_3702" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="2" value="Refuerzo inmunitario" integervalue="" floatvalue="" stringvalue="Refuerzo inmunitario" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3703" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="3" value="Naturopático" integervalue="" floatvalue="" stringvalue="Naturopático" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3704" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="3" value="Naturopático" integervalue="" floatvalue="" stringvalue="Naturopático" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3707" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="3" value="Naturopático" integervalue="" floatvalue="" stringvalue="Naturopático" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_13_HME037_3708" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="3" value="Naturopático" integervalue="" floatvalue="" stringvalue="Naturopático" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3705" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="4" value="Remedio contra el dolor" integervalue="" floatvalue="" stringvalue="Remedio contra el dolor" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_19_HME037_3709" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="4" value="Remedio contra el dolor" integervalue="" floatvalue="" stringvalue="Remedio contra el dolor" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_21_HME037_3706" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="5" value="Remedio contra el resfriado y la sinusitis" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado y la sinusitis" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_27_HME037_3710" attr_id="@attribute_id_Medicince_4" valusage="1" language_id="&es_ES;" sequence="6" value="Remedio contra el resfriado y la gripe" integervalue="" floatvalue="" stringvalue="Remedio contra el resfriado y la gripe" />
+<!--end of  Category -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_Medicince_3" attrtype_id="STRING" language_id="&es_ES;" name="Tipo" description="Tipo" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_3_HME037_3701" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="1" value="Pastilla" integervalue="" floatvalue="" stringvalue="Pastilla" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_8_HME037_3702" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="2" value="Tableta" integervalue="" floatvalue="" stringvalue="Tableta" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3703" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="3" value="Comprimido" integervalue="" floatvalue="" stringvalue="Comprimido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_12_HME037_3705" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="3" value="Comprimido" integervalue="" floatvalue="" stringvalue="Comprimido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3704" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="4" value="Cápsula" integervalue="" floatvalue="" stringvalue="Cápsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3706" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="4" value="Cápsula" integervalue="" floatvalue="" stringvalue="Cápsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_16_HME037_3708" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="4" value="Cápsula" integervalue="" floatvalue="" stringvalue="Cápsula" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3707" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="5" value="Líquido" integervalue="" floatvalue="" stringvalue="Líquido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3709" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="5" value="Líquido" integervalue="" floatvalue="" stringvalue="Líquido" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_24_HME037_3710" attr_id="@attribute_id_Medicince_3" valusage="1" language_id="&es_ES;" sequence="5" value="Líquido" integervalue="" floatvalue="" stringvalue="Líquido" />
+<!--end of  Type -->
+<!--start of  Packaging -->
+<attrdesc attr_id="@attribute_id_Medicince_1" attrtype_id="STRING" language_id="&es_ES;" name="Envasado" description="Envasado" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3701" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="1" value="Paquete de cartón" integervalue="" floatvalue="" stringvalue="Paquete de cartón" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3702" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="1" value="Paquete de cartón" integervalue="" floatvalue="" stringvalue="Paquete de cartón" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3703" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="1" value="Paquete de cartón" integervalue="" floatvalue="" stringvalue="Paquete de cartón" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_1_HME037_3704" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="1" value="Paquete de cartón" integervalue="" floatvalue="" stringvalue="Paquete de cartón" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3705" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="2" value="Plástico" integervalue="" floatvalue="" stringvalue="Plástico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3706" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="2" value="Plástico" integervalue="" floatvalue="" stringvalue="Plástico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3708" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="2" value="Plástico" integervalue="" floatvalue="" stringvalue="Plástico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3709" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="2" value="Plástico" integervalue="" floatvalue="" stringvalue="Plástico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_18_HME037_3710" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="2" value="Plástico" integervalue="" floatvalue="" stringvalue="Plástico" />
+<attrvaldesc attrval_id="@attribute_value_id_Medicince_23_HME037_3707" attr_id="@attribute_id_Medicince_1" valusage="1" language_id="&es_ES;" sequence="3" value="Cristal" integervalue="" floatvalue="" stringvalue="Cristal" />
+<!--end of  Packaging -->
+<!--start of  Brand -->
+
+
+
+
+<!--end of  Brand -->

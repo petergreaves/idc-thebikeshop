@@ -1,0 +1,4 @@
+RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetStoreUniqueID,WidgetUIObjectName,WidgetType,WidgetVendor,WidgetPath,WidgetState,WidgetDefinitionxml,WidgetDisplayName,WidgetDescription,Delete
+SampleSiteWidget,0,SampleSiteWidget,1,MyCompany,/Widgets/MyCompany/SampleSiteWidget.jsp,1,<Definition> </Definition>,Sample site widget,The sample site widget description,
+SampleStoreWidget,,SampleStoreWidget,1,MyCompany,Widgets/SampleStoreWidget/SampleStoreWidget.jsp,1,<Definition> </Definition>,Sample store widget,The sample store widget description,

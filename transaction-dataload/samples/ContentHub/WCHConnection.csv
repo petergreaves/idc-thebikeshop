@@ -1,0 +1,5 @@
+WCHConnection,
+paramName,paramValue,delete
+WCHTenantId,mytenantId
+WCHUserName,username
+WCHPassword,password

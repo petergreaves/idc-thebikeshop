@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_110003_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_11003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/0404B_EMS_BasicTees_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_110003_fr_FR"
+  atchtgt_id="@atchtgt_id_11003"
+  language_id="&fr_FR;"
+  name="T-shirts basiques"
+  shortdescription="T-shirts basiques. Pour 2 achetés, le troisième gratuit"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_110003_fr_FR"
+  atchast_id="@atchast_id_110003_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_110003_fr_FR"
+  atchrel_id="@atchrel_id_11003"
+  language_id="&fr_FR;"
+  name="T-shirts basiques"
+  shortdescription="T-shirts basiques"
+/>
+<colldesc 
+	collateral_id="@collateral_id_11003"
+	language_id="&fr_FR;"
+	marketingtext="T-shirts basiques" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_120003_fr_FR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_12003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/fr_FR/0406B_EMS_DressShirt_001.jpg"
+  directorypath="images/advertisements/fr_FR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_120003_fr_FR"
+  atchtgt_id="@atchtgt_id_12003"
+  language_id="&fr_FR;"
+  name="Chemise de ville"
+  shortdescription="Soldes sur les chemises de ville, moins 15 % sur les chemises à manches longues pour homme"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_120003_fr_FR"
+  atchast_id="@atchast_id_120003_fr_FR"
+  language_id="&fr_FR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_120003_fr_FR"
+  atchrel_id="@atchrel_id_12003"
+  language_id="&fr_FR;"
+  name="Chemise de ville"
+  shortdescription="Chemise de ville"
+/>
+<colldesc 
+	collateral_id="@collateral_id_12003"
+	language_id="&fr_FR;"
+	marketingtext="Chemise de ville" 
+/>
+

@@ -1,0 +1,35 @@
+<!-- Define the Hardware Top categories. These display on the home page and the stores header and/or sidebar -->
+<catgroup catgroup_id="@catgroup_id_Hardware" member_id="&CAT_MEMBER_ID;" identifier="Hardware" markfordelete="0" />
+
+<!-- Identifies the root CatalogGroups (or root Categories) contained within a Catalog -->
+<!-- The above Hardware categories exist at the root of the Catalog                           -->
+<cattogrp catalog_id="&CATALOG_ID;" catgroup_id="@catgroup_id_Hardware" sequence="4" />
+
+<!-- Relate the categories to the store -->
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_Hardware"/>
+
+<!-- Define 2nd level categories for the Hardware category (Fasteners, Lighting) and relate it to Hardware-->
+<catgroup catgroup_id="@catgroup_id_hardware_fasteners" member_id="&CAT_MEMBER_ID;" identifier="Fasteners" markfordelete="0" />
+<catgrprel catgroup_id_parent="@catgroup_id_Hardware" catgroup_id_child="@catgroup_id_hardware_fasteners" catalog_id="&CATALOG_ID;" sequence="0"/>
+
+<catgroup catgroup_id="@catgroup_id_hardware_lighting"  member_id="&CAT_MEMBER_ID;" identifier="Hardware Lighting" markfordelete="0" />
+<catgrprel catgroup_id_parent="@catgroup_id_Hardware" catgroup_id_child="@catgroup_id_hardware_lighting" catalog_id="&CATALOG_ID;" sequence="1"/>
+
+<!-- Define 3rd level categories for the Hardware cateogry  and relate it to 2nd level category...-->
+<!-- Start Fasteners category -->
+<catgroup  catgroup_id="@catgroup_id_hardware_fasteners_bolts" member_id="&CAT_MEMBER_ID;" identifier="Bolts" markfordelete="0"/>
+<catgrprel catgroup_id_parent="@catgroup_id_hardware_fasteners" catgroup_id_child="@catgroup_id_hardware_fasteners_bolts" catalog_id="&CATALOG_ID;" sequence="0"/>
+
+<catgroup  catgroup_id="@catgroup_id_hardware_fasteners_nuts" member_id="&CAT_MEMBER_ID;" identifier="Nuts" markfordelete="0"/>
+<catgrprel catgroup_id_parent="@catgroup_id_hardware_fasteners" catgroup_id_child="@catgroup_id_hardware_fasteners_nuts" catalog_id="&CATALOG_ID;" sequence="0"/>
+
+<catgroup  catgroup_id="@catgroup_id_hardware_fasteners_screws" member_id="&CAT_MEMBER_ID;" identifier="Screws" markfordelete="0"/>
+<catgrprel catgroup_id_parent="@catgroup_id_hardware_fasteners" catgroup_id_child="@catgroup_id_hardware_fasteners_screws" catalog_id="&CATALOG_ID;" sequence="0"/>
+
+<!-- Relate the sub categories to the store -->
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_hardware_fasteners"/>
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_hardware_lighting"/>
+
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_hardware_fasteners_bolts"/>
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_hardware_fasteners_nuts"/>
+<storecgrp storeent_id="&CAT_STOREENT_ID;" catgroup_id="@catgroup_id_hardware_fasteners_screws"/>

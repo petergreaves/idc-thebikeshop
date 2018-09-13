@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_vitamins10001_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Vitamines1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/125B_EHES_NaturalVitamins_002.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_vitamins10001_it_IT"
+  atchtgt_id="@atchtgt_id_Vitamines1001"
+  language_id="&it_IT;"
+  name="Tutte vitamine naturali"
+  shortdescription="Tutte vitamine naturali. 25% di sconto sugli integratori dietetici biologici"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_vitamins10001_it_IT"
+  atchast_id="@atchast_id_vitamins10001_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_vitamins10001_it_IT"
+  atchrel_id="@atchrel_id_Vitamines1001"
+  language_id="&it_IT;"
+  name="Tutte vitamine naturali"
+  shortdescription="Tutte vitamine naturali"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Vitamines1001"
+	language_id="&it_IT;"
+	marketingtext="Tutte vitamine naturali" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_vitamins10002_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Vitamines1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/123B_EHES_GelCaps_001.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_vitamins10002_it_IT"
+  atchtgt_id="@atchtgt_id_Vitamines1002"
+  language_id="&it_IT;"
+  name="Capsule antinfluenzali"
+  shortdescription="Capsule antinfluenzali. Sollievo in capsule. $12,99 a bottiglia"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_vitamins10002_it_IT"
+  atchast_id="@atchast_id_vitamins10002_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_vitamins10002_it_IT"
+  atchrel_id="@atchrel_id_Vitamines1002"
+  language_id="&it_IT;"
+  name="Capsule antinfluenzali"
+  shortdescription="Capsule antinfluenzali"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Vitamines1002"
+	language_id="&it_IT;"
+	marketingtext="Capsule antinfluenzali" 
+/>
+

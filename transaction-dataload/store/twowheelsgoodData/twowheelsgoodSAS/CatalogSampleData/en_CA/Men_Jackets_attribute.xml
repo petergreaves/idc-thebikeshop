@@ -1,0 +1,68 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenJacketsColor -->
+<attrdesc attr_id="@attribute_id_MenJackets_5" attrtype_id="STRING" language_id="&en_US;" name="Color" description="Color" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_10" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="1" value="Taupe" integervalue="" floatvalue="" stringvalue="Taupe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_13" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="2" value="Tan" integervalue="" floatvalue="" stringvalue="Tan" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_15" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="3" value="Black" integervalue="" floatvalue="" stringvalue="Black" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_19" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="4" value="Cream" integervalue="" floatvalue="" stringvalue="Cream" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_21" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="5" value="Gray" integervalue="" floatvalue="" stringvalue="Gray" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_22" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="6" value="Brown" integervalue="" floatvalue="" stringvalue="Brown" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_24" attr_id="@attribute_id_MenJackets_5" valusage="1" language_id="&en_US;" sequence="7" value="Light brown" integervalue="" floatvalue="" stringvalue="Light brown" qtyunit_id="C62" />
+<!--END Defining attribute description  MenJacketsColor -->
+<!--BEGIN Defining attribute description  MenJacketsSize -->
+<attrdesc attr_id="@attribute_id_MenJackets_4" attrtype_id="STRING" language_id="&en_US;" name="Size" description="Size" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_4" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_5" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_6" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_7" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_8" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_9" attr_id="@attribute_id_MenJackets_4" valusage="1" language_id="&en_US;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<!--END Defining attribute description  MenJacketsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenJackets_2" attrtype_id="STRING" language_id="&en_US;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0901" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0908" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0913" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_2_MCL009_0914" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="1" value="Wool" integervalue="" floatvalue="" stringvalue="Wool" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0904" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0905" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0906" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0909" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0910" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_11_MCL009_0919" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="2" value="Leather" integervalue="" floatvalue="" stringvalue="Leather" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_18_MCL009_0907" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="3" value="Cotton" integervalue="" floatvalue="" stringvalue="Cotton" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_23_MCL009_0915" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="4" value="Suede" integervalue="" floatvalue="" stringvalue="Suede" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_25_MCL009_0916" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="5" value="Wool/cashmere" integervalue="" floatvalue="" stringvalue="Wool/cashmere" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_26_MCL009_0917" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="6" value="Cotton/wool" integervalue="" floatvalue="" stringvalue="Cotton/wool" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_27_MCL009_0920" attr_id="@attribute_id_MenJackets_2" valusage="1" language_id="&en_US;" sequence="7" value="Tweed" integervalue="" floatvalue="" stringvalue="Tweed" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenJackets_1" attrtype_id="STRING" language_id="&en_US;" name="Style" description="Style" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0901" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0904" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0905" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0906" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0909" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0910" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0913" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0915" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0916" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0919" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_1_MCL009_0920" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0907" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0908" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0914" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<attrvaldesc attrval_id="@attribute_value_id_MenJackets_17_MCL009_0917" attr_id="@attribute_id_MenJackets_1" valusage="1" language_id="&en_US;" sequence="2" value="Business" integervalue="" floatvalue="" stringvalue="Business" />
+<!--end of  Style -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

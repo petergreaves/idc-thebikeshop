@@ -1,0 +1,24 @@
+TemplateSlot
+LayoutName,AdminName,SlotAdminName,SlotID,SlotType,SlotProperty
+Sample home page,SampleHomePageContainer,1,1,1,xLocation:0;yLocation:0;width:83;height:20
+Sample home page,SampleHomePageContainer,2,2,1,xLocation:83;yLocation:0;width:83;height:20
+Sample home page,SampleHomePageContainer,3,3,1,xLocation:0;yLocation:20;width:166;height:59
+Sample home page,SampleHomePageContainer,4,4,1,xLocation:0;yLocation:79;width:124;height:68
+Sample home page,SampleHomePageContainer,5,5,1,xLocation:124;yLocation:79;width:42;height:68
+Sample home page,SampleHomePageContainer,6,6,1,xLocation:0;yLocation:147;width:55;height:71
+Sample home page,SampleHomePageContainer,7,7,1,xLocation:55;yLocation:147;width:55;height:71
+Sample home page,SampleHomePageContainer,8,8,1,xLocation:110;yLocation:147;width:56;height:71
+"Sample any page, five slots, right sidebar",SampleStaticContentContainer,1,1,1,xLocation:0;yLocation:0;width:166;height:24
+"Sample any page, five slots, right sidebar",SampleStaticContentContainer,2,2,1,xLocation:0;yLocation:24;width:83;height:20
+"Sample any page, five slots, right sidebar",SampleStaticContentContainer,3,3,1,xLocation:83;yLocation:24;width:83;height:20
+"Sample any page, five slots, right sidebar",SampleStaticContentContainer,4,4,1,xLocation:0;yLocation:44;width:126;height:174
+"Sample any page, five slots, right sidebar",SampleStaticContentContainer,5,5,1,xLocation:126;yLocation:44;width:40;height:174
+Sample department,SampleDepartmentPageContainer,1,1,1,xLocation:0;yLocation:0;width:166;height:24
+Sample department,SampleDepartmentPageContainer,2,2,1,xLocation:0;yLocation:24;width:83;height:20
+Sample department,SampleDepartmentPageContainer,3,3,1,xLocation:83;yLocation:24;width:83;height:20
+Sample department,SampleDepartmentPageContainer,4,4,1,xLocation:40;yLocation:44;width:126;height:54
+Sample department,SampleDepartmentPageContainer,5,5,1,xLocation:0;yLocation:44;width:40;height:174
+Sample department,SampleDepartmentPageContainer,6,6,1,xLocation:40;yLocation:98;width:63;height:32
+Sample department,SampleDepartmentPageContainer,7,7,1,xLocation:103;yLocation:98;width:63;height:32
+Sample department,SampleDepartmentPageContainer,8,8,1,xLocation:40;yLocation:130;width:126;height:88
+"Sample any page, single slot",SampleContentPageContainer,1,1,1,xLocation:0;yLocation:0;width:166;height:218

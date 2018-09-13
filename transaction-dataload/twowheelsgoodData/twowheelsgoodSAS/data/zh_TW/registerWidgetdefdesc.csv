@@ -1,0 +1,10 @@
+﻿RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription
+HomePageContainer,首頁儲存器,首頁儲存器小組件
+ContentPageContainer,單一直欄儲存器,單一直欄儲存器小組件
+DepartmentPageContainer,兩直欄（左側資訊看板和分割列內容）儲存器,兩直欄（左側資訊看板和分割列內容）儲存器小組件
+SubCategoryPageContainer,兩直欄（左側資訊看板）儲存器,兩直欄（左側資訊看板）儲存器小組件
+SearchLandingPageContainer,含標頭橫幅的單一直欄儲存器,含標頭橫幅的單一直欄儲存器小組件
+SearchResultPageContainer,兩直欄（左側資訊看板含標籤）儲存器,兩直欄（左側資訊看板含標籤）儲存器小組件
+StaticContentContainer,兩直欄（右側資訊看板）儲存器,兩直欄（右側資訊看板）儲存器小組件
+ProductPageContainer,產品頁面儲存器,產品頁面儲存器小組件

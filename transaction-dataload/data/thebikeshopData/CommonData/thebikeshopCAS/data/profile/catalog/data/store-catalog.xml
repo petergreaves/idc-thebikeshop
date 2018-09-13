@@ -1,0 +1,81 @@
+<storecat catalog_id="@PCDCatalog" storeent_id="@catalogStore" mastercatalog="1" />
+
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_1"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="categoryname"
+		relvalue="100.0"
+	/>
+	 
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_2"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="keyword"
+		relvalue="100.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_3"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="name"
+		relvalue="10.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_4"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="mfName"
+		relvalue="10.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_5"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="shortDescription"
+		relvalue="5.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_6"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="defaultSearch"
+		relvalue="1.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_7"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="partNumber_ntk"
+		relvalue="15.0"
+	/>
+
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_8"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="name_suggest"
+		relvalue="1.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_9"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="partNumber_suggest"
+		relvalue="1.0"
+	/>
+	
+	<srchproprelv
+		srchproprelv_id="@srchproprelv_id_10"
+		storeent_id="@catalogStore"
+		catalog_id="@PCDCatalog"
+		indexfield="shortDesc_suggest"
+		relvalue="1.0"
+	/>

@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2b_sales" 
+    language_id="&ja_JP;" 
+    name="Aurora B2B ダイレクト・サンプル・データ"
+    shortdescription="Aurora B2B ダイレクト・サンプル・データ"
+    longdescription="B2B ダイレクト・ストアでのカタログ機能を紹介するために、「ハードウェア」部門が複数のサブカテゴリーと一緒に表示されるセールス・カタログ。"
+    thumbnail=""
+    fullimage="" 
+  />
+  

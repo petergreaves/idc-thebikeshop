@@ -1,0 +1,453 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2017 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+import javax.net.ssl.*
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies { classpath ':runengine-plugins:+' }
+}
+
+apply plugin: 'run-engine'
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+ext.customArchiveName = 'search'
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task zipRuntime(type: Zip) {
+	description = 'Zip search customization'
+	group = 'Zip Search'
+
+	from "$workspaceDir/search-runtime"
+	archiveName 'search-runtime.zip'
+	destinationDir file("$buildDir/temp")
+	exclude '**/.*'
+}
+
+task copyAssets(type: Copy) {
+	description = 'Zip search customization'
+	group = 'Zip Search'
+
+	from ("$workspaceDir/master/version.txt")
+	destinationDir file("$buildDir/temp")
+
+	doLast {
+		def masterVersion = new File("$buildDir/temp/version.txt")
+		def tempVersion = new File("$workspaceDir/search-master/version").text
+		masterVersion.append(System.getProperty("line.separator") + "$tempVersion")
+	}
+}
+
+task bundle(type: Zip, dependsOn: ['zipRuntime', 'copyAssets']) {
+	description = 'Zip search customization'
+	group = 'Zip Search'
+
+	def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+	from "$buildDir/temp"
+	archiveName "${customArchiveName}-${buildLabel}.zip"
+	destinationDir file("$buildDir/distributions")
+
+	doLast{
+		delete "$buildDir/temp"
+		println "Note: ${archiveName} bundle available in: $buildDir/distributions"
+	}
+}
+
+task build {
+	description 'Builds search SDK package'
+	group 'Build'
+}
+
+task launchIndexingJob {
+	description = 'Execute BuildIndex command via REST API'
+	group = 'Execute BuildIndex command via REST API'
+	
+	def queryParameters = ''
+	
+	// habdles indexName parameter
+	def supportedIndexNames = ["catalog","inventory","price"]	
+	def indexNameVal = project.hasProperty('indexName') ? project.indexName : 'catalog'
+	
+	if(!supportedIndexNames.contains(indexNameVal)){
+		throw new InvalidUserDataException('indexName value is not supported!')
+	}	
+	queryParameters = "indexName=${indexNameVal}"
+	
+	// handles indexId parameter
+	def indexIdVal = project.hasProperty('indexId') ? project.indexId : 'all'
+	if(indexIdVal != 'all'){
+		queryParameters = queryParameters + "&indexId=${indexIdVal}"
+	}
+	
+	// handles fullBuild parameter
+	def supportedfullBuild = ["true","false"]
+	def fullBuildVal = project.hasProperty('fullBuild') ? project.fullBuild : 'true'
+	
+	if(!supportedfullBuild.contains(fullBuildVal)){
+		throw new InvalidUserDataException('fullBuild value is not supported!')
+	}	
+	queryParameters = queryParameters + "&full=${fullBuildVal}"
+
+	doLast {
+		def certificate
+		def trustManager = [
+		    checkClientTrusted: { chain, authType -> },
+		    checkServerTrusted: { chain, authType -> },
+		    getAcceptedIssuers: { null }
+		] as X509TrustManager
+
+		def hostnameVerifier = [
+		    verify: { hostname, session -> true }
+		]
+		 
+		def reqContext = SSLContext.getInstance("SSL")
+		reqContext.init(null, [trustManager] as TrustManager[], null)
+		HttpsURLConnection.setDefaultSSLSocketFactory(reqContext.getSocketFactory());
+		HttpsURLConnection.setDefaultHostnameVerifier(hostnameVerifier as HostnameVerifier)
+
+		def urlString = "https://${project.crsSearchHostName}:3738/search/admin/resources/index/build?${queryParameters}"
+		
+		def url = new URL(urlString)
+		def connection = url.openConnection()
+		connection.setRequestMethod("POST")
+		connection.setRequestProperty("Content-Type", "application/json");
+		connection.setRequestProperty("Accept", "application/json");
+		ext.authStringEnc = "c3BpdXNlcjpwYXNzdzByZA=="	
+		connection.setRequestProperty("Authorization", "Basic " + authStringEnc);
+		connection.doOutput = true
+		
+		connection.connect()
+		
+		def response = connection.content.text
+		def jsonSlurp = new groovy.json.JsonSlurper()
+		def jsonObject = jsonSlurp.parseText(response)
+				
+		ext.resCode= connection.getResponseCode()
+		ext.jobStatusId= jsonObject.jobStatusId
+	}
+}
+
+task buildIndex {
+	dependsOn launchIndexingJob
+	description = 'Execute BuildIndex command via REST API'
+	group = 'Execute BuildIndex command via REST API'
+	
+    doLast {		      
+		if (launchIndexingJob.resCode == 200) {				
+			println "BuildIndex job has started successfully..."			
+			
+			def jobState = "R"
+			def jobReport = ""
+			def jobProgressMessage = ""
+			
+			while(jobState == "R") {
+				sleep(5 * 1000)
+				def urlStringState = "https://${project.crsSearchHostName}:3738/search/admin/resources/index/build/status?jobStatusId=${launchIndexingJob.jobStatusId}"					
+				def urlState = new URL(urlStringState)
+				def connectionState = urlState.openConnection()
+				connectionState.setRequestMethod("GET")
+				connectionState.setRequestProperty("Content-Type", "application/json")
+				connectionState.setRequestProperty("Accept", "application/json")
+				connectionState.setRequestProperty("Authorization", "Basic " + launchIndexingJob.authStringEnc);
+				
+				connectionState.connect()
+				if (connectionState.getResponseCode() == 200){
+					try {
+						def jsonSlurp = new groovy.json.JsonSlurper()
+						def statusResponse = connectionState.content.text					
+						def jsonObjectList = jsonSlurp.parseText(statusResponse)
+						
+						def jsonObject = jsonObjectList.resultList[0]
+						assert jsonObject instanceof Map
+							
+						jobState = jsonObject.state
+						jobReport = jsonObject.report != null ? jsonObject.report : ""
+						jobProgressMessage = jobProgressMessage != jsonObject.progressMessage ? jsonObject.progressMessage : jobProgressMessage
+						
+						println "..[BuildIndex Status] - $jobState - $jobProgressMessage"
+					}catch (all) {
+						throw new GradleException("Encountered an error checking the BuildIndex job status" + "\n$jobReport", all)
+					}
+					
+					if (jobState == "CF") { 
+						throw new GradleException("BuildIndex job has failed" + "\n$jobReport" + "\n$jobProgressMessage")
+					}
+				}
+				else {
+					throw new GradleException("Encountered an error checking the BuildIndex job status. Response code: " + connectionState.getResponseCode())	
+				}	
+			}	
+			println "BuildIndex job has completed successfully"
+			println "$jobReport"
+		}
+		else {
+			throw new GradleException("BuildIndex job has encountered an error starting. Response code: " + launchIndexingJob.resCode)
+		}
+	}
+}
+
+task clean { delete buildDir }
+
+project.ext.insecure = System.getenv("SDK_TLS_REJECT_UNAUTHORIZED");
+
+task exportIntoWCHStep1() {
+	description = 'Get Category and Product'
+	group = 'Export Into WCH via Rest API'
+	
+	ext.callGetRest = {urlStr ->
+		def url = new URL(urlStr)
+		def connection = url.openConnection()
+		def authStrEnc = "c3BpdXNlcjpwYXNzdzByZA=="
+		def response = ""
+		
+		try {
+			connection.setRequestMethod("GET")
+			connection.setRequestProperty("Authorization", "Basic " + authStrEnc);
+			connection.connect()
+			if (connection.getResponseCode() == 200) {
+				response = connection.content.text
+			}
+			println "Get from "+urlStr
+			println "response code:" + connection.getResponseCode()
+			connection.disconnect();
+		} catch (e) {
+			throw new GradleException("Error in Get from "+urlStr+"\n Response code: " + connection.getResponseCode() +"\n", e)
+		} finally {
+			connection.disconnect();
+			return response
+		}
+	}
+	
+	doLast() {
+				
+		if ("0".equals(project.insecure)) {
+			def trustManager = [
+				checkClientTrusted: { chain, authType -> },
+				checkServerTrusted: { chain, authType -> },
+				getAcceptedIssuers: { null },
+				checkClientTrusted: { chain, authType, socket ->},
+				checkServerTrusted: { chain, authType, socket ->},
+				checkClientTrusted: { chain, authType, sslEngine ->},
+				checkServerTrusted: { chain, authType, sslEngine ->}
+			] as X509ExtendedTrustManager
+
+			def reqContext = SSLContext.getInstance("SSL");
+			reqContext.init(null, [trustManager] as TrustManager[], null);
+			HttpsURLConnection.setDefaultSSLSocketFactory(reqContext.getSocketFactory());
+			println "The SSL Certificate Check disabled."
+		}
+		
+		def searchServerUrl = "https://${project.crsSearchHostName}:3738"
+		def transactionServerUrl = "https://${project.wcHostName}:5443"
+		
+		if (!project.hasProperty('storeIdentifier')) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			println "Please enter store Identifier:"
+			project.ext.storeIdentifier = br.readLine()
+			println "store Identifier entered: $project.storeIdentifier"
+		}
+		
+		def adminLookupUrlStr = transactionServerUrl + '/wcs/resources/store/0/adminLookup?q=findByStoreIdentifier&storeIdentifier='+project.storeIdentifier;
+		def jsonSlurp = new groovy.json.JsonSlurper()
+		def jsonObject = jsonSlurp.parseText(callGetRest(adminLookupUrlStr))
+		if (jsonObject.resultList[0].storeId == null) {
+			throw new InvalidUserDataException ("Wrong store Identifier, no result found")
+		}
+		
+		project.ext.storeId = jsonObject.resultList[0].storeId
+
+		def GetCategoryUrlStr = searchServerUrl+'/data/v1/stores/'+project.storeId+'/categories'
+		project.ext.catJSon = callGetRest(GetCategoryUrlStr)
+
+		def GetProdUrlStr = searchServerUrl+'/data/v1/stores/'+project.storeId+'/products'
+		project.ext.prodJSon = callGetRest(GetProdUrlStr)
+	}
+}
+
+task exportIntoWCHStep2() {
+	dependsOn exportIntoWCHStep1
+	description = 'Get Authorization from WCH'
+	group = 'Export Into WCH via Rest API'
+	
+	ext.callGetAuthHeader = {
+		
+		if (!project.hasProperty('wchuser')) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			println "Please enter WCH username:"
+			project.ext.wchuser = br.readLine()
+			println "WCH username entered: $project.wchuser"
+		}
+		
+		if (!project.hasProperty('wchpwd')) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			println "Please enter WCH password:"
+			project.ext.wchpwd = br.readLine()
+			println "WCH password entered: $project.wchpwd"
+		}
+		
+		if (!project.hasProperty('wchAPIUrl')) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			println "Please enter WCH API URL:"
+			project.ext.wchAPIUrl = br.readLine()
+			println "WCH API URL entered: $project.wchAPIUrl"
+		}
+		
+		if (!project.hasProperty('catalogIdentifier')) {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			println "Please enter catalog Identifier:"
+			project.ext.catalogIdentifier = br.readLine()
+			println "Catalog Identifier entered: $project.catalogIdentifier"
+		}
+		
+		def wchAuthStr = project.wchuser + ":" + project.wchpwd
+		def wchAuthStrEnc = wchAuthStr.bytes.encodeBase64().toString()
+		def urlStr = project.wchAPIUrl+'/login/v1/basicauth?accept-privacy-notice=true'
+		def url = new URL(urlStr)
+		def connection = url.openConnection()
+		def response = ""
+		try {
+			connection.setRequestMethod("GET")
+			connection.setRequestProperty("Authorization", "Basic " + wchAuthStrEnc);
+			connection.connect()
+			if (connection.getResponseCode() == 200) {
+				def headers = connection.getHeaderFields();
+				def cookies
+				headers.find { key, value ->
+					if ("Set-Cookie".equalsIgnoreCase(key)) {
+						cookies = value
+						return true;
+					}
+					return false;
+				}
+				if (cookies == null) {
+					println "no set-cookie found."
+					return response
+				}
+				cookies.find { cookie ->
+					if(cookie.contains("x-ibm-dx-user-auth")) {
+						def startIndex = cookie.indexOf("=");
+						def endIndex = cookie.indexOf(";")
+						response = cookie.substring(startIndex+1, endIndex);
+						return true
+					}
+					return false
+				}
+			}
+			println "Get x-ibm-dx-user-auth response code:" + connection.getResponseCode()
+		} catch (all) {
+			all.printStackTrace();
+		} finally {
+			connection.disconnect();
+			return response
+		}
+	}
+	
+	doLast() {
+		project.ext.userAuth = callGetAuthHeader()
+		if ("".equals(project.userAuth)) {
+			throw new GradleException("Fail to Get x-ibm-dx-user-auth.")
+		}
+	}
+}
+
+task exportIntoWCH_Cat() {
+	dependsOn exportIntoWCHStep2, exportIntoWCHStep1
+	description = 'Import Category into WCH'
+	group = 'Export Into WCH via Rest API'
+	doLast() {
+		def urlStr = project.wchAPIUrl+'/shop/v1/import?documentType=group&store='+project.storeIdentifier+'&catalog='+project.catalogIdentifier
+		def url = new URL(urlStr)
+		def connection = url.openConnection()
+		try {
+			connection.setRequestMethod("POST")
+			connection.setRequestProperty('x-ibm-dx-user-auth', project.ext.userAuth)
+			connection.setRequestProperty('Content-Type','application/json')
+			connection.setRequestProperty('Content-Length',project.ext.catJSon.getBytes().length+"")
+			connection.setUseCaches (false);
+			connection.setDoInput(true);
+			connection.setDoOutput(true);
+
+			DataOutputStream wr = new DataOutputStream (connection.getOutputStream());
+			wr.writeBytes(project.ext.catJSon.toString());
+			wr.flush();
+			wr.close();
+			println "Import Category response code:" + connection.getResponseCode()
+		} catch (all) {
+			throw new GradleException("Error in import Category. Response code: " + connection.getResponseCode(), all)
+		} finally {
+			connection.disconnect();
+		}
+	}
+}
+
+task exportIntoWCH_Prod() {
+	dependsOn exportIntoWCHStep2, exportIntoWCHStep1
+	description = 'Import Product into WCH'
+	group = 'Export Into WCH via Rest API'
+	doLast() {
+		def urlStr = project.wchAPIUrl+'/shop/v1/import?documentType=product&store='+project.storeIdentifier+'&catalog='+project.catalogIdentifier
+		def url = new URL(urlStr)
+		def connection = url.openConnection()
+		try {
+			connection.setRequestMethod("POST")
+			connection.setRequestProperty('x-ibm-dx-user-auth', project.ext.userAuth)
+			connection.setRequestProperty('Content-Type','application/json')
+			connection.setRequestProperty('Content-Length',project.ext.prodJSon.getBytes().length+"")
+			connection.setUseCaches (false);
+			connection.setDoInput(true);
+			connection.setDoOutput(true);
+      
+			DataOutputStream wr = new DataOutputStream (connection.getOutputStream());
+			wr.writeBytes(project.ext.prodJSon.toString());
+			wr.flush();
+			wr.close();
+			println "Import Product response code:" + connection.getResponseCode()
+		} catch (all) {
+			throw new GradleException("Error in import Product. Response code: " + connection.getResponseCode(), all)
+		} finally {
+			connection.disconnect();
+		}
+	}
+}
+
+task exportIntoWCH() {
+  description = 'Import Category & Product into WCH'
+  group = 'Export Into WCH via Rest API'
+  dependsOn exportIntoWCH_Cat, exportIntoWCH_Prod
+}
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

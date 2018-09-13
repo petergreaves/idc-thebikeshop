@@ -1,0 +1,78 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : BoysPantsColor -->
+<attrdesc attr_id="@attribute_id_BoysPants_7" attrtype_id="STRING" language_id="&it_IT;" name="Colore" description="Colore" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_10" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&it_IT;" sequence="1" value="Blu" integervalue="" floatvalue="" stringvalue="Blu" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_12" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&it_IT;" sequence="2" value="Nero" integervalue="" floatvalue="" stringvalue="Nero" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_23" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&it_IT;" sequence="3" value="Grigio" integervalue="" floatvalue="" stringvalue="Grigio" qtyunit_id="C62" />
+<!--END Defining attribute description : BoysPantsColor -->
+<!--BEGIN Defining attribute description : BoysPantsSize -->
+<attrdesc attr_id="@attribute_id_BoysPants_6" attrtype_id="STRING" language_id="&it_IT;" name="Dimensioni" description="Dimensioni" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_6" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&it_IT;" sequence="1" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_7" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&it_IT;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_8" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&it_IT;" sequence="3" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_9" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&it_IT;" sequence="4" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<!--END Defining attribute description : BoysPantsSize -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_BoysPants_5" attrtype_id="STRING" language_id="&it_IT;" name="Età" description="Età" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1501" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1502" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1504" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1506" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1503" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1505" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1507" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1508" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_22_BCL015_1509" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="3" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_22_BCL015_1510" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&it_IT;" sequence="3" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BoysPants_2" attrtype_id="STRING" language_id="&it_IT;" name="Materiale" description="Materiale" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1501" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1502" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1503" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1504" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1506" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1507" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1508" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1510" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="1" value="Denim" integervalue="" floatvalue="" stringvalue="Denim" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_17_BCL015_1505" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="2" value="Tessuto" integervalue="" floatvalue="" stringvalue="Tessuto" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_21_BCL015_1509" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&it_IT;" sequence="3" value="Cotone" integervalue="" floatvalue="" stringvalue="Cotone" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BoysPants_1" attrtype_id="STRING" language_id="&it_IT;" name="Stile" description="Stile" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1501" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1502" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1503" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1504" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1506" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1507" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1508" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1510" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="1" value="Denim jeans" integervalue="" floatvalue="" stringvalue="Denim jeans" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_16_BCL015_1505" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="2" value="Salopette" integervalue="" floatvalue="" stringvalue="Salopette" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_20_BCL015_1509" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&it_IT;" sequence="3" value="Pantalone di pile" integervalue="" floatvalue="" stringvalue="Pantalone di pile" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_BoysPants_3" attrtype_id="STRING" language_id="&it_IT;" name="Occasione" description="Occasione" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1501" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1502" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1503" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1504" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1505" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1506" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1507" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1508" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1509" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1510" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&it_IT;" sequence="1" value="Casual" integervalue="" floatvalue="" stringvalue="Casual" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->

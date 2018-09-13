@@ -1,0 +1,24 @@
+	
+	<!-- Define title, meta description, meta keywords etc for the page definitions -->
+	<seopagedefdesc
+	 seopagedef_id="@seocatpagedef_id_1"
+	 language_id="&ja_JP;"
+	 title="&lt;seo: CategoryName/&gt; | &lt;seo: StoreName/&gt;"
+   meta_desc="&lt;seo: CategoryShortDescription/&gt;"
+   meta_keyword="&lt;seo: CategoryKeyword/&gt;"
+   image_alt_desc="&lt;seo: CategoryName/&gt; の &lt;seo: StoreName/&gt; からの画像"	 
+	 lastupdate="2010-01-01 00:00:00.00"
+	 createdtime="2010-01-01 00:00:00.00"	 
+	/>	
+
+	<seopagedefdesc
+	 seopagedef_id="@seocatpagedef_id_2"
+	 language_id="&ja_JP;"
+	 title="&lt;seo: ProductName/&gt; | &lt;seo: StoreName/&gt;"
+   meta_desc="&lt;seo: ProductShortDescription/&gt;"
+   meta_keyword="&lt;seo: ProductKeyword/&gt; &lt;seo: ProductManufacturerName/&gt;"
+   image_alt_desc="&lt;seo: ProductName/&gt; の &lt;seo: StoreName/&gt; からの画像"	 	 
+	 lastupdate="2010-01-01 00:00:00.00"
+	 createdtime="2010-01-01 00:00:00.00"	 
+	/>	
+		

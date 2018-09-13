@@ -1,0 +1,3 @@
+StoreConfiguration
+StoreId,Name,Value,Delete
+0,wc.externalContent.hostName,https://my.digitalexperience.ibm.com,0

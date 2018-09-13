@@ -1,0 +1,258 @@
+
+<!-- TRANSLATORS: DO NOT TRANSLATE ANY TEXT WITHIN [] (SUCH AS [storeName]) -->
+<colldesc 
+	collateral_id="@collateral_id_static_1"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Здравствуйте, [userName]!&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Мы получили Ваш запрос на сброс пароля. &lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Проверочный код:&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Укажите этот код в браузере, из которого вы отправили запрос на сброс пароля.&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Спасибо!&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Коллектив [storeName]&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_2"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Уважаемый покупатель!&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[имя-отправителя] с адреса электронной почты [адрес-электронной-почты-отправителя] создал список предпочтений.&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Для просмотра выберите следующую ссылку:&lt;/p&gt;
+														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot;href=&quot;[link]&quot;&gt;[ссылка]&lt;/a&gt;
+														&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Спасибо!&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Коллектив [storeName]&lt;/p&gt;&lt;br/&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_3"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Справка&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Вопросы и ответы&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Как заказать товар?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Приобретать товары в [storeName] очень легко. Если это ваша первая покупка в нашем магазине, выполните три простых действия: &lt;/p&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Просмотрите каталог. &lt;/li&gt;
+&lt;li&gt;Добавьте необходимые товары в корзину. &lt;/li&gt;
+&lt;li&gt;Пройдите процедуру оформления заказа. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Потребуется ввести электронный адрес и пароль для регистрации в качестве клиента. При последующих покупках вам не понадобится вводить эти данные снова, поскольку они сохранятся в системе.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Как оплатить покупку?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Мы принимаем карты Visa, MasterCard и American Express. При оформлении заказа будет запрошен номер кредитной карты для оплаты заказа.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Безопасно ли оплачивать покупки кредитной картой?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Мы гарантируем абсолютную безопасность и защищенность всех денежных операций с [storeName]. Это значит, что вы не потеряете свои деньги, если с вашей кредитной карты будут
+незаконно списаны средства под видом покупки в [storeName]. Если хотите, введите только последние пять цифр номера карты и дату истечения срока ее действия. После завершения оформления заказа можно сообщить нам остальные цифры номера карты по телефону.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Каким образом можно отслеживать выполнение заказа?&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Для того чтобы узнать состояние заказа, размещенного в [storeName], перейдите по ссылке Моя учетная запись вверху любой страницы. Перейдя по этой ссылке, можно просмотреть или изменить любой заказ, который еще не находится на этапе доставки.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_4"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Как с нами связаться&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Контактная информация&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Мы рады помочь.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Для получения помощи по заказу напишите нам на электронный адрес support@[storeName].com.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Любые вопросы и отзывы о работе магазина [storeName] или веб-сайта направляйте по адресу questions@[storeName].com.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+	/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_5"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Политика возврата&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Наша политика&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Если по какой-либо причине вы не полностью удовлетворены своим заказом, просто свяжитесь со службой по работе с клиентами для получения инструкций по полному возврату средств за заказ. Когда вы будете готовы разместить другой заказ, мы будем рады помочь вам снова.&lt;/p&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_6"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Конфиденциальность&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Личные данные&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] уважает и стремится защитить личную информацию клиентов. Для посещения [storeName] через Интернет не требуется указывать никаких сведений о себе. Если ваша личная информация требуется для поставки и оплаты, то она хранится на защищенном сервере и никогда не будет продаваться третьим лицам или использоваться для связи с вами без вашего согласия. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Если вы решите предоставить нам личную информацию через Интернет, необходимую для связи или обработки заказа, вы всегда сможете узнать о том, как эта информация будет использоваться. Если вы сообщите о том, что эта информация не должна использоваться для обращения к вам в будущем, мы обязательно учтем это.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Сведения, собираемые магазином [storeName], используются исключительно сотрудниками [storeName] в следующих целях: Во-первых, мы собираем информацию для улучшения качества сайта путем выявления наиболее популярных областей, функций и товаров. Во-вторых, мы собираем информацию для адаптации сайта в соответствии с потребностями индивидуальных покупателей. Например, в будущем мы можем рекомендовать полезные товары и услуги, исходя из того, что вы выбрали в предыдущий раз. Наконец, мы отслеживаем домены наших пользователей. Эти данные используются для статистического анализа и выявления тенденций, после чего удаляются. &lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Это наше обязательство по отношению к вам.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_7"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;О нас&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Наша история&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Магазин [storeName] был учрежден в 1957 году как магазин мелочей и небольших услуг в городе Нью-Йорк. Сегодня это сеть, которая насчитывает более 800 магазинов [storeName] в 15 странах мира. В [storeName] работает более 125000 человек.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Мы с самого начала стремились предоставить своим покупателям высококачественную продукцию по приемлемым ценам, и по сей день стараемся придерживаться этого же принципа. В [storeName].com вы найдете все те же торговые марки и наименования, которым привыкли доверять в наших несетевых магазинах, работающих круглосуточно.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Осматривайтесь - вам у нас обязательно понравится!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Наша цель&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Наша цель - обеспечить максимальное удобство электронных покупок для наших клиентов. Мы стремимся предлагать продукты, которые поставляются в удобной и экологически чистой упаковке и принимаем все основные типы кредитных карт.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Корпоративная ответственность&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;В [storeName] забота о здоровой жизни проявляется в каждой детали нашей работы. Во всех начинаниях - от нашей инициативы &quot;общественной безопасности&quot; и  до нашего проекта охраны окружающей среды - мы гордимся своей ответственностью за наших клиентов, их общность и многообразие, их здоровье и безопасность. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_8"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;Корпоративный контакт для [storeName]&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;Головной офис [storeName]&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Мы стремимся предоставить нашим покупателям исключительное клиентское обслуживание. Если у вас есть какой-либо вопрос или комментарий, то для получения максимально быстрого ответа выберите ближайшее к вам наше подразделение:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Отдел кадров&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Наш отдел кадров работает с понедельника по пятницу, с 8.00 до 17.00 (EST). В любое время можно написать нам письмо по адресу careers@[storeName].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Отношения с потребителями&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Отдел Отношений с потребителями работает со среды по пятницу с 8.00 до 17.00 (EST). В любое время можно написать нам письмо по адресу relations@[storeName].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;Корпоративная ответственность&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Дополнительные сведения о корпоративной ответственности [storeName] можно получить на странице О нас или по электронной почте, написав на адрес info@[storeName].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;Штаб-квартира [storeName] находится по адресу:&lt;/p&gt;
+&lt;p&gt;Street123&lt;/p&gt;
+&lt;p&gt;Toronto Ontario&lt;/p&gt;
+&lt;p&gt;Canada M3C-1L1&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_10"
+	language_id="&ru_RU;"
+	marketingtext="&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;Наша цель - обеспечить максимальное удобство электронных покупок для наших клиентов. Мы принципиально предлагаем продукты, которые поставляются в удобной и экологически чистой упаковке.&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;Дополнительная информация приведена в разделе &lt;a style=&quot;color: #0081AF; text-decoration: none;&quot;class=&quot;link&quot; href=&quot;[LINK1]&quot;&gt;Правила работы с личными данными&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot; class=&quot;link&quot;href=&quot;[LINK2]&quot;&gt;www.[магазин].com&lt;/a&gt; | Copyright [магазин], NY. 2012.&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_11"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;p&gt; Уважаемый [userName],&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;мы получили ваш запрос пароля по электронной почте. &lt;br /&gt;&lt;br /&gt;Ваш пароль: [password]&lt;br /&gt;&lt;br /&gt;Напоминание: в пароле учитывается регистр символов.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Всего доброго,&lt;br /&gt;Коллектив [storeName]&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_12"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Уважаемый покупатель!&lt;/h2&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Ваша учетная запись активирована.&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Щелкните на ссылке ниже, для того чтобы войти в систему и продолжить выбор покупок.
+														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot; href=&quot;[link]&quot;&gt;[ссылка]&lt;/a&gt;
+														&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Спасибо!&lt;/p&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;Коллектив [storeName]&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_13"
+	language_id="&ru_RU;"
+	marketingtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Благодарим вас за заказ в [storeName]. Ваш заказ с номером [orderNumber] не выполнен, так как не получено подтверждение оплаты. Для покупки следующих товаров позвоните по номеру 1-800-555-1234. Еще раз благодарим за выбор [storeName].&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_14"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;Благодарим вас за заказ в [storeName]. Мы получили подтверждение оплаты заказа номер [orderNumber]. Номер для отслеживания посылки: &lt;strong&gt;[trackingNumber]&lt;/strong&gt;. Если товары доставляются по разным адресам или с использованием разных способов доставки, вы получите дополнительное письмо со сведениями о доставке. Если у вас есть какие-либо вопросы или замечания по заказу, свяжитесь с нами по телефону 1-800-555-1234 или отправьте запрос на электронный адрес orders@[storeName].com. Еще раз благодарим за выбор [storeName].&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_15"
+	language_id="&ru_RU;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;Здравствуйте, [userName]!&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Мы получили Ваш запрос на сброс пароля. &lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Проверочный код:&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;Скопируйте проверочный код и введите его на следующей странице для сброса своего пароля:&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[resetPasswordFormURL]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Спасибо!&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;Коллектив [storeName]&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+

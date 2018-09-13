@@ -1,0 +1,23 @@
+ShippingCharge,,,,,,,,,,
+chargeGroupId,shippingCode,scaleMethod,rangeMethod,jurisdictionGroup,shippingMode,currency,charge,rangeStart,quantityUnit,delete
+1,ShippingChargePerOrder,quantity,fixedAmount,USContinentalShipping,Standard Shipping,USD,10,0,,0
+2,ShippingChargePerOrder,quantity,fixedAmount,USContinentalShipping,Two Days Shipping,,10,0,,0
+3,ShippingChargePerOrder,quantity,fixedAmount,USContinentalShipping,One Day Shipping,,10,0,,0
+4,ShippingChargePerOrder,quantity,fixedAmount,AlaskaHawaiiShipping,Standard Shipping,,20,0,,0
+5,ShippingChargePerOrder,quantity,fixedAmount,CanadaShipping,Standard Shipping,,15,0,,0
+6,ShippingChargePerOrder,quantity,fixedAmount,CanadaShipping,Two Days Shipping,,15,0,,0
+7,ShippingChargePerOrder,quantity,fixedAmount,CanadaShipping,One Day Shipping,,15,0,,0
+1,ShippingChargePerItem,quantity,perUnitAmount,USContinentalShipping,Standard Shipping,,5.99,0,,0
+2,ShippingChargePerItem,quantity,perUnitAmount,USContinentalShipping,Two Days Shipping,,15.99,0,,0
+3,ShippingChargePerItem,quantity,perUnitAmount,USContinentalShipping,One Day Shipping,,27.99,0,,0
+4,ShippingChargePerItem,quantity,perUnitAmount,AlaskaHawaiiShipping,Standard Shipping,,20.99,0,,0
+5,ShippingChargePerItem,quantity,perUnitAmount,CanadaShipping,Standard Shipping,,10.99,0,,0
+6,ShippingChargePerItem,quantity,perUnitAmount,CanadaShipping,Two Days Shipping,,20.99,0,,0
+7,ShippingChargePerItem,quantity,perUnitAmount,CanadaShipping,One Day Shipping,,32.99,0,,0
+1,ShippingChargeWithOverSize,quantity,fixedAmount,USContinentalShipping,Standard Shipping,,25.99,0,,0
+2,ShippingChargeWithOverSize,quantity,fixedAmount,USContinentalShipping,Two Days Shipping,,35.99,0,,0
+3,ShippingChargeWithOverSize,quantity,fixedAmount,USContinentalShipping,One Day Shipping,,47.99,0,,0
+4,ShippingChargeWithOverSize,quantity,fixedAmount,AlaskaHawaiiShipping,Standard Shipping,,40.99,0,,0
+5,ShippingChargeWithOverSize,quantity,fixedAmount,CanadaShipping,Standard Shipping,,30.99,0,,0
+6,ShippingChargeWithOverSize,quantity,fixedAmount,CanadaShipping,Two Days Shipping,,40.99,0,,0
+7,ShippingChargeWithOverSize,quantity,fixedAmount,CanadaShipping,One Day Shipping,,52.99,0,,0

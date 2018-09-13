@@ -1,0 +1,9 @@
+MemberGroupDescription
+memberGroupName,shortDescription,longDescription,langId,delete
+Registered Customers,Clients enregistrés,Clients qui sont enregistrés auprès du magasin,-2,0
+Repeat Customers,Clients récurrents,Clients qui ont passé au moins une commande auprès du magasin,-2,0
+Guest Shoppers,Visiteurs,Clients qui ne sont pas enregistrés auprès du magasin,-2,0
+Male Customers,Clients masculins,Clients enregistrés qui se sont identifiés comme étant de sexe masculin,-2,0
+Female Customers,Clientes,Clients enregistrés qui se sont identifiés comme étant de sexe féminin,-2,0
+Customers who are under 40 years of age,Clients âgés de moins de 40 ans,Clients âgés de moins de 40 ans,-2,0
+Customers who are 40 years of age or older,Clients âgés de 40 ans ou plus,Clients âgés de 40 ans ou plus,-2,0

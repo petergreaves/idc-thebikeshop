@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nam0002_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_nam0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/086B_ENS_SubscribeNews_001.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nam0002_it_IT"
+  atchtgt_id="@atchtgt_id_nam0002"
+  language_id="&it_IT;"
+  name="Abbonati alle newsletter"
+  shortdescription="Abbonati alle newsletter. Abbonati adesso"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nam0002_it_IT"
+  atchast_id="@atchast_id_nam0002_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nam0002_it_IT"
+  atchrel_id="@atchrel_id_nam0002"
+  language_id="&it_IT;"
+  name="Abbonati alle newsletter"
+  shortdescription="Abbonati alle newsletter"
+/>
+<colldesc 
+	collateral_id="@collateral_id_nam0002"
+	language_id="&it_IT;"
+	marketingtext="Abbonati alle newsletter" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_nam0003_it_IT"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_nam0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/it_IT/083B_ENS_EconoMag_001.jpg"
+  directorypath="images/advertisements/it_IT"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_nam0003_it_IT"
+  atchtgt_id="@atchtgt_id_nam0003"
+  language_id="&it_IT;"
+  name="Econo Sense Magazine"
+  shortdescription="Econo Sense Magazine. Per un periodo limitato, paghi 1 anno e ricevi 2 anni di abbonamento"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_nam0003_it_IT"
+  atchast_id="@atchast_id_nam0003_it_IT"
+  language_id="&it_IT;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_nam0003_it_IT"
+  atchrel_id="@atchrel_id_nam0003"
+  language_id="&it_IT;"
+  name="Econo Sense Magazine"
+  shortdescription="Econo Sense Magazine"
+/>
+<colldesc 
+	collateral_id="@collateral_id_nam0003"
+	language_id="&it_IT;"
+	marketingtext="Econo Sense Magazine" 
+/>
+
+
+
+

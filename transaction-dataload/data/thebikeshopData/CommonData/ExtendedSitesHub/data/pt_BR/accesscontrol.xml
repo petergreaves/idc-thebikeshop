@@ -1,0 +1,58 @@
+
+   <acactdesc acaction_id="@GenericApplicationError" displayname="GenericApplicationError" description="GenericApplicationError" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@GenericSystemError" displayname="GenericSystemError" description="GenericSystemError" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@AboutUsView" displayname="Quem Somos" description="Exibição da página quem somos na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@CommonHeaderView" displayname="CommonHeaderView" description="Exibição do cabeçalho comum na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@ContactUsView" displayname="ContactUsView" description="Exibição da página fale conosco na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@ContactUsSendMessageView" displayname="ContactUsSendMessageView" description="Exibição da página de confirmação fale conosco na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@CreateStoreView" displayname="CreateStoreView" description="Exibição da página criar loja na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@FaqView" displayname="FaqView" description="Exibição da página perguntas mais freqüentes na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@LogonView" displayname="LogonView" description="Exibição da página de logon na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@LogonFormView" displayname="LogonFormView" description="Exibição da página de formulário de logon na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@NaviagtionView" displayname="NavigationView" description="Exibição do quadro de navegação na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@PricesView" displayname="PricesView" description="Exibição da página preços na Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@RegistrationView" displayname="RegistrationView" description="Exibição da página registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@RegistrationSuccessView" displayname="RegistrationSuccessView" description="Exibição da página êxito do registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@ServicesProvidedView" displayname="ServicesProvidedView" description="Exibição da página serviços fornecidos na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@StoreView" displayname="StoreView" description="Exibição da página do índice na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@ViewPublicAreaView" displayname="ViewPublicAreaView" description="Exibição do link para a área pública a partir da Loja do Canal" language_id="&pt_BR;"/> 
+		
+   <acactdesc acaction_id="@WelcomeView" displayname="WelcomeView" description="Exibição da página bem-vindo na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddFormView" displayname="UserRegistrationAddFormView" description="Exibição da página registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@UserRegistrationAddPendingApprovalView" displayname="UserRegistrationAddPendingApprovalView" description="Exibição da página êxito do registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddFormView" displayname="OrgRegistrationAddFormView" description="Exibição da página registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+   <acactdesc acaction_id="@OrgRegistrationAddSuccessView" displayname="OrgRegistrationAddSuccessView" description="Exibição da página êxito do registro na Loja do Canal" language_id="&pt_BR;"/> 
+
+
+   <acacgpdesc acactgrp_id="@ChannelStoreAllUserViews" displayname="Exibições de Todos os Usuários da Loja do Canal" description="Exibições da loja do canal acessíveis para todos os usuários" language_id="&pt_BR;"/>
+
+   <acpoldesc acpolicy_id="@acpolicy_id_channel1" displayname="Todos os Usuários Executam Exibições de Todos os Usuários da Loja do Canal" description="Todos os Usuários Executam Exibições de Todos os Usuários da Loja do Canal" language_id="&pt_BR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel2" displayname="Os Administradores de Contratos para a Organização do Canal Executam Comandos de Criação no Recurso do Membro" description="Os Administradores de Contratos podem criar contratos na Organização do Canal" language_id="&pt_BR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel3" displayname="Os Administradores de Contratos para a Organização do Canal Executam Comandos de Implementação de Contratos no Recurso do Contrato" description="Os Administradores de Contratos podem implementar contratos na Organização do Canal" language_id="&pt_BR;"/>
+   
+   <acpoldesc acpolicy_id="@acpolicy_id_channel4" displayname="Os Administradores de Contratos para a Organização do Canal Exibem Grupo de Recursos do Bean de Dados do Contrato" description="Os Administradores de Contratos Exibem Beans de Dados do Contrato na Organização do Canal" language_id="&pt_BR;"/>
+
+   <acplgpdesc acpolgrp_id="@acpolgrp_id_channel" displayname="Grupo de Políticas de Canal" description="Este grupo de políticas contém todas as políticas específicas de Canal." language_id="&pt_BR;"/>
+

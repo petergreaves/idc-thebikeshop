@@ -1,0 +1,495 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniżej są licencjonowane na podstawie przedstawionych poniżej warunków Informacji licencyjnych, które stanowią uzupełnienie warunków licencji na Program uzgodnionych uprzednio między Klientem a IBM. Jeśli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie mają warunki licencji Międzynarodowa Umowa Licencyjna na Program (Z125-3301-14).
+
+Nazwa Programu (Numer Programu):
+IBM Digital Commerce Software Developer Kit 1.0 (5900-A0J)
+
+Poniższe standardowe warunki mają zastosowanie do używania Programu przez Licencjobiorcę.
+
+Ograniczone prawo do używania
+
+Zgodnie z Międzynarodową Umową Licencyjną na Program ("IPLA") i niniejszym dokumentem Informacje licencyjne IBM udziela Licencjobiorcy ograniczonego prawa do używania Programu. Prawo to jest ograniczone do poziomu Autoryzowanego Używania, takiego jak Procesorowa Jednostka Wartości ("PVU"), Jednostka Wartości Zasobów ("RVU"), Jednostka Wartości ("VU") lub inny określony poziom używania, opłacony przez Licencjobiorcę i potwierdzony dokumentem Proof of Entitlement (PoE). Używanie Programu przez Licencjobiorcę może być również ograniczone do określonej maszyny, może podlegać innym ograniczeniom lub może obejmować używanie Programu wyłącznie jako Programu Wspierającego. Jako że Licencjobiorca nie zapłacił za całą wartość ekonomiczną Programu, używanie Programu w dowolnym innym celu bez uiszczenia dodatkowych opłat jest zabronione. Ponadto Licencjobiorca nie jest upoważniony do używania Programu do świadczenia osobom trzecim komercyjnych usług informatycznych, usług serwerowych ani usług podziału czasu, jak również nie jest upoważniony do udzielania dalszych licencji na Program oraz wypożyczania i wydzierżawiania Programu, chyba że stosowne umowy, na mocy których Licencjobiorca jest upoważniony do używania Programu, wyraźnie stanowią inaczej. Licencjobiorca może uzyskać dodatkowe prawa pod warunkiem uiszczenia dodatkowych opłat lub na mocy innych bądź uzupełniających warunków. IBM zastrzega sobie prawo do decydowania, czy takie dodatkowe prawa zostaną przyznane Licencjobiorcy.
+
+Specyfikacja
+
+Specyfikacje Programu znajdują się w zbiorczych punktach zawierających opisy i informacje techniczne w dokumentach "Aktualności produktowe" dotyczących Programu.
+
+Programy Wspierające
+
+Program jest licencjonowany w postaci pakietu wieloproduktowego, zawierającego Programy Wspierające określone poniżej. Licencjobiorca jest upoważniony do zainstalowania i używania takich Programów Wspierających jedynie w celu umożliwienia Licencjobiorcy używania Programu Głównego na mocy niniejszej Umowy i w zakresie ograniczeń nakładanych przez dokumenty Proof of Entitlement dla Programu (chyba że w innej części niniejszego dokumentu "Informacje Licencyjne" oferowane są szersze uprawnienia). Fraza "w celu umożliwienia Licencjobiorcy używania" obejmuje jedynie te zastosowania, które są niezbędne do licencjonowanego używania Programu Głównego lub innego Programu Wspierającego albo bezpośrednio związane z takim licencjonowanym używaniem. Programów Wspierających nie można wykorzystywać do jakichkolwiek innych celów. Licencjobiorca nie jest upoważniony do przenoszenia ani odsprzedaży Programów Wspierających oddzielnie od Programu Głównego. Do Programu Wspierającego mogą być dołączone warunki licencji. W takim przypadku warunki te mają zastosowanie do używania takiego Programu Wspierającego przez Licencjobiorcę. W przypadku sprzeczności między warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspierającego znaczenie rozstrzygające mają warunki niniejszych Informacji licencyjnych. Kiedy prawo Licencjobiorcy do korzystania z Programu wygaśnie lub zostanie mu wypowiedziane, Licencjobiorca musi zaprzestać korzystania z Programów Wspierających oraz zniszczyć lub niezwłocznie zwrócić wszystkie ich egzemplarze do strony, od której Licencjobiorca nabył Program. Jeśli Licencjobiorca pobrał Programy Wspierające, powinien skontaktować się ze stroną, od której nabył Program. Jeśli Licencjobiorca zamierza licencjonować Programy Wspierające w celu używania nieobjętego ograniczeniami wyszczególnionymi powyżej, powinien skontaktować się z przedstawicielem handlowym IBM lub z podmiotem, od którego nabył Program, w celu uzyskania odpowiedniej licencji.
+
+Poniżej wymieniono Programy Wspierające licencjonowane z Programem:
+IBM DB2 Advanced Workgroup Server Edition 10.5
+IBM(R) SDK, Java(TM) Technology Edition, Version 8
+IBM Installation Manager and Packaging Utility for the Rational Software Development Platform 1.8
+WebSphere Application Server - Base 9.0
+WebSphere Liberty 16.0
+IBM HTTP Server 9.0
+
+Ograniczenia dotyczące używania Programu
+
+Program ten jest dostarczany jedynie w celu używania z Określonymi Programami i/lub Usługami zidentyfikowanymi poniżej lub ich kolejnymi wersjami. Licencjobiorcy nie wolno używać tego Programu w połączeniu z żadnym innym oprogramowaniem lub usługą.
+
+Określone Programy i/lub Usługi:
+IBM Digital Commerce - 5900-A0J
+
+Kod Licencjonowany Oddzielnie
+
+Postanowienia niniejszego akapitu nie mają zastosowania w zakresie, w jakim są nieważne lub niewykonalne na mocy prawa, któremu podlega niniejsza licencja. Każdy z wymienionych poniżej komponentów uznawany jest za "Kod Licencjonowany Oddzielnie". Kod Licencjonowany Oddzielnie IBM jest licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE dołączonym (dołączonych) do Programu. Bez względu na jakiekolwiek inne warunki Umowy lub jakiejkolwiek innej umowy z IBM, używanie całego Kodu Licencjonowanego Oddzielnie podlega warunkom takiej umowy licencyjnej osoby trzeciej (takich umów licencyjnych osób trzecich), chyba że poniższe warunki stanowią inaczej.
+
+Przyszłe aktualizacje lub poprawki do Programu mogą zawierać dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz związane z nimi licencje są wymienione w kolejnym pliku NON_IBM_LICENSE dołączonym do aktualizacji lub poprawki do Programu. Licencjobiorca potwierdza, że zapoznał się z treścią umów licencyjnych zawartych w pliku lub plikach NON_IBM_LICENSE i wyraził na nie zgodę. Jeśli Licencjobiorca nie wyrazi zgody na warunki tych umów licencyjnych osób trzecich, wówczas nie będzie mógł używać Kodu Licencjonowanego Oddzielnie.
+
+W przypadku Programów nabytych na warunkach Międzynarodowej Umowy Licencyjnej na Program (International Program License Agreement, zwanej dalej "IPLA") lub Międzynarodowej Umowy Licencyjnej na Programy nieobjęte Gwarancją (International Program License Agreement for Non Warranted Program, zwanej dalej "ILAN"), jeśli Licencjobiorca nie wyrazi zgody na umowy licencyjne osób trzecich, wówczas może zwrócić Program zgodnie z warunkami paragrafu "Gwarancja zwrotu pieniędzy" umowy z IBM (IPLA lub ILAN), z uwzględnieniem określonych tam ram czasowych.
+
+Uwaga: Bez względu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy też jakiejkolwiek innej umowy, jaką Licencjobiorca mógł zawrzeć z IBM:
+(a) IBM dostarcza Licencjobiorcy niniejszy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (W TYM TAKŻE RĘKOJMI);
+(b) IBM NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAKŻE RĘKOJMI) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRAŹNYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNOŚCI NIE UDZIELA GWARANCJI PRAWA WŁASNOŚCI, NIENARUSZANIA PRAW OSÓB TRZECICH LUB NIEINGEROWANIA W NIE, DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNOŚCI HANDLOWEJ ANI TEŻ PRZYDATNOŚCI DO OKREŚLONEGO CELU W ODNIESIENIU DO KOMPONENTÓW KODU LICENCJONOWANEGO ODDZIELNIE;
+(c) IBM nie ponosi wobec Licencjobiorcy odpowiedzialności za jakiekolwiek roszczenia wynikające z używania Kodu Licencjonowanego Oddzielnie lub z nim związane ani też nie będzie zabezpieczać ani bronić Licencjobiorcy przed takimi roszczeniami oraz;
+(d) IBM nie ponosi odpowiedzialności za jakiekolwiek szkody bezpośrednie, pośrednie, uboczne, szczególne, szkody, których nie można było przewidzieć przy zawieraniu umowy oraz szkody związane z naruszeniem dóbr osobistych, w tym w szczególności utratę danych czy spodziewanych korzyści, w odniesieniu do Kodu Licencjonowanego Oddzielnie.
+
+Bez względu na powyższe zastrzeżenia w Niemczech i w Austrii gwarancja i odpowiedzialność IBM w odniesieniu do Kodu Licencjonowanego Oddzielnie podlega jedynie odpowiednim warunkom umów licencyjnych IBM dla Niemiec i Austrii.
+
+Uwaga: IBM może świadczyć usługi wsparcia w ograniczonym zakresie dla określonych komponentów Kodu Licencjonowanego Oddzielnie. Jeśli wsparcie takie będzie dostępne, szczegółowe informacje o nim oraz dodatkowe dotyczące go warunki zostaną przedstawione w dokumencie "Informacje licencyjne".
+
+Poniżej wymieniono elementy Kodu Licencjonowanego Oddzielnie:
+acl 2.2.51 - GPLv2+
+audit-libs 2.4.1 - LGPLv2+
+basesystem-10.0-7.el7.centos.noarch - - Public Domain
+bash 4.2.46 - GPLv3+
+bind-license 9.9.4 - ISC
+binutils 2.23.52.0.1 - GPLv3+
+bzip2-libs 1.0.6 - BSD
+ca-certificates 2015.2.6 - Public Domain
+centos-release 7.2.1511 - BSD
+chkconfig 1.3.61 - GPLv2
+coreutils 8.22 - GPLv3+
+cpio-2.11 24 - GPLv3+
+cracklib 2.9.0 - LGPLv2+
+cracklib-dicts 2.9.0 - LGPLv2+
+cryptsetup-libs 1.6.7 - MIT and GPLv2+
+curl 7.29.0 - MIT
+cyrus-sasl-lib 2.1.26 - BSD
+dbus 1.6.12 - GPLv2+ or AFL
+dbus-glib 0.1 - AFL and GPLv2+
+dbus-libs 1.6.12 - GPLv2+ or AFL
+dbus-python 1.1.1 - MIT
+device-mapper 1.02.107 - GPLv2
+device-mapper-libs 1.02.107 - LGPLv2
+diffutils 3.3 - GPLv2+
+dracut 33 - GPLv2+
+elfutils-libelf 0.163 - GPLv2+ or LGPLv3+
+elfutils-libs 0.163 - GPLv2+ or LGPLv3+
+expat 2.1.0 - MIT
+file-libs 5.11 - BSD
+filesystem 3.2 - Public Domain
+findutils 4.5.11 - GPLv3+
+gawk 4.0.2 - GPLv3+
+gdbm 1.1 - GPLv2+
+glib2 2.42.2 - LGPLv2+
+glibc 2.17 - LGPLv2+ and LGPLv2+ with exceptions and GPLv2+
+glibc-common 2.17 - LGPLv2+ and LGPLv2+ with exceptions and GPLv2+
+gmp-6.0.0 12 - LGPLv2+ and GPLv3+ and LGPLv3+
+gnupg2 2.0.22 - GPLv3+
+gobject-introspection 1.42.0 - GPLv3+
+gpgme 1.3.2 - LGPLv2+
+grep 2.2 - GPLv3+
+gzip 1.5 - GPLv2+ and GFDL
+hardlink 1 - GPLv2+
+hostname 3.13 - MIT
+info 5.1 - GPLv3+
+iputils 20121221 - BSD with advertising and GPLv2+ and Rdisc
+keyutils-libs 1.5.8 - GPLv2+ and LGPLv2+
+kmod - - GPLv2+
+kmod-libs - - GPLv2+
+kpartx 0.4.9 - GPL+
+krb5-libs 1.13.2 - MIT
+libacl 2.2.51 - LGPLv2+
+libassuan 2.1.0 - LGPLv2+
+libattr 2.4.46 - LGPLv2+
+libblkid 2.23.2 - LGPLv2+
+libcap 2.22 - LGPLv2+ or BSD
+libcap-ng 0.7.5 - LGPLv2+
+libcom_err 1.42.9 - MIT
+libcurl 7.29.0 - MIT
+libdb 5.3.21 - LGPLv2+
+libdb-utils 5.3.21 - LGPLv2+
+libffi 3.0.13 - BSD
+libgcc 4.8.5 - GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions
+libgcrypt 1.5.3 - LGPLv2+
+libgpg-error 1.12 - LGPLv2+
+libidn 1.28 - LGPLv2+ and GPLv3+ and GFDL
+libmount 2.23.2 - LGPLv2+
+libpwquality 1.2.3 - GPLv2+ and GPLv2 and MIT
+libselinux 2.2.2 - Public Domain
+libsemanage 2.1.10 - LGPLv2+
+libsepol 2.1.9 - LGPLv2+
+libss 1.42.9 - MIT
+libssh 2 - MIT
+libstdc++ 4.8.5 - GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions
+libtasn 1 - MIT
+libuser 0.6 - LGPLv2+
+libutempter 1.1.6 - LGPLv2
+libuuid 2.23.2 - BSD
+libverto 0.2.5 - LGPLv2+ and GPLv2
+libxml2 2.9.1 - MIT
+lua 5.1.4 - MIT
+ncurses 3.20130511 - MIT
+ncurses-base 5.9 - MIT
+ncurses-libs 5.9 - MIT
+nspr 4.11.0 - MPLv2.0
+nss 3.21.0 - MPLv2.0
+nss-softokn 3.16.2.3 - MPLv2.0
+nss-softokn-freebl 3.16.2.3 - MPLv2.0
+nss-sysinit 3.21.0 - MPLv2.0
+nss-tools 3.21.0 - MPLv2.0
+nss-util 3.21.0 - MPLv2.0
+openldap 2.4.40 - OpenLDAP
+openssl-libs 1.0.1e - OpenSSL
+p11-kit 0.20.7 - BSD
+p11-kit-trust 0.20.7 - BSD
+pam 1.1.8 - BSD and GPLv2+
+passwd 0.79 - BSD or GPLv2+
+pcre 8.32 - BSD
+pinentry 0.8.1 - GPLv2+
+pkgconfig 0.27.1 - GPLv2+
+popt 1.13 - MIT
+procps-ng 3.3.10 - GPLv2+ and LGPLv2+
+pth 2.0.7 - LGPLv2+
+pygobject3-base 3.14.0 - LGPLv2+
+pygpgme 0.3 - LGPLv2+
+pyliblzma 0.5.3 - LGPLv3+
+python 2.7.5 - Python
+python-chardet 2.2.1 - LGPLv2
+python-iniparse 0.4 - MIT
+python-kitchen 1.1.1 - ASL 2.0
+python-libs 2.7.5 - Python
+python-pycurl 7.19.0 - LGPLv2+ or MIT
+python-urlgrabber 3.1 - LGPLv2+
+pyxattr 0.5.1 - LGPLv2+
+qrencode-libs 3.4.1 - ASL 2.0
+readline 6.2 - GPLv3+
+rootfiles 8.1 - MIT
+rpm 4.11.3 - BSD
+rpm-build-libs 4.11.3 - GPLv2+ and LGPLv2+ with exceptions
+rpm-libs 4.11.3 - GPLv2+ and LGPLv2+ with exceptions
+rpm-python 4.11.3 - GPLv2+ and LGPLv2+ with exceptions
+sed 4.2.2 - GPLv3+
+setup 2.8.71 - GPLv2+
+shadow-utils 4.1.5.1 - GPLv2+
+shared-mime-info 1.1 - (BSD or CC-BY) and CC-BY and W3C
+sqlite 3.7.17 - MPLv1.1 or GPLv2+ or LGPLv2+
+systemd 219 - LGPLv2+ and MIT and GPLv2+
+systemd-libs 219 - LGPLv2+ and MIT
+tar 1.26 - GPLv2+ and BSD
+tzdata 2016f - CDDL and GPLv2 with exceptions
+ustr 1.0.4 - GPLv2+
+util-linux 2.23.2 - GPLv2 and GPLv2+ and LGPLv2+ and BSD with advertising and Public Domain
+vim-minimal 7.4.160 - GPLv2+
+xz 5.1.2 - CDDL or GPLv2 with exceptions
+xz-libs 5.1.2 - CDDL or GPLv2 with exceptions
+yum 3.4.3 - LGPLv2+
+yum-metadata-parser 1.1.4 - GPLv2+
+yum-plugin-fastestmirror 1.1.31 - GPLv2+
+yum-plugin-ovl 1.1.31 - GPLv2+
+yum-utils 1.1.31 - GPLv2+
+zlib 1.2.7 - GPLv2+
+
+Komponenty Źródłowe i Materiały Przykładowe
+
+Program może zawierać komponenty w postaci kodu źródłowego (zwane dalej "Komponentami Źródłowymi") oraz inne materiały określone jako Materiały Przykładowe. Licencjobiorca może kopiować i modyfikować Komponenty Źródłowe i Materiały Przykładowe jedynie na użytek wewnętrzny, pod warunkiem, że użytek taki mieści się w granicach praw licencyjnych na mocy niniejszej Umowy, zaś Licencjobiorca nie będzie zmieniać ani usuwać żadnych informacji czy uwag o prawach autorskich zawartych w Komponentach Źródłowych lub Materiałach Przykładowych. IBM dostarcza Komponenty Źródłowe i Materiały Przykładowe bez zobowiązania do wsparcia, W STANIE, W JAKIM SIĘ ZNAJDUJĄ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RĘKOJMIĘ RÓWNIEŻ WYŁĄCZA SIĘ), WYRAŹNYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNOŚCI GWARANCJI PRAWA WŁASNOŚCI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNOŚCI HANDLOWEJ I PRZYDATNOŚCI DO OKREŚLONEGO CELU.
+
+Ograniczenia eksportowe i importowe
+
+Program ten może zawierać technologię kryptograficzną. Korzystanie z Programu przez użytkowników w różnych krajach, jak również przenoszenie Programu na użytkowników w tym samym kraju lub w różnych krajach może być zabronione lub podlegać specjalnym prawom i przepisom eksportowym lub importowym lub polityce rządu w kraju Licencjobiorcy, w tym prawom i przepisom eksportowym i importowym obowiązującym w Stanach Zjednoczonych. Licencjobiorca przyjmuje na siebie całą odpowiedzialność za przestrzeganie wszystkich obowiązujących praw i przepisów w zakresie eksportu, importu i używania tego Programu, a w szczególności ograniczeń w zakresie eksportu lub ponownego eksportu obowiązujących w Stanach Zjednoczonych. Klasyfikację eksportową tego Programu znaleźć można pod adresem: https://www.ibm.com/products/exporting/.
+
+Dane i usługi osób trzecich
+
+Program może zawierać odsyłacze lub umożliwiać dostęp do usług transmisji danych, baz danych, usług WWW, oprogramowania bądź innej zawartości osób trzecich (zwanych dalej łącznie "zawartością"). Zawartość taka jest udostępniana W STANIE, W JAKIM SIĘ ZNAJDUJE ("AS-IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RĘKOJMIĘ RÓWNIEŻ WYŁĄCZA SIĘ), WYRAŹNYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNOŚCI GWARANCJI PRAWA WŁASNOŚCI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNOŚCI HANDLOWEJ I PRZYDATNOŚCI DO OKREŚLONEGO CELU. Ponadto odpowiednie osoby trzecie mogą w każdej chwili zaprzestać udostępniania zawartości według własnego uznania. Może być również wymagane zawarcie przez Licencjobiorcę oddzielnych umów z osobami trzecimi w celu uzyskania dostępu do takiej zawartości lub jej używania. IBM nie jest stroną żadnych takich oddzielnych umów, a zobowiązanie Licencjobiorcy do przestrzegania warunków takich umów jest wyraźnym warunkiem udzielenia niniejszej licencji.
+
+Ponadto używanie Programu przez Licencjobiorcę podlega następującym warunkom.
+
+1.0 ADDITIONAL TERMS FOR SAMPLE MATERIALS
+
+Sample Material included with the Program include Starter Stores. “Starter Store” means a functional sample online Store provided in a store archive format with the Program, and are samples designed to be used as a base from which a customized online Stores can be created. Starter Store sample materials may include the names of individuals, companies, brands and products in order to illustrate concepts as completely as possible. All of these names are fictitious and any similarity to the names and addresses used by actual persons or business enterprises is entirely coincidental. Starter Store sample materials may also contain text, images and/or similar content that are the copyrighted materials of IBM or third parties ("Sample Content"). Notwithstanding the "Sample Materials" section of this License Information, Sample Content is provided for illustrative purposes only and Licensee is not permitted to copy, display, retransmit or otherwise use or re-use the Sample Content (including, but not limited to, in Licensee's production Store(s)).
+
+
+2.0 DEVELOPER LIMITATION
+The Program can only be deployed as part of the Licensee's internal development and test environment for internal non-production activities, including but not limited to testing, performance tuning, fault diagnosis, internal benchmarking, staging, quality assurance activity and/or developing internally used additions or extensions to the Program using published application programming interfaces. Licensee is not authorized to use any part of the Program for any other purposes without acquiring the appropriate production entitlements.
+
+3.0 Program-unique Terms for Supporting Programs
+
+
+3.1  IBM DB2 Advanced Workgroup Server Edition
+
+IBM DB2 Advanced Workgroup Server Edition
+-- Entitlement: No Metric
+-- Use Limitations: Use by Principal Program
+
+“No Metric” means this Supporting Program may be installed on as many machines and used by as many persons as is reasonably necessary within the use limitations that apply to this Supporting Program.
+
+"Use by Principal Program" means that the Supporting Program is provided exclusively for use by the Principal Program. Neither Licensee nor any application, program or device is authorized to directly use or access the services of the Supporting Program except Licensee may access the Supporting Program to perform administrative functions for the Supporting Program such as backup, recovery and authorized configuration
+
+	Additional DB2 Advanced Workgroup Edition Program Details
+
+The Supporting Program may use a maximum of 16 processor cores and 128 GB of memory on each physical or virtual server; however, if the Supporting Program is used on a cluster of servers configured to work together using database partitioning or other permitted clustering technology, the Supporting Program may use a maximum of 16 processor cores and 128 GB of memory across all virtual or physical servers in that cluster.
+
+
+3.2 - IBM(R) SDK, Java(TM) Technology Edition
+No license is granted for use of the Program on a Pervasive Device, so Licensee must ensure that the Program is not to be installed on a Pervasive Device. For these purposes, the term "Pervasive Device" means a device that contains an embedded microprocessor but which does not have computing as its primary purpose. Current examples of Pervasive Devices include cell phones, personal digital assistants (including BlackBerry devices), game consoles, set-top boxes, embedded controllers in automobiles, smart appliances (household appliances with embedded processors) and home gateways (fixed function devices which manage data and media for a household and which cannot perform general computing functions). By contrast, desktop computers, laptop computers, general purpose computer servers, departmental servers, mainframe computers, application servers, print servers, file servers and data storage devices are examples of devices that are not Pervasive Devices.
+L/N:  L-VSIR-AM6R4M
+D/N:  L-VSIR-AM6R4M
+P/N:  L-VSIR-AM6R4M
+
+
+Międzynarodowa Umowa Licencyjna na Program
+
+Część 1 - Warunki ogólne
+
+POBIERANIE, INSTALOWANIE, KOPIOWANIE, OTWIERANIE, KLIKANIE PRZYCISKU "AKCEPTUJĘ" ORAZ UŻYWANIE PROGRAMU W JAKIKOLWIEK INNY SPOSÓB OZNACZA AKCEPTACJĘ WARUNKÓW NINIEJSZEJ UMOWY. ZAAKCEPTOWANIE PRZEZ UŻYTKOWNIKA NINIEJSZYCH WARUNKÓW W IMIENIU LICENCJOBIORCY OZNACZA, ŻE UŻYTKOWNIK GWARANTUJE POSIADANIE PEŁNYCH UPRAWNIEŃ DO PODPORZĄDKOWANIA LICENCJOBIORCY NINIEJSZYM WARUNKOM. JEŚLI UŻYTKOWNIK NIE WYRAŻA ZGODY NA NINIEJSZE WARUNKI,
+
+* NIE BĘDZIE POBIERAĆ, INSTALOWAĆ, KOPIOWAĆ, OTWIERAĆ, KLIKAĆ PRZYCISKU "AKCEPTUJĘ" ANI UŻYWAĆ PROGRAMU W INNY SPOSÓB; ORAZ
+
+* NATYCHMIAST ZWRÓCI NIEWYKORZYSTANE NOŚNIKI, DOKUMENTACJĘ ORAZ DOKUMENT PROOF OF ENTITLEMENT PODMIOTOWI, OD KTÓREGO NABYŁ PROGRAM, ABY UZYSKAĆ ZWROT ZAPŁACONEJ KWOTY. JEŚLI PROGRAM ZOSTAŁ POBRANY, NALEŻY ZNISZCZYĆ WSZELKIE JEGO KOPIE.
+
+1. Definicje
+
+"Autoryzowane Używanie" określa poziom, do jakiego Licencjobiorca ma upoważnienie do wykonywania lub uruchamiania Programu. Poziom ten może być mierzony liczbą użytkowników, liczbą jednostek MSU (millions of service units), liczbą procesorowych jednostek wartości (PVU - Processor Value Units) lub w inny sposób określony przez IBM.
+
+"IBM" oznacza International Business Machines Corporation lub jedno z przedsiębiorstw podporządkowanych IBM Corp.
+
+"Informacje Licencyjne" ("LI") oznaczają dokument zawierający informacje i inne warunki dodatkowe na temat Programu. Dokument "Informacje Licencyjne" dla Programu jest dostępny pod adresem www.ibm.com/software/sla. Informacje Licencyjne można też znaleźć w katalogu Programu, używając komend systemowych. Dokument ten może też być zawarty w Programie.
+
+"Program" oznacza oryginał oraz pełne lub częściowe kopie: 1) instrukcji i danych w formie zapisu maszynowego, 2) komponentów, plików i modułów, 3) zapisów audiowizualnych (takich jak obrazy, tekst, nagrania lub ilustracje), 4) odnoszących się do Programu materiałów licencjonowanych (takich jak klucze i dokumentacja).
+
+"Proof of Entitlement" ("PoE") oznacza dokument upoważniający Licencjobiorcę do Autoryzowanego Używania. Dokument PoE stanowi również dowód uprawniający Licencjobiorcę do korzystania z gwarancji, z cen obowiązujących na kolejne aktualizacje, jeśli takowe mają zastosowanie, oraz ewentualnych specjalnych ofert i promocji. Jeśli IBM nie udostępni Licencjobiorcy dokumentu PoE, to IBM może zaakceptować jako PoE oryginalny opłacony rachunek lub inny dokument potwierdzający sprzedaż, otrzymany od podmiotu, od którego Licencjobiorca nabył Program (od IBM lub reselera IBM), pod warunkiem że na dokumencie takim wyszczególniona jest nazwa nabytego Programu oraz nabyty poziom Autoryzowanego Używania.
+
+"Okres Gwarancyjny" oznacza jeden rok począwszy od daty udzielenia licencji pierwotnemu Licencjobiorcy.
+
+2. Struktura Umowy
+
+Niniejsza Umowa zawiera Część 1 - Warunki ogólne, Część 2 - Warunki specyficzne dla poszczególnych krajów (o ile mają zastosowanie), Informacje Licencyjne oraz dokument PoE, które tworzą kompletną umowę między Licencjobiorcą i IBM dotyczącą używania Programu. Umowa ta zastępuje wszelkie wcześniejsze ustne lub pisemne ustalenia dokonane między Licencjobiorcą i IBM w zakresie używania Programu. W przypadku jakiejkolwiek sprzeczności, warunki dokumentu "Informacje Licencyjne" mają znaczenie rozstrzygające nad warunkami obu Części.
+
+3. Udzielenie licencji
+
+Program ten jest własnością IBM lub dostawcy IBM. Program ten jest chroniony prawem autorskim i stanowi przedmiot umowy licencyjnej, a nie umowy sprzedaży.
+
+IBM udziela Licencjobiorcy niewyłącznej licencji na 1) używanie Programu do poziomu Autoryzowanego Używania określonego w dokumencie PoE, 2) wykonywanie i instalowanie kopii w celu świadczenia wsparcia do takiego Autoryzowanego Używania oraz 3) wykonywanie kopii zapasowych, pod warunkiem że
+
+a. Licencjobiorca nabył Program legalnie i przestrzega warunków niniejszej Umowy;
+
+b. taka kopia zapasowa nie będzie używana dopóki Program, z którego została zrobiona, będzie działać;
+
+c. Licencjobiorca powieli wszelkie uwagi dotyczące praw autorskich oraz wszelkie informacje o prawach własności na każdej pełnej lub częściowej kopii Programu;
+
+d. Licencjobiorca zapewni, że jakakolwiek osoba korzystająca z Programu (lokalnie lub zdalnie) 1) dokonuje tego jedynie w imieniu Licencjobiorcy oraz 2) przestrzega warunków niniejszej Umowy;
+
+e. Licencjobiorca nie będzie 1) używać, kopiować, modyfikować ani dystrybuować Programu z wyjątkiem sytuacji wyraźnie wskazanych w niniejszej Umowie; 2) deasemblować, dekompilować Programu i dokonywać jego translacji w inny sposób ani odtwarzać kodu źródłowego, z wyjątkiem sytuacji dozwolonych przez bezwzględnie obowiązujące przepisy prawa, bez możliwości wyłączenia go w drodze umowy; 3) używać jakichkolwiek komponentów Programu, jego plików, modułów, treści audiowizualnych ani związanych z nim materiałów licencjonowanych niezależnie od Programu; 4) udzielać dalszych licencji na Program, wypożyczać go ani wydzierżawiać; oraz
+
+f. jeśli Licencjobiorca nabywa niniejszy Program jako Program Dodatkowy, to będzie go używać jedynie do obsługi Programu Głównego, zgodnie z ograniczeniami określonymi w licencji na Program Główny lub, jeśli Licencjobiorca nabywa Program jako Program Główny, to będzie używać wszystkich Programów Dodatkowych jedynie w celu obsługi tego Programu, zgodnie z ograniczeniami określonymi w niniejszej Umowie. Na potrzeby punktu "f" przyjmuje się, że "Program Dodatkowy" oznacza Program stanowiący część innego Programu IBM ("Program Główny"), określany jako Program Dodatkowy w Informacjach Licencyjnych dla Programu Głównego. (W celu nabycia oddzielnej licencji na używanie Programu Dodatkowego bez ograniczeń, Licencjobiorca powinien skontaktować się z podmiotem, od którego nabył Program Dodatkowy).
+
+Niniejsza licencja ma zastosowanie do każdej kopii Programu wykonanej przez Licencjobiorcę.
+
+3.1 Nowsze wersje Programu, aktualizacje i poprawki
+
+3.1.1 Nowsze wersje Programu
+
+Jeśli Program zostanie zastąpiony Programem nowszej wersji, licencja na zastępowany Program wygasa ze skutkiem natychmiastowym.
+
+3.1.2 Aktualizacje i poprawki
+
+Otrzymanie przez Licencjobiorcę aktualizacji lub poprawek do Programu oznacza, że Licencjobiorca akceptuje wszelkie dodatkowe lub odmienne warunki mające zastosowanie do takich aktualizacji i poprawek, określone w Informacjach Licencyjnych dla Programu. W przypadku braku dodatkowych lub odmiennych warunków, aktualizacje i poprawki podlegają wyłącznie postanowieniom niniejszej Umowy. Jeśli Program zostanie zastąpiony aktualizacją, Licencjobiorca wyraża zgodę na natychmiastowe zaprzestanie korzystania z zastępowanej wersji Programu.
+
+3.2 Licencje czasowe
+
+Jeśli IBM licencjonuje Program na wyznaczony termin, to licencja udzielona Licencjobiorcy kończy się wraz z końcem wyznaczonego terminu, chyba że Licencjobiorca i IBM wyrażą zgodę na jej odnowienie.
+
+3.3 Czas trwania i rozwiązanie
+
+Niniejsza Umowa obowiązuje do momentu jej rozwiązania.
+
+IBM może rozwiązać licencję udzieloną Licencjobiorcy, jeśli Licencjobiorca nie będzie przestrzegać warunków niniejszej Umowy.
+
+Jeśli licencja zostanie rozwiązana przez którąkolwiek ze Stron z dowolnej przyczyny, Licencjobiorca wyraża zgodę na natychmiastowe zaprzestanie używania Programu oraz zniszczenie wszelkich posiadanych jego kopii. Wszelkie postanowienia niniejszej Umowy, które ze względu na swój charakter pozostają w mocy po jej rozwiązaniu, będą mieć zastosowanie do momentu ich wypełnienia i obowiązywać będą następców prawnych i cesjonariuszy obu Stron.
+
+4. Opłaty
+
+Opłaty są naliczane na podstawie nabytego poziomu Autoryzowanego Używania, określonego w dokumencie PoE. IBM nie zwraca wcześniej wniesionych lub należnych opłat ani nie uwzględnia ich w rozliczeniach, chyba że niniejsza Umowa stanowi inaczej.
+
+Jeśli Licencjobiorca zamierza podwyższyć poziom Autoryzowanego Używania, musi on powiadomić z wyprzedzeniem IBM lub autoryzowanego reselera IBM i wnieść odpowiednie opłaty.
+
+5. Podatki
+
+Jeśli odpowiednie władze nałożą na Program opłatę skarbową, podatek, opłatę egzekucyjną lub prowizję, z wyłączeniem opłat wynikających z dochodu netto IBM, Licencjobiorca zgadza się uiścić taką opłatę w kwocie określonej na fakturze lub dostarczyć dokumentację stwierdzającą prawo do zwolnienia z tej opłaty. Od daty nabycia Programu Licencjobiorca ponosi odpowiedzialność z tytułu należnego podatku pośredniego. Jeśli odpowiednie władze nałożą opłatę skarbową, podatek, opłatę egzekucyjną lub prowizję w związku z importem lub eksportem, transferem, uzyskaniem dostępu bądź korzystaniem z Programu poza krajem, w którym została udzielona licencja pierwotnemu Licencjobiorcy, to Licencjobiorca przyjmuje na siebie odpowiedzialność za wszelkie nałożone opłaty oraz za ich uiszczenie.
+
+6. Gwarancja zwrotu pieniędzy
+
+Jeśli z jakiegokolwiek powodu Licencjobiorca nie jest zadowolony z Programu, a jest pierwotnym Licencjobiorcą, to może rozwiązać licencję i uzyskać zwrot kwoty zapłaconej za Program pod warunkiem zwrotu Programu i dokumentu PoE do podmiotu, od którego je nabył, w ciągu 30 dni od daty wydania dokumentu PoE Licencjobiorcy. Jeśli licencja jest licencją czasową podlegającą odnowieniu, to Licencjobiorca może otrzymać zwrot kwoty pod warunkiem, że Program wraz z dokumentem PoE zostaną zwrócone w ciągu pierwszych 30 dni początkowego okresu obowiązywania. W przypadku pobrania Programu drogą elektroniczną Licencjobiorca powinien skontaktować się z podmiotem, od którego nabył Program, aby dowiedzieć się, w jaki sposób uzyskać zwrot kwoty.
+
+7. Przeniesienie Programu
+
+Licencjobiorca może przenieść Program oraz wszelkie przysługujące mu prawa i obowiązki licencyjne na osobę trzecią, o ile osoba taka zaakceptuje warunki niniejszej Umowy. Jeśli licencja zostanie rozwiązana przez którąkolwiek ze Stron z dowolnej przyczyny, to Licencjobiorca nie ma prawa do przeniesienia Programu na osobę trzecią. Licencjobiorca nie może przenosić części 1) Programu ani 2) praw do Autoryzowanego Używania Programu. Wraz z przeniesieniem Programu Licencjobiorca jest zobowiązany do przeniesienia egzemplarza niniejszej Umowy w postaci wydruku, łącznie z Informacjami Licencyjnymi i dokumentem PoE. Licencja Licencjobiorcy wygasa natychmiast po dokonaniu takiego przeniesienia.
+
+8. Gwarancje i zastrzeżenia
+
+8.1 Ograniczona gwarancja
+
+IBM gwarantuje, że Program używany w określonym środowisku pracy będzie działać zgodnie ze specyfikacjami. Specyfikacje Programu oraz informacje dotyczące określonego środowiska pracy mogą znajdować się w dokumentacji załączonej do Programu (na przykład w pliku read-me) lub w formie innej informacji ogłoszonej przez IBM (na przykład w dokumencie announcement letter). Licencjobiorca zgadza się, że taka dokumentacja i inne informacje dotyczące Programu mogą być dostarczane jedynie w języku angielskim, chyba że prawo krajowe stanowi inaczej, bez możliwości wyłączenia go w ramach umowy.
+
+Gwarancja ma zastosowanie jedynie do niezmodyfikowanych fragmentów Programu. IBM nie gwarantuje nieprzerwanego ani wolnego od błędów działania Programu, ani też usunięcia wszystkich jego defektów. Licencjobiorca ponosi odpowiedzialność za wyniki używania Programu.
+
+W Okresie Gwarancyjnym IBM zapewnia Licencjobiorcy bezpłatny dostęp do baz danych IBM zawierających informacje na temat znanych defektów Programu, poprawek defektów, ograniczeń i możliwości obejścia tychże defektów. Więcej informacji na ten temat zawiera Podręcznik Wsparcia dla Oprogramowania IBM (IBM Software Support Handbook) pod adresem www.ibm.com/software/support.
+
+W przypadku, gdy w Okresie gwarancyjnym Program nie działa zgodnie z gwarancją, a problemu nie można rozwiązać, korzystając z informacji dostępnych w bazach danych IBM, Licencjobiorca ma prawo zwrócić Program i odnoszący się do niego dokument PoE podmiotowi, od którego nabył Program (IBM lub reselerowi IBM) i otrzymać zwrot zapłaconej kwoty. Licencja Licencjobiorcy wygasa natychmiast po dokonaniu zwrotu Programu. W przypadku pobrania Programu drogą elektroniczną Licencjobiorca powinien skontaktować się z podmiotem, od którego nabył Program, aby dowiedzieć się, w jaki sposób uzyskać zwrot kwoty.
+
+8.2 Zastrzeżenia
+
+NINIEJSZE GWARANCJE SĄ WYŁĄCZNYMI GWARANCJAMI UDZIELANYMI LICENCJOBIORCY ORAZ ZASTĘPUJĄ WSZELKIE INNE GWARANCJE LUB WARUNKI (W TYM TAKŻE RĘKOJMIĘ), WYRAŹNE LUB DOMNIEMANE, A W SZCZEGÓLNOŚCI DOMNIEMANE GWARANCJE LUB WARUNKI PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU, ZADOWALAJĄCEJ JAKOŚCI, PRAWA WŁASNOŚCI ORAZ GWARANCJE LUB WARUNKI NIENARUSZANIA PRAW OSÓB TRZECICH. USTAWODAWSTWA NIEKTÓRYCH KRAJÓW NIE DOPUSZCZAJĄ WYŁĄCZENIA WYRAŹNYCH LUB DOMNIEMANYCH GWARANCJI. W ZWIĄZKU Z TYM POWYŻSZE WYŁĄCZENIE MOŻE NIE MIEĆ ZASTOSOWANIA DO LICENCJOBIORCY. W TAKIM PRZYPADKU CZAS TRWANIA TAKICH GWARANCJI JEST OGRANICZONY DO OKRESU GWARANCYJNEGO. PO TYM OKRESIE NIE BĘDĄ OBOWIĄZYWAĆ ŻADNE GWARANCJE. USTAWODAWSTWA NIEKTÓRYCH KRAJÓW NIE DOPUSZCZAJĄ OGRANICZENIA CZASU TRWANIA GWARANCJI DOMNIEMANYCH, W ZWIĄZKU Z TYM POWYŻSZE OGRANICZENIE MOŻE NIE MIEĆ ZASTOSOWANIA DO LICENCJOBIORCY.
+
+NA MOCY NINIEJSZYCH GWARANCJI LICENCJOBIORCY PRZYZNAWANE SĄ SZCZEGÓLNE PRAWA. LICENCJOBIORCY MOGĄ RÓWNIEŻ PRZYSŁUGIWAĆ INNE PRAWA, W ZALEŻNOŚCI OD OBOWIĄZUJĄCEGO W DANYM KRAJU USTAWODAWSTWA.
+
+GWARANCJE OKREŚLONE W PARAGRAFIE 8 (GWARANCJE I ZASTRZEŻENIA) SĄ UDZIELANE WYŁĄCZNIE PRZEZ IBM. ZASTRZEŻENIA OKREŚLONE W PARAGRAFIE 8.2 (ZASTRZEŻENIA) MAJĄ RÓWNIEŻ ZASTOSOWANIE DO DOSTAWCÓW IBM, KTÓRZY DOSTARCZAJĄ KOD OSÓB TRZECICH. DOSTAWCY CI DOSTARCZAJĄ TAKI KOD BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI I USTALANIA WARUNKÓW (W TYM TAKŻE RĘKOJMI). ZAPISY TEGO AKAPITU NIE UNIEWAŻNIAJĄ OBOWIĄZKÓW IBM WYNIKAJĄCYCH Z GWARANCJI OKREŚLONYCH NINIEJSZĄ UMOWĄ.
+
+9. Dane i bazy danych Licencjobiorcy
+
+W celu udzielenia Licencjobiorcy pomocy przy określeniu przyczyny problemu z Programem, IBM może zażądać, aby Licencjobiorca 1) zezwolił IBM na zdalny dostęp do swoich systemów lub 2) przesłał do IBM informacje na temat swoich systemów lub dane systemowe. Jednakże IBM nie jest zobowiązany do zapewnienia takiej pomocy, chyba że IBM i Licencjobiorca podpiszą oddzielną umowę, w ramach której IBM wyrazi zgodę na świadczenie na rzecz Licencjobiorcy tego rodzaju wsparcia w zakresie przekraczającym zobowiązania gwarancyjne IBM określone niniejszą Umową. W każdym przypadku IBM wykorzystuje informacje o błędach i problemach w celu udoskonalania swych produktów i usług oraz udzielania pomocy przy ich dostarczaniu w ramach powiązanych z nimi ofert wsparcia. Przy realizacji tych celów IBM może korzystać z pomocy oddziałów IBM i podwykonawców IBM (znajdujących się nie tylko w kraju lokalizacji Licencjobiorcy, ale i poza nim), a Licencjobiorca upoważnia IBM do takiego działania.
+
+Licencjobiorca pozostaje odpowiedzialny za 1) wszelkie dane i zawartość bazy danych, które udostępnia IBM, 2) wybór i implementację procedur oraz mechanizmów kontrolnych dotyczących dostępu do danych, ich bezpieczeństwa, szyfrowania, używania i transmisji (w tym wszelkich danych identyfikujących osobę fizyczną) oraz 3) tworzenie i odtwarzanie kopii zapasowych każdej bazy danych i wszelkich gromadzonych danych. Licencjobiorca nie będzie wysyłać ani udostępniać IBM jakichkolwiek informacji identyfikujących osobę fizyczną (w postaci danych lub jakiejkolwiek innej) i będzie odpowiedzialny za uregulowanie uzasadnionych kosztów i innych obciążeń, które może ponieść IBM w związku z omyłkowym udostępnieniem takich informacji IBM bądź za utratę lub ujawnienie takich informacji przez IBM, w tym informacji wynikających z roszczeń osób trzecich.
+
+10. Ograniczenie odpowiedzialności
+
+Ograniczenia i zastrzeżenia paragrafu 10 (Ograniczenie odpowiedzialności) mają zastosowanie w pełnym zakresie i nie są zakazane przepisami obowiązującego prawa, bez możliwości wyłączenia takiego prawa w ramach umowy.
+
+10.1 Sytuacje, w których IBM może ponosić odpowiedzialność
+
+W przypadku wystąpienia określonych okoliczności, za które odpowiedzialność ponosi IBM, a w wyniku których Licencjobiorca doznał szkody, Licencjobiorca będzie uprawniony do uzyskania od IBM odszkodowania. Bez względu na podstawę, na jakiej Licencjobiorca jest uprawniony do domagania się odszkodowania od IBM (włączywszy w to naruszenie istotnych postanowień niniejszej Umowy, niedbalstwo, wprowadzenie w błąd lub inne roszczenia z tytułu odpowiedzialności kontraktowej lub deliktowej), całkowita odpowiedzialność IBM z tytułu wszelkich zsumowanych roszczeń wynikających z lub odnoszących się do każdego Programu bądź wynikających z niniejszej Umowy nie przekroczy: 1) kwoty odpowiedzialności za uszczerbek na zdrowiu (łącznie ze śmiercią) oraz za szkody wyrządzone w nieruchomościach lub majątku ruchomym, 2) w przypadku innych rzeczywiście poniesionych szkód - wysokości opłat (jeśli Program podlega opłatom czasowym - wysokości opłat za dwanaście miesięcy) uiszczanych przez Licencjobiorcę za Program będący przedmiotem roszczenia.
+
+Ograniczenie to ma również zastosowanie do programistów i dostawców Programów IBM. Wskazany powyżej zakres odpowiedzialności stanowi całość odpowiedzialności ponoszonej łącznie przez IBM oraz programistów i dostawców Programów IBM.
+
+10.2 Sytuacje, w których IBM nie ponosi odpowiedzialności
+
+W ŻADNYCH OKOLICZNOŚCIACH IBM, ANI TEŻ PROGRAMIŚCI CZY DOSTAWCY PROGRAMÓW IBM, NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA NASTĘPUJĄCE SZKODY, NAWET JEŚLI ZOSTALI POINFORMOWANI O MOŻLIWOŚCI ICH WYSTĄPIENIA:
+
+a. UTRATĘ LUB USZKODZENIE DANYCH;
+
+b. SZKODY SZCZEGÓLNE, UBOCZNE, WYNIKAJĄCE Z NARUSZENIA DÓBR OSOBISTYCH, POŚREDNIE ORAZ SZKODY, KTÓRYCH NIE MOŻNA BYŁO PRZEWIDZIEĆ PRZY ZAWIERANIU UMOWY, ANI TEŻ
+
+c. UTRACONE ZYSKI, KONTAKTY HANDLOWE, PRZYCHODY, REPUTACJĘ (GOODWILL) ANI PRZEWIDYWANE OSZCZĘDNOŚCI.
+
+11. Weryfikacja zgodności
+
+Na potrzeby niniejszego paragrafu 11 (Weryfikacja zgodności), przyjmuje się, że termin "Warunki IPLA dla Programu " oznacza 1) niniejszą Umowę oraz odpowiednie poprawki i dokumenty transakcyjne dostarczone przez IBM, a także 2) strategie IBM dotyczące oprogramowania, dostępną w serwisie WWW IBM Software Policy (www.ibm.com/softwarepolicies), a w szczególności strategie dotyczące tworzenia kopii zapasowych, określania cen przy ograniczonej mocy obliczeniowej oraz migracji.
+
+Prawa i obowiązki przedstawione w niniejszym paragrafie 11 obowiązują w okresie licencjonowania Programu na rzecz Licencjobiorcy oraz dwa lata po tym okresie.
+
+11.1 Proces weryfikacji
+
+Licencjobiorca zgadza się tworzyć, przechowywać oraz dostarczać IBM i rewidentom IMB dokładną pisemną dokumentację, dane wyjściowe narzędzi systemowych oraz inne informacje systemowe wystarczające do zapewnienia możliwości weryfikacji, że korzystanie przez Licencjobiorcę ze wszystkich Programów odbywa się zgodnie z Warunkami IPLA dla Programu, a w szczególności ze wszystkimi obowiązującymi warunkami IBM w zakresie licencjonowania i cen. Licencjobiorca jest odpowiedzialny za 1) zapewnienie, że nie został przekroczony poziom Autoryzowanego Używania oraz 2) przestrzeganie zgodności z Warunkami IPLA dla Programu.
+
+IBM może zweryfikować, informując o takim zamiarze z odpowiednim wyprzedzeniem, czy Licencjobiorca przestrzega Warunków IPLA dla Programu we wszystkich ośrodkach i środowiskach, gdzie Licencjobiorca używa Programów do jakichkolwiek celów zgodnie z Warunkami IPLA dla Programu. Weryfikacja taka może być przeprowadzana na terenie Licencjobiorcy, w normalnych godzinach pracy i będzie realizowana w sposób w minimalnym stopniu zakłócający tę pracę. IBM może przy takiej weryfikacji skorzystać z usług niezależnego rewidenta, pod warunkiem, że została z nim podpisana umowa o zachowaniu poufności.
+
+11.2 Postanowienia
+
+IBM poinformuje Licencjobiorcę na piśmie, jeśli weryfikacja wykaże, że Licencjobiorca przekroczył poziom Autoryzowanego Używania lub w inny sposób naruszył Warunki IPLA dla Programu. Licencjobiorca wyraża zgodę na natychmiastowe i bezpośrednie uiszczenie na rzecz IBM opłat wyszczególnionych przez IBM na fakturze z tytułu: 1) używania niezgodnego z Warunkami, 2) świadczenia wsparcia w czasie takiego używania lub przez okres dwóch lat, w zależności od tego, który z tych okresów był krótszy oraz 3) dodatkowych opłat i innych zobowiązań określonych w trakcie przeprowadzonej weryfikacji.
+
+12. Uwagi osób trzecich
+
+Program może zawierać kod osób trzecich, który będzie licencjonowany na rzecz Licencjobiorcy w ramach niniejszej Umowy przez IBM, a nie przez osobę trzecią. Ewentualne Uwagi na temat kodu osób trzecich (Uwagi Osób Trzecich) są dołączane jedynie w celu powiadomienia Licencjobiorcy. Uwagi te można znaleźć w pliku NOTICES dołączonym do Programu. Informacje na temat uzyskania kodu źródłowego dla konkretnego kodu osób trzecich można znaleźć w Uwagach Osób Trzecich. Jeśli w Uwagach Osób Trzecich IBM określi kod osób trzecich jako "Modyfikowany Kod Osób Trzecich", to IBM upoważni Licencjobiorcę do 1) modyfikacji Modyfikowanego Kodu Osób Trzecich oraz 2) odtwarzania kodu źródłowego modułów Programu, które są bezpośrednio wykorzystywane przez Modyfikowany Kod Osób Trzecich pod warunkiem, że czynność ta zostanie podjęta jedynie w celu debugowania modyfikacji Licencjobiorcy na potrzeby takiego kodu osób trzecich. Ewentualne zobowiązania IBM w zakresie usług i wsparcia dotyczą jedynie Programu niezmodyfikowanego.
+
+13. Postanowienia ogólne
+
+a. Postanowienia zawarte w niniejszej Umowie pozostają bez wpływu na uprawnienia przysługujące konsumentom na podstawie bezwzględnie obowiązujących przepisów prawa.
+
+b. W przypadku Programów, które IBM dostarcza Licencjobiorcy w formie materialnej, IBM wypełnia swe obowiązki w zakresie wysyłki i dostawy z chwilą dostarczenia takich Programów do wyznaczonego przez siebie przewoźnika, chyba że Licencjobiorca uzgodnił z IBM na piśmie inny tryb postępowania.
+
+c. W przypadku nieważności lub niewykonalności któregokolwiek z postanowień niniejszej Umowy, pozostałe postanowienia niniejszej Umowy zachowują pełną moc prawną i skuteczność.
+
+d. Licencjobiorca wyraża zgodę na przestrzeganie wszelkich obowiązujących praw i przepisów w zakresie eksportu i importu, w tym przepisów Stanów Zjednoczonych dotyczących embarga i sankcji oraz zakazu eksportu do lub na rzecz określonych użytkowników końcowych.
+
+e. Licencjobiorca upoważnia International Business Machines Corporation oraz przedsiębiorstwa podporządkowane IBM Corp. (ich następców prawnych i cesjonariuszy, wykonawców i Partnerów Handlowych IBM) do przechowywania i używania biznesowych informacji kontaktowych Licencjobiorcy, bez względu na miejsce prowadzonej działalności, w związku z produktami i usługami IBM lub w celu utrzymania kontaktów handlowych między Stronami.
+
+f. Każda ze Stron stworzy drugiej Stronie rozsądne możliwości wypełnienia zobowiązań, zanim zarzuci drugiej Stronie ich niewypełnienie w ramach niniejszej Umowy. Strony podejmą w dobrej wierze próbę rozstrzygnięcia sporów, nieporozumień lub roszczeń powstałych między nimi w związku z Umową.
+
+g. O ile obowiązujące prawo nie stanowi inaczej bez możliwości wyłączenia takiego prawa w ramach umowy: 1) żadna ze Stron nie podejmie działań prawnych, w jakiejkolwiek formie, związanych z roszczeniem wynikającym z niniejszej Umowy lub pozostającym z nią w związku po okresie dwóch lat od czasu pojawienia się przyczyny podjęcia takich działań; oraz 2) po wygaśnięciu takiego okresu, wszelkie roszczenia przedawniają się i prawa z nimi związane wygasają.
+
+h. Ani Licencjobiorca, ani IBM nie odpowiadają za niedopełnienie jakichkolwiek obowiązków, jeśli przyczyny takiego niedopełnienia leżały poza ich kontrolą.
+
+i. Niniejsza Umowa nie daje osobom trzecim jakichkolwiek praw ani też podstawy do roszczeń, a IBM nie ponosi odpowiedzialności za jakiekolwiek roszczenie osób trzecich wobec Licencjobiorcy, z wyjątkiem zakresu przewidzianego w paragrafie 10.1 (Sytuacje, w których IBM może nie ponosić odpowiedzialności) powyżej, w części dotyczącej uszczerbku na zdrowiu (łącznie ze śmiercią) lub szkód wyrządzonych w nieruchomościach lub w majątku ruchomym, za które IBM ponosi odpowiedzialność prawną wobec osób trzecich.
+
+j. Przystępując do niniejszej Umowy żadna ze Stron nie korzysta z żadnych ustaleń, które nie zostały określone w Umowie, a w szczególności z żadnych ustaleń w zakresie: 1) wydajności lub działania Programu odbiegających od wyraźnie gwarantowanych w paragrafie 8 (Gwarancje i zastrzeżenia) powyżej; 2) doświadczeń czy rekomendacji osób trzecich lub 3) wyników lub oszczędności, jakie może osiągnąć Licencjobiorca.
+
+k. IBM podpisał umowy z konkretnymi organizacjami (zwanymi "Partnerami Handlowymi IBM") w celu promocji i sprzedaży określonych Programów oraz udzielania dla nich wsparcia. Partnerzy Handlowi IBM działają oddzielnie i niezależnie od IBM. IBM nie ponosi odpowiedzialności za działania lub oświadczenia Partnerów Handlowych IBM ani za ich zobowiązania wobec Licencjobiorcy.
+
+l. Warunki licencji oraz warunki dotyczące zabezpieczenia i ochrony własności intelektualnej określone w innych umowach Licencjobiorcy z IBM (na przykład w Umowie IBM z Klientem) nie mają zastosowania do licencji na Program udzielonych na mocy niniejszej Umowy.
+
+14. Zasięg geograficzny i obowiązujące ustawodawstwo
+
+14.1 Obowiązujące ustawodawstwo
+
+Obie Strony przyjmują jako obowiązujące prawo kraju, w którym licencja na Program została nabyta, oraz wyrażają zgodę na stosowanie takiego prawa przy interpretowaniu oraz egzekwowaniu wszelkich praw, obowiązków i zobowiązań Stron, wynikających z niniejszej Umowy lub mających w jakikolwiek sposób z nią związek, bez odwoływania się do zasad kolizji przepisów prawnych.
+
+Konwencja ONZ dotycząca umów o Międzynarodowej Sprzedaży Towarów (United Nations Convention on Contracts for the International Sale of Goods) nie ma zastosowania.
+
+14.2 Jurysdykcja
+
+Wszelkie prawa, obowiązki i zobowiązania podlegają właściwym sądom kraju nabycia licencji na Program przez Licencjobiorcę.
+
+Część 2 - Warunki specyficzne dla poszczególnych krajów
+
+W przypadku licencji udzielanych na terenie Polski, poniższe warunki zastępują lub modyfikują warunki określone w Części 1. Wszystkie warunki Części 1, których nie dotyczy niniejsza poprawka, nie ulegają zmianom i pozostają w mocy. W skład Części 2 wchodzą:
+
+* Zmiany krajowe do Części 1, paragraf 14 (Zasięg geograficzny i obowiązujące ustawodawstwo) oraz
+
+* Zmiany krajowe do innych warunków Umowy dotyczące Europy, Bliskiego Wschodu i Afryki.
+
+Zmiany krajowe do Części 1, paragraf 14 (Zasięg geograficzny i obowiązujące ustawodawstwo)
+
+14.1 Obowiązujące ustawodawstwo
+
+Fraza "prawo kraju, w którym licencja na Program została nabyta" w pierwszym akapicie paragrafu 14.1 Obowiązujące ustawodawstwo zostaje w przypadku Polski zastąpiona następującym tekstem:
+
+prawo Austrii;
+
+14.3 Arbitraż
+
+Następujący akapit mający zastosowanie w Polsce zostaje dodany jako nowy do paragrafu 14.3 (Arbitraż). Postanowienia paragrafu 14.3 mają znaczenie rozstrzygające nad postanowieniami paragrafu 14.2 (Jurysdykcja) w zakresie, w jakim zezwala na to obowiązujące ustawodawstwo i zasady proceduralne:
+
+Wszelkie kwestie sporne wynikające z niniejszej Umowy lub związane z jej naruszeniem, wypowiedzeniem lub nieważnością będą rozstrzygane w sposób ostateczny zgodnie z Zasadami Postępowania Arbitrażowego i Ugodowego Międzynarodowego Centrum Arbitrażu przy Federalnej Izbie Gospodarczej (Rules of Arbitration and Conciliation of the International Arbitral Center of the Federal Economic Chamber) w Wiedniu (Vienna Rules), przez trzech arbitrów, powołanych zgodnie ze wspomnianymi zasadami. Arbitraż będzie miał miejsce w Wiedniu, w Austrii. Językiem obowiązującym podczas postępowania będzie język angielski. Orzeczenia arbitrów będą ostateczne i wiążące dla obu Stron. Oznacza to, że zgodnie z artykułem 598(2) Austriackiego Kodeksu Postępowania Cywilnego (Austrian Code of Civil Procedure), Strony rezygnują ze stosowania artykułu 595(1) punkt 7 tego Kodeksu. Tym niemniej powyższe warunki w żadnym stopniu nie ograniczają prawa IBM do wszczęcia postępowania przed dowolnym właściwym sądem w kraju instalacji.
+
+8. Gwarancje i zastrzeżenia
+
+Następujący tekst został dodany do paragrafu 8 (Gwarancje i zastrzeżenia):
+
+W krajach Unii Europejskiej ("UE") klientom przysługują prawa wynikające z obowiązującego ustawodawstwa krajowego, któremu podlega sprzedaż artykułów konsumpcyjnych. Postanowienia zawarte w paragrafie 8, Gwarancje i zastrzeżenia pozostają bez wpływu na te prawa. Ograniczona gwarancja ma zasięg ogólnoświatowy.
+
+13. Postanowienia ogólne
+
+Następujący tekst zastępuje punkt 13.e:
+
+(1) Definicje - do punktu 13.e mają zastosowanie następujące definicje dodatkowe:
+
+(a) Biznesowe Informacje Kontaktowe - oznaczają informacje mające związek z działalnością gospodarczą, ujawnione IBM przez Licencjobiorcę, w tym imiona i nazwiska, stanowiska, adresy służbowe, numery telefonów oraz adresy e-mail pracowników i wykonawców Licencjobiorcy. W przypadku Austrii, Włoch i Szwajcarii Biznesowe Informacje Kontaktowe obejmują również informacje o Licencjobiorcy oraz jego wykonawcach posiadających osobowość prawną (na przykład dane na temat przychodów Licencjobiorcy i inne informacje o transakcjach).
+
+(b) Biznesowy Personel Kontaktowy oznacza pracowników i wykonawców Licencjobiorcy, do których odnoszą się Biznesowe Informacje Kontaktowe.
+
+(c) Urząd Ochrony Danych oznacza organ powołany zgodnie z Ustawodawstwem o ochronie danych i łączności elektronicznej w określonym kraju lub w przypadku krajów spoza Unii Europejskiej, organ odpowiedzialny za nadzór nad ochroną danych osobowych w takim kraju bądź (w obu powyższych przypadkach) każdy następca prawny takiego organu powołany w odpowiedni sposób.
+
+(d) Ustawodawstwo o ochronie danych i łączności elektronicznej oznacza (i) obowiązujące prawo i przepisy krajowe wdrażające wymagania dyrektywy Unii Europejskiej 95/46/WE (w sprawie ochrony osób fizycznych w zakresie przetwarzania danych osobowych i swobodnego przepływu tych danych) oraz dyrektywy 2002/58/WE (dotyczącej przetwarzania danych osobowych i ochrony prywatności w sektorze łączności elektronicznej); lub (ii) w przypadku krajów spoza Unii Europejskiej, prawa i przepisy obowiązujące w takich krajach i odnoszące się do ochrony danych osobowych i przepisów o łączności elektronicznej z wykorzystaniem danych osobowych, w tym (w obu powyższych przypadkach) ich ustawowe nowe wersje i modyfikacje.
+
+(e) Grupa IBM oznacza International Business Machines Corporation z siedzibą w Armonk, Nowy Jork, USA, przedsiębiorstwa podporządkowane International Business Machines Corporation oraz ich odpowiednich Partnerów Handlowych i podwykonawców.
+
+(2) Licencjobiorca upoważnia IBM do:
+
+(a) przetwarzania i używania Biznesowych Informacji Kontaktowych w ramach Grupy IBM w celu obsługi Licencjobiorcy, w tym w celu świadczenia usług wsparcia oraz rozszerzania relacji handlowych między Licencjobiorcą i Grupą IBM, a w szczególności nawiązywania kontaktów z Biznesowym Personelem Kontaktowym (za pośrednictwem poczty e-mail lub w inny sposób) oraz sprzedaży produktów i usług Grupy IBM (zwanym dalej "Określonym Celem"); oraz
+
+(b) ujawniania Biznesowych Informacji Kontaktowych innym członkom Grupy IBM jedynie na potrzeby realizacji Określonego Celu.
+
+(3) IBM wyraża zgodę na przetwarzanie Biznesowych Informacji Kontaktowych zgodnie z Ustawodawstwem o ochronie danych i łączności elektronicznej.
+
+(4) Licencjobiorca oświadcza, że w zakresie wymaganym Ustawodawstwem o ochronie danych i łączności elektronicznej (a) uzyskał (lub uzyska) zgodę Biznesowego Personelu Kontaktowego na przetwarzanie i używanie przez Grupę IBM Biznesowych Informacji Kontaktowych do realizacji Określonego Celu, oraz że przygotował (lub przygotuje) powiadomienie dla Biznesowego Personelu Kontaktowego w tej sprawie.
+
+(5) Licencjobiorca upoważnia IBM do przesyłania Biznesowych Informacji Kontaktowych poza Europejską Strefę Ekonomiczną pod warunkiem, że będzie to realizowane na warunkach zatwierdzonych przez Urząd Ochrony Danych lub zgodnie z Ustawodawstwem o ochronie danych i łączności elektronicznej.
+
+Z125-3301-14 (07/2011)
+
+

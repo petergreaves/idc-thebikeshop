@@ -1,0 +1,214 @@
+<!--********************************************************************-->
+<!--  Licensed Materials - Property of IBM                              -->
+<!--                                                                    -->
+<!--  WebSphere Commerce                                                -->
+<!--                                                                    -->
+<!--  (c) Copyright IBM Corp. 2006                                      -->
+<!--                                                                    -->
+<!--  US Government Users Restricted Rights - Use, duplication or       -->
+<!--  disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+<!--                                                                    -->
+<!--********************************************************************-->
+
+<!ENTITY % wcs.dtd SYSTEM "wcs.dtd">
+%wcs.dtd;
+
+<!ENTITY % ForeignKeys.dtd SYSTEM "ForeignKeys.dtd">
+%ForeignKeys.dtd;
+
+<!ENTITY accesscontrol.xml SYSTEM "accesscontrol.xml">
+<!ENTITY campaign.xml SYSTEM "campaign.xml">
+<!ENTITY command.xml SYSTEM "command.xml">
+<!ENTITY eSpots.xml SYSTEM "eSpots.xml">
+<!ENTITY loadorg.xml SYSTEM "model/loadorg.xml">
+<!ENTITY profileorg.xml SYSTEM "profileorg.xml">
+<!ENTITY profileorgrole.xml SYSTEM "profileorgrole.xml">
+<!ENTITY promotions.xml SYSTEM "promotions.xml">
+<!ENTITY seo.xml SYSTEM "seo.xml">
+<!ENTITY seocatalog.xml SYSTEM "seocatalog.xml">
+<!ENTITY storeconf.xml SYSTEM "storeconf.xml">
+<!ENTITY staticmarketingcontent.xml SYSTEM "staticmarketingcontent.xml">
+<!ENTITY store-defaults.xml SYSTEM "store-defaults.xml">
+<!ENTITY store.xml SYSTEM "store.xml">
+<!ENTITY storerelation.xml SYSTEM "storerelation.xml">
+<!ENTITY parentorg.xml SYSTEM "parentorg.xml">
+<!ENTITY parentorgrole.xml SYSTEM "parentorgrole.xml">
+
+<!ENTITY ar_EG_accesscontrol.xml SYSTEM "ar_EG/accesscontrol.xml">
+<!ENTITY ar_EG_businesspolicy.xml SYSTEM "ar_EG/businesspolicy.xml">
+<!ENTITY ar_EG_catalog.xml SYSTEM "ar_EG/catalog.xml">
+<!ENTITY ar_EG_eSpots.xml SYSTEM "ar_EG/eSpots.xml">
+<!ENTITY ar_EG_fulfillment.xml SYSTEM "ar_EG/fulfillment.xml">
+<!ENTITY ar_EG_searchterm-mappings.xml SYSTEM "ar_EG/searchterm-mappings.xml">
+<!ENTITY ar_EG_seocatalog.xml SYSTEM "ar_EG/seocatalog.xml">
+<!ENTITY ar_EG_staticmarketingcontent.xml SYSTEM "ar_EG/staticmarketingcontent.xml">
+<!ENTITY ar_EG_store.xml SYSTEM "ar_EG/store.xml">
+
+<!ENTITY de_DE_accesscontrol.xml SYSTEM "de_DE/accesscontrol.xml">
+<!ENTITY de_DE_businesspolicy.xml SYSTEM "de_DE/businesspolicy.xml">
+<!ENTITY de_DE_catalog.xml SYSTEM "de_DE/catalog.xml">
+<!ENTITY de_DE_eSpots.xml SYSTEM "de_DE/eSpots.xml">
+<!ENTITY de_DE_fulfillment.xml SYSTEM "de_DE/fulfillment.xml">
+<!ENTITY de_DE_searchterm-mappings.xml SYSTEM "de_DE/searchterm-mappings.xml">
+<!ENTITY de_DE_seocatalog.xml SYSTEM "de_DE/seocatalog.xml">
+<!ENTITY de_DE_staticmarketingcontent.xml SYSTEM "de_DE/staticmarketingcontent.xml">
+<!ENTITY de_DE_store.xml SYSTEM "de_DE/store.xml">
+
+<!ENTITY el_GR_accesscontrol.xml SYSTEM "el_GR/accesscontrol.xml">
+<!ENTITY el_GR_businesspolicy.xml SYSTEM "el_GR/businesspolicy.xml">
+<!ENTITY el_GR_catalog.xml SYSTEM "el_GR/catalog.xml">
+<!ENTITY el_GR_fulfillment.xml SYSTEM "el_GR/fulfillment.xml">
+<!ENTITY el_GR_seocatalog.xml SYSTEM "el_GR/seocatalog.xml">
+<!ENTITY el_GR_store.xml SYSTEM "el_GR/store.xml">
+
+<!ENTITY en_US_accesscontrol.xml SYSTEM "en_US/accesscontrol.xml">
+<!ENTITY en_US_businesspolicy.xml SYSTEM "en_US/businesspolicy.xml">
+<!ENTITY en_US_catalog.xml SYSTEM "en_US/catalog.xml">
+<!ENTITY en_US_eSpots.xml SYSTEM "en_US/eSpots.xml">
+<!ENTITY en_US_fulfillment.xml SYSTEM "en_US/fulfillment.xml">
+<!ENTITY en_US_searchterm-mappings.xml SYSTEM "en_US/searchterm-mappings.xml">
+<!ENTITY en_US_seocatalog.xml SYSTEM "en_US/seocatalog.xml">
+<!ENTITY en_US_staticmarketingcontent.xml SYSTEM "en_US/staticmarketingcontent.xml">
+<!ENTITY en_US_store.xml SYSTEM "en_US/store.xml">
+
+<!ENTITY es_ES_accesscontrol.xml SYSTEM "es_ES/accesscontrol.xml">
+<!ENTITY es_ES_businesspolicy.xml SYSTEM "es_ES/businesspolicy.xml">
+<!ENTITY es_ES_catalog.xml SYSTEM "es_ES/catalog.xml">
+<!ENTITY es_ES_eSpots.xml SYSTEM "es_ES/eSpots.xml">
+<!ENTITY es_ES_fulfillment.xml SYSTEM "es_ES/fulfillment.xml">
+<!ENTITY es_ES_searchterm-mappings.xml SYSTEM "es_ES/searchterm-mappings.xml">
+<!ENTITY es_ES_seocatalog.xml SYSTEM "es_ES/seocatalog.xml">
+<!ENTITY es_ES_staticmarketingcontent.xml SYSTEM "es_ES/staticmarketingcontent.xml">
+<!ENTITY es_ES_store.xml SYSTEM "es_ES/store.xml">
+
+<!ENTITY fr_FR_accesscontrol.xml SYSTEM "fr_FR/accesscontrol.xml">
+<!ENTITY fr_FR_businesspolicy.xml SYSTEM "fr_FR/businesspolicy.xml">
+<!ENTITY fr_FR_catalog.xml SYSTEM "fr_FR/catalog.xml">
+<!ENTITY fr_FR_eSpots.xml SYSTEM "fr_FR/eSpots.xml">
+<!ENTITY fr_FR_fulfillment.xml SYSTEM "fr_FR/fulfillment.xml">
+<!ENTITY fr_FR_searchterm-mappings.xml SYSTEM "fr_FR/searchterm-mappings.xml">
+<!ENTITY fr_FR_seocatalog.xml SYSTEM "fr_FR/seocatalog.xml">
+<!ENTITY fr_FR_staticmarketingcontent.xml SYSTEM "fr_FR/staticmarketingcontent.xml">
+<!ENTITY fr_FR_store.xml SYSTEM "fr_FR/store.xml">
+
+<!ENTITY he_IL_accesscontrol.xml SYSTEM "he_IL/accesscontrol.xml">
+<!ENTITY he_IL_businesspolicy.xml SYSTEM "he_IL/businesspolicy.xml">
+<!ENTITY he_IL_catalog.xml SYSTEM "he_IL/catalog.xml">
+<!ENTITY he_IL_eSpots.xml SYSTEM "he_IL/eSpots.xml">
+<!ENTITY he_IL_fulfillment.xml SYSTEM "he_IL/fulfillment.xml">
+<!ENTITY he_IL_searchterm-mappings.xml SYSTEM "he_IL/searchterm-mappings.xml">
+<!ENTITY he_IL_seocatalog.xml SYSTEM "he_IL/seocatalog.xml">
+<!ENTITY he_IL_staticmarketingcontent.xml SYSTEM "he_IL/staticmarketingcontent.xml">
+<!ENTITY he_IL_store.xml SYSTEM "he_IL/store.xml">
+
+<!ENTITY it_IT_accesscontrol.xml SYSTEM "it_IT/accesscontrol.xml">
+<!ENTITY it_IT_businesspolicy.xml SYSTEM "it_IT/businesspolicy.xml">
+<!ENTITY it_IT_catalog.xml SYSTEM "it_IT/catalog.xml">
+<!ENTITY it_IT_eSpots.xml SYSTEM "it_IT/eSpots.xml">
+<!ENTITY it_IT_fulfillment.xml SYSTEM "it_IT/fulfillment.xml">
+<!ENTITY it_IT_searchterm-mappings.xml SYSTEM "it_IT/searchterm-mappings.xml">
+<!ENTITY it_IT_seocatalog.xml SYSTEM "it_IT/seocatalog.xml">
+<!ENTITY it_IT_staticmarketingcontent.xml SYSTEM "it_IT/staticmarketingcontent.xml">
+<!ENTITY it_IT_store.xml SYSTEM "it_IT/store.xml">
+
+<!ENTITY iw_IL_accesscontrol.xml SYSTEM "iw_IL/accesscontrol.xml">
+<!ENTITY iw_IL_businesspolicy.xml SYSTEM "iw_IL/businesspolicy.xml">
+<!ENTITY iw_IL_catalog.xml SYSTEM "iw_IL/catalog.xml">
+<!ENTITY iw_IL_eSpots.xml SYSTEM "iw_IL/eSpots.xml">
+<!ENTITY iw_IL_fulfillment.xml SYSTEM "iw_IL/fulfillment.xml">
+<!ENTITY iw_IL_searchterm-mappings.xml SYSTEM "iw_IL/searchterm-mappings.xml">
+<!ENTITY iw_IL_seocatalog.xml SYSTEM "iw_IL/seocatalog.xml">
+<!ENTITY iw_IL_staticmarketingcontent.xml SYSTEM "iw_IL/staticmarketingcontent.xml">
+<!ENTITY iw_IL_store.xml SYSTEM "iw_IL/store.xml">
+
+<!ENTITY ja_JP_accesscontrol.xml SYSTEM "ja_JP/accesscontrol.xml">
+<!ENTITY ja_JP_businesspolicy.xml SYSTEM "ja_JP/businesspolicy.xml">
+<!ENTITY ja_JP_catalog.xml SYSTEM "ja_JP/catalog.xml">
+<!ENTITY ja_JP_eSpots.xml SYSTEM "ja_JP/eSpots.xml">
+<!ENTITY ja_JP_fulfillment.xml SYSTEM "ja_JP/fulfillment.xml">
+<!ENTITY ja_JP_searchterm-mappings.xml SYSTEM "ja_JP/searchterm-mappings.xml">
+<!ENTITY ja_JP_seocatalog.xml SYSTEM "ja_JP/seocatalog.xml">
+<!ENTITY ja_JP_staticmarketingcontent.xml SYSTEM "ja_JP/staticmarketingcontent.xml">
+<!ENTITY ja_JP_store.xml SYSTEM "ja_JP/store.xml">
+
+<!ENTITY ko_KR_accesscontrol.xml SYSTEM "ko_KR/accesscontrol.xml">
+<!ENTITY ko_KR_businesspolicy.xml SYSTEM "ko_KR/businesspolicy.xml">
+<!ENTITY ko_KR_catalog.xml SYSTEM "ko_KR/catalog.xml">
+<!ENTITY ko_KR_eSpots.xml SYSTEM "ko_KR/eSpots.xml">
+<!ENTITY ko_KR_fulfillment.xml SYSTEM "ko_KR/fulfillment.xml">
+<!ENTITY ko_KR_searchterm-mappings.xml SYSTEM "ko_KR/searchterm-mappings.xml">
+<!ENTITY ko_KR_seocatalog.xml SYSTEM "ko_KR/seocatalog.xml">
+<!ENTITY ko_KR_staticmarketingcontent.xml SYSTEM "ko_KR/staticmarketingcontent.xml">
+<!ENTITY ko_KR_store.xml SYSTEM "ko_KR/store.xml">
+
+<!ENTITY pl_PL_accesscontrol.xml SYSTEM "pl_PL/accesscontrol.xml">
+<!ENTITY pl_PL_businesspolicy.xml SYSTEM "pl_PL/businesspolicy.xml">
+<!ENTITY pl_PL_catalog.xml SYSTEM "pl_PL/catalog.xml">
+<!ENTITY pl_PL_eSpots.xml SYSTEM "pl_PL/eSpots.xml">
+<!ENTITY pl_PL_fulfillment.xml SYSTEM "pl_PL/fulfillment.xml">
+<!ENTITY pl_PL_searchterm-mappings.xml SYSTEM "pl_PL/searchterm-mappings.xml">
+<!ENTITY pl_PL_seocatalog.xml SYSTEM "pl_PL/seocatalog.xml">
+<!ENTITY pl_PL_staticmarketingcontent.xml SYSTEM "pl_PL/staticmarketingcontent.xml">
+<!ENTITY pl_PL_store.xml SYSTEM "pl_PL/store.xml">
+
+<!ENTITY pt_BR_accesscontrol.xml SYSTEM "pt_BR/accesscontrol.xml">
+<!ENTITY pt_BR_businesspolicy.xml SYSTEM "pt_BR/businesspolicy.xml">
+<!ENTITY pt_BR_catalog.xml SYSTEM "pt_BR/catalog.xml">
+<!ENTITY pt_BR_eSpots.xml SYSTEM "pt_BR/eSpots.xml">
+<!ENTITY pt_BR_fulfillment.xml SYSTEM "pt_BR/fulfillment.xml">
+<!ENTITY pt_BR_searchterm-mappings.xml SYSTEM "pt_BR/searchterm-mappings.xml">
+<!ENTITY pt_BR_seocatalog.xml SYSTEM "pt_BR/seocatalog.xml">
+<!ENTITY pt_BR_staticmarketingcontent.xml SYSTEM "pt_BR/staticmarketingcontent.xml">
+<!ENTITY pt_BR_store.xml SYSTEM "pt_BR/store.xml">
+
+<!ENTITY ro_RO_accesscontrol.xml SYSTEM "ro_RO/accesscontrol.xml">
+<!ENTITY ro_RO_businesspolicy.xml SYSTEM "ro_RO/businesspolicy.xml">
+<!ENTITY ro_RO_catalog.xml SYSTEM "ro_RO/catalog.xml">
+<!ENTITY ro_RO_eSpots.xml SYSTEM "ro_RO/eSpots.xml">
+<!ENTITY ro_RO_fulfillment.xml SYSTEM "ro_RO/fulfillment.xml">
+<!ENTITY ro_RO_searchterm-mappings.xml SYSTEM "ro_RO/searchterm-mappings.xml">
+<!ENTITY ro_RO_seocatalog.xml SYSTEM "ro_RO/seocatalog.xml">
+<!ENTITY ro_RO_staticmarketingcontent.xml SYSTEM "ro_RO/staticmarketingcontent.xml">
+<!ENTITY ro_RO_store.xml SYSTEM "ro_RO/store.xml">
+
+<!ENTITY ru_RU_accesscontrol.xml SYSTEM "ru_RU/accesscontrol.xml">
+<!ENTITY ru_RU_businesspolicy.xml SYSTEM "ru_RU/businesspolicy.xml">
+<!ENTITY ru_RU_catalog.xml SYSTEM "ru_RU/catalog.xml">
+<!ENTITY ru_RU_eSpots.xml SYSTEM "ru_RU/eSpots.xml">
+<!ENTITY ru_RU_fulfillment.xml SYSTEM "ru_RU/fulfillment.xml">
+<!ENTITY ru_RU_searchterm-mappings.xml SYSTEM "ru_RU/searchterm-mappings.xml">
+<!ENTITY ru_RU_seocatalog.xml SYSTEM "ru_RU/seocatalog.xml">
+<!ENTITY ru_RU_staticmarketingcontent.xml SYSTEM "ru_RU/staticmarketingcontent.xml">
+<!ENTITY ru_RU_store.xml SYSTEM "ru_RU/store.xml">
+
+<!ENTITY tr_TR_accesscontrol.xml SYSTEM "tr_TR/accesscontrol.xml">
+<!ENTITY tr_TR_businesspolicy.xml SYSTEM "tr_TR/businesspolicy.xml">
+<!ENTITY tr_TR_catalog.xml SYSTEM "tr_TR/catalog.xml">
+<!ENTITY tr_TR_eSpots.xml SYSTEM "tr_TR/eSpots.xml">
+<!ENTITY tr_TR_fulfillment.xml SYSTEM "tr_TR/fulfillment.xml">
+<!ENTITY tr_TR_searchterm-mappings.xml SYSTEM "tr_TR/searchterm-mappings.xml">
+<!ENTITY tr_TR_seocatalog.xml SYSTEM "tr_TR/seocatalog.xml">
+<!ENTITY tr_TR_staticmarketingcontent.xml SYSTEM "tr_TR/staticmarketingcontent.xml">
+<!ENTITY tr_TR_store.xml SYSTEM "tr_TR/store.xml">
+
+<!ENTITY zh_CN_accesscontrol.xml SYSTEM "zh_CN/accesscontrol.xml">
+<!ENTITY zh_CN_businesspolicy.xml SYSTEM "zh_CN/businesspolicy.xml">
+<!ENTITY zh_CN_catalog.xml SYSTEM "zh_CN/catalog.xml">
+<!ENTITY zh_CN_eSpots.xml SYSTEM "zh_CN/eSpots.xml">
+<!ENTITY zh_CN_fulfillment.xml SYSTEM "zh_CN/fulfillment.xml">
+<!ENTITY zh_CN_searchterm-mappings.xml SYSTEM "zh_CN/searchterm-mappings.xml">
+<!ENTITY zh_CN_seocatalog.xml SYSTEM "zh_CN/seocatalog.xml">
+<!ENTITY zh_CN_staticmarketingcontent.xml SYSTEM "zh_CN/staticmarketingcontent.xml">
+<!ENTITY zh_CN_store.xml SYSTEM "zh_CN/store.xml">
+
+<!ENTITY zh_TW_accesscontrol.xml SYSTEM "zh_TW/accesscontrol.xml">
+<!ENTITY zh_TW_businesspolicy.xml SYSTEM "zh_TW/businesspolicy.xml">
+<!ENTITY zh_TW_catalog.xml SYSTEM "zh_TW/catalog.xml">
+<!ENTITY zh_TW_eSpots.xml SYSTEM "zh_TW/eSpots.xml">
+<!ENTITY zh_TW_fulfillment.xml SYSTEM "zh_TW/fulfillment.xml">
+<!ENTITY zh_TW_searchterm-mappings.xml SYSTEM "zh_TW/searchterm-mappings.xml">
+<!ENTITY zh_TW_seocatalog.xml SYSTEM "zh_TW/seocatalog.xml">
+<!ENTITY zh_TW_staticmarketingcontent.xml SYSTEM "zh_TW/staticmarketingcontent.xml">
+<!ENTITY zh_TW_store.xml SYSTEM "zh_TW/store.xml">
+<!ENTITY ckEditorConfig.xml SYSTEM "ckEditorConfig.xml">
+<!ENTITY cmcUIHiding.xml SYSTEM "cmcUIHiding.xml">

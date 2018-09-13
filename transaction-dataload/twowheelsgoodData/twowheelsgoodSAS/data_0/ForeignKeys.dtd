@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY STORE_IDENTIFIER_LOWERCASE "twowheelsgoodsas">
+<!ENTITY ru_RU "-20">
+<!ENTITY STORE_IDENTIFIER_CPS "twowheelsgoodCAS">
+<!ENTITY STORE_IDENTIFIER "twowheelsgoodSAS">
+<!ENTITY it_IT "-4">
+<!ENTITY pl_PL "-22">
+<!ENTITY ro_RO "-21">
+<!ENTITY WCHASSETS_STOREDIR "/AuroraStorefrontAssetStore">
+<!ENTITY STORE_DIRECTORY_LOWERCASE "twowheelsgoodsas">
+<!ENTITY ORGANIZATION_NAME "Seller Organization">
+<!ENTITY tr_TR "-13">
+<!ENTITY pt_BR "-6">
+<!ENTITY ja_JP "-10">
+<!ENTITY he_IL "-12">
+<!ENTITY fr_FR "-2">
+<!ENTITY ORGANIZATION_ID "@seller_b2c_orgentity_id">
+<!ENTITY de_DE "-3">
+<!ENTITY zh_TW "-8">
+<!ENTITY WCHPREFIX "https://my4.digitalexperience.ibm.com/30817b50-78a2-4463-b5e2-2d7c39231327/dxdam">
+<!ENTITY STORE_TYPE "MPS">
+<!ENTITY es_ES "-5">
+<!ENTITY INV_CHOICE "DOMInv">
+<!ENTITY SAMPLE_CHOICE "*">
+<!ENTITY ORGENTITYNAME "aurora">
+<!ENTITY STORE_DIR "twowheelsgoodSAS">
+<!ENTITY iw_IL "-11">
+<!ENTITY ATTR_CHOICE "Classic">
+<!ENTITY ko_KR "-9">
+<!ENTITY STORE_ID_CPS "10051">
+<!ENTITY en_US "-1">
+<!ENTITY STORE_DIR_CPS_LOWERCASE "twowheelsgoodcas">
+<!ENTITY MEMBER_ID "@seller_b2c_mbr_id">
+<!ENTITY zh_CN "-7">
+<!ENTITY ar_EG "-23">
+<!ENTITY STORE_IDENTIFIER_CPS_LOWERCASE "twowheelsgoodcas">
+<!ENTITY ORGANIZATION_DN "o=extended sites organization,o=root organization">
+<!ENTITY STORE_DIR_CPS "twowheelsgoodCAS">
+

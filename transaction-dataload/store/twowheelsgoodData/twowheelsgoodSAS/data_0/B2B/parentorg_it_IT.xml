@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE organizationrole-asset SYSTEM "organizationrole.dtd">
+<organizationrole-asset>
+	<!-- Create Seller Org -->
+	<orgentity orgentity_id="@seller_orgentity_id" dn="&ORGANIZATION_DN;" orgentitytype="O" orgentityname="Organizzazione venditore" >
+		<isa>
+			<member member_id="@seller_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>
+	
+	<!-- Create B2C Org -->
+	<orgentity orgentity_id="@seller_b2c_orgentity_id" dn="ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;" orgentitytype="OU" orgentityname="Organizzazione &STORE_IDENTIFIER;" >
+		<isa>
+			<member member_id="@seller_b2c_mbr_id" type="O" state="1"/>
+		</isa>
+	</orgentity>
+</organizationrole-asset>

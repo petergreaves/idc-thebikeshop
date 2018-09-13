@@ -1,0 +1,20 @@
+CatalogEntryAttributeDictionaryAttributeRelationship,,,,,,
+PartNumber,AttributeIdentifier,ValueIdentifier,Value,Usage,Sequence,Delete
+Cords-Black-29W x 28L,CordsColor,Black,,Defining,1,
+Cords-Black-29W x 28L,CordsSize,29W x 28L,,Defining,2,
+Cords-Brown-29W x 28L,CordsColor,Brown,,Defining,1,
+Cords-Brown-29W x 28L,CordsSize,29W x 28L,,Defining,2,
+Classic pleated dress pant-Black-29W x 32L,DressPantColor,Black,,Defining,1,
+Classic pleated dress pant-Black-29W x 32L,DressPantSize,29W x 32L,,Defining,2,
+Classic pleated dress pant-Black-29W x 32L,Style,Elegant,Elegant,Descriptive,3,
+Dress shirt-White-15,DressShirtColor,White,,Defining,1,
+Dress shirt-White-15,DressShirtSize,15,,Defining,2,
+Dress shirt-White-16,DressShirtColor,White,,Defining,1,
+Dress shirt-White-16,DressShirtSize,16,,Defining,2,
+Casual shirt-White-Small,CasualShirtColor,White,,Defining,1,
+Casual shirt-White-Small,CasualShirtSize,Small,,Defining,2,
+Casual shirt-Blue-Medium,CasualShirtColor,Blue,,Defining,1,
+Casual shirt-Blue-Medium,CasualShirtSize,Medium,,Defining,2
+Bodysuit-Black-Petit,BodysuitColor,Black,,Defining,1
+Bodysuit-Black-Petit,BodysuitSize,Petit,,Defining,2
+Bodysuit-Black-Petit,Style,Young and energetic,Young and energetic,Descriptive,3

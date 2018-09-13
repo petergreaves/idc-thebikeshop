@@ -1,0 +1,84 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  GirlsPantsColor -->
+<attrdesc attr_id="@attribute_id_GirlsPants_7" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_10" attr_id="@attribute_id_GirlsPants_7" valusage="1" language_id="&de_DE;" sequence="1" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_34" attr_id="@attribute_id_GirlsPants_7" valusage="1" language_id="&de_DE;" sequence="2" value="Grau" integervalue="" floatvalue="" stringvalue="Grau" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsPantsColor -->
+<!--BEGIN Defining attribute description  GirlsPantsSize -->
+<attrdesc attr_id="@attribute_id_GirlsPants_6" attrtype_id="STRING" language_id="&de_DE;" name="Größe" description="Größe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_6" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="1" value="2 Jahre" integervalue="" floatvalue="" stringvalue="2 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_7" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="2" value="3 Jahre" integervalue="" floatvalue="" stringvalue="3 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_8" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="3" value="4 Jahre" integervalue="" floatvalue="" stringvalue="4 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_9" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="4" value="5 Jahre" integervalue="" floatvalue="" stringvalue="5 Jahre" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_14" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="5" value="6" integervalue="6" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_15" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="6" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_16" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="7" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_17" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="8" value="12" integervalue="12" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_18" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="9" value="14" integervalue="14" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_27" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="10" value="12 Monate" integervalue="" floatvalue="" stringvalue="12 Monate" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_28" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="11" value="18 Monate" integervalue="" floatvalue="" stringvalue="18 Monate" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_29" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&de_DE;" sequence="12" value="24 Monate" integervalue="" floatvalue="" stringvalue="24 Monate" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsPantsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_GirlsPants_5" attrtype_id="STRING" language_id="&de_DE;" name="Alter" description="Alter" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_5_GCL018_1801" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="1" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1802" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1805" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1809" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1810" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_19_GCL018_1803" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="3" value="2T - 5T" integervalue="" floatvalue="" stringvalue="2T - 5T" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_19_GCL018_1806" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="3" value="2T - 5T" integervalue="" floatvalue="" stringvalue="2T - 5T" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_22_GCL018_1804" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="4" value="2T - 5T, 6 - 10" integervalue="" floatvalue="" stringvalue="2T - 5T, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_26_GCL018_1807" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="5" value="12 - 24 Monate, 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 Monate, 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_30_GCL018_1808" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&de_DE;" sequence="6" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_GirlsPants_2" attrtype_id="STRING" language_id="&de_DE;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1801" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1802" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1803" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1804" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1805" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1806" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1807" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1808" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1810" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="1" value="Baumwolldenim" integervalue="" floatvalue="" stringvalue="Baumwolldenim" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_32_GCL018_1809" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&de_DE;" sequence="2" value="Baumwolle/Polyester" integervalue="" floatvalue="" stringvalue="Baumwolle/Polyester" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_GirlsPants_1" attrtype_id="STRING" language_id="&de_DE;" name="Schnitt" description="Schnitt" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1801" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="1" value="Bootcut" integervalue="" floatvalue="" stringvalue="Bootcut" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1806" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="1" value="Bootcut" integervalue="" floatvalue="" stringvalue="Bootcut" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1808" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="1" value="Bootcut" integervalue="" floatvalue="" stringvalue="Bootcut" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1802" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="2" value="Gerades Bein" integervalue="" floatvalue="" stringvalue="Gerades Bein" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1803" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="2" value="Gerades Bein" integervalue="" floatvalue="" stringvalue="Gerades Bein" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1810" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="2" value="Gerades Bein" integervalue="" floatvalue="" stringvalue="Gerades Bein" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_20_GCL018_1804" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="3" value="Schlaghose" integervalue="" floatvalue="" stringvalue="Schlaghose" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_23_GCL018_1805" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="4" value="Röhre" integervalue="" floatvalue="" stringvalue="Röhre" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_25_GCL018_1807" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="5" value="Latzhose" integervalue="" floatvalue="" stringvalue="Latzhose" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_31_GCL018_1809" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&de_DE;" sequence="6" value="Jogginghose" integervalue="" floatvalue="" stringvalue="Jogginghose" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_GirlsPants_3" attrtype_id="STRING" language_id="&de_DE;" name="Anlass" description="Anlass" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1801" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1802" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1803" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1804" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1805" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1806" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1807" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1808" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1810" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="1" value="Freizeit" integervalue="" floatvalue="" stringvalue="Freizeit" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_33_GCL018_1809" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&de_DE;" sequence="2" value="Freizeit, Outdoor, Sport" integervalue="" floatvalue="" stringvalue="Freizeit, Outdoor, Sport" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

@@ -1,0 +1,10 @@
+﻿RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription
+HomePageContainer,主页容器,主页容器窗口小部件
+ContentPageContainer,单列容器,单列容器窗口小部件
+DepartmentPageContainer,双列（左侧边栏和拆分行内容）容器,双列（左侧边栏和拆分行内容）容器窗口小部件
+SubCategoryPageContainer,双列（左侧边栏）容器,双列（左侧边栏）容器窗口小部件
+SearchLandingPageContainer,单列（具有头标识）容器,单列（具有头标识）容器窗口小部件
+SearchResultPageContainer,双列（左侧边栏，带标签）容器,双列（左侧边栏，带标签）容器窗口小部件
+StaticContentContainer,双列（右侧边栏）容器,双列（右侧边栏）容器窗口小部件
+ProductPageContainer,产品页面容器,产品页面容器窗口小部件

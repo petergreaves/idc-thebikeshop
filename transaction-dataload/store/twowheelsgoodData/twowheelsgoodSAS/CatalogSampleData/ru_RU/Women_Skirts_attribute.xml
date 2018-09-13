@@ -1,0 +1,141 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  WomenSkirtsColor -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_9" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_15" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="1" value="Синий" integervalue="" floatvalue="" stringvalue="Синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_20" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="2" value="Зеленый" integervalue="" floatvalue="" stringvalue="Зеленый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_25" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="3" value="Черный" integervalue="" floatvalue="" stringvalue="Черный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_31" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="4" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_34" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="5" value="Разные цвета" integervalue="" floatvalue="" stringvalue="Разные цвета" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_50" attr_id="@attribute_id_WomenSkirts_9" valusage="1" language_id="&ru_RU;" sequence="6" value="Ориндж" integervalue="" floatvalue="" stringvalue="Ориндж" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsColor -->
+<!--BEGIN Defining attribute description  WomenSkirtsSize -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_8" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_8" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_9" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_10" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_11" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_12" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_13" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_14" attr_id="@attribute_id_WomenSkirts_8" valusage="1" language_id="&ru_RU;" sequence="7" value="XXXL" integervalue="" floatvalue="" stringvalue="XXXL" qtyunit_id="C62" />
+<!--END Defining attribute description  WomenSkirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Cleaning -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_7" attrtype_id="STRING" language_id="&ru_RU;" name="Чистка" description="Чистка" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0302" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0303" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0307" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0309" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0314" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0315" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0317" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0318" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0321" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_7_WCL003_0323" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Стиральная машина" integervalue="" floatvalue="" stringvalue="Стиральная машина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0305" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Химическая чистка" integervalue="" floatvalue="" stringvalue="Химическая чистка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0306" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Химическая чистка" integervalue="" floatvalue="" stringvalue="Химическая чистка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0311" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Химическая чистка" integervalue="" floatvalue="" stringvalue="Химическая чистка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0313" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Химическая чистка" integervalue="" floatvalue="" stringvalue="Химическая чистка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_24_WCL003_0316" attr_id="@attribute_id_WomenSkirts_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Химическая чистка" integervalue="" floatvalue="" stringvalue="Химическая чистка" />
+<!--end of  Cleaning -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_4" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0302" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопок/спандекс" integervalue="" floatvalue="" stringvalue="Хлопок/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0305" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопок/спандекс" integervalue="" floatvalue="" stringvalue="Хлопок/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_4_WCL003_0323" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопок/спандекс" integervalue="" floatvalue="" stringvalue="Хлопок/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_18_WCL003_0303" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="2" value="Хлопок" integervalue="" floatvalue="" stringvalue="Хлопок" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0306" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="3" value="Фланель" integervalue="" floatvalue="" stringvalue="Фланель" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_29_WCL003_0314" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="3" value="Фланель" integervalue="" floatvalue="" stringvalue="Фланель" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0307" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="4" value="Хлопковая смесь" integervalue="" floatvalue="" stringvalue="Хлопковая смесь" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0318" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="4" value="Хлопковая смесь" integervalue="" floatvalue="" stringvalue="Хлопковая смесь" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_32_WCL003_0321" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="4" value="Хлопковая смесь" integervalue="" floatvalue="" stringvalue="Хлопковая смесь" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0309" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="5" value="Полиэстер/спандекс" integervalue="" floatvalue="" stringvalue="Полиэстер/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_33_WCL003_0311" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="5" value="Полиэстер/спандекс" integervalue="" floatvalue="" stringvalue="Полиэстер/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_39_WCL003_0313" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="6" value="Сатин" integervalue="" floatvalue="" stringvalue="Сатин" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_45_WCL003_0315" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="7" value="Вискоза/нейлон/спандекс" integervalue="" floatvalue="" stringvalue="Вискоза/нейлон/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_47_WCL003_0316" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="8" value="Полиэстер/вискоза/спандекс" integervalue="" floatvalue="" stringvalue="Полиэстер/вискоза/спандекс" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_49_WCL003_0317" attr_id="@attribute_id_WomenSkirts_4" valusage="1" language_id="&ru_RU;" sequence="9" value="Полиэстер" integervalue="" floatvalue="" stringvalue="Полиэстер" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_2" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0302" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Открытая спереди" integervalue="" floatvalue="" stringvalue="Открытая спереди" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0307" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Открытая спереди" integervalue="" floatvalue="" stringvalue="Открытая спереди" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_2_WCL003_0323" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Открытая спереди" integervalue="" floatvalue="" stringvalue="Открытая спереди" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0303" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Без застежек" integervalue="" floatvalue="" stringvalue="Без застежек" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0305" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Без застежек" integervalue="" floatvalue="" stringvalue="Без застежек" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_17_WCL003_0309" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Без застежек" integervalue="" floatvalue="" stringvalue="Без застежек" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0306" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Футляр" integervalue="" floatvalue="" stringvalue="Футляр" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_27_WCL003_0314" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Футляр" integervalue="" floatvalue="" stringvalue="Футляр" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_35_WCL003_0311" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="4" value="Рюшевая" integervalue="" floatvalue="" stringvalue="Рюшевая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_38_WCL003_0313" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="5" value="Облегающая" integervalue="" floatvalue="" stringvalue="Облегающая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0315" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="6" value="Карандаш" integervalue="" floatvalue="" stringvalue="Карандаш" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_43_WCL003_0321" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="6" value="Карандаш" integervalue="" floatvalue="" stringvalue="Карандаш" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_46_WCL003_0316" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="7" value="Специальный покрой" integervalue="" floatvalue="" stringvalue="Специальный покрой" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_48_WCL003_0317" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="8" value="Бантовая складка" integervalue="" floatvalue="" stringvalue="Бантовая складка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_52_WCL003_0318" attr_id="@attribute_id_WomenSkirts_2" valusage="1" language_id="&ru_RU;" sequence="9" value="Плиссированная" integervalue="" floatvalue="" stringvalue="Плиссированная" />
+<!--end of  Style -->
+<!--start of  Length -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_3" attrtype_id="STRING" language_id="&ru_RU;" name="Длина" description="Длина" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0302" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0303" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0307" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0316" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0317" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0318" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_3_WCL003_0323" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Мини" integervalue="" floatvalue="" stringvalue="Мини" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0305" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Средняя длина" integervalue="" floatvalue="" stringvalue="Средняя длина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0309" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Средняя длина" integervalue="" floatvalue="" stringvalue="Средняя длина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_21_WCL003_0313" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Средняя длина" integervalue="" floatvalue="" stringvalue="Средняя длина" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0306" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="3" value="До колен" integervalue="" floatvalue="" stringvalue="До колен" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0311" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="3" value="До колен" integervalue="" floatvalue="" stringvalue="До колен" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0314" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="3" value="До колен" integervalue="" floatvalue="" stringvalue="До колен" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_28_WCL003_0321" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="3" value="До колен" integervalue="" floatvalue="" stringvalue="До колен" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_44_WCL003_0315" attr_id="@attribute_id_WomenSkirts_3" valusage="1" language_id="&ru_RU;" sequence="4" value="Ниже колен" integervalue="" floatvalue="" stringvalue="Ниже колен" />
+<!--end of  Length -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_5" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="Нарядные" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0302" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0303" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0307" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0309" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0317" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0318" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_5_WCL003_0323" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0305" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловые" integervalue="" floatvalue="" stringvalue="Деловые" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0306" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловые" integervalue="" floatvalue="" stringvalue="Деловые" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0314" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловые" integervalue="" floatvalue="" stringvalue="Деловые" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_22_WCL003_0321" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="2" value="Деловые" integervalue="" floatvalue="" stringvalue="Деловые" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0311" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="3" value="Деловые, коктейльные, вечерние" integervalue="" floatvalue="" stringvalue="Деловые, коктейльные, вечерние" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_36_WCL003_0315" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="3" value="Деловые, коктейльные, вечерние" integervalue="" floatvalue="" stringvalue="Деловые, коктейльные, вечерние" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0313" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="4" value="Коктейльные, вечерние" integervalue="" floatvalue="" stringvalue="Коктейльные, вечерние" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_40_WCL003_0316" attr_id="@attribute_id_WomenSkirts_5" valusage="1" language_id="&ru_RU;" sequence="4" value="Коктейльные, вечерние" integervalue="" floatvalue="" stringvalue="Коктейльные, вечерние" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Shape -->
+<attrdesc attr_id="@attribute_id_WomenSkirts_1" attrtype_id="STRING" language_id="&ru_RU;" name="Форма" description="Форма" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0302" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Классическая прямая посадка" integervalue="" floatvalue="" stringvalue="Классическая прямая посадка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0305" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Классическая прямая посадка" integervalue="" floatvalue="" stringvalue="Классическая прямая посадка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0307" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Классическая прямая посадка" integervalue="" floatvalue="" stringvalue="Классическая прямая посадка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_1_WCL003_0323" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Классическая прямая посадка" integervalue="" floatvalue="" stringvalue="Классическая прямая посадка" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0303" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Широкая" integervalue="" floatvalue="" stringvalue="Широкая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0309" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Широкая" integervalue="" floatvalue="" stringvalue="Широкая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_16_WCL003_0317" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Широкая" integervalue="" floatvalue="" stringvalue="Широкая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0306" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0311" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0314" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0315" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0316" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_26_WCL003_0321" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="3" value="A-стиль" integervalue="" floatvalue="" stringvalue="A-стиль" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_37_WCL003_0313" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="4" value="Облегающая" integervalue="" floatvalue="" stringvalue="Облегающая" />
+<attrvaldesc attrval_id="@attribute_value_id_WomenSkirts_51_WCL003_0318" attr_id="@attribute_id_WomenSkirts_1" valusage="1" language_id="&ru_RU;" sequence="5" value="Пышная короткая" integervalue="" floatvalue="" stringvalue="Пышная короткая" />
+<!--end of  Shape -->
+<!-- END Writing descriptive attribute descriptions -->

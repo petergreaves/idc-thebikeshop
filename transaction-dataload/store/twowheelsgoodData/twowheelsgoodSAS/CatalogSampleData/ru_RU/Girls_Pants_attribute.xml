@@ -1,0 +1,84 @@
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  GirlsPantsColor -->
+<attrdesc attr_id="@attribute_id_GirlsPants_7" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_10" attr_id="@attribute_id_GirlsPants_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Синий" integervalue="" floatvalue="" stringvalue="Синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_34" attr_id="@attribute_id_GirlsPants_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsPantsColor -->
+<!--BEGIN Defining attribute description  GirlsPantsSize -->
+<attrdesc attr_id="@attribute_id_GirlsPants_6" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_6" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="1" value="2 года" integervalue="" floatvalue="" stringvalue="2 года" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_7" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="2" value="3 года" integervalue="" floatvalue="" stringvalue="3 года" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_8" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="3" value="4 года" integervalue="" floatvalue="" stringvalue="4 года" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_9" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="4" value="5 лет" integervalue="" floatvalue="" stringvalue="5 лет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_14" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="5" value="6" integervalue="6" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_15" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="6" value="8" integervalue="8" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_16" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="7" value="10" integervalue="10" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_17" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="8" value="12" integervalue="12" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_18" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="9" value="14" integervalue="14" floatvalue="" stringvalue="" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_27" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="10" value="12 мес." integervalue="" floatvalue="" stringvalue="12 мес." qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_28" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="11" value="18 мес." integervalue="" floatvalue="" stringvalue="18 мес." qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_29" attr_id="@attribute_id_GirlsPants_6" valusage="1" language_id="&ru_RU;" sequence="12" value="24 мес." integervalue="" floatvalue="" stringvalue="24 мес." qtyunit_id="C62" />
+<!--END Defining attribute description  GirlsPantsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_GirlsPants_5" attrtype_id="STRING" language_id="&ru_RU;" name="Возраст" description="Возраст" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_5_GCL018_1801" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="2 - 5" integervalue="" floatvalue="" stringvalue="2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1802" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1805" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1809" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_13_GCL018_1810" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="6 - 10, 12 - 14" integervalue="" floatvalue="" stringvalue="6 - 10, 12 - 14" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_19_GCL018_1803" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="3" value="2 года - 5 лет" integervalue="" floatvalue="" stringvalue="2 года - 5 лет" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_19_GCL018_1806" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="3" value="2 года - 5 лет" integervalue="" floatvalue="" stringvalue="2 года - 5 лет" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_22_GCL018_1804" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="4" value="2 года - 5 лет, 6 - 10" integervalue="" floatvalue="" stringvalue="2 года - 5 лет, 6 - 10" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_26_GCL018_1807" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="5" value="12 - 24 мес., 2 - 5" integervalue="" floatvalue="" stringvalue="12 - 24 мес., 2 - 5" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_30_GCL018_1808" attr_id="@attribute_id_GirlsPants_5" valusage="1" language_id="&ru_RU;" sequence="6" value="2 - 5, 6 - 10" integervalue="" floatvalue="" stringvalue="2 - 5, 6 - 10" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_GirlsPants_2" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1801" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1802" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1803" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1804" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1805" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1806" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1807" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1808" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_2_GCL018_1810" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Хлопчатобумажная джинсовая ткань" integervalue="" floatvalue="" stringvalue="Хлопчатобумажная джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_32_GCL018_1809" attr_id="@attribute_id_GirlsPants_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Хлопок и полиэстер" integervalue="" floatvalue="" stringvalue="Хлопок и полиэстер" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_GirlsPants_1" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1801" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Слегка расклешенные" integervalue="" floatvalue="" stringvalue="Слегка расклешенные" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1806" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Слегка расклешенные" integervalue="" floatvalue="" stringvalue="Слегка расклешенные" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_1_GCL018_1808" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Слегка расклешенные" integervalue="" floatvalue="" stringvalue="Слегка расклешенные" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1802" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1803" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_11_GCL018_1810" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Прямые" integervalue="" floatvalue="" stringvalue="Прямые" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_20_GCL018_1804" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Расклешенные" integervalue="" floatvalue="" stringvalue="Расклешенные" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_23_GCL018_1805" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="4" value="Узкие" integervalue="" floatvalue="" stringvalue="Узкие" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_25_GCL018_1807" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="5" value="Комбинезон" integervalue="" floatvalue="" stringvalue="Комбинезон" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_31_GCL018_1809" attr_id="@attribute_id_GirlsPants_1" valusage="1" language_id="&ru_RU;" sequence="6" value="Тренировочные брюки" integervalue="" floatvalue="" stringvalue="Тренировочные брюки" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_GirlsPants_3" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="Нарядные" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1801" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1802" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1803" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1804" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1805" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1806" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1807" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1808" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_3_GCL018_1810" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_GirlsPants_33_GCL018_1809" attr_id="@attribute_id_GirlsPants_3" valusage="1" language_id="&ru_RU;" sequence="2" value="Повседневные, одежда для спорта и отдыха, спортивные" integervalue="" floatvalue="" stringvalue="Повседневные, одежда для спорта и отдыха, спортивные" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+<!--end of  Brand -->
+<!-- END Writing descriptive attribute descriptions -->

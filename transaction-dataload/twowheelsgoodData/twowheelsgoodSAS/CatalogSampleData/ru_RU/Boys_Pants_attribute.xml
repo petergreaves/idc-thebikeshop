@@ -1,0 +1,78 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : BoysPantsColor -->
+<attrdesc attr_id="@attribute_id_BoysPants_7" attrtype_id="STRING" language_id="&ru_RU;" name="Цвет" description="Цвет" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_10" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&ru_RU;" sequence="1" value="Синий" integervalue="" floatvalue="" stringvalue="Синий" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_12" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&ru_RU;" sequence="2" value="Черный" integervalue="" floatvalue="" stringvalue="Черный" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_23" attr_id="@attribute_id_BoysPants_7" valusage="1" language_id="&ru_RU;" sequence="3" value="Серый" integervalue="" floatvalue="" stringvalue="Серый" qtyunit_id="C62" />
+<!--END Defining attribute description : BoysPantsColor -->
+<!--BEGIN Defining attribute description : BoysPantsSize -->
+<attrdesc attr_id="@attribute_id_BoysPants_6" attrtype_id="STRING" language_id="&ru_RU;" name="Размер" description="Размер" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_6" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&ru_RU;" sequence="1" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_7" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&ru_RU;" sequence="2" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_8" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&ru_RU;" sequence="3" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_9" attr_id="@attribute_id_BoysPants_6" valusage="1" language_id="&ru_RU;" sequence="4" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<!--END Defining attribute description : BoysPantsSize -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Age -->
+<attrdesc attr_id="@attribute_id_BoysPants_5" attrtype_id="STRING" language_id="&ru_RU;" name="Возраст" description="Возраст" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1501" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1502" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1504" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_5_BCL015_1506" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="1" value="8-16" integervalue="" floatvalue="" stringvalue="8-16" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1503" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1505" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1507" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_14_BCL015_1508" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="2" value="2-7" integervalue="" floatvalue="" stringvalue="2-7" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_22_BCL015_1509" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="3" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_22_BCL015_1510" attr_id="@attribute_id_BoysPants_5" valusage="1" language_id="&ru_RU;" sequence="3" value="0-2" integervalue="" floatvalue="" stringvalue="0-2" />
+<!--end of  Age -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BoysPants_2" attrtype_id="STRING" language_id="&ru_RU;" name="Материал" description="Материал" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1501" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1502" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1503" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1504" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1506" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1507" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1508" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_2_BCL015_1510" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсовая ткань" integervalue="" floatvalue="" stringvalue="Джинсовая ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_17_BCL015_1505" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="2" value="Ткань" integervalue="" floatvalue="" stringvalue="Ткань" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_21_BCL015_1509" attr_id="@attribute_id_BoysPants_2" valusage="1" language_id="&ru_RU;" sequence="3" value="Хлопок" integervalue="" floatvalue="" stringvalue="Хлопок" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BoysPants_1" attrtype_id="STRING" language_id="&ru_RU;" name="Стиль" description="Стиль" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1501" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1502" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1503" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1504" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1506" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1507" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1508" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_1_BCL015_1510" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="1" value="Джинсы" integervalue="" floatvalue="" stringvalue="Джинсы" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_16_BCL015_1505" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="2" value="Комбинезон" integervalue="" floatvalue="" stringvalue="Комбинезон" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_20_BCL015_1509" attr_id="@attribute_id_BoysPants_1" valusage="1" language_id="&ru_RU;" sequence="3" value="Флисовые брюки" integervalue="" floatvalue="" stringvalue="Флисовые брюки" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_BoysPants_3" attrtype_id="STRING" language_id="&ru_RU;" name="Нарядные" description="Нарядные" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1501" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1502" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1503" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1504" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1505" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1506" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1507" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1508" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1509" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<attrvaldesc attrval_id="@attribute_value_id_BoysPants_3_BCL015_1510" attr_id="@attribute_id_BoysPants_3" valusage="1" language_id="&ru_RU;" sequence="1" value="Повседневный" integervalue="" floatvalue="" stringvalue="Повседневный" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+<!--end of  Brand -->

@@ -1,0 +1,7 @@
+<!-- ESpot Title -->
+<collateral collateral_id="@collateral_id_content_espot_title_1" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="WomenLandingSunglasses" />
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_content_espot_title_1" emspot_id="@searchLandingWomen1_emspot_id_1" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_content_espot_title_1" />
+
+
+<collateral collateral_id="@collateral_id_content_espot_title_2" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="WomenLandingHats" />
+<dmemspotcolldef dmemspotcolldef_id="@dmemspotcolldef_id_content_espot_title_2" emspot_id="@searchLandingWomen1_emspot_id_2" storeent_id="&MAR_STOREENT_ID;" collateral_id="@collateral_id_content_espot_title_2" />

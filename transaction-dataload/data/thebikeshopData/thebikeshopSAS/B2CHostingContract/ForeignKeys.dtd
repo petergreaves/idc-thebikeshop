@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY ORGANIZATION_DN_HOS2 "ou=extended sites seller organizationaurorab2besite,o=extended sites seller organization,o=root organization">
+<!ENTITY SAR_PATH_BMP "/ExtendedSites/B2BDirectStorefrontAssetStore.sar">
+<!ENTITY ro_RO "-21">
+<!ENTITY SAMPLE_CHOICE_BMPSAS "common/samplecatalogs/BMPSampleData.sar">
+<!ENTITY pt_BR "-6">
+<!ENTITY SAMPLE_CHOICE_BMP2 "*">
+<!ENTITY STORE_DIR_HOS "thebikeshop">
+<!ENTITY STORE_TYPE_RPS2 "MPS">
+<!ENTITY es_ES "-5">
+<!ENTITY INV_CHOICE "DOMInv">
+<!ENTITY STORE_DIR_RPS2 "thebikeshopSAS">
+<!ENTITY FREE_SHIPPING_CARRIER "Express">
+<!ENTITY SAMPLE_CHOICE_SAS "common/samplecatalogs/SASSampleData.sar">
+<!ENTITY SAR_PATH_ORG "/ExtendedSites/ExtendedSitesOrganizationStructure.sar">
+<!ENTITY FREE_SHIPPING_CODE "Express">
+<!ENTITY iw_IL "-11">
+<!ENTITY STORE_DIR_HCP "ExtendedSitesHub">
+<!ENTITY STORE_IDENTIFIER_HCP "Extended Sites Hub">
+<!ENTITY USER_DN_CHANNEL_ADMIN_PART "uid=esiteshubadmin,">
+<!ENTITY ROOT_ORG_DN "o=root organization">
+<!ENTITY ko_KR "-9">
+<!ENTITY en_US "-1">
+<!ENTITY STORE_DIR_CPS_LOWERCASE "thebikeshopcas">
+<!ENTITY STORE_IDENTIFIER_HOS "thebikeshop">
+<!ENTITY STORE_TYPE_BMP2 "BMP">
+<!ENTITY STORE_IDENTIFIER_CPS_LOWERCASE "thebikeshopcas">
+<!ENTITY STORE_DIR_HOS2 "AuroraB2BESite">
+<!ENTITY ORGANIZATION_DN "o=extended sites organization,o=root organization">
+<!ENTITY el_GR "-11">
+<!ENTITY it_IT "-4">
+<!ENTITY STORE_IDENTIFIER_CPS "thebikeshopCAS">
+<!ENTITY ru_RU "-20">
+<!ENTITY pl_PL "-22">
+<!ENTITY ORG_DN_RESELLER "o=extended sites seller organization,o=root organization">
+<!ENTITY STORE_IDENTIFIER_HOS2 "AuroraB2BESite">
+<!ENTITY STORE_IDENTIFIER_RPS2_LOWERCASE "thebikeshopsas">
+<!ENTITY ja_JP "-10">
+<!ENTITY fr_FR "-2">
+<!ENTITY STORE_IDENTIFIER_RPS2 "thebikeshopSAS">
+<!ENTITY de_DE "-3">
+<!ENTITY STORE_IDENTIFIER_BMP2 "AuroraB2BStorefrontAssetStore">
+<!ENTITY ORGANIZATION_DN_HCP "ou=extended sites hub organization,o=extended sites organization,o=root organization">
+<!ENTITY zh_TW "-8">
+<!ENTITY SAR_PATH_HCP "/ExtendedSites/ExtendedSitesHub.sar">
+<!ENTITY STORE_DIR_BMP2 "AuroraB2BStorefrontAssetStore">
+<!ENTITY ORG_DN_HCP_PART "ou=extended sites hub organization,">
+<!ENTITY STORE_TYPE "MHS">
+<!ENTITY ORG_DN_PROFILE_PART "ou=asset store organization,">
+<!ENTITY STORE_DIR_BMP "B2BDirectStorefrontAssetStore">
+<!ENTITY ORGANIZATION_DN_HOS "ou=extended sites seller organizationthebikeshop,o=extended sites seller organization,o=root organization">
+<!ENTITY STORE_IDENTIFIER_BMP "B2BDirectStorefrontAssetStore">
+<!ENTITY STORE_DIR_MAIN_LOWERCASE "extendedsites">
+<!ENTITY SAMPLE_CHOICE "common/samplecatalogs/SampleData.sar">
+<!ENTITY STORE_DIR_MAIN "ExtendedSites">
+<!ENTITY SAR_PATH_BMP2 "/ConsumerDirect/Aurora.sar">
+<!ENTITY SAR_PATH_CPS "/ExtendedSites/ExtendedSitesCatalogAssetStore.sar">
+<!ENTITY STORE_IDENTIFIER_BMP2_LOWERCASE "aurorab2bstorefrontassetstore">
+<!ENTITY SAMPLE_CHOICE_ESITE "common/samplecatalogs/ESiteSampleData.sar">
+<!ENTITY SAR_PATH_RPS2 "/ConsumerDirect/Aurora.sar">
+<!ENTITY SAMPLE_CHOICE_RPS2 "*">
+<!ENTITY BASE_ORGANIZATION_DN "o=base contracts account organization,o=root organization">
+<!ENTITY STORE_ID_CPS "@catalogStore">
+<!ENTITY zh_CN "-7">
+<!ENTITY ar_EG "-23">
+<!ENTITY STORE_DIR_CPS "thebikeshopCAS">
+

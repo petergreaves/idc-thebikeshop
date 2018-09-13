@@ -1,0 +1,301 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel"
+   name="アパレル"
+   shortdescription="ファミリー向け最新スタイル"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="ファミリー向けアパレル、服地、シャツ、パンツ、トップス、ボトムス、ドレス、婦人服"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="婦人用"
+   shortdescription="婦人用"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="カジュアル、カクテル・ドレス、スカート、セーター、イブニング・ドレス"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="紳士用"
+   shortdescription="紳士用"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="カジュアル、シャツ、セーター、スーツ、パンツ、ベルト、ネクタイ"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="女の子用"
+   shortdescription="女の子用"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="カジュアル、スポーツウェア、スカート、セーター、子供向け"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="男の子用"
+   shortdescription="男の子用"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="カジュアル、スポーツウェア、パンツ、ジーンズ、セーター、子供向け"
+/>
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="ドレス"
+   shortdescription="ドレス"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="カジュアル、カクテル・ドレス、スカート、セーター、イブニング・ドレス"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="ジャケット"
+   shortdescription="ジャケット"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="カジュアル、スポーツウェア、レザー、軽量、コート"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="シャツ"
+   shortdescription="シャツ"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="カジュアル、ビジネス、ヘンリー、ラギッド"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="スーツ"
+   shortdescription="スーツ"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="カジュアル、フォーマル、ボタン、ウール"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="パンツ"
+   shortdescription="パンツ"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="カジュアル、ジーンズ、ストレートフィット、ルーズフィット、スーツパンツ"
+/>
+
+
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="アクセサリー"
+   shortdescription="アクセサリー"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="シルク、ネクタイ、レザー、ベルト、帽子"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="靴"
+   shortdescription="靴"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="カジュアル、オックスフォード、スニーカー、スポーツウェア、ウォーキング"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="トップス"
+   shortdescription="トップス"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="カジュアル、カクテル・ドレス、トップス、イブニング・ドレス"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="パンツ"
+   shortdescription="パンツ"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="デニム、ジーンズ、子供服、女の子用"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="靴"
+   shortdescription="靴"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="バレエ、スリッパ、ランニング、スポーツ"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="ブラウス"
+   shortdescription="ブラウス"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="カジュアル、ビジネス、軽量、イブニング"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="セーター"
+   shortdescription="セーター"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="カジュアル、タートルネック、デザイナー・トップス、プルオーバー"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="スカート"
+   shortdescription="スカート"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="カジュアル、デニム、ミニ、サテン"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="パンツ"
+   shortdescription="パンツ"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="カジュアル、ストレートカット、フォーマル、デニム"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="靴"
+   shortdescription="靴"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="カジュアル、フラット、レザー、オープントゥ、ハイヒール、ブーツ"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="ハンドバッグ"
+   shortdescription="ハンドバッグ"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="カジュアル、トート、レザー、財布"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="アクセサリー"
+   shortdescription="アクセサリー"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="カジュアル、レザー、ベルト、ハンドバッグ、帽子、めがね"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="パンツ"
+   shortdescription="パンツ"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="デニム、ブールカット、タドラー、ジーンズ"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="スカート"
+   shortdescription="スカート"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="カジュアル、カクテル・ドレス、スカート、イブニング・ドレス"
+/>
+
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="トップス"
+   shortdescription="トップス"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="カジュアル、T シャツ、ベスト、セーター"
+/>
+
+<catgrpdesc
+   language_id="&ja_JP;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="靴"
+   shortdescription="靴"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="カジュアル、キャンバス、ランニング、レザー"
+/>
+
+<!-- End of Category Descriptions -->

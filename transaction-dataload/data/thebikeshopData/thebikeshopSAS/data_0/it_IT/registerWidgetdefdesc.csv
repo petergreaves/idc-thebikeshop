@@ -1,0 +1,10 @@
+﻿RegisterWidgetDefDesc
+WidgetDefIdentifier,WidgetDisplayName,WidgetDescription
+HomePageContainer,Contenitore home page,Widget contenitore home page
+ContentPageContainer,Contenitore a colonna singola,Un widget contenitore a colonna singola
+DepartmentPageContainer,Contenitore a due colonne (barra laterale sinistra e contenuto a righe separate),Un widget contenitore a due colonne (barra laterale sinistra e contenuto a righe separate)
+SubCategoryPageContainer,Contenitore a due colonne (barra laterale sinistra),Un widget contenitore a due colonne (barra laterale sinistra)
+SearchLandingPageContainer,Contenitore a colonna singola con banner di intestazione,Un widget contenitore a colonna singola con banner di intestazione
+SearchResultPageContainer,Contenitore a due colonne (barra laterale sinistra con schede),Un widget contenitore a due colonne (barra laterale sinistra con schede)
+StaticContentContainer,Contenitore a due colonne (barra laterale destra),Un widget contenitore a due colonne (barra laterale destra)
+ProductPageContainer,Contenitore pagina del prodotto,Widget contenitore pagina del prodotto

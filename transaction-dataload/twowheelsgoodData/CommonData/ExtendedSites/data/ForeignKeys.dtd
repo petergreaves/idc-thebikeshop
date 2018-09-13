@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY ORG_DN_PROFILE_PART "ou=asset store organization,">
+<!ENTITY ORG_DN_HCP_PART "ou=extended sites hub organization,">
+<!ENTITY STORE_DIRECTORY_LOWERCASE "extendedsites">
+<!ENTITY STORE_DIR_BMP "B2BDirectStorefrontAssetStore">
+<!ENTITY pt_BR "-6">
+<!ENTITY ORGANIZATION_DN_HCP "ou=extended sites hub organization,o=extended sites organization,o=root organization">
+<!ENTITY en_US "-1">
+<!ENTITY pl_PL "-22">
+<!ENTITY ja_JP "-10">
+<!ENTITY STORE_IDENTIFIER_HCP "Extended Sites Hub">
+<!ENTITY STORE_IDENTIFIER_CPS "ExtendedSitesCatalogAssetStore">
+<!ENTITY ru_RU "-20">
+<!ENTITY zh_CN "-7">
+<!ENTITY ro_RO "-21">
+<!ENTITY el_GR "-11">
+<!ENTITY ORGANIZATION_DN_PBS "ou=store directory organization,o=extended sites organization,o=root organization">
+<!ENTITY zh_TW "-8">
+<!ENTITY es_ES "-5">
+<!ENTITY ORG_DN_RESELLER "o=extended sites seller organization,o=root organization">
+<!ENTITY STORE_DIR "ExtendedSites">
+<!ENTITY STORE_DIR_RPS "ConsumerDirectStorefrontAssetStore">
+<!ENTITY STORE_IDENTIFIER_BMP "B2BDirectStorefrontAssetStore">
+<!ENTITY ko_KR "-9">
+<!ENTITY ORGANIZATION_DN "o=extended sites organization,o=root organization">
+<!ENTITY STORE_IDENTIFIER_RPS "ConsumerDirectStorefrontAssetStore">
+<!ENTITY de_DE "-3">
+<!ENTITY it_IT "-4">
+<!ENTITY ar_EG "-23">
+<!ENTITY STORE_DIR_HCP "ExtendedSitesHub">
+<!ENTITY fr_FR "-2">
+<!ENTITY STORE_DIR_CPS "ExtendedSitesCatalogAssetStore">
+<!ENTITY STORE_IDENTIFIER_PBS "PublicStore">
+<!ENTITY iw_IL "-11">
+<!ENTITY ORG_DN_PBS_PART "ou=store directory organization,">
+<!ENTITY STORE_DIR_MAIN "ExtendedSites">
+<!ENTITY STORE_DIR_PBS "public">

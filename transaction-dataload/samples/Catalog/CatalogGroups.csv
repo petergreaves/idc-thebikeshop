@@ -1,0 +1,8 @@
+CatalogGroup,,,,,,,,,,
+GroupIdentifier,TopGroup,ParentGroupIdentifier,Sequence,Name,ShortDescription,LongDescription,Thumbnail,FullImage,Keyword,Delete
+Mens Fashions,TRUE,,1,Men's Fashions,All men's dresswear,Find the latest in men's fashions.,images/catalog/mens_shirts_dress_stone_sm.gif,images/catalog/mens_shirts_dress_stone.gif,mens fashions,0
+Womens Fashions,TRUE,,2,Women's Fashions,All women's dresswear,Find the latest in women's fashions.,images/catalog/womens_dress_pink_Db_sm.gif,images/catalog/womens_dress_pink_Db.gif,womens fashions,0
+Pants,,Mens Fashions,1,Pants,"Denim, cargo and dress pants",Find the perfect pair of pants for all seasons and occasions.,images/catalog/mens_pants_cords_sm.gif,images/catalog/mens_pants_cords.gif,"mens fashions,pants",0
+Shirts,,Mens Fashions,2,Shirts,"Casual, dress and formal shirts",Find the perfect shirt for all seasons and occasions.,images/catalog/mens_shirts_dress_stone_sm.gif,images/catalog/mens_shirts_dress_stone.gif,"mens fashions,shirts",0
+Activewear,,Womens Fashions,1,Activewear,Activewear for men and women,Fitness clothing and apparel for the serious and casual athlete.,images/catalog/womens_activewear_1piece_in_sm.gif,images/catalog/womens_activewear_1piece_in.gif,"womens fashions,activewear",
+Accessory,,Womens Fashions,2,Accessory,Accessories for men and women,"Find all accessories, such as belts, purses, leather gloves and more.",images/catalog/womens_accessories_belt_nav_sm.gif,images/catalog/womens_accessories_belt_nav.gif,"womens fashions,accessory",

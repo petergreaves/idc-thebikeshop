@@ -1,0 +1,13 @@
+﻿Seopage
+PageGroup,PageAdminName,URLKeyword,PageTitle,MetaDescription,MetaKeyword,ImageAltText
+Content,HelpPage,ayuda,Ayuda en <seo: StoreName/>,Ayuda en <seo: StoreName/>,Ayuda en <seo: StoreName/>,Imagen para Ayuda de <seo: StoreName/>
+Content,ContactUsPage,contáctenos,Contáctenos para <seo: StoreName/>,Contáctenos para <seo: StoreName/>,Contáctenos para <seo: StoreName/>,Imagen para Contáctenos de <seo: StoreName/>
+Content,ReturnPolicyPage,política-devolución,Política de devolución para <seo: StoreName/>,Política de devolución para <seo: StoreName/>,Política de devolución para <seo: StoreName/>,Imagen para Política de devolución de <seo: StoreName/>
+Content,PrivacyPolicyPage,política-privacidad,Política de privacidad del sitio web para <seo: StoreName/>,Política de privacidad del sitio web para <seo: StoreName/>,Política de privacidad del sitio web para <seo: StoreName/>,Imagen para Política de privacidad de <seo: StoreName/>
+Content,CorporateInfoPage,información-corporativa,Quiénes somos para <seo: StoreName/>,Quiénes somos para <seo: StoreName/>,Quiénes somos para <seo: StoreName/>,Imagen para Quiénes somos de <seo: StoreName/>
+Content,CorporateContactUsPage,contáctenos-corporativo,Contáctenos corporativo para <seo: StoreName/>,Contáctenos corporativo para <seo: StoreName/>,Contáctenos corporativo para <seo: StoreName/>,Imagen para Contáctenos corporativo de <seo: StoreName/>
+Content,SiteMapPage,mapa-sitio,Mapa del sitio para <seo: StoreName/>,Mapa del sitio para <seo: StoreName/>,Mapa del sitio para <seo: StoreName/>,Imagen para Mapa del sitio de <seo: StoreName/>
+Content,HomePage,,Bienvenido a <seo: StoreName/>,Compre en línea en <seo: StoreName/>. <seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,Imagen para página de inicio de <seo: StoreName/>
+Content,AboutDressDesigner,diseñador-ropa,Acerca del Diseñador,Acerca del Diseñador para <seo: StoreName/>,Acerca del Diseñador para <seo: StoreName/>,Imagen para Acerca del Diseñador de <seo: StoreName/>
+Content,AuroraStyleGuide,guía-estilo-ropa,Guía de estilo de vestido y ropa,Guía de estilo de vestido y ropa para <seo: StoreName/>,Guía de estilo de vestido y ropa para <seo: StoreName/>,Imagen para Guía de estilo de vestido y ropa de <seo: StoreName/>
+Content,EveningSparkleDress,vídeo-vestido-noche,Vídeo de la colección de vestidos Noche estelar,Vídeo de la colección de vestidos Noche estelar para <seo: StoreName/>,Vídeo de la colección de vestidos Noche estelar para <seo: StoreName/>,Imagen para Vídeo de la colección de vestidos Noche estelar de <seo: StoreName/>

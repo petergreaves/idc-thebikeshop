@@ -1,0 +1,91 @@
+<catgroup 
+   catgroup_id="@catgroup_id_Electronics"
+   member_id="&CAT_MEMBER_ID;"
+   identifier="Electronics"
+   markfordelete="0"
+/>
+<cattogrp
+   catalog_id="&CATALOG_ID;"
+   catgroup_id="@catgroup_id_Electronics"
+   sequence="5"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_Electronics"
+/>
+
+<catgroup catgroup_id="@catgroup_id_ComputersAccessories"
+member_id="&CAT_MEMBER_ID;" identifier="Computers Accessories"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_ComputersTablets"
+member_id="&CAT_MEMBER_ID;" identifier="Computers Tablets"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_ComputersLaptops"
+member_id="&CAT_MEMBER_ID;" identifier="Computers Laptops"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_ComputersDesktops"
+member_id="&CAT_MEMBER_ID;" identifier="Computers Desktops"
+markfordelete="0" />
+<catgroup catgroup_id="@catgroup_id_ComputersComponents"
+member_id="&CAT_MEMBER_ID;" identifier="Computers Components"
+markfordelete="0" />
+
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Electronics"
+   catgroup_id_child="@catgroup_id_ComputersAccessories"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Electronics"
+   catgroup_id_child="@catgroup_id_ComputersTablets"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Electronics"
+   catgroup_id_child="@catgroup_id_ComputersLaptops"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Electronics"
+   catgroup_id_child="@catgroup_id_ComputersDesktops"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+<catgrprel
+   catgroup_id_parent="@catgroup_id_Electronics"
+   catgroup_id_child="@catgroup_id_ComputersComponents"
+   catalog_id="&CATALOG_ID;"
+   sequence="0"
+/>
+
+
+
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_ComputersComponents"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_ComputersDesktops"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_ComputersLaptops"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_ComputersTablets"
+/>
+<storecgrp
+   storeent_id="&CAT_STOREENT_ID;"
+   catgroup_id="@catgroup_id_ComputersAccessories"
+/>

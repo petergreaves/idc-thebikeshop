@@ -1,0 +1,68 @@
+
+
+<colldesc 
+	collateral_id="@collateral_id_200_1"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;link href=&quot;[imagePath]rwdWebAssets/homePageMainESpot/styles.css&quot; rel=&quot;stylesheet&quot;/&gt;
+&lt;div id=&quot;homeHero1&quot; class=&quot;homeHero&quot;&gt;
+	&lt;div id=&quot;homeHero1-background&quot; class=&quot;homeHero-background&quot; data-carousel-background&gt;&lt;/div&gt;
+	&lt;a id=&quot;homeHero1-pageButton&quot; class=&quot;homeHero-pageButton&quot; alt=&quot;Colors of Summer&quot; data-carousel-pageButton&gt;
+		&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/bkgd-girl.jpg&quot;/&gt;
+	&lt;/a&gt;
+	&lt;div class=&quot;imageContainer&quot;&gt;
+		&lt;!--[if !IE 8]&gt;&lt;!--&gt;&lt;div&gt;&lt;/div&gt;&lt;!--&lt;![endif]--&gt;
+		&lt;!--[if IE 8]&gt;&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/girl.png&quot;/&gt;&lt;![endif]--&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;textContainer&quot;&gt;
+		&lt;h3&gt;&lt;span class=&quot;m&quot;&gt;COLORS&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; OF &lt;/span&gt;&lt;span class=&quot;l&quot;&gt;ETE&lt;/span&gt;&lt;/h3&gt;
+		&lt;a class=&quot;toggle&quot; href=&quot;#&quot; data-toggle=&quot;contentCarouselWidget[widgetSuffix]&quot;&gt;Afficher les détails&lt;/a&gt;
+		&lt;p id=&quot;homeHero1-details&quot;&gt;Des tons vifs, des formes décontractées et des tissus fluides sont les composantes essentielles de notre collection estivale. Un style garanti à des prix incroyables !&lt;/p&gt;
+		&lt;a class=&quot;button&quot; href=&quot;[fullPathHomeURL]/apparel/women/dresses&quot;&gt;laissez-vous tenter&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_200_2"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;link href=&quot;[imagePath]rwdWebAssets/homePageMainESpot/styles.css&quot; rel=&quot;stylesheet&quot;/&gt;
+&lt;div id=&quot;homeHero2&quot; class=&quot;homeHero&quot;&gt;
+	&lt;div id=&quot;homeHero2-background&quot; class=&quot;homeHero-background&quot; data-carousel-background&gt;&lt;/div&gt;
+	&lt;a id=&quot;homeHero2-pageButton&quot; class=&quot;homeHero-pageButton&quot; alt=&quot;Luxury Lightweight Jackets&quot; data-carousel-pageButton&gt;
+		&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/bkgd-rob.jpg&quot;/&gt;
+	&lt;/a&gt;
+	&lt;div class=&quot;imageContainer&quot;&gt;
+		&lt;!--[if !IE 8]&gt;&lt;!--&gt;&lt;div&gt;&lt;/div&gt;&lt;!--&lt;![endif]--&gt;
+		&lt;!--[if IE 8]&gt;&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/rob.png&quot;/&gt;&lt;![endif]--&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;textContainer&quot;&gt;
+		&lt;h3&gt;&lt;span class=&quot;m&quot;&gt;LUXE&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; LEGER &lt;/span&gt;&lt;span class=&quot;l&quot;&gt;VESTES&lt;/span&gt;&lt;/h3&gt;
+		&lt;a class=&quot;toggle&quot; href=&quot;#&quot; data-toggle=&quot;contentCarouselWidget[widgetSuffix]&quot;&gt;Afficher les détails&lt;/a&gt;
+		&lt;p id=&quot;homeHero2-details&quot;&gt;Soyez élégant sans avoir chaud avec nos vestes sport déstructurées d'été. Extrêmement confortables et incroyablement polyvalentes, ces vestes en laine légères combinent classe et décontraction pour un look sophistiqué.&lt;/p&gt;
+		&lt;a class=&quot;button&quot; href=&quot;[fullPathHomeURL]/apparel/men/jackets&quot;&gt;laissez-vous tenter&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_200_3"
+	language_id="&fr_FR;"
+	longmktgtext="&lt;link href=&quot;[imagePath]rwdWebAssets/homePageMainESpot/styles.css&quot; rel=&quot;stylesheet&quot;/&gt;
+&lt;div id=&quot;homeHero3&quot; class=&quot;homeHero&quot;&gt;
+	&lt;div id=&quot;homeHero3-background&quot; class=&quot;homeHero-background&quot; data-carousel-background&gt;&lt;/div&gt;
+	&lt;a id=&quot;homeHero3-pageButton&quot; class=&quot;homeHero-pageButton&quot; alt=&quot;Simple, Classic Dresses&quot; data-carousel-pageButton&gt;
+		&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/bkgd-teen.jpg&quot;/&gt;
+	&lt;/a&gt;
+	&lt;div class=&quot;imageContainer&quot;&gt;
+		&lt;!--[if !IE 8]&gt;&lt;!--&gt;&lt;div&gt;&lt;/div&gt;&lt;!--&lt;![endif]--&gt;
+		&lt;!--[if IE 8]&gt;&lt;img src=&quot;[imagePath]rwdWebAssets/homePageMainESpot/teen.png&quot;/&gt;&lt;![endif]--&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;textContainer&quot;&gt;
+		&lt;h3&gt;&lt;span class=&quot;s&quot;&gt;SIMPLE, &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;CLASSIQUE &lt;/span&gt;&lt;span class=&quot;l&quot;&gt;ROBES&lt;/span&gt;&lt;/h3&gt;
+		&lt;a class=&quot;toggle&quot; href=&quot;#&quot; data-toggle=&quot;contentCarouselWidget[widgetSuffix]&quot;&gt;Afficher les détails&lt;/a&gt;
+		&lt;p id=&quot;homeHero3-details&quot;&gt;Motifs floraux aguicheurs, imprimés gais, rayures sophistiquées et pois attirants. Quelles que soient vos envies, découvrez notre collection de vêtements pour adolescents et vos nouvelles pièces préférées.&lt;/p&gt;
+		&lt;a class=&quot;button&quot; href=&quot;[fullPathHomeURL]/apparel/girls/skirts&quot;&gt;laissez-vous tenter&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+/>
+

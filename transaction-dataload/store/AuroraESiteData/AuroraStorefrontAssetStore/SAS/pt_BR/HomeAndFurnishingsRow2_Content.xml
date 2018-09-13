@@ -1,0 +1,90 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_haf0002_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_haf0002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/1008B_EHFS_PerfectEverytime_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_haf0002_pt_BR"
+  atchtgt_id="@atchtgt_id_haf0002"
+  language_id="&pt_BR;"
+  name="Perfeitas Todas as Vezes"
+  shortdescription="Perfeitas Todas as Vezes 15% de desconto em cafeteiras especiais"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_haf0002_pt_BR"
+  atchast_id="@atchast_id_haf0002_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_haf0002_pt_BR"
+  atchrel_id="@atchrel_id_haf0002"
+  language_id="&pt_BR;"
+  name="Perfeitas Todas as Vezes"
+  shortdescription="Perfeitas Todas as Vezes"
+/>
+<colldesc 
+	collateral_id="@collateral_id_haf0002"
+	language_id="&pt_BR;"
+	marketingtext="Perfeitas Todas as Vezes" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_haf0003_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_haf0003"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/1009B_EHFS_SaveOnLighting_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_haf0003_pt_BR"
+  atchtgt_id="@atchtgt_id_haf0003"
+  language_id="&pt_BR;"
+  name="Economize em Iluminação"
+  shortdescription="Economize em Iluminação 40% de desconto em luminárias de mesa selecionadas"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_haf0003_pt_BR"
+  atchast_id="@atchast_id_haf0003_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_haf0003_pt_BR"
+  atchrel_id="@atchrel_id_haf0003"
+  language_id="&pt_BR;"
+  name="Economize em Iluminação"
+  shortdescription="Economize em Iluminação"
+/>
+<colldesc 
+	collateral_id="@collateral_id_haf0003"
+	language_id="&pt_BR;"
+	marketingtext="Economize em Iluminação" 
+/>
+
+
+
+

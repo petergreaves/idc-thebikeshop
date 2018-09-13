@@ -1,0 +1,71 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Grocery -->
+<catgrpdesc
+   language_id="&pt_BR;"
+   catgroup_id="@catgroup_id_Grocery"
+   name="Mercearia"
+   shortdescription="Mercearia"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Mercearia"
+/>
+<catgrpdesc
+   language_id="&pt_BR;"
+   catgroup_id="@catgroup_id_Meat"
+   name="Carne"
+   shortdescription="Carne"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gme_meat.png"
+   fullimage="images/catalog/grocery/category/catr_gme_meat.png"
+   keyword="Carne"
+/>
+<catgrpdesc
+   language_id="&pt_BR;"
+   catgroup_id="@catgroup_id_Fruit"
+   name="Fruta"
+   shortdescription="Fruta"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gfr_fruit.png"
+   fullimage="images/catalog/grocery/category/catr_gfr_fruit.png"
+   keyword="Fruta"
+/>
+<catgrpdesc
+   language_id="&pt_BR;"
+   catgroup_id="@catgroup_id_Dairy"
+   name="Laticínios"
+   shortdescription="Laticínios"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gda_dairy.png"
+   fullimage="images/catalog/grocery/category/catr_gda_dairy.png"
+   keyword="Laticínios"
+/>
+
+<catgrpdesc
+   language_id="&pt_BR;"
+   catgroup_id="@catgroup_id_Vegetables"
+   name="Verduras"
+   shortdescription="Verduras"
+   published="1"
+   thumbnail="images/catalog/grocery/category/catr_gve_vegetables.png"
+   fullimage="images/catalog/grocery/category/catr_gve_vegetables.png"
+   keyword="Verduras"
+/>
+
+<!-- End of Category Descriptions -->
+
+

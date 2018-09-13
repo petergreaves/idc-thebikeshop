@@ -1,0 +1,301 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel"
+   name="Ropa"
+   shortdescription="Las últimas tendencias para toda la familia"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="ropa para la familia, camisa, pantalones, camisetas/polos/bodies, pantalones/petos, vestidos, vestido"
+/>
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="Señora"
+   shortdescription="Señora"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="informal, fiesta, falda, jersey, noche"
+/>
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="Caballero"
+   shortdescription="Caballero"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="informal, camisa, jersey, trajes, pantalones, cinturón, corbatas"
+/>
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="Niñas"
+   shortdescription="Niñas"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="informal, deportivo, falda, jersey, chica"
+/>
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="Niños"
+   shortdescription="Niños"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="informal, deportivo, pantalones, tejanos, jersey, chico"
+/>
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="Vestidos"
+   shortdescription="Vestidos"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="informal, fiesta, falda, jersey, noche"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="Chaquetas"
+   shortdescription="Chaquetas"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="informal, deportivo, piel, chaquetilla, abrigo"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="Camisas"
+   shortdescription="Camisas"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="informal, oficina, rural, resistente"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="Trajes"
+   shortdescription="Trajes"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="informal, formal, botón, lana"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="Pantalones"
+   shortdescription="Pantalones"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="informal, pantalones, corte holgado, pantalón de traje"
+/>
+
+
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="Accesorios"
+   shortdescription="Accesorios"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="seda, corbata, piel, cinturón, sombrero"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="Zapatos"
+   shortdescription="Zapatos"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="informal, Oxford, zapatillas deportivas, caminar"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="Partes de arriba"
+   shortdescription="Partes de arriba"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="informal, fiesta, partes de arriba, noche"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="Pantalones"
+   shortdescription="Pantalones"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="tejanos, vaqueros, ropa de niños, niñas"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="Zapatos"
+   shortdescription="Zapatos"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="bailarinas, zapatillas, para correr, deportivas"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="Blusas"
+   shortdescription="Blusas"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="informal, oficina, finas, noche"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="Jerséis"
+   shortdescription="Jerséis"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="informal, cuello alto, top de diseño, suéter"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="Faldas"
+   shortdescription="Faldas"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="informal, vaqueros, mini, raso"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="Pantalones"
+   shortdescription="Pantalones"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="informal, corte recto, formal, vaqueros"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="Zapatos"
+   shortdescription="Zapatos"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="informal, bailarinas, piel, puntera abierta, tacones, botas"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="Bolsos"
+   shortdescription="Bolsos"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="informal, bolso de mano, piel, monedero, cartera"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="Accesorios"
+   shortdescription="Accesorios"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="informal, piel, cinturón, bolso, sombrero, gafas"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="Pantalones"
+   shortdescription="Pantalones"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="vaqueros, corte de bota, bebé, vaqueros"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="Faldas"
+   shortdescription="Faldas"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="informal, fiesta, faldas, noche"
+/>
+
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="Partes de arriba"
+   shortdescription="Partes de arriba"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="informal, camiseta, chaleco, jersey"
+/>
+
+<catgrpdesc
+   language_id="&es_ES;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="Zapatos"
+   shortdescription="Zapatos"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="informal, lona, correr, piel"
+/>
+
+<!-- End of Category Descriptions -->

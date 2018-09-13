@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2c_sales" 
+    language_id="&en_US;" 
+    name="Aurora consumer direct sample data"
+    shortdescription="Aurora Consumer Direct sample data"
+    longdescription="A sales catalog that displays six departments (Apparel, Electronics, Grocery, Health, Home and Furnishing, Newsletters and Magazines) to showcase catalog features in a consumer direct store."
+    thumbnail=""
+    fullimage="" 
+  />
+  

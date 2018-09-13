@@ -1,0 +1,4 @@
+<!-- Product attributes -->
+
+<attrdict attrdict_id="@attribute_dictionary_id" storeent_id="&CAT_STOREENT_ID;"/>
+<cmdreg storeent_id="&MAR_STOREENT_ID;" interfacename="com.ibm.commerce.catalog.commands.ResolveSkuCmd" classname="com.ibm.commerce.catalog.commands.ResolveSkuAllCmdImpl"/>

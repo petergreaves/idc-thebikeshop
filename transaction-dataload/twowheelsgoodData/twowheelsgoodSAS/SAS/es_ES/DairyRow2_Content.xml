@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10001_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/1104B_EGRS_Camembert_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10001_es_ES"
+  atchtgt_id="@atchtgt_id_Dairy1001"
+  language_id="&es_ES;"
+  name="Camembert cremoso"
+  shortdescription="Camembert cremoso 12 euros sólo esta semana"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10001_es_ES"
+  atchast_id="@atchast_id_dairy10001_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10001_es_ES"
+  atchrel_id="@atchrel_id_Dairy1001"
+  language_id="&es_ES;"
+  name="Camembert cremoso"
+  shortdescription="Camembert cremoso"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1001"
+	language_id="&es_ES;"
+	marketingtext="Camembert cremoso" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_dairy10002_es_ES"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/es_ES/1108B_EGRS_Milk_001.jpg"
+  directorypath="images/advertisements/es_ES"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_dairy10002_es_ES"
+  atchtgt_id="@atchtgt_id_Dairy1002"
+  language_id="&es_ES;"
+  name="Leche fresca"
+  shortdescription="Leche fresca 3,99 los 2 litros, sólo esta semana"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_dairy10002_es_ES"
+  atchast_id="@atchast_id_dairy10002_es_ES"
+  language_id="&es_ES;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_dairy10002_es_ES"
+  atchrel_id="@atchrel_id_Dairy1002"
+  language_id="&es_ES;"
+  name="Leche fresca"
+  shortdescription="Leche fresca"
+/>
+<colldesc 
+	collateral_id="@collateral_id_Dairy1002"
+	language_id="&es_ES;"
+	marketingtext="Leche fresca" 
+/>
+

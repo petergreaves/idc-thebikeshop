@@ -1,0 +1,86 @@
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2016 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+apply plugin: 'run-engine'
+
+buildscript {
+	repositories {
+		flatDir {
+			dirs new File(projectDir, '../master/engineLib')
+		}
+	}
+
+	dependencies {
+		classpath ':runengine-plugins:+'
+	}
+}
+
+///////////////////////////////////////////////////
+// Configure properties needed for the helper tasks
+///////////////////////////////////////////////////
+ext.workspaceDir = new File(projectDir, '..').canonicalFile
+///////////////////////////////////////////////////
+
+// Load workspace properties from the workspace master's project
+Properties props = new Properties()
+props.load(new FileInputStream("${workspaceDir}/master/gradle.properties"))
+props.each { prop ->
+	if ('workspaceDir' == prop.key) {
+		// don't replace the workspace dir variable
+		return
+	}
+
+	project.ext.set(prop.key, prop.value)
+}
+
+apply from: "${workspaceDir}/master/helper.gradle"
+
+task build {
+	description 'Builds the transaction server SDK package'
+	group 'Build'
+}
+
+def buildLabel = System.env['BUILD_LABEL'] ?: new Date().format('yyyyMMdd-HHmm')
+
+task copyAssets(type: Copy) {
+	from ("$workspaceDir/transaction-config/xml") {
+		exclude('**/.project')
+		exclude('**/README.md')
+		exclude('**/samples')
+	}
+	from ("$workspaceDir/master/version.txt")
+	destinationDir file("$workspaceDir/transaction-master/build/config-temp")
+
+	doLast {
+		def masterVersion = new File("$workspaceDir/transaction-master/build/config-temp/version.txt")
+		def tempVersion = new File("$workspaceDir/transaction-master/version.txt").text
+		masterVersion.append(System.getProperty("line.separator") + "$tempVersion")
+	}
+}
+
+task bundle(type: Zip, dependsOn:  ['copyAssets'] ) {
+	from ("$workspaceDir/transaction-master/build/config-temp")
+	archiveName "configurations-${buildLabel}.zip"
+	destinationDir file("$workspaceDir/transaction-master/build/distributions")
+
+	doLast {
+		println "Note: ${archiveName} bundle available in: $workspaceDir/transaction-master/build/distributions"
+	}
+}
+
+task clean { delete buildDir }
+
+if (file('build-ext.gradle').exists()){
+    apply from: 'build-ext.gradle'
+}

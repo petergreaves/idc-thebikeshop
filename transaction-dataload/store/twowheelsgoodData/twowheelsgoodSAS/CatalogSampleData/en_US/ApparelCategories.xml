@@ -1,0 +1,301 @@
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be catgrpdesc.name and catgrpdesc.shortdescription    -->
+
+<!--
+
+  Remember to encode conflicting characters:
+
+  < &lt;
+  > &gt;
+  " &quot;
+
+-->
+
+<!-- Start of Category Descriptions -->
+
+<!-- Start of category descriptions for Apparel -->
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel"
+   name="Apparel"
+   shortdescription="The latest styles for the entire family."
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="family apparel, cloths, shirt, pants, tops, bottoms, dresses, dress"
+/>
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel_womencat_dresses"
+   name="Women"
+   shortdescription="Women"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_app_women.png"
+   fullimage="images/catalog/apparel/women/category/catr_app_women.png"
+   keyword="casual, cocktail, skirt, sweater, evening"
+/>
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel_men_dresses"
+   name="Men"
+   shortdescription="Men"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_app_men.png"
+   fullimage="images/catalog/apparel/men/category/catr_app_men.png"
+   keyword="casual, shirt, sweater, suits, pants, belt, ties"
+/>
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel_girls_dresses"
+   name="Girls"
+   shortdescription="Girls"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_app_girls.png"
+   fullimage="images/catalog/apparel/girls/category/catr_app_girls.png"
+   keyword="casual, sporty, skirt, sweater, kid"
+/>
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel_boys_dresses"
+   name="Boys"
+   shortdescription="boys"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_app_boys.png"
+   fullimage="images/catalog/apparel/boys/category/catr_app_boys.png"
+   keyword="casual, sporty, pants, jeans, sweater, kid"
+/>
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_apparel_women_dresses"
+   name="Dresses"
+   shortdescription="Dresses"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_dresses.png"
+   keyword="casual, cocktail, skirt, sweater, evening"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenJackets"
+   name="Jackets"
+   shortdescription="Jackets"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_jackets.png"
+   keyword="casual, sport, leather, light, coat"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenShirts"
+   name="Shirts"
+   shortdescription="Shirts"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_shirts.png"
+   keyword="casual, business, henly, rugged"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenSuits"
+   name="Suits"
+   shortdescription="Suits"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_suits.png"
+   keyword="casual, formal, button, wool"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenPants"
+   name="Pants"
+   shortdescription="Pants"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   fullimage="images/catalog/apparel/men/category/catr_mcl_pants.png"
+   keyword="casual, jeans, straight fit, loose fit, suit pant"
+/>
+
+
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenAccessories"
+   name="Accessories"
+   shortdescription="Accessories"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   fullimage="images/catalog/apparel/men/category/catr_mac_accessories.png"
+   keyword="silk, tie, leather, belt, hat"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_MenShoes"
+   name="Shoes"
+   shortdescription="Shoes"
+   published="1"
+   thumbnail="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   fullimage="images/catalog/apparel/men/category/catr_msh_shoes.png"
+   keyword="casual, oxford, sneaker, sport, walking"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_GirlsTops"
+   name="Tops"
+   shortdescription="Tops"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_tops.png"
+   keyword="casual, cocktail,tops, evening"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_GirlsPants"
+   name="Pants"
+   shortdescription="Pants"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_pants.png"
+   keyword="denim, jeans, kidswear, girls"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_GirlsShoes"
+   name="Shoes"
+   shortdescription="Shoes"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+   keyword="ballet, slippers, running, athletic"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenShirtsBlouses"
+   name="Blouses"
+   shortdescription="Blouses"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_blouses.png"
+   keyword="casual, business, light, evening"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenSweaters"
+   name="Sweaters"
+   shortdescription="Sweaters"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+   keyword="casual, turtle neck, designer top, pullover"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenSkirts"
+   name="Skirts"
+   shortdescription="Skirts"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_skirts.png"
+   keyword="casual, denim, mini, satin"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenPants"
+   name="Pants"
+   shortdescription="Pants"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   fullimage="images/catalog/apparel/women/category/catr_wcl_pants.png"
+   keyword="casual, straight cut, formal, denim"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenShoes"
+   name="Shoes"
+   shortdescription="Shoes"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   fullimage="images/catalog/apparel/women/category/catr_wsh_shoes.png"
+   keyword="casual, flats, leather, open-toe, high heel, boots"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenHandbags"
+   name="Handbags"
+   shortdescription="Handbags"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   fullimage="images/catalog/apparel/women/category/catr_wbg_handbags.png"
+   keyword="casual, tote, leather, purse"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_WomenAccessories"
+   name="Accessories"
+   shortdescription="Accessories"
+   published="1"
+   thumbnail="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   fullimage="images/catalog/apparel/women/category/catr_wac_accessories.png"
+   keyword="casual, leather, belt, handbag, hat, glasses"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_BoysPants"
+   name="Pants"
+   shortdescription="Pants"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_pants.png"
+   keyword="denim, bootcut, toddler, jeans"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_GirlsDressesSkirts"
+   name="Skirts"
+   shortdescription="Skirts"
+   published="1"
+   thumbnail="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   fullimage="images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+   keyword="casual, cocktail, skirts, evening"
+/>
+
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_BoysTops"
+   name="Tops"
+   shortdescription="Tops"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bcl_tops.png"
+   keyword="casual, t-shirt, vest, sweater"
+/>
+
+<catgrpdesc
+   language_id="&en_US;"
+   catgroup_id="@catgroup_id_BoysShoes"
+   name="Shoes"
+   shortdescription="Shoes"
+   published="1"
+   thumbnail="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   fullimage="images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+   keyword="casual, canvas, running, leather"
+/>
+
+<!-- End of Category Descriptions -->

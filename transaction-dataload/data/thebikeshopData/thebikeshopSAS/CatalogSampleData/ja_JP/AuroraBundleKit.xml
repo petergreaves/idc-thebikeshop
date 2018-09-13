@@ -1,0 +1,60 @@
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Men_accessory_1"
+   language_id="&ja_JP;"
+   name="パーフェクト・マッチ"
+   shortdescription="紳士用アクセサリー・バンドル"
+   longdescription="モダンで、最先端の外観のある、このベルトは、輸入されたイタリアの皮製で、磨きたてられたニッケル製で割れたプラークの先端を特長にしています。光沢があり、情熱的な黒タイで引き立てられ、ハンドプレスされた Silk-polyester ブレンドで、大きなスタイルの意思表示に役立ちます。"
+   thumbnail="images/catalog/apparel/men/mac013_accessories/200x310/mac013_1333.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/men/mac013_accessories/646x1000/mac013_1333.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_bundle_id_Stylish_latte_1"
+   language_id="&ja_JP;"
+   name="Made for Each Other"
+   shortdescription="スタイリッシュ・ラテ・バンドル"
+   longdescription="ペアの Almherst 磁器カップのある Kitchenel Espresso/Latte Maker は、コーヒー好きの喜びです。エスプレッソ・ラテ・メーカーは一杯のラテを騒がず複数のオプションを持って入れます。"
+   thumbnail="images/catalog/homefurnishings/hap027_appliances/200x310/hap027_2744.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hap027_appliances/646x1000/hap027_2744.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_CristieGlassware_1"
+   language_id="&ja_JP;"
+   name="In True Spirits"
+   shortdescription="ワイン・グラス・パッケージ"
+   longdescription="4 ゴブレットのコレクションとして、このしゃれたワイン・グラス・セットはフォーマルな夕食会への完全は付随物です。広口で楕円形の酒杯で、これらのグラスはワインの豊かな香りを保持するように完全に形作られています。"
+   thumbnail="images/catalog/homefurnishings/hta029_tableware/200x310/hta029_2932.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/homefurnishings/hta029_tableware/646x1000/hta029_2932.jpg"
+   available="1"
+   published="1"
+/>
+
+<catentdesc
+   catentry_id="@catentry_kit_id_Casual_Yet_Classic_1"
+   language_id="&ja_JP;"
+   name="カジュアルだがクラシック"
+   shortdescription="白の綿シャツと青のカーペンター・ジーンズのセット"
+   longdescription="白の綿シャツとカーペンター・スタイル・ジーンズ、少年にはクラシックな服でどの場合でも着られます。 白地に灰と黒の幾何学模様パターンはエレガントでモダンに見えるようにします。 カーペンター・スタイル・ジーンズでスタイルが完成します。"
+   thumbnail="images/catalog/apparel/boys/bcl014_tops/200x310/bcl014_1417.jpg"
+   auxdescription2=""
+   fullimage="images/catalog/apparel/boys/bcl014_tops/646x1000/bcl014_1417.jpg"
+   available="1"
+   published="1"
+/>
+
+<!-- Dynamic Kit -->
+<catentdesc catentry_id="@catentry_dynamickit_id_computers_11" language_id="&ja_JP;" name="AXABC-E3062 デスクトップ" shortdescription="Aurora AXABC-E3062 オールインワン PC。" longdescription="Aurora AXABC-E3062 オールインワン PC (フル HD 画面付き) は、省スペース設計と抜群の使いやすさで、あなたのデジタル・ライフを変革します。プロセッサー、オペレーティング・システム、ハード・ディスク、メモリー、光ディスク・ドライブ、サウンド・カード、モデムと無線、キーボード、モニター、マウス、スピーカーがすべて揃っています。" thumbnail="images/catalog/electronics/cde021_desktops/200x310/cde021_2104.jpg" fullimage="images/catalog/electronics/cde021_desktops/646x1000/cde021_2104.jpg" available="1" published="0"/>
+<baseitmdsc baseitem_id="@baseitem_dynamickit_id_computers_11" language_id="&ja_JP;" shortdescription="Aurora AXABC-E3062 オールインワン PC。" longdescription="Aurora AXABC-E3062 オールインワン PC (フル HD 画面付き) は、省スペース設計と抜群の使いやすさで、あなたのデジタル・ライフを変革します。プロセッサー、オペレーティング・システム、ハード・ディスク、メモリー、光ディスク・ドライブ、サウンド・カード、モデムと無線、キーボード、モニター、マウス、スピーカーがすべて揃っています。"/>
+<!-- End of Dynamic Kit -->
+
+
+

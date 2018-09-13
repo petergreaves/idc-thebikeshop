@@ -1,0 +1,44 @@
+
+<!-- Only translate those fields that have  in them               -->
+<!-- That would be shpmodedsc.description, shpmodedsc.field2          -->
+
+<!--
+Table name: SHPMODEDSC 
+Description of Shipping Mode - Language Specfic 
+-->
+
+<shpmodedsc 
+   description="美国 - 常规交付" 
+   field2="5 到 10 个营业日"
+   shipmode_id="@shipmode_id_1" 
+   language_id="&zh_CN;" 
+/>
+
+<shpmodedsc 
+   description="美国 - 隔夜交付" 
+   field2="1 个营业日"
+   shipmode_id="@shipmode_id_2" 
+   language_id="&zh_CN;" 
+/>
+
+<shpmodedsc 
+   description="美国 - 2 天快速交付" 
+   field2="2 个营业日"
+   shipmode_id="@shipmode_id_3" 
+   language_id="&zh_CN;" 
+/>
+
+<shpmodedsc 
+   description="国际优先级" 
+   field2="1 到 3 个营业日"
+   shipmode_id="@shipmode_id_4" 
+   language_id="&zh_CN;" 
+/>
+
+<shpmodedsc 
+   description="国际常规" 
+   field2="7 到 14 个营业日"
+   shipmode_id="@shipmode_id_5" 
+   language_id="&zh_CN;" 
+/>
+

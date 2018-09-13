@@ -1,0 +1,11 @@
+  
+  <catalogdsc  
+    catalog_id="@catalog_id_b2b_sales" 
+    language_id="&fr_FR;" 
+    name="Exemple de données de magasin de commerce interentreprise (B2B) Aurora"
+    shortdescription="Exemple de données de magasin de commerce interentreprise (B2B) Aurora"
+    longdescription="Catalogue de vente qui affiche un rayon Matériel avec de multiples sous-catégories pour illustrer des caractéristiques de catalogue dans un magasin de commerce interentreprise."
+    thumbnail=""
+    fullimage="" 
+  />
+  

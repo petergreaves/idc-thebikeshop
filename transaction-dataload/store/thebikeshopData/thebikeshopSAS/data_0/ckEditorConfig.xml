@@ -1,0 +1,6 @@
+<!-- Create the CK editor configuration into STORECONF table -->
+<storeconf
+storeent_id="@storeent_id_1"
+name="CK_imagePath"
+value="/wcsstore/&STORE_DIR;/"
+/>

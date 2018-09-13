@@ -1,0 +1,13 @@
+﻿Seopage
+PageGroup,PageAdminName,URLKeyword,PageTitle,MetaDescription,MetaKeyword,ImageAltText
+Content,HelpPage,справка,Справка <seo: StoreName/>,Справка <seo: StoreName/>,Справка <seo: StoreName/>,Справка <seo: StoreName/> - изображение
+Content,ContactUsPage,обратная-связь,Обратная связь для <seo: StoreName/>,Обратная связь для <seo: StoreName/>,Обратная связь для <seo: StoreName/>,Обратная связь для <seo: StoreName/> - изображение
+Content,ReturnPolicyPage,политика-возврата,Политика возврата для <seo: StoreName/>,Политика возврата для <seo: StoreName/>,Политика возврата для <seo: StoreName/>,Политика возврата для <seo: StoreName/> - изображение
+Content,PrivacyPolicyPage,политика-конфиденциальности,Политика конфиденциальности веб-сайта для <seo: StoreName/>,Политика конфиденциальности веб-сайта для <seo: StoreName/>,Политика конфиденциальности веб-сайта для <seo: StoreName/>,Политика конфиденциальности веб-сайта для <seo: StoreName/> - изображение
+Content,CorporateInfoPage,о-компании,О компании для <seo: StoreName/>,О компании для <seo: StoreName/>,О компании для <seo: StoreName/>,О компании для <seo: StoreName/> - изображение
+Content,CorporateContactUsPage,контактная-информация-компании,Контактная информация компании для <seo: StoreName/>,Контактная информация компании для <seo: StoreName/>,Контактная информация компании для <seo: StoreName/>,Контактная информация компании для <seo: StoreName/> - изображение
+Content,SiteMapPage,карта-сайта,Карта сайта для <seo: StoreName/>,Карта сайта для <seo: StoreName/>,Карта сайта для <seo: StoreName/>,Карта сайта для <seo: StoreName/> - изображение
+Content,HomePage,,Добро пожаловать в <seo: StoreName/>,Электронный магазин<seo: StoreName/>. <seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,Домашняя страница <seo: StoreName/> - изображение
+Content,AboutDressDesigner,дизайнер-одежды,О дизайнере одежды,О дизайнере одежды для <seo: StoreName/>,О дизайнере одежды для <seo: StoreName/>,О дизайнере одежды для <seo: StoreName/> - изображение
+Content,AuroraStyleGuide,одежда-руководство-по-стилю,Одежда - руководство по стилю,Советы по стилю одежды для <seo: StoreName/>,Советы по стилю одежды для <seo: StoreName/>,Советы по стилю одежды для <seo: StoreName/> - изображение
+Content,EveningSparkleDress,вечерние-платья-видео,Видеопрезентация коллекции вечерних платьев с блестками,Видеопрезентация коллекции вечерних платьев с блестками для <seo: StoreName/>,Видеопрезентация коллекции вечерних платьев с блестками для <seo: StoreName/>,Видеопрезентация коллекции вечерних платьев с блестками для <seo: StoreName/> - изображение

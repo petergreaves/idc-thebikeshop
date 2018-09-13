@@ -1,0 +1,126 @@
+import org.gradle.internal.os.OperatingSystem
+/*
+ * =================================================================
+ * Licensed Materials - Property of IBM
+ *
+ * WebSphere Commerce
+ *
+ * (C) Copyright IBM Corp. 2017 All Rights Reserved.
+ *
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with
+ * IBM Corp.
+ * =================================================================
+ */
+
+task installLaunchdAliasPlist {
+	description = 'install launchd plist for setting alias'
+	if (OperatingSystem.current().isMacOsX()) {
+		doLast {
+			exec {
+				logging.level = LogLevel.INFO
+				commandLine 'sh', '-c', 'sudo cp org.digitalcommerce.sdkalias.plist /Library/LaunchDaemons'
+			}
+			exec {
+				logging.level = LogLevel.INFO
+				commandLine 'sh', '-c', 'chmod 0644 /Library/LaunchDaemons/org.digitalcommerce.sdkalias.plist'
+			}
+			exec {
+				logging.level = LogLevel.INFO
+				commandLine 'sh', '-c', 'sudo chown root:wheel /Library/LaunchDaemons/org.digitalcommerce.sdkalias.plist'
+			}
+			exec {
+				logging.level = LogLevel.INFO
+				commandLine 'sh', '-c', 'sudo launchctl load /Library/LaunchDaemons/org.digitalcommerce.sdkalias.plist'
+			}
+		}
+	}
+}
+
+def checkNode (pluginName, pluginFile){
+
+	Node root = (new XmlParser()).parse(pluginFile)
+
+	def existingNode = root.site.'*'.find { node -> node.name() == 'feature' && node.@id == pluginName } 
+
+	if (existingNode){
+		ext {
+			pluginInstalled = "true"
+		}
+
+	} else {
+		logger.debug("$pluginName didnot installed on the eclipse, continue to install the WCPlugin")
+	}
+}
+
+task pluginuninstallCondition {
+	description = 'Find if WC eclipse plugin installed'
+	def PluginFile = "${project.eclipseHome}/configuration/org.eclipse.update/platform.xml"
+	def pluginName = 'com.ibm.commerce.eclipse.plugins.feature'
+	if(file("$PluginFile").exists()){
+		checkNode ("$pluginName", "$PluginFile")
+	} else {
+		logger.debug("$PluginFile didnot find, skip the uninstallWCplugin task")
+	}
+	
+}
+
+task cleanEclipseGC {
+	description = 'clean Eclipse to remove uninstalled plugin jar'
+	dependsOn installLaunchdAliasPlist
+	
+	doLast {
+		logging.level = LogLevel.INFO
+    
+		//uninstall Plugin
+		ant.exec(executable : "${project.eclipseHome}/${OperatingSystem.current().isUnix() ? 'eclipse' : 'eclipsec.exe'}", failOnError: false) {
+			arg(line : '-nosplash')
+			arg(line : '-application org.eclipse.equinox.p2.garbagecollector.application')
+			//arg(line : '-profile epp.package.jee')
+		}
+	}	
+}
+
+task uninstallWCplugin {
+	description = 'uninstall WC plugin in Eclipse'
+	dependsOn installLaunchdAliasPlist
+	
+	doLast {
+		logging.level = LogLevel.INFO
+    
+		//uninstall Plugin
+		ant.exec(executable : "${project.eclipseHome}/${OperatingSystem.current().isUnix() ? 'eclipse' : 'eclipsec.exe'}", failOnError: true) {
+			arg(line : '-nosplash')
+			arg(line : '-application org.eclipse.equinox.p2.director')
+			arg(line : '''-uninstallIU com.ibm.commerce.eclipse.plugins.feature.feature.group ''')
+		}
+	}
+	finalizedBy cleanEclipseGC	
+}
+
+// check if task should be executed
+uninstallWCplugin.onlyIf {
+   project.hasProperty('pluginInstalled')
+}
+
+uninstallWCplugin.doFirst {
+   if(!pluginInstalled) {
+      throw new StopExecutionException()
+   }
+}
+task installWCplugin {
+	description = 'install WC plugin in Eclipse'
+	dependsOn installLaunchdAliasPlist, pluginuninstallCondition, uninstallWCplugin
+
+	doLast {
+		logging.level = LogLevel.INFO
+
+		//install Plugin 
+		ant.exec(executable : "${project.eclipseHome}/${OperatingSystem.current().isUnix() ? 'eclipse' : 'eclipsec.exe'}", failOnError: true) {
+			arg(line : '-nosplash')
+			arg(line : '-application org.eclipse.equinox.p2.director')
+			arg(line : '''-repository "jar:file:'''+projectDir+'''/eclipse/WebSphereCommerceRepo-1.0-SNAPSHOT.zip!/" ''')
+			arg(line : '''-installIU com.ibm.commerce.eclipse.plugins.feature.feature.group ''')
+		}
+	}
+}

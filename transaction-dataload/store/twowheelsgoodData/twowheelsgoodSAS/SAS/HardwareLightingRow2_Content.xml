@@ -1,0 +1,5 @@
+<!-- Content Area ESpot for Hardware Lighting hero image -->
+<emspot emspot_id="@emspot_id_hardwarelighting1000" storeent_id="&MAR_STOREENT_ID;" name="HardwareLightingRow2_Content" description="Display the main ad on Hardware Lighting category page" usagetype="MARKETING" />
+<!-- Default Content -->
+<collateral collateral_id="@collateral_id_hardwarelighting1000" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="HardwareLightingCategoryHeroImage" />
+<dmemspotdef dmemspotdef_id="@dmemspotdef_id_hardwarelighting1000" emspot_id="@emspot_id_hardwarelighting1000" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_hardwarelighting1000" />

@@ -1,0 +1,161 @@
+
+
+<!-- BEGIN Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description  MenShirtsColor -->
+<attrdesc attr_id="@attribute_id_MenShirts_9" attrtype_id="STRING" language_id="&zh_CN;" name="颜色" description="颜色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_14" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="1" value="彩色" integervalue="" floatvalue="" stringvalue="彩色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_21" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="2" value="蓝色" integervalue="" floatvalue="" stringvalue="蓝色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_29" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="3" value="象牙色" integervalue="" floatvalue="" stringvalue="象牙色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_33" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="4" value="浅蓝色" integervalue="" floatvalue="" stringvalue="浅蓝色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_36" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="5" value="灰色" integervalue="" floatvalue="" stringvalue="灰色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_37" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="6" value="白色" integervalue="" floatvalue="" stringvalue="白色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_40" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="7" value="紫色" integervalue="" floatvalue="" stringvalue="紫色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_41" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="8" value="黑色" integervalue="" floatvalue="" stringvalue="黑色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_48" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="9" value="牛仔色" integervalue="" floatvalue="" stringvalue="牛仔色" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_50" attr_id="@attribute_id_MenShirts_9" valusage="1" language_id="&zh_CN;" sequence="10" value="灰褐色" integervalue="" floatvalue="" stringvalue="灰褐色" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsColor -->
+<!--BEGIN Defining attribute description  MenShirtsSize -->
+<attrdesc attr_id="@attribute_id_MenShirts_8" attrtype_id="STRING" language_id="&zh_CN;" name="尺寸" description="尺寸" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_8" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="1" value="XS" integervalue="" floatvalue="" stringvalue="XS" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_9" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="2" value="S" integervalue="" floatvalue="" stringvalue="S" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_10" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="3" value="M" integervalue="" floatvalue="" stringvalue="M" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_11" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="4" value="L" integervalue="" floatvalue="" stringvalue="L" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_12" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="5" value="XL" integervalue="" floatvalue="" stringvalue="XL" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_13" attr_id="@attribute_id_MenShirts_8" valusage="1" language_id="&zh_CN;" sequence="6" value="XXL" integervalue="" floatvalue="" stringvalue="XXL" qtyunit_id="C62" />
+<!--END Defining attribute description  MenShirtsSize -->
+<!-- END Writing defining attribute descriptions -->
+<!-- BEGIN Writing descriptive attribute descriptions -->
+<!--start of  Collar -->
+<attrdesc attr_id="@attribute_id_MenShirts_6" attrtype_id="STRING" language_id="&zh_CN;" name="衣领" description="衣领" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1101" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="1" value="V 领" integervalue="" floatvalue="" stringvalue="V 领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1114" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="1" value="V 领" integervalue="" floatvalue="" stringvalue="V 领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1115" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="1" value="V 领" integervalue="" floatvalue="" stringvalue="V 领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_6_MCL011_1120" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="1" value="V 领" integervalue="" floatvalue="" stringvalue="V 领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1102" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="2" value="尖领" integervalue="" floatvalue="" stringvalue="尖领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1110" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="2" value="尖领" integervalue="" floatvalue="" stringvalue="尖领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_19_MCL011_1112" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="2" value="尖领" integervalue="" floatvalue="" stringvalue="尖领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1103" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1104" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1106" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1118" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1121" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_24_MCL011_1122" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="3" value="宽领" integervalue="" floatvalue="" stringvalue="宽领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_35_MCL011_1111" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="4" value="V 型纽扣领" integervalue="" floatvalue="" stringvalue="V 型纽扣领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_39_MCL011_1113" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="5" value="圆领" integervalue="" floatvalue="" stringvalue="圆领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_44_MCL011_1116" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="6" value="镶嵌点尖领" integervalue="" floatvalue="" stringvalue="镶嵌点尖领" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_45_MCL011_1117" attr_id="@attribute_id_MenShirts_6" valusage="1" language_id="&zh_CN;" sequence="7" value="翻领" integervalue="" floatvalue="" stringvalue="翻领" />
+<!--end of  Collar -->
+<!--start of  Sleeve length -->
+<attrdesc attr_id="@attribute_id_MenShirts_10" attrtype_id="STRING" language_id="&zh_CN;" name="袖长" description="袖长" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1102" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="1" value="短袖，长袖" integervalue="" floatvalue="" stringvalue="短袖，长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1106" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="1" value="短袖，长袖" integervalue="" floatvalue="" stringvalue="短袖，长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1112" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="1" value="短袖，长袖" integervalue="" floatvalue="" stringvalue="短袖，长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_20_MCL011_1117" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="1" value="短袖，长袖" integervalue="" floatvalue="" stringvalue="短袖，长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1103" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1110" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1116" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1118" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1121" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_25_MCL011_1122" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="2" value="长袖" integervalue="" floatvalue="" stringvalue="长袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1104" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1111" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1113" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1114" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1115" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_28_MCL011_1120" attr_id="@attribute_id_MenShirts_10" valusage="1" language_id="&zh_CN;" sequence="3" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<!--end of  Sleeve length -->
+<!--start of  Sleeve Length -->
+<attrdesc attr_id="@attribute_id_MenShirts_7" attrtype_id="STRING" language_id="&zh_CN;" name="袖长" description="袖长" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_7_MCL011_1101" attr_id="@attribute_id_MenShirts_7" valusage="1" language_id="&zh_CN;" sequence="1" value="短袖" integervalue="" floatvalue="" stringvalue="短袖" />
+<!--end of  Sleeve Length -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_MenShirts_3" attrtype_id="STRING" language_id="&zh_CN;" name="面料" description="面料" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_3_MCL011_1101" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="1" value="人造纤维" integervalue="" floatvalue="" stringvalue="人造纤维" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1102" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1103" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1104" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1106" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1110" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1111" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1112" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1114" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1115" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1117" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1121" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_16_MCL011_1122" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="2" value="棉" integervalue="" floatvalue="" stringvalue="棉" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_38_MCL011_1113" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="3" value="棉/真丝" integervalue="" floatvalue="" stringvalue="棉/真丝" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_42_MCL011_1116" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="4" value="聚酯纤维和人造纤维" integervalue="" floatvalue="" stringvalue="聚酯纤维和人造纤维" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_47_MCL011_1118" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="5" value="牛仔色" integervalue="" floatvalue="" stringvalue="牛仔色" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_49_MCL011_1120" attr_id="@attribute_id_MenShirts_3" valusage="1" language_id="&zh_CN;" sequence="6" value="高科技聚酯纤维" integervalue="" floatvalue="" stringvalue="高科技聚酯纤维" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_MenShirts_2" attrtype_id="STRING" language_id="&zh_CN;" name="样式
+" description="样式
+" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1101" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="1" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1113" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="1" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1114" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="1" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1115" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="1" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_2_MCL011_1120" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="1" value="T 恤" integervalue="" floatvalue="" stringvalue="T 恤" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1102" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1103" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1110" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1116" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1118" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1121" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_15_MCL011_1122" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="2" value="领尖带扣衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_26_MCL011_1104" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="3" value="领尖带扣水手衬衫" integervalue="" floatvalue="" stringvalue="领尖带扣水手衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1106" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="4" value="礼服衬衫" integervalue="" floatvalue="" stringvalue="礼服衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1112" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="4" value="礼服衬衫" integervalue="" floatvalue="" stringvalue="礼服衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_30_MCL011_1117" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="4" value="礼服衬衫" integervalue="" floatvalue="" stringvalue="礼服衬衫" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_34_MCL011_1111" attr_id="@attribute_id_MenShirts_2" valusage="1" language_id="&zh_CN;" sequence="5" value="亨利 T 恤" integervalue="" floatvalue="" stringvalue="亨利 T 恤" />
+<!--end of  Style -->
+<!--start of  Occasion -->
+<attrdesc attr_id="@attribute_id_MenShirts_4" attrtype_id="STRING" language_id="&zh_CN;" name="场合" description="场合" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1101" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1103" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1104" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1110" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1111" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1113" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1114" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1115" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1118" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1120" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1121" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_4_MCL011_1122" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="1" value="休闲鞋" integervalue="" floatvalue="" stringvalue="休闲鞋" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1102" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="2" value="商务装" integervalue="" floatvalue="" stringvalue="商务装" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1112" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="2" value="商务装" integervalue="" floatvalue="" stringvalue="商务装" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_17_MCL011_1117" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="2" value="商务装" integervalue="" floatvalue="" stringvalue="商务装" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_31_MCL011_1106" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="3" value="商务休闲装" integervalue="" floatvalue="" stringvalue="商务休闲装" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_43_MCL011_1116" attr_id="@attribute_id_MenShirts_4" valusage="1" language_id="&zh_CN;" sequence="4" value="正装" integervalue="" floatvalue="" stringvalue="正装" />
+<!--end of  Occasion -->
+<!--start of  Brand -->
+
+
+
+
+
+
+<!--end of  Brand -->
+<!--start of  Pattern -->
+<attrdesc attr_id="@attribute_id_MenShirts_1" attrtype_id="STRING" language_id="&zh_CN;" name="图案" description="图案" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1101" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1102" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1104" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1106" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1111" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1112" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1113" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1114" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1115" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1116" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1117" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1120" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_1_MCL011_1122" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="1" value="无" integervalue="" floatvalue="" stringvalue="无" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1103" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="2" value="格纹" integervalue="" floatvalue="" stringvalue="格纹" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_22_MCL011_1110" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="2" value="格纹" integervalue="" floatvalue="" stringvalue="格纹" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_46_MCL011_1118" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="3" value="网格" integervalue="" floatvalue="" stringvalue="网格" />
+<attrvaldesc attrval_id="@attribute_value_id_MenShirts_51_MCL011_1121" attr_id="@attribute_id_MenShirts_1" valusage="1" language_id="&zh_CN;" sequence="4" value="条纹" integervalue="" floatvalue="" stringvalue="条纹" />
+<!--end of  Pattern -->
+<!-- END Writing descriptive attribute descriptions -->

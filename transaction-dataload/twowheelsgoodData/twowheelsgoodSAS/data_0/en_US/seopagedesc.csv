@@ -1,0 +1,13 @@
+﻿Seopage
+PageGroup,PageAdminName,URLKeyword,PageTitle,MetaDescription,MetaKeyword,ImageAltText
+Content,HelpPage,help,Help at <seo: StoreName/>,Help at <seo: StoreName/>,Help at <seo: StoreName/>,Image for <seo: StoreName/> Help
+Content,ContactUsPage,contact-us,Contact Us for <seo: StoreName/>,Contact Us for <seo: StoreName/>,Contact Us for <seo: StoreName/>,Image for <seo: StoreName/> Contact Us
+Content,ReturnPolicyPage,return-policy,Return Policy for <seo: StoreName/>,Return Policy for <seo: StoreName/>,Return Policy for <seo: StoreName/>,Image for <seo: StoreName/> Return Policy
+Content,PrivacyPolicyPage,privacy-policy,Website Privacy Policy for <seo: StoreName/>,Website Privacy Policy for <seo: StoreName/>,Website Privacy Policy for <seo: StoreName/>,Image for <seo: StoreName/> Privacy Policy
+Content,CorporateInfoPage,corporate-info,About Us for <seo: StoreName/>,About Us for <seo: StoreName/>,About Us for <seo: StoreName/>,Image for <seo: StoreName/> About Us
+Content,CorporateContactUsPage,corporate-contact-us,Corporate Contact Us for <seo: StoreName/>,Corporate Contact Us for <seo: StoreName/>,Corporate Contact Us for <seo: StoreName/>,Image for <seo: StoreName/> Corporate Contact Us
+Content,SiteMapPage,sitemap,Site Map for <seo: StoreName/>,Site Map for <seo: StoreName/>,Site Map for <seo: StoreName/>,Image for <seo: StoreName/> Site Map
+Content,HomePage,,Welcome to <seo: StoreName/>,Shop <seo: StoreName/> online. <seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,Image for <seo: StoreName/> home page
+Content,AboutDressDesigner,apparel-designer,About the Dress Designer,About the Dress Designer for <seo: StoreName/>,About the Dress Designer for <seo: StoreName/>,Image for <seo: StoreName/> About the Dress Designer
+Content,AuroraStyleGuide,apparel-style-guide,Clothing and Dress Style Guide,Clothing and Dress Style Guide for <seo: StoreName/>,Clothing and Dress Style Guide for <seo: StoreName/>,Image for <seo: StoreName/> Clothing and Dress Style Guide
+Content,EveningSparkleDress,evening-dress-video,Evening Sparkle Dress Collection Video,Evening Sparkle Dress Collection Video for <seo: StoreName/>,Evening Sparkle Dress Collection Video for <seo: StoreName/>,Image for <seo: StoreName/> Evening Sparkle Dress Collection Video

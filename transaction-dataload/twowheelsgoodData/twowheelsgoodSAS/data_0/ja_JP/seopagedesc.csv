@@ -1,0 +1,13 @@
+﻿Seopage
+PageGroup,PageAdminName,URLKeyword,PageTitle,MetaDescription,MetaKeyword,ImageAltText
+Content,HelpPage,ヘルプ,<seo: StoreName/> のヘルプ,<seo: StoreName/> のヘルプ,<seo: StoreName/> のヘルプ,<seo: StoreName/> ヘルプの画像
+Content,ContactUsPage,問い合わせ先,<seo: StoreName/> の問い合わせ先,<seo: StoreName/> の問い合わせ先,<seo: StoreName/> の問い合わせ先,<seo: StoreName/> の問い合わせ先の画像
+Content,ReturnPolicyPage,返品ポリシー,<seo: StoreName/> の返品ポリシー,<seo: StoreName/> の返品ポリシー,<seo: StoreName/> の返品ポリシー,<seo: StoreName/> 返品ポリシーの画像
+Content,PrivacyPolicyPage,プライバシー・ポリシー,<seo: StoreName/> の Web サイト・プライバシー・ポリシー,<seo: StoreName/> の Web サイト・プライバシー・ポリシー,<seo: StoreName/> の Web サイト・プライバシー・ポリシー,<seo: StoreName/> プライバシー・ポリシーの画像
+Content,CorporateInfoPage,企業情報,<seo: StoreName/> について,<seo: StoreName/> について,<seo: StoreName/> について,<seo: StoreName/> についての画像
+Content,CorporateContactUsPage,企業問い合わせ先,<seo: StoreName/> の企業問い合わせ先,<seo: StoreName/> の企業問い合わせ先,<seo: StoreName/> の企業問い合わせ先,<seo: StoreName/> の企業問い合わせ先の画像
+Content,SiteMapPage,サイト・マップ,<seo: StoreName/> のサイト・マップ,<seo: StoreName/> のサイト・マップ,<seo: StoreName/> のサイト・マップ,<seo: StoreName/> サイト・マップの画像
+Content,HomePage,,<seo: StoreName/> へようこそ,<seo: StoreName/> オンライン・ショップ。<seo: StoreDescription/>,<seo: StoreName/> <seo: StoreDescription/>,<seo: StoreName/> ホーム・ページの画像
+Content,AboutDressDesigner,アパレル・デザイナー,Dress Designer について,<seo: StoreName/> のドレス・デザイナーについて,<seo: StoreName/> のドレス・デザイナーについて,ドレス・デザイナー <seo: StoreName/> の画像
+Content,AuroraStyleGuide,アパレル・スタイル・ガイド,Clothing and Dress スタイル・ガイド,<seo: StoreName/> の Clothing and Dress スタイル・ガイド,<seo: StoreName/> の Clothing and Dress スタイル・ガイド,<seo: StoreName/> Clothing and Dress スタイル・ガイドの画像
+Content,EveningSparkleDress,イブニング・ドレス・ビデオ,イブニング・スパークル・ドレス・コレクションのビデオ,<seo: StoreName/> のイブニング・スパークル・ドレス・コレクションのビデオ,<seo: StoreName/> のイブニング・スパークル・ドレス・コレクションのビデオ,<seo: StoreName/> イブニング・スパークル・ドレス・コレクションのビデオの画像

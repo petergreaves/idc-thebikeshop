@@ -1,0 +1,118 @@
+
+<!-- BEGIN: Writing defining attribute descriptions -->
+<!--BEGIN Defining attribute description : BathAccessoriesColor -->
+<attrdesc attr_id="@attribute_id_BathAccessories_7" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_7" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_17" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="2" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_19" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="3" value="Gelb" integervalue="" floatvalue="" stringvalue="Gelb" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_21" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="4" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_28" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="5" value="Klar" integervalue="" floatvalue="" stringvalue="Klar" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_45" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="6" value="Orange" integervalue="" floatvalue="" stringvalue="Orange" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_48" attr_id="@attribute_id_BathAccessories_7" valusage="1" language_id="&de_DE;" sequence="7" value="Grün" integervalue="" floatvalue="" stringvalue="Grün" qtyunit_id="C62" />
+<!--END Defining attribute description : BathAccessoriesColor -->
+<!--BEGIN Defining attribute description : BathAccessoriesSize -->
+<attrdesc attr_id="@attribute_id_BathAccessories_6" attrtype_id="STRING" language_id="&de_DE;" name="Größe" description="Größe" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_6" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="1" value="24&quot;" integervalue="" floatvalue="" stringvalue="24&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_10" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="2" value="24&quot; x 10&quot;" integervalue="" floatvalue="" stringvalue="24&quot; x 10&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_16" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="3" value="32&quot; x 54&quot;" integervalue="" floatvalue="" stringvalue="32&quot; x 54&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_27" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="4" value="3&quot; x 4&quot;" integervalue="" floatvalue="" stringvalue="3&quot; x 4&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_32" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="5" value="B x H x T: 3&quot; x 17&quot; x 4&quot;" integervalue="" floatvalue="" stringvalue="B x H x T: 3&quot; x 17&quot; x 4&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_36" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="6" value="4&quot; x 3&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 3&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_40" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="7" value="3&quot; x 6&quot;" integervalue="" floatvalue="" stringvalue="3&quot; x 6&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_44" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="8" value="Set mit 4 Stück" integervalue="" floatvalue="" stringvalue="Set mit 4 Stück" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_47" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="9" value="Set mit 4 Stück" integervalue="" floatvalue="" stringvalue="Set mit 4 Stück" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_52" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="10" value="4&quot; x 4&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 4&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_55" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="11" value="4&quot; x 8&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 8&quot;" qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_57" attr_id="@attribute_id_BathAccessories_6" valusage="1" language_id="&de_DE;" sequence="12" value="4&quot; x 6&quot;" integervalue="" floatvalue="" stringvalue="4&quot; x 6&quot;" qtyunit_id="C62" />
+<!--END Defining attribute description : BathAccessoriesSize -->
+<!-- END: Writing defining attribute descriptions -->
+<!-- BEGIN: Writing descriptive attribute descriptions -->
+<!--start of  Material -->
+<attrdesc attr_id="@attribute_id_BathAccessories_3" attrtype_id="STRING" language_id="&de_DE;" name="Material" description="Material" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_3_HBA031_3101" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_8_HBA031_3102" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="2" value="Nickel" integervalue="" floatvalue="" stringvalue="Nickel" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3103" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="3" value="Biobaumwolle" integervalue="" floatvalue="" stringvalue="Biobaumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3104" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="3" value="Biobaumwolle" integervalue="" floatvalue="" stringvalue="Biobaumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_13_HBA031_3105" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="3" value="Biobaumwolle" integervalue="" floatvalue="" stringvalue="Biobaumwolle" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_24_HBA031_3106" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="4" value="Glas/Chrom" integervalue="" floatvalue="" stringvalue="Glas/Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_24_HBA031_3109" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="4" value="Glas/Chrom" integervalue="" floatvalue="" stringvalue="Glas/Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_29_HBA031_3107" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="5" value="Weißes/dunkles Chrom" integervalue="" floatvalue="" stringvalue="Weißes/dunkles Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3108" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="6" value="Chrom" integervalue="" floatvalue="" stringvalue="Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3112" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="6" value="Chrom" integervalue="" floatvalue="" stringvalue="Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3113" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="6" value="Chrom" integervalue="" floatvalue="" stringvalue="Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3114" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="6" value="Chrom" integervalue="" floatvalue="" stringvalue="Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_33_HBA031_3115" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="6" value="Chrom" integervalue="" floatvalue="" stringvalue="Chrom" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_42_HBA031_3110" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="7" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_42_HBA031_3111" attr_id="@attribute_id_BathAccessories_3" valusage="1" language_id="&de_DE;" sequence="7" value="Kunststoff" integervalue="" floatvalue="" stringvalue="Kunststoff" />
+<!--end of  Material -->
+<!--start of  Style -->
+<attrdesc attr_id="@attribute_id_BathAccessories_1" attrtype_id="STRING" language_id="&de_DE;" name="Schnitt" description="Schnitt" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3101" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="1" value="Montiert/befestigt" integervalue="" floatvalue="" stringvalue="Montiert/befestigt" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3102" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="1" value="Montiert/befestigt" integervalue="" floatvalue="" stringvalue="Montiert/befestigt" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_1_HBA031_3114" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="1" value="Montiert/befestigt" integervalue="" floatvalue="" stringvalue="Montiert/befestigt" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3103" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="2" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3104" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="2" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_11_HBA031_3105" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="2" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3106" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="3" value="Montiert" integervalue="" floatvalue="" stringvalue="Montiert" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3107" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="3" value="Montiert" integervalue="" floatvalue="" stringvalue="Montiert" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3108" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="3" value="Montiert" integervalue="" floatvalue="" stringvalue="Montiert" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3112" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="3" value="Montiert" integervalue="" floatvalue="" stringvalue="Montiert" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_22_HBA031_3113" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="3" value="Montiert" integervalue="" floatvalue="" stringvalue="Montiert" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3109" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="4" value="Badezimmer-Accessoires" integervalue="" floatvalue="" stringvalue="Badezimmer-Accessoires" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3110" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="4" value="Badezimmer-Accessoires" integervalue="" floatvalue="" stringvalue="Badezimmer-Accessoires" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3111" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="4" value="Badezimmer-Accessoires" integervalue="" floatvalue="" stringvalue="Badezimmer-Accessoires" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_37_HBA031_3115" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="4" value="Badezimmer-Accessoires" integervalue="" floatvalue="" stringvalue="Badezimmer-Accessoires" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_53" attr_id="@attribute_id_BathAccessories_1" valusage="1" language_id="&de_DE;" sequence="5" value="Dekoration und Accessoires für Kinder" integervalue="" floatvalue="" stringvalue="Dekoration und Accessoires für Kinder" />
+<!--end of  Style -->
+<!--start of  Color -->
+<attrdesc attr_id="@attribute_id_BathAccessories_2" attrtype_id="STRING" language_id="&de_DE;" name="Farbe" description="Farbe" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3101" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3102" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3108" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3112" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3113" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3114" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_2_HBA031_3115" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="1" value="Silber" integervalue="" floatvalue="" stringvalue="Silber" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_12_HBA031_3103" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="2" value="Blau" integervalue="" floatvalue="" stringvalue="Blau" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_18_HBA031_3104" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="3" value="Gelb" integervalue="" floatvalue="" stringvalue="Gelb" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3105" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="4" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3107" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="4" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_20_HBA031_3109" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="4" value="Weiß" integervalue="" floatvalue="" stringvalue="Weiß" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_23_HBA031_3106" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="5" value="Klar" integervalue="" floatvalue="" stringvalue="Klar" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_41_HBA031_3110" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="6" value="Orange" integervalue="" floatvalue="" stringvalue="Orange" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_46_HBA031_3111" attr_id="@attribute_id_BathAccessories_2" valusage="1" language_id="&de_DE;" sequence="7" value="Grün" integervalue="" floatvalue="" stringvalue="Grün" />
+<!--end of  Color -->
+<!--start of  Type -->
+<attrdesc attr_id="@attribute_id_BathAccessories_5" attrtype_id="STRING" language_id="&de_DE;" name="Geschäftstyp" description="Geschäftstyp" 	qtyunit_id="C62" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3101" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="1" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3102" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="1" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_5_HBA031_3112" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="1" value="Traditionell" integervalue="" floatvalue="" stringvalue="Traditionell" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3103" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="2" value="Badetuch" integervalue="" floatvalue="" stringvalue="Badetuch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3104" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="2" value="Badetuch" integervalue="" floatvalue="" stringvalue="Badetuch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_15_HBA031_3105" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="2" value="Badetuch" integervalue="" floatvalue="" stringvalue="Badetuch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3106" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3110" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3111" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_26_HBA031_3114" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="3" value="Modern" integervalue="" floatvalue="" stringvalue="Modern" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_31_HBA031_3107" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="4" value="Toilettenbürste" integervalue="" floatvalue="" stringvalue="Toilettenbürste" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_35_HBA031_3108" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="5" value="Toilettenpapierhalter" integervalue="" floatvalue="" stringvalue="Toilettenpapierhalter" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_39_HBA031_3109" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="6" value="Zeitgemäß" integervalue="" floatvalue="" stringvalue="Zeitgemäß" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_51_HBA031_3113" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="7" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<attrvaldesc attrval_id="@attribute_value_id_BathAccessories_51_HBA031_3115" attr_id="@attribute_id_BathAccessories_5" valusage="1" language_id="&de_DE;" sequence="7" value="Klassisch" integervalue="" floatvalue="" stringvalue="Klassisch" />
+<!--end of  Type -->
+<!--start of  Brand -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--end of  Brand -->
+

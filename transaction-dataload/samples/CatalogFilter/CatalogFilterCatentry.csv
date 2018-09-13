@@ -1,0 +1,6 @@
+CatalogFilterCatentry,,,,,,
+CatalogFilterName,StoreIdentifier,CatalogIdentifier,SelectionType,PartNumber,Delete
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Include,AuroraWMDRS-20,0
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Include,AuroraWMDRS-21,0
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Exclude,AuroraWMDRS-30,0
+CatalogFilterA,AuroraESite,ExtendedSitesCatalogAssetStore,Exclude,AuroraWMDRS-31,0

@@ -1,0 +1,53 @@
+
+
+<colldesc 
+	collateral_id="@collateral_id_300"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Left/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Left&quot; role=&quot;region&quot; aria-label=&quot;home page Espot womens shoes&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Left_Slot&quot;&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                         扁平设计，舒适非凡                       &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;                         经过精心设计，柔软的皮鞋具有松紧边，非常合脚。这些平底鞋轻便、耐用，其缓冲鞋垫和柔软衬里将使您全天感到舒适。彩色色调蕾丝组合和样式以特殊订单提供。&lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now womens shoes&quot; href=&quot;[fullPathHomeURL]/apparel/women/shoes&quot;&gt;立即购买&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;       &lt;img alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Left/eyeCandy.jpg&quot; /&gt;                     &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_301"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Middle/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Middle&quot; role=&quot;region&quot; aria-label=&quot;home page Espot mens shirts&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Middle_Slot&quot;&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;                       &lt;img alt=&quot;&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Middle/mens.jpg&quot;&gt;                     &lt;/div&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                         Polo 衫 5 折                       &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;                         请从我们的容易搭配的现代 Polo 衫系列中选购，可使您的穿着干练而且休闲。提供的颜色非常多，具有一流保形性和抗皱性。购买金额超过 60 美元（税前）即可享受免费送货。&lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now mens shirts&quot; href=&quot;[fullPathHomeURL]/apparel/men/shirts&quot;&gt;立即购买&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_302"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;link rel=&quot;stylesheet&quot; href=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/styles.css&quot; /&gt;
+&lt;div class=&quot;col4&quot; id=&quot;homePageEspot_Right&quot; role=&quot;region&quot; aria-label=&quot;home page Espot kids&quot;&gt;
+   &lt;div class=&quot;homeESpotContainer&quot; id=&quot;homePageEspot_Right_Slot&quot;&gt;
+      &lt;div class=&quot;textContainer&quot;&gt;
+         &lt;div class=&quot;title&quot;&gt;                       儿童用品                      &lt;/div&gt;
+         &lt;div class=&quot;bodyText&quot;&gt;
+            夏季款式全部要素是俏皮的印刷字体、明亮的色彩、舒适、耐用。可为小孩大量购买我们的穿着舒适且实惠的款式。消费 100* 美元或更多，可获得价值 25 美元的礼券。&lt;div class=&quot;finePrint&quot;&gt;                         *税前。在下次购物时，可使用礼券。&lt;/div&gt;
+         &lt;/div&gt;
+         &lt;div class=&quot;button&quot;&gt;&lt;a alt=&quot;&quot; role=&quot;link&quot; aria-label=&quot;Shop now girls category&quot; href=&quot;[fullPathHomeURL]/apparel/girls&quot;&gt;立即购买&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageContainer&quot;&gt;                     &lt;img alt=&quot;&quot; id=&quot;kids1&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/kids1.jpg&quot;&gt;                     &lt;img alt=&quot;&quot; id=&quot;kids2&quot; src=&quot;[imagePath]rwdWebAssets/homePageEspot_Right/kids2.png&quot;&gt;                   &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;"
+/>
+

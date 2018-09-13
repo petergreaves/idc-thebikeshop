@@ -1,0 +1,87 @@
+
+<!--               -->
+<!-- Attachment #1 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_310004_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_31004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/066B_EGIS_ShoeSale_003.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_310004_pt_BR"
+  atchtgt_id="@atchtgt_id_31004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos"
+  shortdescription="Venda de Sapatos para Meninas Compre 2 pares, ganhe o terceiro grátis"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_310004_pt_BR"
+  atchast_id="@atchast_id_310004_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_310004_pt_BR"
+  atchrel_id="@atchrel_id_31004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos 1"
+  shortdescription="Venda de Sapatos 1"
+/>
+<colldesc 
+	collateral_id="@collateral_id_31004"
+	language_id="&pt_BR;"
+	marketingtext="Venda de Sapatos 1" 
+/>
+
+<!--               -->
+<!-- Attachment #2 -->
+<!--               -->
+<!-- Holds the meta data for the attachment asset in the attachment target -->
+<atchast
+  atchast_id="@atchast_id_320004_pt_BR"
+  storeent_id="&MAR_STOREENT_ID;"
+  atchtgt_id="@atchtgt_id_32004"
+  atchastpath="&WCHPREFIX;&WCHASSETS_STOREDIR;/images/advertisements/pt_BR/064B_EGIS_ShoeSale_001.jpg"
+  directorypath="images/advertisements/pt_BR"
+  mimetype="image/jpeg"
+/>
+
+<!-- Description of the attachment target -->
+<atchtgtdsc
+  atchtgtdsc_id="@atchtgtdsc_id_320004_pt_BR"
+  atchtgt_id="@atchtgt_id_32004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos "
+  shortdescription="Venda de Sapatos para Meninas Compre 2 pares, ganhe o terceiro grátis"
+/>
+
+<!-- Describes the language the attachment asset is in -->
+<atchastlg
+  atchastlg_id="@atchastlg_id_320004_pt_BR"
+  atchast_id="@atchast_id_320004_pt_BR"
+  language_id="&pt_BR;"
+/>
+
+<!-- Description for the attachment relationship -->
+<atchreldsc
+  atchreldsc_id="@atchreldsc_id_320004_pt_BR"
+  atchrel_id="@atchrel_id_32004"
+  language_id="&pt_BR;"
+  name="Venda de Sapatos "
+  shortdescription="Venda de Sapatos "
+/>
+<colldesc 
+	collateral_id="@collateral_id_32004"
+	language_id="&pt_BR;"
+	marketingtext="Venda de Sapatos" 
+/>
+

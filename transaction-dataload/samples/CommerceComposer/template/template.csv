@@ -1,0 +1,6 @@
+Template
+LayoutName,Description,DeviceClass,State,IsTemplate,IsDefault,ParentWidgetDefIdentifier,AdminName,Delete
+Sample home page,Eight-slot template designed for a home page. Can be used for any page.,Any,1,TRUE,FALSE,SampleHomePageContainer,SampleHomePageContainer,
+Sample department,"Eight-slot template with left sidebar, designed for a department page. Can be used for any page.",Any,1,TRUE,FALSE,SampleDepartmentPageContainer,SampleDepartmentPageContainer,
+"Sample any page, five slots, right sidebar",Five-slot template with right sidebar.,Any,1,TRUE,FALSE,SampleStaticContentContainer,SampleStaticContentContainer,
+"Sample any page, single slot",Single-slot template.,Any,1,TRUE,FALSE,SampleContentPageContainer,SampleContentPageContainer,

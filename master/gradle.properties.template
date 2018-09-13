@@ -1,0 +1,46 @@
+#-----------------------------------------------------------------
+# Licensed Materials - Property of IBM
+#
+# WebSphere Commerce
+#
+# (C) Copyright IBM Corp. 2017 All Rights Reserved.
+#
+# US Government Users Restricted Rights - Use, duplication or
+# disclosure restricted by GSA ADP Schedule Contract with
+# IBM Corp.
+#-----------------------------------------------------------------
+#-----------------------------------------------------------------
+#Common properties (Mandatory)
+#-----------------------------------------------------------------
+#Identify the location of your installed WebSphere Liberty application and your installed Eclipse IDE.
+#Ensure that you use the forward slash (/) in the path.
+#Do not use a directory that includes a whitespace in the name.
+libertyHome=
+eclipseHome=
+#Identify the workspace that is to include the workspace servers and projects. 
+#If the workspace does not exist, then the workspace is created as part of the Gradle script that creates the servers.
+#Ensure that you use the forward slash (/) in the path.
+workspaceDir=
+#Digital Commerce license acceptance
+dcLicense=
+#Digital Commerce Developer host name
+wcHostName=localhost
+#-----------------------------------------------------------------
+#commerceUE properties (Customization server)
+#Ensure that you have completed the "Common properties" section. 
+#-----------------------------------------------------------------
+#When setting up the workspace, do you want to populate server projects with sample data? Valid values are yes or no.
+commerceUESampleData=yes
+#-----------------------------------------------------------------
+#Commerce remote store (crs) properties (Store server)
+#Ensure that you have completed the "Common properties" section. 
+#-----------------------------------------------------------------
+#Search server host name
+crsSearchHostName=localhost
+#crs properties that are used when running addStore command
+#ESite store name: This is the name of the store that shoppers will shop at, it is mandatory. It is better to avoid spaces and other non-alpha numeric characters.
+crsESiteStoreName=
+#When you run the addStore command, do you want to add sample data? Valid values are yes or no
+crsSampleData=yes
+#Fixing Gradle dependency resolution when TLS v1.1 and v1.0 support is discontinued
+org.gradle.jvmargs=-Dcom.ibm.jsse2.overrideDefaultTLS=true

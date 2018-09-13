@@ -1,0 +1,265 @@
+
+<!-- TRANSLATORS: DO NOT TRANSLATE ANY TEXT WITHIN [] (SUCH AS [storeName]) -->
+<colldesc 
+	collateral_id="@collateral_id_static_1"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;亲爱的 [userName]，&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;我们已收到您重置密码的请求。&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;您的验证码为：&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;在您发出密码重置请求的浏览器中使用验证码。&lt;/p&gt;
+														&lt;br /&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;谢谢，&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] 团队&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_2"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;尊敬的客户，&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[senderName] 来自电子邮件地址：[senderEmail] 已创建愿望清单。&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;要查看内容，请单击以下链接：&lt;/p&gt;
+																												&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot;href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;谢谢，&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] 团队&lt;/p&gt;&lt;br/&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_3"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;帮助&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;常见问题解答&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;如何订购商品？&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;在 [storeName] 上订购商品非常方便。如果这是您第一次从我们的商店购买商品，只需遵循以下三个简单的步骤：&lt;/p&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;浏览商品目录。&lt;/li&gt;
+&lt;li&gt;将您想要购买的商品添加到购物车。&lt;/li&gt;
+&lt;li&gt;完成结账流程。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;p&gt;将询问您的电子邮件地址和密码以将您注册为客户。这样，当您再次光顾购物时，我们已存储了您的信息，因此您不必再次输入。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;如何付款？&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们接受 Visa 卡、万事达卡或运通卡。在您结账时，将提示您输入用于支付的信用卡号。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;使用信用卡是否安全？&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们保证您在 [storeName] 进行的每笔交易都百分之百的安全可靠。这表示如果由于在 [storeName] 购物而对您的信用卡进行了未经授权的收费，那么您无需支付任何费用。如果您认为更合适的话，您可以只输入信用卡的最后五位数和它的到期日期。一旦您完全提交了订单，您可以通过电话告诉我们信用卡号的其他数字。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;如何跟踪我的订单？&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;您只需单击每个页面顶部的“我的帐户”链接就可以复查在 [storeName] 下的任何订单的状态。从那里，您可以查看或修改任何尚未进入送货流程的订单。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_4"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;联系我们&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;联系人信息&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们随时为您效劳。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;要获取关于您订单的支持，请向我们发送邮件，收件人为 support@[storeName].com。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;如果您有任何关于 [storeName] 的问题，或希望提供关于我们商店或 Web 站点的反馈，请与我们联系，联系地址为 questions@[storeName].com。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+	/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_5"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;退货政策&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;我们的策略
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;如果您出于任何原因对订单并不完全满意，那么只需联系客户服务人员，以获取有关如何为订单退款以获得全额退款的指示信息。如果您准备进行其他订购，我们很高兴再次为您服务。
+&lt;/p&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_6"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;隐私策略&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;个人信息&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] 致力于保护并尊重您的隐私。在 Web 上访问 [storeName] 时，您可以不告诉我们您是谁或不透露任何关于您本人的信息。必要时，出于送货和开票目的，您的个人信息会存储在安全的服务器上，但绝不会销售给第三方或未经您同意的情况下用于与您联系。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;如果您选择通过因特网向我们提供我们在与您联系或处理订单时可能需要的个人信息，我们一定会告知您我们将如何使用此信息。如果您告知不希望将所提供的信息用作进一步联系的基础，我们会尊重您的愿望。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;[storeName] 收集的信息由经过 [storeName] 授权的员工在内部用于三个主要目的。首先，我们收集信息以便通过查看哪些领域、特色和产品最受欢迎，从而确定如何改进我们的站点。其次，我们收集信息以便为客户提供个性化站点。例如，将来，我们可以根据过去您的喜好向您推荐您可能喜欢的产品或特色。最后，我们将跟踪用户访问我们站点时所使用的域。我们分析此数据以获取趋势和统计信息，然后将废弃此数据。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;这是我们对您的承诺。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_7"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;关于我们
+&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;我们的事迹
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] 1957 年建立于纽约市，建立之初是一家小型的货物和服务商店。时至今日，已在全球 15 个国家或地区拥有超过 800 个 [storeName] 百货商店。[storeName] 的员工超过 125,000 人。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;创建至今，我们始终坚持以公道的价格提供高质量的产品；现在，您可以随时从 [storeName].com 选购商品，它与我们实体店中一直深受您信赖的品牌和风格完全相同。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;请四处逛逛，希望您能满意！&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;我们的宗旨&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们的任务是尽力向客户提供最好且最方便的在线购物体验。我们致力于对提供的产品使用易于打开和环保的包装，并且接受所有主流信用卡。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;公司职责&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] 在公司的各个方面都健康的成长。从“更安全的社区”活动到环境可持续发展项目，我们一直以对顾客、顾客的多样性、顾客的社区以及健康和安全所肩负的责任为荣。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_8"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;div class=&quot;container_static_full_width container_margin_5px&quot;&gt;
+&lt;div class=&quot;static_page_content&quot;&gt;
+&lt;div class=&quot;page_header&quot; role=&quot;heading&quot; aria-level=&quot;1&quot;&gt;联系 [storeName] 公司&lt;/div&gt;
+&lt;div class=&quot;content_box&quot;&gt;
+&lt;div class=&quot;header_top&quot;&gt;[storeName] 总部&lt;/div&gt;
+&lt;div class=&quot;item_spacer_5px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;item_spacer_10px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们郑重承诺为您提供优质的客户服务。如果您希望与我们联系以提出问题或意见，请在下方选择最合适的公司部门以便我们尽快作出答复：&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;人力资源&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们的人力资源部门在周一至周五的上午 8 点至下午 5 点（美国东部时间）提供服务。您可以随时通过电子邮件与我们联系，联系地址为 careers@[storeName].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;消费者关系&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;我们的消费者关系部门在周三至周五的上午 8 点至下午 5 点（美国东部时间）提供服务。您可以随时通过电子邮件与我们联系，联系地址为 relations@[storeName].com&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header&quot;&gt;公司职责&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;有关 [storeName] 企业职责的更多信息，请访问“关于我们”页面或向 info@[storeName].com 发送邮件垂询&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;item_spacer_50px&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;info_section&quot;&gt;
+&lt;p&gt;[storeName] 公司总部位于：&lt;/p&gt;
+&lt;p&gt;Street123&lt;/p&gt;
+&lt;p&gt;Toronto Ontario&lt;/p&gt;
+&lt;p&gt;Canada M3C-1L1&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clear_float&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_10"
+	language_id="&zh_CN;"
+	marketingtext="&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;我们的任务是尽力向客户提供最好且最方便的在线购物体验。我们致力于对提供的产品使用易于打开和环保的包装。
+&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;请参阅我们的&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot;class=&quot;link&quot; href=&quot;[LINK1]&quot;&gt;隐私策略&lt;/a&gt;以了解更多信息&lt;/p&gt;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&amp;nbsp;&lt;p style=&quot;margin: 0; line-height: 14px;&quot;&gt;&lt;a style=&quot;color: #0081AF; text-decoration: none;&quot; class=&quot;link&quot;href=&quot;[LINK2]&quot;&gt;www.[STORE_NAME].com&lt;/a&gt; | Copyright [STORE_NAME], NY. 2012.&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_11"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;p&gt; 亲爱的 [userName]：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我们已收到关于使用电子邮件将密码发送给您的请求。&lt;br /&gt;&lt;br /&gt;您的密码为：[password]&lt;br /&gt;&lt;br /&gt;请注意，您的密码区分大小写。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;谢谢&lt;br /&gt;[storeName] 团队&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_12"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;尊敬的用户，&lt;/h2&gt;
+														&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;您的帐户现在已激活。&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;请单击以下链接以登录并继续购物。
+														&lt;p style=&quot;margin: 15px 0; line-height: 14px; overflow: hidden; width: 558px; word-wrap: break-word;&quot;&gt;
+															&lt;a style=&quot;color: #0081AF; text-decoration: underline;&quot; class=&quot;link&quot; href=&quot;[link]&quot;&gt;[link]&lt;/a&gt;
+														&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;谢谢，&lt;/p&gt;
+																												&lt;p style=&quot;line-height: 14px; margin: 0;&quot;&gt;[storeName] 团队&lt;/p&gt;"
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_13"
+	language_id="&zh_CN;"
+	marketingtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;感谢您从 [storeName] 订购商品。由于支付授权问题，您的订单（订单号 [orderNumber]）无法完成。要购买以下商品，请致电：1-800-555-1234。再次感谢您在 [storeName] 购物。&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_14"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;p style=&quot;margin:0; padding:0; line-height:14px; color:#404040; font-size:12px; padding-bottom:14px;&quot;&gt;感谢您从 [storeName] 订购商品。我们已经收到了订单（订单号 [orderNumber]）的支付授权。使用以下送货跟踪号可跟踪此包裹：&lt;strong&gt;[trackingNumber]&lt;/strong&gt;。如果您正在将商品装运到其他装运地址或使用备用装运方式，您将收到另一封电子邮件，告知那些装运详细信息。如果您有任何有关订单的问题或疑问，可以将电子邮件发送至 orders@[storeName].com 或致电 1-800-555-1234。再次感谢您在 [storeName] 购物。&lt;/p&gt;&lt;br /&gt;" 
+/>
+
+<colldesc 
+	collateral_id="@collateral_id_static_15"
+	language_id="&zh_CN;"
+	longmktgtext="&lt;h2 style=&quot;color: #808080; font-size: 16px; font-weight: normal; margin-top: 30px; margin-bottom: 12px;&quot;&gt;亲爱的 [userName]，&lt;/h2&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;我们已收到您重置密码的请求。&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;您的验证码为：&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[validationCode]&lt;/p&gt;
+														&lt;br /&gt;
+														&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;&lt;strong&gt;复制验证码并在以下页面上输入以重置密码：&nbsp;&nbsp;&nbsp; &lt;/strong&gt;[resetPasswordFormURL]&lt;/p&gt;
+														&lt;br /&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;谢谢，&lt;/p&gt;
+																												&lt;p style=&quot;margin: 0; line-height: 14px; color: #404040; font-size: 12px;&quot;&gt;[storeName] 团队&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;"
+/>
+

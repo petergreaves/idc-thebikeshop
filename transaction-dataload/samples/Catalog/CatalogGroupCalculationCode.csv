@@ -1,0 +1,3 @@
+CatalogGroupCalculationCode,,,,,,,,,
+GroupIdentifier,DiscountCalculationCode,ShippingCalculationCode,SalesTaxCalculationCode,ShippingTaxCalculationCode,CouponCalculationCode,SurchargeCalculationCode,ShippingAdjustmentCalculationCode,Delete
+Girls Shoes,,,TaxCode1,,,,,0

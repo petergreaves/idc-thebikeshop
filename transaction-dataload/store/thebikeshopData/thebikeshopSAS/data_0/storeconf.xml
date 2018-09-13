@@ -1,0 +1,11 @@
+	<storeconf
+	 storeent_id="@storeent_id_1"
+	 name="wc.seo.defaultURLLangId"
+	 value="-1"
+	 />
+
+	<storeconf
+	 storeent_id="@storeent_id_1"
+	 name="wc.search.priceMode"
+	 value="1"
+	 />
