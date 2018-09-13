@@ -1,4 +1,0 @@
-<catalog catalog_id="@PCDCatalog" member_id="@profile_mbr_id" identifier="&STORE_IDENTIFIER_CPS;" description="&STORE_IDENTIFIER_CPS;"  tpclevel="0"/>
-
-<catovrgrp catovrgrp_id="@catovrgrp_id_1" member_id="@profile_mbr_id" identifier="&STORE_IDENTIFIER_CPS;" storeent_id="@catalogStore"/>
-<storecatovrgrp catovrgrp_id="@catovrgrp_id_1" storeent_id="@catalogStore"/>

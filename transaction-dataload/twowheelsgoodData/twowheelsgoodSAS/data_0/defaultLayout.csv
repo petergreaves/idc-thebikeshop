@@ -1,9 +1,0 @@
-Layout
-LayoutName,PageGroup,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault
-DefaultContentPageLayout,Content,"Any page, single slot",The default layout for content pages.,Any,1,FALSE,TRUE
-DefaultCategoryPageLayout,Category,"Any page, six slots, left sidebar",The default layout for category pages.,Any,1,FALSE,TRUE
-DefaultProductPageLayout,Product,Catalog entry page,The default layout for the product pages.,Any,1,FALSE,TRUE
-DefaultKitPageLayout,Kit,Catalog entry page,The default layout for the kit pages.,Any,1,FALSE,TRUE
-DefaultBundlePageLayout,Bundle,Catalog entry page,The default layout for the bundle pages.,Any,1,FALSE,TRUE
-DefaultDynamicKitPageLayout,DynamicKit,Catalog entry page,The default layout for the dynamic kit pages.,Any,1,FALSE,TRUE
-DefaultPredDynaKitPageLayout,PredDynaKit,Catalog entry page,The default layout for the predefined dynamic kit pages.,Any,1,FALSE,TRUE

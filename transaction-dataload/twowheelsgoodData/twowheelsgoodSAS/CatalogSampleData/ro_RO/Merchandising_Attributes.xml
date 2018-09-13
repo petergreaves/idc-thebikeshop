@@ -1,8 +1,0 @@
-
-<!--start of Merchandising -->
-<attrdesc attr_id="@attribute_id_Merchandising_1" attrtype_id="STRING" language_id="&ro_RO;" name="Exclusiv" description="Exclusiv" qtyunit_id="C62" />
-<attrvaldesc attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" valusage="1" language_id="&ro_RO;" sequence="1" value="Exclusiv" integervalue="" floatvalue="" stringvalue="Exclusiv" /> 
-
-<attrdesc attr_id="@attribute_id_Merchandising_2" attrtype_id="STRING" language_id="&ro_RO;" name="Lichidare" description="Lichidare" qtyunit_id="C62" />
-<attrvaldesc attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" valusage="1" language_id="&ro_RO;" sequence="1" value="Lichidare" integervalue="" floatvalue="" stringvalue="Lichidare" /> 
-<!--end of Merchandising -->

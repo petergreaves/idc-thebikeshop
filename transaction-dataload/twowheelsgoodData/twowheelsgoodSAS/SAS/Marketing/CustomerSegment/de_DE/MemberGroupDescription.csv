@@ -1,9 +1,0 @@
-MemberGroupDescription
-memberGroupName,shortDescription,longDescription,langId,delete
-Registered Customers,Registrierte Kunden,"Kunden, die sich bereits beim Geschäft registriert haben",-3,0
-Repeat Customers,Ständige Kunden,"Kunden, die bereits eine oder mehrere Bestellungen im Geschäft getätigt haben",-3,0
-Guest Shoppers,Gastkäufer,"Käufer, die sich noch nicht beim Geschäft registriert haben",-3,0
-Male Customers,Männliche Kunden,Registrierte männliche Kunden,-3,0
-Female Customers,Weibliche Kunden,Registrierte weibliche Kunden,-3,0
-Customers who are under 40 years of age,"Kunden, die unter 40 Jahre alt sind","Kunden, die unter 40 Jahre alt sind",-3,0
-Customers who are 40 years of age or older,"Kunden, die das 40. Lebensjahr überschritten haben","Kunden, die das 40. Lebensjahr überschritten haben",-3,0

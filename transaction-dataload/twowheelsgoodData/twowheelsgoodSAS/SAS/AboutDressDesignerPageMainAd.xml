@@ -1,4 +1,0 @@
-<!-- Content Area ESpot for dresses hero image -->
-<collateral collateral_id="@collateral_id_aboutdressdesigner_hero" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="AboutDressDesignerHeroImage" />
-<emspot emspot_id="@madisons_emspot_id_14000" storeent_id="&MAR_STOREENT_ID;"  name="AboutDressDesignerPageMainAd" description="Display the main ad on About Dress Designer page" usagetype="MARKETING" />
-<dmemspotdef dmemspotdef_id="@dmemspotdef_id_aboutdressdesigner_hero" emspot_id="@madisons_emspot_id_14000" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_aboutdressdesigner_hero" />

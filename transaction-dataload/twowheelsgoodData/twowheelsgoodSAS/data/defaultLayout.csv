@@ -1,4 +1,0 @@
-Layout
-LayoutName,PageGroup,TemplateName,Description,DeviceClass,State,IsTemplate,IsDefault
-DefaultSearchResultLayout,Search,"Any page, eight slots, tabs",The default layout for search result pages.,Any,1,FALSE,TRUE
-DefaultSKUPageLayout,Item,Catalog entry page,The default layout for the SKU pages.,Any,1,FALSE,TRUE

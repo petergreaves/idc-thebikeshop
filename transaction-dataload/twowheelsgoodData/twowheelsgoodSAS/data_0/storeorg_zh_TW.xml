@@ -1,7 +1,0 @@
-
-	<!-- Create B2C Org -->
-	<orgentity orgentity_id="@seller_b2c_orgentity_id" dn="ou=&STORE_IDENTIFIER_LOWERCASE;,&ORGANIZATION_DN;" orgentitytype="OU" orgentityname="Aurora 組織" >
-		<isa>
-			<member member_id="@seller_b2c_mbr_id" type="O" state="1"/>
-		</isa>
-	</orgentity>

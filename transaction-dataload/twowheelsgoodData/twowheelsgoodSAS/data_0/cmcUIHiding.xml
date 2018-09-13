@@ -1,6 +1,0 @@
-<!-- Create the store management UI hiding records into STORECONF table -->
-<storeconf
-storeent_id="@storeent_id_1"
-name="wc.cmc.storefunctions.hide"
-value="AccountActivation,RequisitionList,allowOrgRegistration,accountParticipantRole,MobilePhone,Analytics,sterlingConfigurator,SideBySideIntegration,QuickOrder,MultipleActiveOrders,ExpeditedOrders,ShippingChargeType,FacebookIntegration,ApplePay,Tealeaf,CDNCaching,FutureOrders,EmailOption"
-/>

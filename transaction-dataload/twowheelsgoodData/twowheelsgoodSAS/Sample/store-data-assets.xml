@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE import SYSTEM "store-data-assets.dtd">
-
-<import loadItemName="AdditionalData">
-  &store-references.xml;
-  &catalog-references.xml;
-  &catalog.xml;
-</import>

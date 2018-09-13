@@ -1,9 +1,0 @@
-MemberGroupDescription
-memberGroupName,shortDescription,longDescription,langId,delete
-Registered Customers,注册客户,已向商店注册的客户,-7,0
-Repeat Customers,重复客户,至少向商店下过一次订单的客户,-7,0
-Guest Shoppers,临时购物者,尚未向商店注册的购物者,-7,0
-Male Customers,男性客户,已将自己标识为男性的注册客户,-7,0
-Female Customers,女性客户,已将自己标识为女性的注册客户,-7,0
-Customers who are under 40 years of age,年龄在 40 岁以下的客户,年龄在 40 岁以下的客户,-7,0
-Customers who are 40 years of age or older,年龄在 40 岁或 40 岁以上的客户,年龄在 40 岁或 40 岁以上的客户,-7,0

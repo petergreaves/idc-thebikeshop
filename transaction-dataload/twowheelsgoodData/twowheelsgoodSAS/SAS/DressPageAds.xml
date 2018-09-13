@@ -1,6 +1,0 @@
-<!-- Content Area ESpot for dresses hero image -->
-<collateral collateral_id="@collateral_id_dresses_hero" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="DressesHeroImage" />
-<emspot emspot_id="@emspot_id_dresses_hero" storeent_id="&MAR_STOREENT_ID;" name="DressesRow2_Content" description="Display responsive hero image on Dresses category page." usagetype="MARKETING" />
-<dmemspotdef dmemspotdef_id="@dmemspotdef_id_dresses_hero" emspot_id="@emspot_id_dresses_hero" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_dresses_hero" />
-
-<emspot emspot_id="@madisons_emspot_id_1100_1" storeent_id="&MAR_STOREENT_ID;"  name="DressesRow4_CatEntries" description="Display product recommendations on Dresses category page" usagetype="MARKETING" />

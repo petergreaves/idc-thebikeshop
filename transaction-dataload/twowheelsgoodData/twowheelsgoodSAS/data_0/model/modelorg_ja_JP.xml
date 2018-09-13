@@ -1,7 +1,0 @@
-
-	<!-- Create Seller Org -->
-	<orgentity orgentity_id="@seller_orgentity_id" dn="&ORGANIZATION_DN;" orgentitytype="O" orgentityname="セラー組織" >
-		<isa>
-			<member member_id="@seller_mbr_id" type="O" state="1"/>
-		</isa>
-	</orgentity>

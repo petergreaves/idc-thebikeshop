@@ -1,8 +1,0 @@
-
-<!--start of Merchandising -->
-<attrdesc attr_id="@attribute_id_Merchandising_1" attrtype_id="STRING" language_id="&zh_TW;" name="排除" description="排除" qtyunit_id="C62" />
-<attrvaldesc attrval_id="@attribute_value_id_Merchandising_1" attr_id="@attribute_id_Merchandising_1" valusage="1" language_id="&zh_TW;" sequence="1" value="排除" integervalue="" floatvalue="" stringvalue="排除" /> 
-
-<attrdesc attr_id="@attribute_id_Merchandising_2" attrtype_id="STRING" language_id="&zh_TW;" name="出清" description="出清" qtyunit_id="C62" />
-<attrvaldesc attrval_id="@attribute_value_id_Merchandising_2" attr_id="@attribute_id_Merchandising_2" valusage="1" language_id="&zh_TW;" sequence="1" value="出清" integervalue="" floatvalue="" stringvalue="出清" /> 
-<!--end of Merchandising -->

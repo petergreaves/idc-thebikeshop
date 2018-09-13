@@ -1,9 +1,0 @@
-MemberGroupDescription
-memberGroupName,shortDescription,longDescription,langId,delete
-Registered Customers,Clientes Registrados,Clientes que se registraram na loja,-6,0
-Repeat Customers,Clientes de Repetição,Clientes que fizeram pelo menos um pedido na loja,-6,0
-Guest Shoppers,Compradores Convidados,Compradores que não se registraram na loja,-6,0
-Male Customers,Clientes Masculinos,Clientes registrados que se identificaram como homens,-6,0
-Female Customers,Clientes Femininos,Clientes registrados que se identificaram como mulheres,-6,0
-Customers who are under 40 years of age,Clientes com menos de 40 anos de idade,Clientes com menos de 40 anos de idade,-6,0
-Customers who are 40 years of age or older,Clientes com 40 anos ou mais,Clientes com 40 anos ou mais,-6,0

@@ -1,9 +1,0 @@
-MemberGroupDescription
-memberGroupName,shortDescription,longDescription,langId,delete
-Registered Customers,Clienţi înregistraţi,Clienţi care s-au înregistrat la magazin,-21,0
-Repeat Customers,Repetă clienţii,Clienţi care au facut cel puţin o comandă la magazin,-21,0
-Guest Shoppers,Cumpărători oaspeţi,Cumpărători care nu s-au înregistrat la magazin,-21,0
-Male Customers,Clienţi masculini,Clienţi înregistraţi care s-au identificat ca find bărbaţi,-21,0
-Female Customers,Clienţi feminini,Clienţi înregistraţi care s-au identificat ca find femei,-21,0
-Customers who are under 40 years of age,Clienţi care au vârsta sub 40 de ani,Clienţi care au vârsta sub 40 de ani,-21,0
-Customers who are 40 years of age or older,Clienţi care au vârsta de 40 de ani sau mai în vârstă,Clienţi care au vârsta de 40 de ani sau mai în vârstă,-21,0

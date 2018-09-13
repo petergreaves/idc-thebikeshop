@@ -1,5 +1,0 @@
-<!-- Content Area ESpot for Bolts hero image -->
-<emspot emspot_id="@emspot_id_bolts1001" storeent_id="&MAR_STOREENT_ID;" name="BoltsRow2_Content" description="Display the main ad on Bolts category page" usagetype="MARKETING" />
-<!-- Default Content -->
-<collateral collateral_id="@collateral_id_bolts1000" storeent_id="&MAR_STOREENT_ID;" colltype_id="2" name="BoltsDeptHeroImage" />
-<dmemspotdef dmemspotdef_id="@dmemspotdef_id_bolts1000" emspot_id="@emspot_id_bolts1001" storeent_id="&MAR_STOREENT_ID;" contenttype="MarketingContent" content="@collateral_id_bolts1000" />
