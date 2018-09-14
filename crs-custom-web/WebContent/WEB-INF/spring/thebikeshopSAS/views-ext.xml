@@ -22,5 +22,10 @@
     <property name="credentialsAccepted" value="P"/> 
     <property name="generic" value="1"/>
   </bean>
-  -->     
+  -->
+  <bean id="ExtProfileFormView/thebikeshopSAS" class="com.ibm.commerce.store.mvc.view.spring.StoreInternalResourceView">
+    <property name="url" value="/UserArea/AccountSection/ExtProfileForm.jsp"/>
+    <property name="https" value="1"/>
+    <property name="viewAccessType" value="RegisteredCustomerView"/>
+  </bean>   
 </beans>

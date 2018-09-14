@@ -20,7 +20,7 @@ Required parameters:
 --%>
 <!-- BEGIN MyAccountNavigation.jsp -->
 
-<%@ include file="/Widgets_801/Common/EnvironmentSetup.jspf" %>
+<%@ include file="../Common/EnvironmentSetup.jspf" %>
 <%@ include file="ext/MyAccountNavigation_Data.jspf" %>
 <c:if test = "${param.custom_data ne 'true'}">
 	<%@ include file="MyAccountNavigation_Data.jspf" %>

@@ -13,8 +13,8 @@
 --%>
 
 <!-- BEGIN AjaxNumberOfOrderPendingApprovals.jsp -->
-<%@ include file="/Widgets_801/Common/EnvironmentSetup.jspf" %>
-<%@ include file="/Widgets_801/Common/nocache.jspf" %>
+<%@ include file="../Common/EnvironmentSetup.jspf" %>
+<%@ include file="../Common/nocache.jspf" %>
 
 <c:set var="approvalType" value="orderApprovals" />
 <%@ include file="../ext/pendingApprovals/NumberOfPendingApprovals_Data.jspf" %>

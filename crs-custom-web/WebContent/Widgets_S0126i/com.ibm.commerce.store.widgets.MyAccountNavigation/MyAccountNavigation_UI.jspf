@@ -50,6 +50,9 @@
 													<a href="<c:out value='${profileFormViewURL}'/>" id="WC_MyAccountSidebarDisplayf_links_3"><wcst:message key="MA_QUICK_CHECKOUT" bundle="${widgetText}"/></a>
 												</li>
 											</flow:ifEnabled>
+											<li>
+											   <a href="<c:out value='${extProfileFormViewURL}'/>" id="WC_MyAccountSidebarDisplayf_links_3a"><wcst:message key="MA_EXT_PROFILE_INFO" bundle="${widgetText}"/></a>
+											</li>
 										</ul>	
 									</div>
 								</div>

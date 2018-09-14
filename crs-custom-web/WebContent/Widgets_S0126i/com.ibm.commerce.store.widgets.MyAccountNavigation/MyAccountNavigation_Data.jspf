@@ -97,6 +97,12 @@
 	<wcf:param name="profileFormStyle" value="strong"/>
 </wcf:url>
 
+<wcf:url var="extProfileFormViewURL" value="ExtProfileFormView">
+	<wcf:param name="storeId" value="${WCParam.storeId}" />
+	<wcf:param name="catalogId" value="${WCParam.catalogId}"/>
+	<wcf:param name="langId" value="${langId}" />
+</wcf:url>
+
 <wcf:url var="interestItemDisplayURL" value="WishListDisplayView">
 	<wcf:param name="storeId"   value="${WCParam.storeId}"  />
 	<wcf:param name="catalogId" value="${WCParam.catalogId}"/>

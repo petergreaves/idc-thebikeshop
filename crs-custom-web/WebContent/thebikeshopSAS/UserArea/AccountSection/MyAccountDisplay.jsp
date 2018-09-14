@@ -119,7 +119,7 @@ xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="${shortLocale}" xml:lang="$
 				<div class="row margin-true">					
 					<div class="col4 acol12 ccol3">
 						<%out.flush();%>
-							<wcpgl:widgetImport useIBMContextInSeparatedEnv="${isStoreServer}" url="${env_siteWidgetsDir}com.ibm.commerce.store.widgets.MyAccountNavigation/MyAccountNavigation.jsp"/>
+							<c:import url="/Widgets_S0126i/com.ibm.commerce.store.widgets.MyAccountNavigation/MyAccountNavigation.jsp"/>
 						<%out.flush();%>		
 					</div>
 					<div class="col8 acol12 ccol9 right">
